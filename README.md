@@ -13,6 +13,9 @@
   
 | Id | Title | URL | Venue Name | Venue Type | Year |
 |----|-------|-----|------------|------------|------|
+| 24  | Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning. | [link](https://10.1109/TSE.2023.3255177) | TSE | journals | 2023 |
+| 23  | VulCurator: A Vulnerability-fixing Commit Detector. | [link](https://doi.org/10.1145/3540250.3558936) | FSE | conf | 2022 |
+| 22  | AutoPruner: Transformer-based Call Graph Pruning. | [link](https://doi.org/10.1145/3540250.3549175) | FSE | conf | 2022 |
 | 21  | Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks. | [link](https://doi.org/10.1007/s10664-022-10118-5) | EMSE | journals | 2022 |
 | 20  | Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding. | [link](https://doi.org/10.1145/3510003.3510062) | ICSE | conf | 2022 |
 | 19  | Jigsaw: Large Language Models meet Program Synthesis. | [link](https://doi.org/10.1145/3510003.3510203) | ICSE | conf | 2022 |
@@ -46,10 +49,10 @@
 | Venue | Count |
 |-------|-------|
 | ICSE  |   6   |
-| FSE   |   4    |
+| FSE   |   6    |
 | ASE   |   9    |
 | ISSTA |   2    |
-| TSE   |   0    |
+| TSE   |   1    |
 | TOSEM |   0    |
 | EMSE  |    1   |
 

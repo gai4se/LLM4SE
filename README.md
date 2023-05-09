@@ -11,33 +11,34 @@
 <details>
 <summary>Click to expand!</summary>
   
-| Id | Title | URL | Venue Name | Venue Type | Year |
-|----|-------|-----|------------|------------|------|
-| 24  | Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning. | [link](https://10.1109/TSE.2023.3255177) | TSE | journals | 2023 |
-| 23  | VulCurator: A Vulnerability-fixing Commit Detector. | [link](https://doi.org/10.1145/3540250.3558936) | FSE | conf | 2022 |
-| 22  | AutoPruner: Transformer-based Call Graph Pruning. | [link](https://doi.org/10.1145/3540250.3549175) | FSE | conf | 2022 |
-| 21  | Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks. | [link](https://doi.org/10.1007/s10664-022-10118-5) | EMSE | journals | 2022 |
-| 20  | Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding. | [link](https://doi.org/10.1145/3510003.3510062) | ICSE | conf | 2022 |
-| 19  | Jigsaw: Large Language Models meet Program Synthesis. | [link](https://doi.org/10.1145/3510003.3510203) | ICSE | conf | 2022 |
-| 18  | Natural Attack for Pre-trained Models of Code. | [link](https://doi.org/10.1145/3510003.3510146) | ICSE | conf | 2022 |
-| 17  | Using Pre-Trained Models to Boost Code Review Automation. | [link](https://doi.org/10.1145/3510003.3510621) | ICSE | conf | 2022 |
-| 16  | What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code. | [link](https://doi.org/10.1145/3510003.3510050) | ICSE | conf | 2022 |
-| 15  | A Light Bug Triage Framework for Applying Large Pre-trained Language Model. | [link](https://doi.org/10.1145/3551349.3556898) | ASE | conf | 2022 |
-| 8  | AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models. | [link](https://doi.org/10.1145/3551349.3556900) | ASE | conf | 2022 |
-| 14  | Compressing Pre-trained Models of Code into 3 MB. | [link](https://doi.org/10.1145/3551349.3556964) | ASE | conf | 2022 |
-| 13 | PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models. | [link](https://doi.org/10.1145/3551349.3560417) | ASE | conf | 2022 |
-| 12 | Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code. | [link](https://doi.org/10.1145/3551349.3556912) | ASE | conf | 2022 |
-| 11 | Few-shot training LLMs for project-specific code-summarization. | [link](https://doi.org/10.1145/3551349.3559555) | ASE | conf | 2022 |
-| 10 | Diet code is healthy: simplifying programs for pre-trained models of code. | [link](https://doi.org/10.1145/3540250.3549094) | FSE | conf | 2022 |
-| 9 | Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability. | [link](https://doi.org/10.1145/3540250.3560881) | FSE | conf | 2022 |
-| 8 | Effective and scalable fault injection using bug reports and generative language models. | [link](https://doi.org/10.1145/3540250.3558907) | FSE | conf | 2022 |
-| 7 | An extensive study on pre-trained models for program understanding and generation. | [link](https://doi.org/10.1145/3533767.3534390) | ISSTA | conf | 2022 |
-| 6 | Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper). | [link](https://doi.org/10.1145/3533767.3534396) | ISSTA | conf | 2022 |
-| 5  | Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models. | [link](https://doi.org/10.1109/ICSE43902.2021.00040) | ICSE | conf | 2021 |
-| 4 | DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models. | [link](https://doi.org/10.1109/ASE51524.2021.9678871) | ASE | conf | 2021 |
-| 3 | What do pre-trained code models know about code? | [link](https://doi.org/10.1109/ASE51524.2021.9678927) | ASE | conf | 2021 |
-| 2 | Does reusing pre-trained NLP model propagate bugs? | [link](https://doi.org/10.1145/3468264.3473494) | FSE | conf | 2021 |
-| 1 | Multi-task Learning based Pre-trained Language Model for Code Completion. | [link](https://doi.org/10.1145/3324884.3416591) | ASE | conf | 2020 |
+| Year-Id | Title                                                                                                                           | URL                                                   | Venue Name |
+|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------|
+| 2023-1  | Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning.                                       | [link](https://10.1109/TSE.2023.3255177)              | TSE(J)        |
+| 2022-19 | VulCurator: A Vulnerability-fixing Commit Detector.                                                                             | [link](https://doi.org/10.1145/3540250.3558936)       | FSE(C)        |
+| 2022-18 | AutoPruner: Transformer-based Call Graph Pruning.                                                                               | [link](https://doi.org/10.1145/3540250.3549175)       | FSE(C)        |
+| 2022-17 | Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks. | [link](https://doi.org/10.1007/s10664-022-10118-5)    | EMSE(J)       |
+| 2022-16 | Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding.                                                 | [link](https://doi.org/10.1145/3510003.3510062)       | ICSE(C)       |
+| 2022-15 | Jigsaw: Large Language Models meet Program Synthesis.                                                                           | [link](https://doi.org/10.1145/3510003.3510203)       | ICSE(C)       |
+| 2022-14 | Natural Attack for Pre-trained Models of Code.                                                                                  | [link](https://doi.org/10.1145/3510003.3510146)       | ICSE(C)       |
+| 2022-13 | Using Pre-Trained Models to Boost Code Review Automation.                                                                       | [link](https://doi.org/10.1145/3510003.3510621)       | ICSE(C)       |
+| 2022-12 | What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code.                                   | [link](https://doi.org/10.1145/3510003.3510050)       | ICSE(C)       |
+| 2022-11 | A Light Bug Triage Framework for Applying Large Pre-trained Language Model.                                                     | [link](https://doi.org/10.1145/3551349.3556898)       | ASE(C)        |
+| 2022-10 | AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models.                         | [link](https://doi.org/10.1145/3551349.3556900)       | ASE(C)        |
+| 2022-9  | Compressing Pre-trained Models of Code into 3 MB.                                                                               | [link](https://doi.org/10.1145/3551349.3556964)       | ASE(C)        |
+| 2022-8  | PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models.                            | [link](https://doi.org/10.1145/3551349.3560417)       | ASE(C)        |
+| 2022-7  | Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code.                | [link](https://doi.org/10.1145/3551349.3556912)       | ASE(C)        |
+| 2022-6  | Few-shot training LLMs for project-specific code-summarization.                                                                 | [link](https://doi.org/10.1145/3551349.3559555)       | ASE(C)        |
+| 2022-5  | Diet code is healthy: simplifying programs for pre-trained models of code.                                                      | [link](https://doi.org/10.1145/3540250.3549094)       | FSE(C)        |
+| 2022-4  | Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability.                                    | [link](https://doi.org/10.1145/3540250.3560881)       | FSE(C)        |
+| 2022-3  | Effective and scalable fault injection using bug reports and generative language models.                                        | [link](https://doi.org/10.1145/3540250.3558907)       | FSE(C)        |
+| 2022-2  | An extensive study on pre-trained models for program understanding and generation.                                              | [link](https://doi.org/10.1145/3533767.3534390)       | ISSTA(C)      |
+| 2022-1  | Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper).                           | [link](https://doi.org/10.1145/3533767.3534396)       | ISSTA(C)      |
+| 2021-4  | Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models.                                          | [link](https://doi.org/10.1109/ICSE43902.2021.00040)  | ICSE(C)       |
+| 2021-3  | DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models.                                                   | [link](https://doi.org/10.1109/ASE51524.2021.9678871) | ASE(C)        |
+| 2021-2  | What do pre-trained code models know about code?                                                                                | [link](https://doi.org/10.1109/ASE51524.2021.9678927) | ASE(C)        |
+| 2021-1  | Does reusing pre-trained NLP model propagate bugs?                                                                              | [link](https://doi.org/10.1145/3468264.3473494)       | FSE(C)        |
+| 2020-1  | Multi-task Learning based Pre-trained Language Model for Code Completion.                                                       | [link](https://doi.org/10.1145/3324884.3416591)       | ASE(C)        |
+  
 </details>
 
 <a name="paper-stats"></a>
@@ -48,7 +49,7 @@
 
 | Venue | Count |
 |-------|-------|
-| ICSE  |   6   |
+| ICSE  |   7   |
 | FSE   |   6    |
 | ASE   |   9    |
 | ISSTA |   2    |
@@ -60,7 +61,8 @@
 
 | Venue | Count |
 |-------|-------|
-| 2022  |   17    |
+| 2023  |   1    |
+| 2022  |   19    |
 | 2021   |   4    |
 | 2020 |    1   |
 

@@ -1,5 +1,7 @@
 # Large Language Model for Software Engineering
 
+The collection is actively updated with the help of an internal literature search engine.
+
 # Table of Contents
 
 | [Paper List](#paper-list) |
@@ -14,8 +16,13 @@
 | Year-Id | Title        | Venue Name(Type) |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|------------|
 | 2023-1  | [Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning](https://10.1109/TSE.2023.3255177)              | TSE(J)        |
-| 2020-22  | [Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?](https://doi.org/10.1109/SANER53432.2022.00130)       | SANER(C)        |
-| 2020-21  | [Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues](https://doi.org/10.1109/ICSME55016.2022.00020)       | ICSME(C)        |
+| 2022-27 | [Fast Changeset-based Bug Localization with BERT](https://doi.org/10.1145/3510003.3510042)       | ICSE(C)       |
+| 2022-26  | [An Empirical Study on the Usage of Transformer Models for Code Completion](https://doi.org/10.1109/TSE.2021.3128234)              | TSE(J)        |
+| 2022-25  | [DualSC: Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning](https://doi.org/10.1109/SANER53432.2022.00052)       | SANER(C)        |
+| 2022-24  | [Source Code Summarization with Structural Relative Position Guided Transformer](https://doi.org/10.1109/SANER53432.2022.00013)       | SANER(C)        |
+| 2022-23  | [Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?](https://doi.org/10.1109/SANER53432.2022.00054)       | SANER(C)        |
+| 2022-22  | [Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?](https://doi.org/10.1109/SANER53432.2022.00130)       | SANER(C)        |
+| 2022-21  | [Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues](https://doi.org/10.1109/ICSME55016.2022.00020)       | ICSME(C)        |
 | 2022-20 | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/10.1145/3540250.3549081)                                                                                    | FSE(C)        |
 | 2022-19 | [VulCurator: A Vulnerability-fixing Commit Detector](https://doi.org/10.1145/3540250.3558936)       | FSE(C)        |
 | 2022-18 | [AutoPruner: Transformer-based Call Graph Pruning](https://doi.org/10.1145/3540250.3549175)       | FSE(C)        |
@@ -36,10 +43,14 @@
 | 2022-3  | [Effective and scalable fault injection using bug reports and generative language models](https://doi.org/10.1145/3540250.3558907)       | FSE(C)        |
 | 2022-2  | [An extensive study on pre-trained models for program understanding and generation](https://doi.org/10.1145/3533767.3534390)       | ISSTA(C)      |
 | 2022-1  | [Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)](https://doi.org/10.1145/3533767.3534396)       | ISSTA(C)      |
+| 2021-7 | [Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks](https://doi.org/10.1109/ICSE43902.2021.00041)       | ICSE(C)       |
+| 2021-6 | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)       | ICSE(C)       |
+| 2021-5 | [Code Prediction by Feeding Trees to Transformers](https://doi.org/10.1109/ICSE43902.2021.00026)       | ICSE(C)       |
 | 2021-4  | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)  | ICSE(C)       |
 | 2021-3  | [DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models](https://doi.org/10.1109/ASE51524.2021.9678871) | ASE(C)        |
 | 2021-2  | [What do pre-trained code models know about code?](https://doi.org/10.1109/ASE51524.2021.9678927) | ASE(C)        |
 | 2021-1  | [Does reusing pre-trained NLP model propagate bugs?](https://doi.org/10.1145/3468264.3473494)       | FSE(C)        |
+| 2020-3  | [Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT](https://doi.org/10.1109/ICSME46990.2020.00025)       | ICSME(C)        |
 | 2020-2  | [Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?](https://doi.org/10.1109/ICSME46990.2020.00017)       | ICSME(C)        |
 | 2020-1  | [Multi-task Learning based Pre-trained Language Model for Code Completion](https://doi.org/10.1145/3324884.3416591)       | ASE(C)        |
   
@@ -53,15 +64,15 @@
 
 | Venue | Count |
 |-------|-------|
-| ICSE  |   7   |
+| ICSE  |   10   |
 | FSE   |   7    |
 | ASE   |   9    |
 | ISSTA |   2    |
-| TSE   |   1    |
+| TSE   |   2    |
 | TOSEM |   0    |
 | EMSE  |    1   |
-| ICSME  |    2   |
-| SANER  |    1   |
+| ICSME  |    3   |
+| SANER  |    4   |
 | MSR  |    0   |
 
 ### Year Stats
@@ -69,9 +80,9 @@
 | Venue | Count |
 |-------|-------|
 | 2023  |   1    |
-| 2022  |   22    |
-| 2021   |   4    |
-| 2020 |    2   |
+| 2022  |   27    |
+| 2021   |   7    |
+| 2020 |    3   |
 
 ## Considered Venues
 Powered by an automation tool, mainteners routinary check for new program repair papers that appear in the venues below:

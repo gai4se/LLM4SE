@@ -11,7 +11,7 @@
 <details>
 <summary>Click to expand!</summary>
   
-| Year-Id | Title        | Venue Name |
+| Year-Id | Title        | Venue Name(Type) |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|------------|
 | 2023-1  | [Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning](https://10.1109/TSE.2023.3255177)              | TSE(J)        |
 | 2022-20 | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/10.1145/3540250.3549081)                                                                                    | FSE(C)        |

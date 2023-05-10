@@ -14,6 +14,8 @@
 | Year-Id | Title        | Venue Name(Type) |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|------------|
 | 2023-1  | [Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning](https://10.1109/TSE.2023.3255177)              | TSE(J)        |
+| 2020-22  | [Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?](https://doi.org/10.1109/SANER53432.2022.00130)       | SANER(C)        |
+| 2020-21  | [Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues](https://doi.org/10.1109/ICSME55016.2022.00020)       | ICSME(C)        |
 | 2022-20 | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/10.1145/3540250.3549081)                                                                                    | FSE(C)        |
 | 2022-19 | [VulCurator: A Vulnerability-fixing Commit Detector](https://doi.org/10.1145/3540250.3558936)       | FSE(C)        |
 | 2022-18 | [AutoPruner: Transformer-based Call Graph Pruning](https://doi.org/10.1145/3540250.3549175)       | FSE(C)        |
@@ -38,6 +40,7 @@
 | 2021-3  | [DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models](https://doi.org/10.1109/ASE51524.2021.9678871) | ASE(C)        |
 | 2021-2  | [What do pre-trained code models know about code?](https://doi.org/10.1109/ASE51524.2021.9678927) | ASE(C)        |
 | 2021-1  | [Does reusing pre-trained NLP model propagate bugs?](https://doi.org/10.1145/3468264.3473494)       | FSE(C)        |
+| 2020-2  | [Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?](https://doi.org/10.1109/ICSME46990.2020.00017)       | ICSME(C)        |
 | 2020-1  | [Multi-task Learning based Pre-trained Language Model for Code Completion](https://doi.org/10.1145/3324884.3416591)       | ASE(C)        |
   
 </details>
@@ -57,29 +60,37 @@
 | TSE   |   1    |
 | TOSEM |   0    |
 | EMSE  |    1   |
+| ICSME  |    2   |
+| SANER  |    1   |
+| MSR  |    0   |
 
 ### Year Stats
 
 | Venue | Count |
 |-------|-------|
 | 2023  |   1    |
-| 2022  |   20    |
+| 2022  |   22    |
 | 2021   |   4    |
-| 2020 |    1   |
+| 2020 |    2   |
 
 ## Considered Venues
 Powered by an automation tool, mainteners routinary check for new program repair papers that appear in the venues below:
 
 ### Conferences
-- **ICSE**: International Conference on Software Engineering
-- **FSE**: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-- **ASE**: IEEE/ACM International Conference on Automated Software Engineering
-- **ISSTA**: International Symposium on Software Testing and Analysis
+- Software Engineering Domain:
+	- **ICSE**: International Conference on Software Engineering
+	- **FSE**: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+	- **ASE**: IEEE/ACM International Conference on Automated Software Engineering
+	- **ISSTA**: International Symposium on Software Testing and Analysis
+	- **ICSME**: IEEE International Conference on Software Maintenance and Evolution
+	- **MSR**: IEEE Working Conference on Mining Software Repositories
+	- **SANER**: IEEE International Conference on Software Analysis, Evolution, and Reengineering
 
 ### Journals
-- **TSE**: IEEE Transactions on Software Engineering
-- **TOSEM**: ACM Transactions on Software Engineering and Methodology
-- **EMSE**: Empirical Software Engineering
+- Software Engineering Domain:
+	- **TSE**: IEEE Transactions on Software Engineering
+	- **TOSEM**: ACM Transactions on Software Engineering and Methodology
+	- **EMSE**: Empirical Software Engineering
 
 ### Contribution
 The easiest way to contribute is to submit a paper with verified information via GitHub issues. Only url of the paper should be already enough. The mainteiner will add accordingly and keep you updated in the issue conversation.

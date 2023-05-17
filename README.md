@@ -125,3 +125,11 @@ The easiest way to contribute is to submit a paper with verified information via
 Alternatively, you can create a pull request. For that, you need to strictly follow the format.
 
 Any other suggestion to improve this repository is also highly welcomed via GitHub issues.
+
+### Contributors
+
+<p align="left"><a href="https://github.com/maxxbw54"><img src="https://avatars.githubusercontent.com/maxxbw54?v=4" width="50px" alt="maxxbw54" /></a>&nbsp;&nbsp;<a href="https://github.com/thanhlecongg"><img src="https://avatars.githubusercontent.com/thanhlecongg?v=4" width="50px" alt="thanhlecongg" /></a></a>&nbsp;&nbsp;</p>
+
+
+
+

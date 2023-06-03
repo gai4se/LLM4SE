@@ -5,6 +5,7 @@ The collection is actively updated with the help of an internal literature searc
 # Table of Contents
 
 | [Code Model List](#model-list) |
+| [Popular Code Model List](#popular-model-list) |
 | [Paper List](#paper-list) |
 | [Paper Stats](#paper-stats) |
 
@@ -133,8 +134,8 @@ The collection is actively updated with the help of an internal literature searc
 
 </details>
 
-
-## Model List
+<a name="popular-model-list"></a>
+## Popular Model List
 
 | Year-Id | Model Name    | Paper                            | # of Parameters /Model Size | Open Source?                                             |
 |---------|---------------|----------------------------------|-----------------------------|----------------------------------------------------------|

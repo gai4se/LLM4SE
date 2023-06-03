@@ -152,6 +152,18 @@ The collection is actively updated with the help of an internal literature searc
 <a name="paper-list"></a>
 ## Paper List
 
+**Task Tags**
+
+[![](https://img.shields.io/badge/-Code%20Generation-brightgreen)](https://img.shields.io/badge/-Code%20Generation-brightgreen)
+[![](https://img.shields.io/badge/-Code%20Summarization-green)](https://img.shields.io/badge/-Code%20Summarization-green)
+[![](https://img.shields.io/badge/-Bug%20Detection-yellowgreen)](https://img.shields.io/badge/-Bug%20Detection-yellowgreen)
+[![](https://img.shields.io/badge/-Program%20Repair-orange)](https://img.shields.io/badge/-Program%20Repair-orange)
+[![](https://img.shields.io/badge/-Vulnerability%20Detection-red)](https://img.shields.io/badge/-Vulnerability%20Detection-red)
+[![](https://img.shields.io/badge/-Vulnerability%20Repair-lightgrey)](https://img.shields.io/badge/-Vulnerability%20Repair-lightgrey)
+[![](https://img.shields.io/badge/-Clone%20Detection-blue)](https://img.shields.io/badge/-Clone%20Detection-blue)
+[![](https://img.shields.io/badge/-Code%20Review-brightgreen)](https://img.shields.io/badge/-Code%20Review-brightgreen)
+
+
 <details>
 <summary>Click to expand!</summary>
   

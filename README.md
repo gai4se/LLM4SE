@@ -11,6 +11,131 @@ The collection is actively updated with the help of an internal literature searc
 <a name="model-list"></a>
 ## Model List
 
+### 2023 (234 Models)
+
+<details>
+<summary>Click to expand!</summary>
+
+|  |  |  |
+|:--------:|:--------:|:--------:|
+|   NoCrypt/fast-repo   |   TabbyML/SantaCoder-1B   |   michaelfeil/ct2fast-starchat-alpha   |
+|   mantra-coding/alBERTo   |   michaelfeil/ct2fast-starcoderbase   |   michaelfeil/ct2fast-starcoder   |
+|   bigcode/tiny_starcoder_py   |   kevinpro/Vicuna-13B-CoT   |   jiezhou1996/test   |
+|   Soliai/Soli   |   bigcode/gpt_bigcode-santacoder   |   michaelfeil/ct2fast-gpt_bigcode-santacoder   |
+|   dushigao/yolov4   |   bigcode/starcoder   |   rustformers/bloom-ggml   |
+|   rustformers/bloomz-ggml   |   mishasadhaker/codet5_large_typescript   |   sahil2801/instruct-codegen-16B   |
+|   jokerLang/aa   |   CNXT/CHaTx   |   sadiqj/camlcoder   |
+|   omegaodin/replit-replit-code-v1-3b   |   replit/replit-code-v1-3b   |   teknium/Replit-v1-CodeInstruct-3B-fp16   |
+|   teknium/Replit-v1-CodeInstruct-3B   |   kkhan/gpt2-medium-iba-txt   |   4bit/Replit-v1-CodeInstruct-3B   |
+|   bigscience/bloomz-560m   |   bigscience/bloomz-1b1   |   bigscience/bloomz-1b7   |
+|   bigscience/bloomz-3b   |   bigscience/bloomz-7b1   |   bigscience/bloomz   |
+|   Neupane9Sujal/Text_Summarization   |   betelguesestudios/ChatDBD   |   azizp128/emotion-predictor-indobert   |
+|   zirui3/starcoder-ft-zh   |   zjunlp/CaMA-13B-LoRA   |   zjunlp/CaMA-13B-Diff   |
+|   Aryan2003/roberta_job   |   zchflyer/test11   |   EnterNameBros/DialoGPT-small-Senko-san-ver-2   |
+|   dev2bit/es2bash-mt5   |   omegaodin/gpt2   |   Fsoft-AIC/Codebert-docstring-inconsistency   |
+|   HuggingFaceH4/starchat-alpha   |   AsakusaRinne/LLamaSharpSamples   |   AlexWortega/wortegaLM-1b   |
+|   huolongguo10/check_sec_tiny   |   NeoDim/starcoder-GGML   |   NeoDim/starcoderbase-GGML   |
+|   NeoDim/starchat-alpha-GGML   |   christinacdl/moderate_severe_depression_model   |   KinglyCrow/pythia-3b-deduped-sft-r1-python-finetuned   |
+|   Binaryy/blender-bot-distill-finetuned   |   Fredithefish/CrimsonPajama   |   showpiece/donut4cover_of_books   |
+|   OdiaGenAI/odiagenAI-model-v1   |   NatLee/openpose-keras-model   |   pratikcha/DummyModelTest   |
+|   up201806461/BFP-combined   |   baotoan2002/GPT-2   |   brandit/atharv.1   |
+|   BlackBull/yeet   |   wandisun/generate_testcase   |   pszemraj/bart-large-code-instructiongen   |
+|   redlinezh/redlinezh   |   erichilarysmithsr/Quality-of-Life-Games   |   AlexWortega/wortegaLM   |
+|   rishiraj/starchat   |   bigcode/starcoder-megatron   |   bigcode/starcoderbase-megatron   |
+|   bigcode/santacoder   |   bigscience/bloom-1b7   |   bigscience/bloom-560m   |
+|   bigcode/starpii   |   bigcode/starcoderbase   |   APJ23/MultiHeaded_Sentiment_Analysis_Model   |
+|   lentan/replit   |   bigcode/starencoder   |   jitesh/emotion-english   |
+|   TinaLiHF/fined-tuned-T5small   |   tmnam20/codebert-code-summarization   |   Vipitis/santacoder-finetuned-the-stack-glsl   |
+|   Vipitis/santacoder-finetuned-Shadertoys-fine   |   Vipitis/santacoder-finetuned-Shadertoys   |   tabbleman/test   |
+|   huolongguo10/check_sec   |   HelloImSteven/AppleScript-Summarizer   |   duncan93/video   |
+|   alexpaul/QI-Large-v1   |   JeanL-0/ChatAnswering-PTBR   |   jitroy07/BOT   |
+|   Rirou360/test   |   RafMuz/alpaca7B-lora   |   Akhil0-o/saved_model_links   |
+|   TrippingFollowing39/AMOGUS   |   Akhil0-o/saved_model_body   |   MrRainbow/RainbowGPT   |
+|   Akhil0-o/Phishing_detection   |   Ilangraterol/Dataset_model   |   AlexWortega/instruct_rugptlarge   |
+|   MLRush/chinese-chat-30m   |   MLRush/chinese-lm-30m   |   ParsaKgvr/mmdGPT   |
+|   ParsaKgvr/mmdBERT   |   dorkai/codeX-1.0   |   OtterDev/otterchat   |
+|   Phonecharger/WLAsw1   |   MatthiasPi/ActiveLearningModel-WAR-WassersteinActiveRegression   |   Wannita/baseline_codecompletion   |
+|   ybelkada/bloom-1b7-8bit   |   kelly233/test_model   |   ArmelR/AlpacaCode512   |
+|   bigscience/bloom-3b   |   lambdasec/santafixer   |   ybelkada/bloom-560m-8bit   |
+|   PromptKing/GTA5_PROCESS_LEARNING_AI   |   Qrstud/ANCs   |   HTP/CHaTx   |
+|   LYFCJJ/anythingv45-cjj-diffusers   |   hakurei/instruct-12b   |   Dirus/GPTOWN   |
+|   TeamGZG/toxic-comment-classification-project   |   MarTinSForZZa/Innerversal   |   newsrx/bloomz-7b1   |
+|   0x7194633/pyGPT-50M   |   dhnchandan/huggingface   |   RomanTeucher/PythonCoder   |
+|   bigscience/bloom   |   edbeeching/llama-se-rl-adapter   |   TheEeeeLin/test   |
+|   olivierdehaene/optimized-santacoder   |   Mauquoi-00/Teenage_Gender_Classification   |   Esly35i/Esmoli   |
+|   zee2221/ai_me   |   urmom12349823/AItext   |   manstepharder/hangi   |
+|   Sentdex/GPyT   |   lxe/Cerebras-GPT-2.7B-Alpaca-SP   |   akone/bloomgpt   |
+|   TSjB/mbart-large-52-qm-ru-v1   |   Wannita/PyCoder   |   mazeratti/creative   |
+|   TabbyML/NeoX-1.3B   |   pszemraj/bart-base-code-instructiongen   |   AlexWortega/instruct_rugptMedium   |
+|   vernin/maylora   |   valooo/test   |   amongusrickroll68/MeloMind   |
+|   amongusrickroll68/TextImagine-1.0-March-2023   |   badmatr11x/distilroberta-base-offensive-hateful-speech-text-multiclassification   |   Techh/speed_car_policee   |
+|   Ar4ikov/gpt2-650k-stable-diffusion-prompt-generator   |   bigscience/distill-bloom-1b3   |   CAUKiel/JavaBERT   |
+|   emre/java-RoBERTa-Tara-small   |   Ashokajou51/NonToxicCivilBert   |   thevyasamit/bert_fake_news_classification   |
+|   namikazi25/DCNN_on_CIFAR_10   |   mdoshi2612/fake-news-detector   |   CAUKiel/JavaBERT-uncased   |
+|   shibing624/code-autocomplete-distilgpt2-python   |   shibing624/code-autocomplete-gpt2-base   |   aarnphm/multi-length-text-classification-pipeline   |
+|   NITINNANNAPANENI/Ll   |   rockmiin/ml-codeparrot   |   Naina07/Fine_tune   |
+|   bigscience/bloom-1b1   |   bigscience/distill-bloom-1b3-10x   |   wittyicon/Text-Alchemy   |
+|   razent/cotext-1-cc   |   omarelsayeed/wav2vec2_ar_anz2   |   whybeyoung/test   |
+|   KonghaYao/MagicPrompt_SD_V1   |   zabir-alnazi/fatima-fellowship-ai-gen-detector   |   Abdullah007/image-classification-ResNet50   |
+|   AlexWortega/instruct_rugptSmall   |   sjiang1/codecse   |   daeunj/828A   |
+|   Ajibola/PaViT   |   changwh5/BigBiGAN-MNIST-150epoch   |   Azarthehulk/Image_preprocessing_basics   |
+|   nishakathiriya/DR-model   |   AcrossTheUniverseZ/ATUZGenerator   |   Roy029/sno_empty   |
+|   imharesh/Shabbat   |   pavanBuduguppa/asr_inverse_text_normalization   |   NeyroTech/PicKHK   |
+|   rapples/png2emb   |   AlexWortega/taskGPT2-xl-v0.2a   |   marlenezw/AutoVC_Voice_Conversion   |
+|   mrm8488/santacoder-finetuned-the-stack-clojure   |   BrendaTellez/sounds   |   BrendaTellez/SoundClassificationCNNRNN   |
+|   samkenxstream/AlgoSilicon   |   samkenxstream/HierarchyMartialsAI   |   ilahazs/rokashibasakiv1   |
+|   bigscience/bloom-7b1   |   bigscience/bloom-560m-intermediate   |   bigscience/bloom-1b1-intermediate   |
+|   bigscience/bloom-3b-intermediate   |   bigscience/bloom-7b1-intermediate   |   bigscience/bloomz-mt   |
+|   bigscience/bloomz-7b1-mt   |   bigscience/bloomz-7b1-p3   |   bigscience/bloomz-p3   |
+|   bigscience/bloom-1b7-intermediate   |   mrm8488/santacoder-finetuned-the-stack-swift   |   Neighhhbor/Test_model   |
+|   muhtasham/santacoder-finetuned-the-stack-cobol   |   muhtasham/santacoder-finetuned-the-stack-assembly   |   HuggingFaceH4/bloomz-7b1   |
+|   zkep/detr   |   loubnabnl/santacoder-code-to-text   |   mrm8488/santacoder-finetuned-the-stack-bash-shell   |
+|   Thyral/Testing   |   noahshinn024/santacoder-ts   |   el-profesor/code_t5   |
+|   K8778/universe   |   CarperAI/diff-codegen-6b-v2   |   CarperAI/diff-codegen-2b-v2   |
+|   CarperAI/diff-codegen-350m-v2   |   96harsh56/bert_test2   |   aminian/ML-final-project   |
+|   microsoft/codereviewer   |   facebook/incoder-1B   |   facebook/incoder-6B   |
+|   MrFitzmaurice/roberta-finetuned-topic-5   |   mble/nameToStdName   |   aadvari/movie-recommender   |
+|   aparnabhat/kannada-ner   |   Kaliel456/Lynn   |   bigcode/santacoder-megatron   |
+
+</details>
+
+### 2022 (38 Models)
+
+<details>
+<summary>Click to expand!</summary>
+	
+|  |  |  |
+|:--------:|:--------:|:--------:|
+|   mrm8488/bloom-560m-finetuned-the-stack-rust   |   smallcloudai/codify_medium_multi   |   smallcloudai/codify_3b_multi   |
+|   anjandash/JavaBERT-small   |   anjandash/JavaBERT-mini   |   saikatc/NatGen   |
+|   Nokia/nlgp-docstring   |   alecsharpie/codegen_350m_html   |   alecsharpie/codegen_350m_css   |
+|   CarperAI/diff-codegen-350m-v1   |   giulio98/codegen-350M-multi-xlcost-v2   |   giulio98/codegen-350M-multi-xlcost   |
+|   Nokia/nlgp-natural   |   model-attribution-challenge/bloom-560m   |   CarperAI/FIM-NeoX-1.3B   |
+|   model-attribution-challenge/bloom-2b5   |   huggingface/CodeBERTa-language-id   |   codeparrot/codeparrot-small-code-to-text   |
+|   moyix/csrc_774m   |   codeparrot/unixcoder-java-complexity-prediction   |   codeparrot/codeparrot-small-text-to-code   |
+|   bigscience/bloom-optimizer-states   |   model-attribution-challenge/bloom-350m   |   little-star/good_model   |
+|   codeparrot/codeparrot-small-multi   |   bigscience/bloom-intermediate   |   bigscience/tr11-176B-logs   |
+|   codeparrot/codeparrot-small   |   huggingface/CodeBERTa-small-v1   |   codeparrot/codeparrot   |
+|   lvwerra/test_card   |   razent/spbert-mlm-base   |   razent/spbert-mlm-wso-base   |
+|   razent/spbert-mlm-zero   |   razent/cotext-2-cc   |   razent/cotext-1-ccg   |
+|   ietz/distilroberta-base-finetuned-jira-qt-issue-titles-and-bodies   |   ietz/distilroberta-base-finetuned-jira-qt-issue-title   |
+
+</details>
+
+### 2021 (2 Models)
+
+<details>
+<summary>Click to expand!</summary>
+
+|  |  |  |
+|:--------:|:--------:|:--------:|
+|   mrm8488/codeBERTaJS   |   mrm8488/CodeBERTaPy   |
+
+</details>
+
+
+## Model List
+
 | Year-Id | Model Name    | Paper                            | # of Parameters /Model Size | Open Source?                                             |
 |---------|---------------|----------------------------------|-----------------------------|----------------------------------------------------------|
 | 2023-3  | CodeT5+       | [link](https://arxiv.org/abs/2305.07922) | [220M, 770M, 2B, 6B, 16B]   | [source](https://github.com/salesforce/CodeT5/tree/main/CodeT5%2B) |

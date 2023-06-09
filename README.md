@@ -138,15 +138,15 @@ The collection is actively updated with the help of an internal literature searc
 <a name="popular-model-list"></a>
 ## Popular Model List
 
-| Year-Id | Model Name    | Paper                            | # of Parameters /Model Size | Open Source?                                             |
+| Year-Id | Model Name    | Paper                            | # of Parameters | Open Source?                                             |
 |---------|---------------|----------------------------------|-----------------------------|----------------------------------------------------------|
 | 2023-4  | CodeGen2      | [link](https://arxiv.org/abs/2305.02309) | [1B, 3.7B, 7B, 16B]         | [source](https://github.com/salesforce/CodeGen2) |
 | 2023-3  | CodeT5+       | [link](https://arxiv.org/abs/2305.07922) | [220M, 770M, 2B, 6B, 16B]   | [source](https://github.com/salesforce/CodeT5/tree/main/CodeT5%2B) |
 | 2023-2  | StarCoder     | [link](https://arxiv.org/abs/2305.06161) | [15B]                       | [source](https://github.com/bigcode-project/starcoder)             |
 | 2023-1  | CodeGeeX      | [link](https://arxiv.org/abs/2303.17568) | [13B]                       | [source](https://github.com/THUDM/CodeGeeX)                        |
-| 2022-2  | InCoder       | [link](https://arxiv.org/abs/2204.05999) | [1.3B/2.62GB, 6B(26.6GB)]   | [source](https://github.com/dpfried/incoder)                       |
+| 2022-2  | InCoder       | [link](https://arxiv.org/abs/2204.05999) | [1.3B, 6B]   | [source](https://github.com/dpfried/incoder)                       |
 | 2022-1  | CodeGen       | [link](https://arxiv.org/abs/2203.13474) | [350M, 2B, 6B, 16B]         | [source](https://github.com/salesforce/CodeGen)                    |
-| 2021-1  | CodeT5        | [link](https://arxiv.org/abs/2109.00859) | [770M/892MB]                | [source](https://github.com/salesforce/CodeT5)                     |
+| 2021-1  | CodeT5        | [link](https://arxiv.org/abs/2109.00859) | [770M]                | [source](https://github.com/salesforce/CodeT5)                     |
 | 2020-2  | GraphCodeBERT | [link](https://arxiv.org/abs/2009.08366) |                             | [source](https://github.com/microsoft/CodeBERT#graphcodebert)      |
 | 2020-1  | CodeBERT      | [link](https://arxiv.org/abs/2002.08155) |                             | [source](https://github.com/microsoft/CodeBERT)                    |
 

@@ -97,6 +97,7 @@ The collection is actively updated with the help of an internal literature searc
 |   microsoft/codereviewer   |   facebook/incoder-1B   |   facebook/incoder-6B   |
 |   MrFitzmaurice/roberta-finetuned-topic-5   |   mble/nameToStdName   |   aadvari/movie-recommender   |
 |   aparnabhat/kannada-ner   |   Kaliel456/Lynn   |   bigcode/santacoder-megatron   |
+|  Salesforce/codegen2-1B | Salesforce/codegen2-3_7B |Salesforce/codegen2-7B
 
 </details>
 
@@ -139,6 +140,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year-Id | Model Name    | Paper                            | # of Parameters /Model Size | Open Source?                                             |
 |---------|---------------|----------------------------------|-----------------------------|----------------------------------------------------------|
+| 2023-4  | CodeGen2      | [link](https://arxiv.org/abs/2305.02309) | [1B, 3.7B, 7B, 16B]         | [source](https://github.com/salesforce/CodeGen2) |
 | 2023-3  | CodeT5+       | [link](https://arxiv.org/abs/2305.07922) | [220M, 770M, 2B, 6B, 16B]   | [source](https://github.com/salesforce/CodeT5/tree/main/CodeT5%2B) |
 | 2023-2  | StarCoder     | [link](https://arxiv.org/abs/2305.06161) | [15B]                       | [source](https://github.com/bigcode-project/starcoder)             |
 | 2023-1  | CodeGeeX      | [link](https://arxiv.org/abs/2303.17568) | [13B]                       | [source](https://github.com/THUDM/CodeGeeX)                        |

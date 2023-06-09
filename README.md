@@ -97,6 +97,7 @@ The collection is actively updated with the help of an internal literature searc
 |   microsoft/codereviewer   |   facebook/incoder-1B   |   facebook/incoder-6B   |
 |   MrFitzmaurice/roberta-finetuned-topic-5   |   mble/nameToStdName   |   aadvari/movie-recommender   |
 |   aparnabhat/kannada-ner   |   Kaliel456/Lynn   |   bigcode/santacoder-megatron   |
+|  Salesforce/codegen2-1B | Salesforce/codegen2-3_7B |Salesforce/codegen2-7B
 
 </details>
 

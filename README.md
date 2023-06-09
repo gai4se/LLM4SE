@@ -266,7 +266,7 @@ Any other suggestion to improve this repository is also highly welcomed via GitH
 
 ### Contributors
 
-<p align="left"><a href="https://github.com/maxxbw54"><img src="https://avatars.githubusercontent.com/maxxbw54?v=4" width="50px" alt="maxxbw54" /></a>&nbsp;&nbsp;<a href="https://github.com/thanhlecongg"><img src="https://avatars.githubusercontent.com/thanhlecongg?v=4" width="50px" alt="thanhlecongg" /></a></a>&nbsp;&nbsp;</p>
+<p align="left"><a href="https://github.com/maxxbw54"><img src="https://avatars.githubusercontent.com/maxxbw54?v=4" width="50px" alt="maxxbw54" /></a>&nbsp;&nbsp;<a href="https://github.com/thanhlecongg"><img src="https://avatars.githubusercontent.com/thanhlecongg?v=4" width="50px" alt="thanhlecongg" /></a></a>&nbsp;&nbsp;<a href="https://github.com/Xin-Zhou-smu"><img src="https://avatars.githubusercontent.com/Xin-Zhou-smu?v=4" width="50px" alt="Xin-Zhou-smu" /></a>&nbsp;&nbsp;</p>
 
 
 

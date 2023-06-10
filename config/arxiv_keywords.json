@@ -1,6 +1,6 @@
 [
     {
-        "topic": "Program Repair",
+        "topic": "Program/Vulnerability Repair",
         "keyword_sets": [
             ["large+language+models", "program+repair"],
             ["large+language+models", "bug+fixing"],
@@ -17,7 +17,29 @@
     {
         "topic": "Code Generation",
         "keyword_sets": [
-            ["large+language+models", "code+generation"]
+            ["large+language+models", "code+generation"],
+            ["large+language+models", "program+synthesis"]
+        ] 
+    },
+    {
+        "topic": "Bug/Vulnerability Detection",
+        "keyword_sets": [
+            ["large+language+models", "vulnerability+detection"],
+            ["large+language+models", "bug+detection"],
+            ["large+language+models", "fuzzing"],
+            ["large+language+models", "defect+prediction"]
+        ] 
+    },
+    {
+        "topic": "Clone Detection",
+        "keyword_sets": [
+            ["large+language+models", "code+clone"]
+        ] 
+    },
+    {
+        "topic": "Code Review",
+        "keyword_sets": [
+            ["large+language+models", "code+review"]
         ] 
     }
 ]

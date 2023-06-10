@@ -1,0 +1,23 @@
+[
+    {
+        "topic": "Program Repair",
+        "keyword_sets": [
+            ["large+language+models", "program+repair"],
+            ["large+language+models", "bug+fixing"],
+            ["large+language+models", "vulnerability+repair"]
+        ] 
+    },
+    {
+        "topic": "Code Summarization",
+        "keyword_sets": [
+            ["large+language+models", "code+summarization"],
+            ["large+language+models", "code+comment+generation"]
+        ] 
+    },
+    {
+        "topic": "Code Generation",
+        "keyword_sets": [
+            ["large+language+models", "code+generation"]
+        ] 
+    }
+]

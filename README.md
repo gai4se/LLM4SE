@@ -8,6 +8,7 @@ The collection is actively updated with the help of an internal literature searc
 | [Popular Code Model List](#popular-model-list) |
 | [Paper List](#paper-list) |
 | [Paper Stats](#paper-stats) |
+| [Recent Preprints](./arxiv.md) |
 
 <a name="model-list"></a>
 ## Model List

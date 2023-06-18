@@ -242,7 +242,7 @@ The collection is actively updated with the help of an internal literature searc
 | 2020 |    3   |
 
 ## Considered Venues
-Powered by an automation tool, mainteners routinary check for new program repair papers that appear in the venues below:
+Powered by an automation tool, mainteners routinary check for new LLM4SE papers that appear in the venues below:
 
 ### Conferences
 - Software Engineering Domain:

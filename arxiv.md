@@ -49,6 +49,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring the Robustness of Large Language Models for Solving   Programming Problems | [2306.14583](http://arxiv.org/abs/2306.14583) | None | 2023-06-26 |
+| LLM-assisted Generation of Hardware Assertions | [2306.14027](http://arxiv.org/abs/2306.14027) | None | 2023-06-24 |
 | Demystifying GPT Self-Repair for Code Generation | [2306.09896](http://arxiv.org/abs/2306.09896) | None | 2023-06-22 |
 | From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-15 |
 | WizardCoder: Empowering Code Large Language Models with Evol-Instruct | [2306.08568](http://arxiv.org/abs/2306.08568) | https://github.com/nlpxucan/wizardlm | 2023-06-14 |
@@ -68,8 +70,6 @@
 | Prompting Is Programming: A Query Language for Large Language Models | [2212.06094](http://arxiv.org/abs/2212.06094) | None | 2023-05-30 |
 | Autonomous GIS: the next-generation AI-powered GIS | [2305.06453](http://arxiv.org/abs/2305.06453) | https://github.com/gladcolor/llm-geo | 2023-05-29 |
 | Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-05-29 |
-| Parsel: Algorithmic Reasoning with Language Models by Composing   Decompositions | [2212.10561](http://arxiv.org/abs/2212.10561) | https://github.com/ezelikman/parsel | 2023-05-28 |
-| ChatGPT for PLC/DCS Control Logic Generation | [2305.15809](http://arxiv.org/abs/2305.15809) | None | 2023-05-25 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

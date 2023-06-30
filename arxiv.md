@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
 | Majority Rule: better patching via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-05-31 |
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-05-24 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |

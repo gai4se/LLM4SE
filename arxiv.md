@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
 | Majority Rule: better patching via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-05-31 |
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-05-24 |
@@ -50,6 +51,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-07-05 |
 | LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler   Bug Isolation | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2023-07-02 |
 | From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-28 |
 | Exploring the Robustness of Large Language Models for Solving   Programming Problems | [2306.14583](http://arxiv.org/abs/2306.14583) | None | 2023-06-26 |
@@ -70,12 +72,12 @@
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-06-01 |
 | SheetCopilot: Bringing Software Productivity to the Next Level through   Large Language Models | [2305.19308](http://arxiv.org/abs/2305.19308) | None | 2023-05-30 |
 | Prompting Is Programming: A Query Language for Large Language Models | [2212.06094](http://arxiv.org/abs/2212.06094) | None | 2023-05-30 |
-| Autonomous GIS: the next-generation AI-powered GIS | [2305.06453](http://arxiv.org/abs/2305.06453) | https://github.com/gladcolor/llm-geo | 2023-05-29 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-07-05 |
 | ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 | Understanding Programs by Exploiting (Fuzzing) Test Cases | [2305.13592](http://arxiv.org/abs/2305.13592) | https://github.com/rabbitjy/fuzztuning | 2023-06-12 |
 | Augmenting Greybox Fuzzing with Generative AI | [2306.06782](http://arxiv.org/abs/2306.06782) | None | 2023-06-11 |

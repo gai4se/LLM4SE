@@ -39,6 +39,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
 | Automatic Code Summarization via ChatGPT: How Far Are We? | [2305.12865](http://arxiv.org/abs/2305.12865) | None | 2023-05-22 |
 | ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for   Programming Languages | [2212.06742](http://arxiv.org/abs/2212.06742) | https://github.com/PaddlePaddle/PaddleNLP | 2023-05-19 |
@@ -51,8 +52,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
 | A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | None | 2023-07-05 |
 | LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-07-05 |
+| Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler   Bug Isolation | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2023-07-02 |
 | From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-28 |
 | Exploring the Robustness of Large Language Models for Solving   Programming Problems | [2306.14583](http://arxiv.org/abs/2306.14583) | None | 2023-06-26 |
@@ -70,8 +73,6 @@
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-06-05 |
 | Is Model Attention Aligned with Human Attention? An Empirical Study on   Large Language Models for Code Generation | [2306.01220](http://arxiv.org/abs/2306.01220) | None | 2023-06-02 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-06-01 |
-| SheetCopilot: Bringing Software Productivity to the Next Level through   Large Language Models | [2305.19308](http://arxiv.org/abs/2305.19308) | None | 2023-05-30 |
-| Prompting Is Programming: A Query Language for Large Language Models | [2212.06094](http://arxiv.org/abs/2212.06094) | None | 2023-05-30 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

@@ -52,6 +52,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
+| RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
 | A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | None | 2023-07-05 |
 | LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-07-05 |
@@ -71,8 +73,6 @@
 | A Static Evaluation of Code Completion by Large Language Models | [2306.03203](http://arxiv.org/abs/2306.03203) | None | 2023-06-05 |
 | SelfEvolve: A Code Evolution Framework via Large Language Models | [2306.02907](http://arxiv.org/abs/2306.02907) | None | 2023-06-05 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-06-05 |
-| Is Model Attention Aligned with Human Attention? An Empirical Study on   Large Language Models for Code Generation | [2306.01220](http://arxiv.org/abs/2306.01220) | None | 2023-06-02 |
-| LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-06-01 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

@@ -52,7 +52,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/codegen2 | 2023-07-11 |
+| CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/CodeGen | 2023-07-11 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |

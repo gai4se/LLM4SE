@@ -1,4 +1,4 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -52,6 +52,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/codegen2 | 2023-07-11 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
@@ -72,7 +73,6 @@
 | Natural Language Commanding via Program Synthesis | [2306.03460](http://arxiv.org/abs/2306.03460) | None | 2023-06-06 |
 | A Static Evaluation of Code Completion by Large Language Models | [2306.03203](http://arxiv.org/abs/2306.03203) | None | 2023-06-05 |
 | SelfEvolve: A Code Evolution Framework via Large Language Models | [2306.02907](http://arxiv.org/abs/2306.02907) | None | 2023-06-05 |
-| Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-06-05 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

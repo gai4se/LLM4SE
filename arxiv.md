@@ -56,7 +56,7 @@
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
-| A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | None | 2023-07-05 |
+| A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | https://github.com/ntunlp/chatgpt_eval | 2023-07-05 |
 | LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-07-05 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler   Bug Isolation | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2023-07-02 |
@@ -78,6 +78,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-07-05 |
 | ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 | Understanding Programs by Exploiting (Fuzzing) Test Cases | [2305.13592](http://arxiv.org/abs/2305.13592) | https://github.com/rabbitjy/fuzztuning | 2023-06-12 |

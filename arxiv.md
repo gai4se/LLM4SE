@@ -1,4 +1,4 @@
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -53,6 +53,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-07-19 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-07-18 |
 | A Lightweight Framework for High-Quality Code Generation | [2307.08220](http://arxiv.org/abs/2307.08220) | None | 2023-07-17 |
 | In-IDE Generation-based Information Support with a Large Language Model | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2023-07-17 |
@@ -73,7 +74,6 @@
 | Is AI the better programming partner? Human-Human Pair Programming vs.   Human-AI pAIr Programming | [2306.05153](http://arxiv.org/abs/2306.05153) | None | 2023-06-09 |
 | Detecting Phishing Sites Using ChatGPT | [2306.05816](http://arxiv.org/abs/2306.05816) | None | 2023-06-09 |
 | Explicit Knowledge Transfer for Weakly-Supervised Code Generation | [2211.16740](http://arxiv.org/abs/2211.16740) | None | 2023-06-07 |
-| Analysis of ChatGPT on Source Code | [2306.00597](http://arxiv.org/abs/2306.00597) | None | 2023-06-06 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

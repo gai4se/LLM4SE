@@ -1,4 +1,4 @@
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,7 +60,7 @@
 | In-IDE Generation-based Information Support with a Large Language Model | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2023-07-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-07-16 |
 | CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/CodeGen | 2023-07-11 |
-| ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The   Unknown | [2307.10195](http://arxiv.org/abs/2307.10195) | None | 2023-07-10 |
+| ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The   Unknown | [2307.10195](http://arxiv.org/abs/2307.10195) | https://github.com/markscanlonucd/chatgpt-for-digital-forensics | 2023-07-10 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |

@@ -53,6 +53,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| FacTool: Factuality Detection in Generative AI -- A Tool Augmented   Framework for Multi-Task and Multi-Domain Scenarios | [2307.13528](http://arxiv.org/abs/2307.13528) | https://github.com/gair-nlp/factool | 2023-07-25 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-07-24 |
 | ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-07-24 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
@@ -73,7 +74,6 @@
 | LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler   Bug Isolation | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2023-07-02 |
 | From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-28 |
 | Exploring the Robustness of Large Language Models for Solving   Programming Problems | [2306.14583](http://arxiv.org/abs/2306.14583) | None | 2023-06-26 |
-| LLM-assisted Generation of Hardware Assertions | [2306.14027](http://arxiv.org/abs/2306.14027) | None | 2023-06-24 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

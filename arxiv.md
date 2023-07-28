@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | None | 2023-07-27 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
 | An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
@@ -53,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| PanGu-Coder2: Boosting Large Language Models for Code with Ranking   Feedback | [2307.14936](http://arxiv.org/abs/2307.14936) | None | 2023-07-27 |
 | FacTool: Factuality Detection in Generative AI -- A Tool Augmented   Framework for Multi-Task and Multi-Domain Scenarios | [2307.13528](http://arxiv.org/abs/2307.13528) | https://github.com/gair-nlp/factool | 2023-07-26 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-07-24 |
 | ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-07-24 |
@@ -67,13 +69,12 @@
 | ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The   Unknown | [2307.10195](http://arxiv.org/abs/2307.10195) | https://github.com/markscanlonucd/chatgpt-for-digital-forensics | 2023-07-10 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
+| Copilot for Xcode: Exploring AI-Assisted Programming by Prompting   Cloud-based Large Language Models | [2307.14349](http://arxiv.org/abs/2307.14349) | None | 2023-07-08 |
 | Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
 | A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | https://github.com/ntunlp/chatgpt_eval | 2023-07-05 |
 | LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-07-05 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler   Bug Isolation | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2023-07-02 |
-| From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-28 |
-| Exploring the Robustness of Large Language Models for Solving   Programming Problems | [2306.14583](http://arxiv.org/abs/2306.14583) | None | 2023-06-26 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

@@ -1,4 +1,4 @@
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
 | Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |
 | Private-Library-Oriented Code Generation with Large Language Models | [2307.15370](http://arxiv.org/abs/2307.15370) | None | 2023-07-28 |
 | PanGu-Coder2: Boosting Large Language Models for Code with Ranking   Feedback | [2307.14936](http://arxiv.org/abs/2307.14936) | None | 2023-07-27 |
@@ -63,7 +64,6 @@
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-07-19 |
 | Code Detection for Hardware Acceleration Using Large Language Models | [2307.10348](http://arxiv.org/abs/2307.10348) | None | 2023-07-19 |
-| How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-07-18 |
 | A Lightweight Framework for High-Quality Code Generation | [2307.08220](http://arxiv.org/abs/2307.08220) | None | 2023-07-17 |
 | In-IDE Generation-based Information Support with a Large Language Model | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2023-07-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-07-16 |

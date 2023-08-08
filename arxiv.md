@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
 | Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | None | 2023-07-27 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
@@ -35,7 +36,6 @@
 | Program Repair | [2211.12787](http://arxiv.org/abs/2211.12787) | None | 2022-11-23 |
 | Repairing Bugs in Python Assignments Using Large Language Models | [2209.14876](http://arxiv.org/abs/2209.14876) | None | 2022-09-29 |
 | CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
-| Examining Zero-Shot Vulnerability Repair with Large Language Models | [2112.02125](http://arxiv.org/abs/2112.02125) | None | 2022-08-15 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Who is Smarter? An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-05 |
+| LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
+| ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | None | 2023-08-04 |
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
 | Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |
@@ -72,9 +75,6 @@
 | ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The   Unknown | [2307.10195](http://arxiv.org/abs/2307.10195) | https://github.com/markscanlonucd/chatgpt-for-digital-forensics | 2023-07-10 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
-| Copilot for Xcode: Exploring AI-Assisted Programming by Prompting   Cloud-based Large Language Models | [2307.14349](http://arxiv.org/abs/2307.14349) | None | 2023-07-08 |
-| Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-07-06 |
-| A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | https://github.com/ntunlp/chatgpt_eval | 2023-07-05 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

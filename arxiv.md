@@ -1,4 +1,4 @@
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-08-08 |
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
 | Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | None | 2023-07-27 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
@@ -25,7 +26,6 @@
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-05-24 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
 | Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
-| Constructing Effective In-Context Demonstration for Code Intelligence   Tasks: An Empirical Study | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-04-15 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-04-11 |
 | Towards Generating Functionally Correct Code Edits from Natural Language   Issue Descriptions | [2304.03816](http://arxiv.org/abs/2304.03816) | None | 2023-04-07 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
@@ -41,11 +41,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-08-08 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
 | Automatic Code Summarization via ChatGPT: How Far Are We? | [2305.12865](http://arxiv.org/abs/2305.12865) | None | 2023-05-22 |
 | ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for   Programming Languages | [2212.06742](http://arxiv.org/abs/2212.06742) | https://github.com/PaddlePaddle/PaddleNLP | 2023-05-19 |
-| Constructing Effective In-Context Demonstration for Code Intelligence   Tasks: An Empirical Study | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-04-15 |
 | Improving Few-Shot Prompts with Relevant Static Analysis Products | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2023-04-13 |
 | Exploring Distributional Shifts in Large Language Models for Code   Analysis | [2303.09128](http://arxiv.org/abs/2303.09128) | None | 2023-03-16 |
 | Few-shot training LLMs for project-specific code-summarization | [2207.04237](http://arxiv.org/abs/2207.04237) | None | 2022-09-08 |
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-08-08 |
 | Who is Smarter? An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-05 |
 | LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
 | ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | None | 2023-08-04 |
@@ -74,7 +75,6 @@
 | CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/CodeGen | 2023-07-11 |
 | ChatGPT for Digital Forensic Investigation: The Good, The Bad, and The   Unknown | [2307.10195](http://arxiv.org/abs/2307.10195) | https://github.com/markscanlonucd/chatgpt-for-digital-forensics | 2023-07-10 |
 | Calculating Originality of LLM Assisted Source Code | [2307.04492](http://arxiv.org/abs/2307.04492) | None | 2023-07-10 |
-| RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

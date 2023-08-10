@@ -1,4 +1,4 @@
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -80,6 +80,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | None | 2023-08-09 |
 | Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2023-08-06 |
 | ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned   Samples in NLP | [2308.02122](http://arxiv.org/abs/2308.02122) | None | 2023-08-04 |
 | SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
@@ -91,7 +92,6 @@
 | LmPa: Improving Decompilation by Synergy of Large Language Model and   Program Analysis | [2306.02546](http://arxiv.org/abs/2306.02546) | None | 2023-06-05 |
 | Transformer-based Vulnerability Detection in Code at EditTime:   Zero-shot, Few-shot, or Fine-tuning? | [2306.01754](http://arxiv.org/abs/2306.01754) | None | 2023-05-23 |
 | Large Language Models are Edge-Case Fuzzers: Testing Deep Learning   Libraries via FuzzGPT | [2304.02014](http://arxiv.org/abs/2304.02014) | None | 2023-04-04 |
-| DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | None | 2023-04-01 |
 | Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning   Libraries via Large Language Models | [2212.14834](http://arxiv.org/abs/2212.14834) | None | 2023-03-07 |
 | Detecting software vulnerabilities using Language Models | [2302.11773](http://arxiv.org/abs/2302.11773) | None | 2023-02-23 |
 | Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors | [2210.02506](http://arxiv.org/abs/2210.02506) | https://github.com/asgaardlab/LLMxBugs | 2022-10-05 |

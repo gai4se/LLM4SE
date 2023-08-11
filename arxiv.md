@@ -59,7 +59,7 @@
 | A Comparative Study of Code Generation using ChatGPT 3.5 across 10   Programming Languages | [2308.04477](http://arxiv.org/abs/2308.04477) | None | 2023-08-08 |
 | Who is Smarter? An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-05 |
 | LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
-| ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | None | 2023-08-04 |
+| ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
 | Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |

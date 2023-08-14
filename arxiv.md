@@ -1,4 +1,4 @@
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-10 |
+| In-IDE Generation-based Information Support with a Large Language Model | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2023-08-10 |
 | No Need to Lift a Finger Anymore? Assessing the Quality of Code   Generation by ChatGPT | [2308.04838](http://arxiv.org/abs/2308.04838) | None | 2023-08-09 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | A Comparative Study of Code Generation using ChatGPT 3.5 across 10   Programming Languages | [2308.04477](http://arxiv.org/abs/2308.04477) | None | 2023-08-08 |
@@ -67,12 +69,10 @@
 | PanGu-Coder2: Boosting Large Language Models for Code with Ranking   Feedback | [2307.14936](http://arxiv.org/abs/2307.14936) | None | 2023-07-27 |
 | FacTool: Factuality Detection in Generative AI -- A Tool Augmented   Framework for Multi-Task and Multi-Domain Scenarios | [2307.13528](http://arxiv.org/abs/2307.13528) | https://github.com/gair-nlp/factool | 2023-07-26 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-07-24 |
-| ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-07-24 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-07-19 |
 | Code Detection for Hardware Acceleration Using Large Language Models | [2307.10348](http://arxiv.org/abs/2307.10348) | None | 2023-07-19 |
 | A Lightweight Framework for High-Quality Code Generation | [2307.08220](http://arxiv.org/abs/2307.08220) | None | 2023-07-17 |
-| In-IDE Generation-based Information Support with a Large Language Model | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2023-07-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-07-16 |
 | CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/CodeGen | 2023-07-11 |
 
@@ -108,7 +108,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-07-24 |
+| ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-10 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | None | 2023-07-18 |
 | ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |

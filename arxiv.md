@@ -55,6 +55,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-08-17 |
+| CodeCoT and Beyond: Learning to Program and Test like a Developer | [2308.08784](http://arxiv.org/abs/2308.08784) | None | 2023-08-17 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-08-16 |
 | AceCoder: Utilizing Existing Code to Enhance Code Generation | [2303.17780](http://arxiv.org/abs/2303.17780) | None | 2023-08-11 |
 | Structured Chain-of-Thought Prompting for Code Generation | [2305.06599](http://arxiv.org/abs/2305.06599) | None | 2023-08-11 |
@@ -74,8 +76,6 @@
 | FacTool: Factuality Detection in Generative AI -- A Tool Augmented   Framework for Multi-Task and Multi-Domain Scenarios | [2307.13528](http://arxiv.org/abs/2307.13528) | https://github.com/gair-nlp/factool | 2023-07-26 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-07-24 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-07-19 |
-| Code Detection for Hardware Acceleration Using Large Language Models | [2307.10348](http://arxiv.org/abs/2307.10348) | None | 2023-07-19 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

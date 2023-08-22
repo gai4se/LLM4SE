@@ -1,4 +1,4 @@
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,6 +55,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-19 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-08-17 |
 | CodeCoT and Beyond: Learning to Program and Test like a Developer | [2308.08784](http://arxiv.org/abs/2308.08784) | None | 2023-08-17 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-08-16 |
@@ -65,7 +66,6 @@
 | No Need to Lift a Finger Anymore? Assessing the Quality of Code   Generation by ChatGPT | [2308.04838](http://arxiv.org/abs/2308.04838) | None | 2023-08-09 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | A Comparative Study of Code Generation using ChatGPT 3.5 across 10   Programming Languages | [2308.04477](http://arxiv.org/abs/2308.04477) | None | 2023-08-08 |
-| Who is Smarter? An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-05 |
 | LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
 | ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |

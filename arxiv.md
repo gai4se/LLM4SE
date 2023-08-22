@@ -55,7 +55,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | None | 2023-08-21 |
+| A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-20 |
 | An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-19 |
+| Inductive-bias Learning: Generating Code Models with Large Language   Model | [2308.09890](http://arxiv.org/abs/2308.09890) | https://github.com/fuyu-quant/iblm | 2023-08-19 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-08-17 |
 | CodeCoT and Beyond: Learning to Program and Test like a Developer | [2308.08784](http://arxiv.org/abs/2308.08784) | None | 2023-08-17 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality-Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-08-16 |
@@ -73,9 +76,6 @@
 | Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |
 | Private-Library-Oriented Code Generation with Large Language Models | [2307.15370](http://arxiv.org/abs/2307.15370) | None | 2023-07-28 |
 | PanGu-Coder2: Boosting Large Language Models for Code with Ranking   Feedback | [2307.14936](http://arxiv.org/abs/2307.14936) | None | 2023-07-27 |
-| FacTool: Factuality Detection in Generative AI -- A Tool Augmented   Framework for Multi-Task and Multi-Domain Scenarios | [2307.13528](http://arxiv.org/abs/2307.13528) | https://github.com/gair-nlp/factool | 2023-07-26 |
-| A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-07-24 |
-| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

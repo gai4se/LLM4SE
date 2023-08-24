@@ -55,6 +55,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Self-consistency for open-ended generations | [2307.06857](http://arxiv.org/abs/2307.06857) | None | 2023-08-23 |
 | Towards an Understanding of Large Language Models in Software   Engineering Tasks | [2308.11396](http://arxiv.org/abs/2308.11396) | None | 2023-08-22 |
 | Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | None | 2023-08-21 |
 | A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-20 |
@@ -75,7 +76,6 @@
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
 | Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |
-| Private-Library-Oriented Code Generation with Large Language Models | [2307.15370](http://arxiv.org/abs/2307.15370) | None | 2023-07-28 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

@@ -41,6 +41,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2023-08-14 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
@@ -55,6 +56,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Self-consistency for open-ended generations | [2307.06857](http://arxiv.org/abs/2307.06857) | None | 2023-08-23 |
 | Towards an Understanding of Large Language Models in Software   Engineering Tasks | [2308.11396](http://arxiv.org/abs/2308.11396) | None | 2023-08-22 |
 | Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | None | 2023-08-21 |
@@ -75,12 +77,12 @@
 | ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
-| Promptly: Using Prompt Problems to Teach Learners How to Effectively   Utilize AI Code Generators | [2307.16364](http://arxiv.org/abs/2307.16364) | None | 2023-07-31 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |
 | DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | https://github.com/wagner-group/diversevul | 2023-08-09 |
 | Universal Fuzzing via Large Language Models | [2308.04748](http://arxiv.org/abs/2308.04748) | None | 2023-08-09 |

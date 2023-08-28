@@ -41,6 +41,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SoTaNa: The Open-Source Software Development Assistant | [2308.13416](http://arxiv.org/abs/2308.13416) | https://github.com/deepsoftwareanalytics/sotana | 2023-08-25 |
 | Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2023-08-14 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
@@ -56,6 +57,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Does Asking Clarifying Questions Increases Confidence in Generated Code?   On the Communication Skills of Large Language Models | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2023-08-25 |
 | Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Self-consistency for open-ended generations | [2307.06857](http://arxiv.org/abs/2307.06857) | None | 2023-08-23 |
 | Towards an Understanding of Large Language Models in Software   Engineering Tasks | [2308.11396](http://arxiv.org/abs/2308.11396) | None | 2023-08-22 |
@@ -76,12 +78,12 @@
 | LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
 | ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
 | Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
-| How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-08-01 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel   Patching | [2308.13062](http://arxiv.org/abs/2308.13062) | None | 2023-08-24 |
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |
 | DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | https://github.com/wagner-group/diversevul | 2023-08-09 |

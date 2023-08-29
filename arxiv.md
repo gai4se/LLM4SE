@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic   Bug Fixing | [2308.14460](http://arxiv.org/abs/2308.14460) | None | 2023-08-28 |
 | Better patching using LLM prompting, via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-08-16 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
@@ -35,7 +36,6 @@
 | Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 | Program Repair | [2211.12787](http://arxiv.org/abs/2211.12787) | None | 2022-11-23 |
 | Repairing Bugs in Python Assignments Using Large Language Models | [2209.14876](http://arxiv.org/abs/2209.14876) | None | 2022-09-29 |
-| CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -114,7 +114,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | None | 2023-08-28 |
+| Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-08-28 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning (Practical Experience Report) | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-08-22 |
 | ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-10 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |

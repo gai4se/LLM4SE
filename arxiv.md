@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,12 +57,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-27 |
 | Does Asking Clarifying Questions Increases Confidence in Generated Code?   On the Communication Skills of Large Language Models | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2023-08-25 |
 | Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Self-consistency for open-ended generations | [2307.06857](http://arxiv.org/abs/2307.06857) | None | 2023-08-23 |
 | Towards an Understanding of Large Language Models in Software   Engineering Tasks | [2308.11396](http://arxiv.org/abs/2308.11396) | None | 2023-08-22 |
 | Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | None | 2023-08-21 |
-| A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-20 |
 | An Empirical Study of AI-based Smart Contract Creation | [2308.02955](http://arxiv.org/abs/2308.02955) | None | 2023-08-19 |
 | Inductive-bias Learning: Generating Code Models with Large Language   Model | [2308.09890](http://arxiv.org/abs/2308.09890) | https://github.com/fuyu-quant/iblm | 2023-08-19 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-08-17 |
@@ -114,10 +114,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | None | 2023-08-28 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning (Practical Experience Report) | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-08-22 |
 | ChatGPT for Software Security: Exploring the Strengths and Limitations   of ChatGPT in the Security Applications | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-10 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | None | 2023-07-18 |
 | ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |
 | CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
 

@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
 | STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic   Bug Fixing | [2308.14460](http://arxiv.org/abs/2308.14460) | None | 2023-08-28 |
 | Better patching using LLM prompting, via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-08-16 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
@@ -35,7 +36,6 @@
 | InferFix: End-to-End Program Repair with LLMs | [2303.07263](http://arxiv.org/abs/2303.07263) | None | 2023-03-13 |
 | Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 | Program Repair | [2211.12787](http://arxiv.org/abs/2211.12787) | None | 2022-11-23 |
-| Repairing Bugs in Python Assignments Using Large Language Models | [2209.14876](http://arxiv.org/abs/2209.14876) | None | 2022-09-29 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -57,7 +57,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-29 |
+| When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-08-29 |
+| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-08-29 |
+| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
 | A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-27 |
 | Does Asking Clarifying Questions Increases Confidence in Generated Code?   On the Communication Skills of Large Language Models | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2023-08-25 |
 | Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
@@ -76,8 +78,6 @@
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | A Comparative Study of Code Generation using ChatGPT 3.5 across 10   Programming Languages | [2308.04477](http://arxiv.org/abs/2308.04477) | None | 2023-08-08 |
 | LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
-| ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
-| Self-planning Code Generation with Large Language Models | [2303.06689](http://arxiv.org/abs/2303.06689) | None | 2023-08-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
@@ -114,7 +114,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | None | 2023-08-29 |
+| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-08-28 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning (Practical Experience Report) | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-08-22 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |

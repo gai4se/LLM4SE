@@ -57,6 +57,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AskIt: Unified Programming Interface for Programming with Large Language   Models | [2308.15645](http://arxiv.org/abs/2308.15645) | https://github.com/katsumiok/pyaskit | 2023-08-29 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-08-29 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-08-29 |
 | The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
@@ -77,12 +78,12 @@
 | No Need to Lift a Finger Anymore? Assessing the Quality of Code   Generation by ChatGPT | [2308.04838](http://arxiv.org/abs/2308.04838) | None | 2023-08-09 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | A Comparative Study of Code Generation using ChatGPT 3.5 across 10   Programming Languages | [2308.04477](http://arxiv.org/abs/2308.04477) | None | 2023-08-08 |
-| LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code   Generation | [2308.02828](http://arxiv.org/abs/2308.02828) | None | 2023-08-05 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | None | 2023-08-30 |
 | ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel   Patching | [2308.13062](http://arxiv.org/abs/2308.13062) | None | 2023-08-24 |
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |

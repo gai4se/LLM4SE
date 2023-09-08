@@ -57,8 +57,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| AceCoder: Utilizing Existing Code to Enhance Code Generation | [2303.17780](http://arxiv.org/abs/2303.17780) | None | 2023-09-07 |
 | Structured Chain-of-Thought Prompting for Code Generation | [2305.06599](http://arxiv.org/abs/2305.06599) | None | 2023-09-07 |
+| AceCoder: Utilizing Existing Code to Enhance Code Generation | [2303.17780](http://arxiv.org/abs/2303.17780) | None | 2023-09-07 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | None | 2023-09-06 |
 | Improving Code Generation by Dynamic Temperature Sampling | [2309.02772](http://arxiv.org/abs/2309.02772) | None | 2023-09-06 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-09-02 |

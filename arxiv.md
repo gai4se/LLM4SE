@@ -1,4 +1,4 @@
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,6 +57,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-09-08 |
 | Structured Chain-of-Thought Prompting for Code Generation | [2305.06599](http://arxiv.org/abs/2305.06599) | None | 2023-09-07 |
 | AceCoder: Utilizing Existing Code to Enhance Code Generation | [2303.17780](http://arxiv.org/abs/2303.17780) | None | 2023-09-07 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2023-09-06 |
@@ -64,7 +65,6 @@
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-09-02 |
 | LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-09-01 |
 | AskIt: Unified Programming Interface for Programming with Large Language   Models | [2308.15645](http://arxiv.org/abs/2308.15645) | https://github.com/katsumiok/pyaskit | 2023-08-29 |
-| When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-08-29 |
 | The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
 | A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-27 |
 | Does Asking Clarifying Questions Increases Confidence in Generated Code?   On the Communication Skills of Large Language Models | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2023-08-25 |

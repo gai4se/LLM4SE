@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,11 +20,15 @@
 | Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
 | STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic   Bug Fixing | [2308.14460](http://arxiv.org/abs/2308.14460) | None | 2023-08-28 |
 | Better patching using LLM prompting, via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-08-16 |
+| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
+| Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
+| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
+| Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
+| An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
+| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-05-24 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
 | Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
-| Automated Program Repair Based on Code Review: How do Pre-trained   Transformer Models Perform? | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-04-16 |
-| Constructing Effective In-Context Demonstration for Code Intelligence   Tasks: An Empirical Study | [2304.07575](http://arxiv.org/abs/2304.07575) | None | 2023-04-15 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-04-11 |
 | Towards Generating Functionally Correct Code Edits from Natural Language   Issue Descriptions | [2304.03816](http://arxiv.org/abs/2304.03816) | None | 2023-04-07 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
@@ -32,10 +36,6 @@
 | Revisiting the Plastic Surgery Hypothesis via Large Language Models | [2303.10494](http://arxiv.org/abs/2303.10494) | None | 2023-03-18 |
 | InferFix: End-to-End Program Repair with LLMs | [2303.07263](http://arxiv.org/abs/2303.07263) | None | 2023-03-13 |
 | Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
-| Program Repair | [2211.12787](http://arxiv.org/abs/2211.12787) | None | 2022-11-23 |
-| Repairing Bugs in Python Assignments Using Large Language Models | [2209.14876](http://arxiv.org/abs/2209.14876) | None | 2022-09-29 |
-| CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
-| Examining Zero-Shot Vulnerability Repair with Large Language Models | [2112.02125](http://arxiv.org/abs/2112.02125) | None | 2022-08-15 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -67,25 +67,25 @@
 | Code-Style In-Context Learning for Knowledge-Based Question Answering | [2309.04695](http://arxiv.org/abs/2309.04695) | None | 2023-09-09 |
 | Beyond Static Datasets: A Deep Interaction Approach to LLM Evaluation | [2309.04369](http://arxiv.org/abs/2309.04369) | None | 2023-09-08 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-09-08 |
-| Structured Chain-of-Thought Prompting for Code Generation | [2305.06599](http://arxiv.org/abs/2305.06599) | None | 2023-09-07 |
-| AceCoder: Utilizing Existing Code to Enhance Code Generation | [2303.17780](http://arxiv.org/abs/2303.17780) | None | 2023-09-07 |
-| Improving Code Generation by Dynamic Temperature Sampling | [2309.02772](http://arxiv.org/abs/2309.02772) | None | 2023-09-06 |
-| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-09-02 |
-| LEVER: Learning to Verify Language-to-Code Generation with Execution | [2302.08468](http://arxiv.org/abs/2302.08468) | https://github.com/niansong1996/lever | 2023-09-01 |
-| AskIt: Unified Programming Interface for Programming with Large Language   Models | [2308.15645](http://arxiv.org/abs/2308.15645) | https://github.com/katsumiok/pyaskit | 2023-08-29 |
-| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
-| A Study on Robustness and Reliability of Large Language Model Code   Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-08-27 |
-| Does Asking Clarifying Questions Increases Confidence in Generated Code?   On the Communication Skills of Large Language Models | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2023-08-25 |
-| Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
 | Enhancing Network Management Using Code Generated by Large Language   Models | [2308.06261](http://arxiv.org/abs/2308.06261) | None | 2023-08-11 |
+| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
+| ChatGPT for GTFS: From Words to Information | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-08-04 |
+| Outline, Then Details: Syntactically Guided Coarse-To-Fine Code   Generation | [2305.00909](http://arxiv.org/abs/2305.00909) | https://github.com/vita-group/chaincoder | 2023-07-19 |
+| CodeGen2: Lessons for Training LLMs on Programming and Natural Languages | [2305.02309](http://arxiv.org/abs/2305.02309) | https://github.com/salesforce/CodeGen | 2023-07-11 |
+| RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-07-10 |
+| From Human Days to Machine Seconds: Automatically Answering and   Generating Machine Learning Final Exams | [2206.05442](http://arxiv.org/abs/2206.05442) | None | 2023-06-28 |
+| Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of   Large Language Models for Code Generation | [2305.01210](http://arxiv.org/abs/2305.01210) | https://github.com/evalplus/evalplus | 2023-06-12 |
+| Is AI the better programming partner? Human-Human Pair Programming vs.   Human-AI pAIr Programming | [2306.05153](http://arxiv.org/abs/2306.05153) | None | 2023-06-09 |
+| Detecting Phishing Sites Using ChatGPT | [2306.05816](http://arxiv.org/abs/2306.05816) | None | 2023-06-09 |
+| A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark   Datasets | [2305.18486](http://arxiv.org/abs/2305.18486) | None | 2023-06-08 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-12 |
+| When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-14 |
 | FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively   Discovering Jailbreak Vulnerabilities in Large Language Models | [2309.05274](http://arxiv.org/abs/2309.05274) | None | 2023-09-11 |
-| Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | None | 2023-09-06 |
+| Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction | 2023-09-06 |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-09-02 |
 | Effective Test Generation Using Pre-trained Large Language Models and   Mutation Testing | [2308.16557](http://arxiv.org/abs/2308.16557) | https://github.com/expertisemodel/mutap | 2023-08-31 |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | None | 2023-08-30 |

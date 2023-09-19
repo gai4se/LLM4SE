@@ -1,4 +1,4 @@
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,6 +58,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-09-17 |
 | VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | None | 2023-09-14 |
 | Making Network Configuration Human Friendly | [2309.06342](http://arxiv.org/abs/2309.06342) | None | 2023-09-12 |
 | An Empirical Study of NetOps Capability of Pre-Trained Large Language   Models | [2309.05557](http://arxiv.org/abs/2309.05557) | None | 2023-09-12 |
@@ -65,7 +66,6 @@
 | Comparing Llama-2 and GPT-3 LLMs for HPC kernels generation | [2309.07103](http://arxiv.org/abs/2309.07103) | None | 2023-09-12 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-09-11 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2023-09-10 |
-| LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-09-09 |
 | Code-Style In-Context Learning for Knowledge-Based Question Answering | [2309.04695](http://arxiv.org/abs/2309.04695) | None | 2023-09-09 |
 | Beyond Static Datasets: A Deep Interaction Approach to LLM Evaluation | [2309.04369](http://arxiv.org/abs/2309.04369) | None | 2023-09-08 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-09-08 |

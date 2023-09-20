@@ -1,4 +1,4 @@
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,13 +58,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language   Models | [2309.09506](http://arxiv.org/abs/2309.09506) | https://github.com/projectnuwa/layoutnuwa | 2023-09-19 |
+| An Empirical Study of NetOps Capability of Pre-Trained Large Language   Models | [2309.05557](http://arxiv.org/abs/2309.05557) | None | 2023-09-19 |
 | Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract   Code Using Vulnerability-constrained Decoding | [2309.09826](http://arxiv.org/abs/2309.09826) | None | 2023-09-18 |
-| LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language   Models | [2309.09506](http://arxiv.org/abs/2309.09506) | https://github.com/projectnuwa/layoutnuwa | 2023-09-18 |
 | PwR: Exploring the Role of Representations in Conversational Programming | [2309.09495](http://arxiv.org/abs/2309.09495) | None | 2023-09-18 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-09-17 |
 | VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | None | 2023-09-14 |
 | Making Network Configuration Human Friendly | [2309.06342](http://arxiv.org/abs/2309.06342) | None | 2023-09-12 |
-| An Empirical Study of NetOps Capability of Pre-Trained Large Language   Models | [2309.05557](http://arxiv.org/abs/2309.05557) | None | 2023-09-12 |
 | Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-12 |
 | Comparing Llama-2 and GPT-3 LLMs for HPC kernels generation | [2309.07103](http://arxiv.org/abs/2309.07103) | None | 2023-09-12 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-09-11 |

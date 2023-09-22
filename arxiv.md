@@ -1,4 +1,4 @@
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-09-20 |
 | Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | None | 2023-09-11 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-09-01 |
 | Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
@@ -26,7 +27,6 @@
 | Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
 | An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
-| GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-05-24 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
 | Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-04-11 |

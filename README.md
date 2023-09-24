@@ -137,7 +137,7 @@ The collection is actively updated with the help of an internal literature searc
 
 </details>
 
-<a name="popular-model-list"></a>`
+<a name="popular-model-list"></a>
 
 ## Popular Model List
 
@@ -153,7 +153,7 @@ The collection is actively updated with the help of an internal literature searc
 | 2020-2  | GraphCodeBERT | [link](https://arxiv.org/abs/2009.08366) |                           | [source](https://github.com/microsoft/CodeBERT#graphcodebert)      |
 | 2020-1  | CodeBERT      | [link](https://arxiv.org/abs/2002.08155) |                           | [source](https://github.com/microsoft/CodeBERT)                    |
 
-<a name="paper-list"></a>`
+<a name="paper-list"></a>
 
 ## Paper List
 
@@ -221,7 +221,7 @@ The collection is actively updated with the help of an internal literature searc
 
 </details>
 
-<a name="paper-stats"></a>`
+<a name="paper-stats"></a>
 
 ## Paper Stats
 

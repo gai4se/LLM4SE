@@ -10,7 +10,7 @@ The collection is actively updated with the help of an internal literature searc
 | [Paper Stats](#paper-stats) |
 | [Recent Preprints](./arxiv.md) |
 
-<a name="model-list"></a>`
+<a name="model-list"></a>
 
 ## Model List
 

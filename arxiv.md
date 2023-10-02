@@ -1,4 +1,4 @@
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,6 +58,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-29 |
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2023-09-28 |
 | From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven   AI Chaining | [2309.15606](http://arxiv.org/abs/2309.15606) | None | 2023-09-27 |
 | ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2023-09-27 |
@@ -72,7 +73,6 @@
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-09-17 |
 | VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | None | 2023-09-14 |
 | Making Network Configuration Human Friendly | [2309.06342](http://arxiv.org/abs/2309.06342) | None | 2023-09-12 |
-| Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-12 |
 | Comparing Llama-2 and GPT-3 LLMs for HPC kernels generation | [2309.07103](http://arxiv.org/abs/2309.07103) | None | 2023-09-12 |
 | Self-Edit: Fault-Aware Code Editor for Code Generation | [2305.04087](http://arxiv.org/abs/2305.04087) | None | 2023-09-11 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2023-09-10 |

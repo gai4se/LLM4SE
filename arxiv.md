@@ -1,4 +1,4 @@
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,13 +58,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-10-01 |
 | L2CEval: Evaluating Language-to-Code Generation Capabilities of Large   Language Models | [2309.17446](http://arxiv.org/abs/2309.17446) | None | 2023-09-29 |
 | Enhancing Large Language Models in Coding Through Multi-Perspective   Self-Consistency | [2309.17272](http://arxiv.org/abs/2309.17272) | None | 2023-09-29 |
 | Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-29 |
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2023-09-28 |
 | From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven   AI Chaining | [2309.15606](http://arxiv.org/abs/2309.15606) | None | 2023-09-27 |
 | ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2023-09-27 |
-| Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-09-26 |
 | How Novices Use LLM-Based Code Generators to Solve CS1 Coding Tasks in a   Self-Paced Learning Environment | [2309.14049](http://arxiv.org/abs/2309.14049) | None | 2023-09-25 |
 | LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot   Compression | [2309.14021](http://arxiv.org/abs/2309.14021) | None | 2023-09-25 |
 | OpenAi's GPT4 as coding assistant | [2309.12732](http://arxiv.org/abs/2309.12732) | https://github.com/lmous/openai-gpt4-coding-assistant | 2023-09-22 |
@@ -84,6 +84,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | None | 2023-10-01 |
 | Smart Fuzzing of 5G Wireless Software Implementation | [2309.12994](http://arxiv.org/abs/2309.12994) | None | 2023-09-22 |
 | GPTFUZZER : Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-09-19 |
 | When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-14 |
@@ -91,7 +92,6 @@
 | Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction | 2023-09-06 |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-09-02 |
 | Effective Test Generation Using Pre-trained Large Language Models and   Mutation Testing | [2308.16557](http://arxiv.org/abs/2308.16557) | https://github.com/expertisemodel/mutap | 2023-08-31 |
-| Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | None | 2023-08-30 |
 | ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel   Patching | [2308.13062](http://arxiv.org/abs/2308.13062) | None | 2023-08-24 |
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |

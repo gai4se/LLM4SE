@@ -16,6 +16,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-10-02 |
+| Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in   Code Models | [2310.01166](http://arxiv.org/abs/2310.01166) | None | 2023-10-02 |
 | Frustrated with Code Quality Issues? LLMs can Help! | [2309.12938](http://arxiv.org/abs/2309.12938) | None | 2023-09-22 |
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-09-20 |
 | Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | None | 2023-09-11 |
@@ -35,7 +36,6 @@
 | Towards Generating Functionally Correct Code Edits from Natural Language   Issue Descriptions | [2304.03816](http://arxiv.org/abs/2304.03816) | None | 2023-04-07 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
 | Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each   using ChatGPT | [2304.00385](http://arxiv.org/abs/2304.00385) | None | 2023-04-01 |
-| Revisiting the Plastic Surgery Hypothesis via Large Language Models | [2303.10494](http://arxiv.org/abs/2303.10494) | None | 2023-03-18 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -59,7 +59,13 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-03 |
+| Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | None | 2023-10-03 |
+| Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-03 |
+| Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-10-03 |
+| Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-03 |
+| GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | None | 2023-10-02 |
+| L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-10-02 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-10-02 |
 | L2CEval: Evaluating Language-to-Code Generation Capabilities of Large   Language Models | [2309.17446](http://arxiv.org/abs/2309.17446) | None | 2023-10-02 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-10-01 |
@@ -73,18 +79,13 @@
 | ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2023-09-27 |
 | How Novices Use LLM-Based Code Generators to Solve CS1 Coding Tasks in a   Self-Paced Learning Environment | [2309.14049](http://arxiv.org/abs/2309.14049) | None | 2023-09-25 |
 | LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot   Compression | [2309.14021](http://arxiv.org/abs/2309.14021) | None | 2023-09-25 |
-| OpenAi's GPT4 as coding assistant | [2309.12732](http://arxiv.org/abs/2309.12732) | https://github.com/lmous/openai-gpt4-coding-assistant | 2023-09-22 |
-| GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-09-20 |
-| LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language   Models | [2309.09506](http://arxiv.org/abs/2309.09506) | https://github.com/projectnuwa/layoutnuwa | 2023-09-19 |
-| Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract   Code Using Vulnerability-constrained Decoding | [2309.09826](http://arxiv.org/abs/2309.09826) | None | 2023-09-18 |
-| PwR: Exploring the Role of Representations in Conversational Programming | [2309.09495](http://arxiv.org/abs/2309.09495) | None | 2023-09-18 |
-| VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | None | 2023-09-14 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | https://github.com/ISU-PAAL/DeepDFA | 2023-10-01 |
+| Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2023-09-30 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-09-29 |
 | Smart Fuzzing of 5G Wireless Software Implementation | [2309.12994](http://arxiv.org/abs/2309.12994) | None | 2023-09-22 |
 | GPTFUZZER : Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-09-19 |
@@ -104,7 +105,6 @@
 | ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 | Understanding Programs by Exploiting (Fuzzing) Test Cases | [2305.13592](http://arxiv.org/abs/2305.13592) | https://github.com/rabbitjy/fuzztuning | 2023-06-12 |
 | Augmenting Greybox Fuzzing with Generative AI | [2306.06782](http://arxiv.org/abs/2306.06782) | None | 2023-06-11 |
-| Analysis of ChatGPT on Source Code | [2306.00597](http://arxiv.org/abs/2306.00597) | None | 2023-06-06 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

@@ -59,6 +59,8 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
+| Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
+| Reinforcement Learning from Automatic Feedback for High-Quality Unit   Test Generation | [2310.02368](http://arxiv.org/abs/2310.02368) | None | 2023-10-03 |
 | Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
 | Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-03 |
 | Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
@@ -77,8 +79,6 @@
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2023-09-28 |
 | From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven   AI Chaining | [2309.15606](http://arxiv.org/abs/2309.15606) | None | 2023-09-27 |
 | ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2023-09-27 |
-| How Novices Use LLM-Based Code Generators to Solve CS1 Coding Tasks in a   Self-Paced Learning Environment | [2309.14049](http://arxiv.org/abs/2309.14049) | None | 2023-09-25 |
-| LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot   Compression | [2309.14021](http://arxiv.org/abs/2309.14021) | None | 2023-09-25 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

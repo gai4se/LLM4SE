@@ -1,4 +1,4 @@
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,13 +58,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-03 |
-| Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | None | 2023-10-03 |
+| LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
+| Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
 | Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-03 |
 | Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-10-03 |
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-03 |
-| GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | None | 2023-10-02 |
+| GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2023-10-02 |
 | L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-10-02 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-10-02 |
 | L2CEval: Evaluating Language-to-Code Generation Capabilities of Large   Language Models | [2309.17446](http://arxiv.org/abs/2309.17446) | None | 2023-10-02 |
@@ -84,11 +84,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-10-04 |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | https://github.com/ISU-PAAL/DeepDFA | 2023-10-01 |
 | Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2023-09-30 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-09-29 |
 | Smart Fuzzing of 5G Wireless Software Implementation | [2309.12994](http://arxiv.org/abs/2309.12994) | None | 2023-09-22 |
-| GPTFUZZER : Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-09-19 |
 | When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-14 |
 | FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively   Discovering Jailbreak Vulnerabilities in Large Language Models | [2309.05274](http://arxiv.org/abs/2309.05274) | None | 2023-09-11 |
 | Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction | 2023-09-06 |

@@ -16,7 +16,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
-| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-10-02 |
+| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in   Code Models | [2310.01166](http://arxiv.org/abs/2310.01166) | None | 2023-10-02 |
 | Frustrated with Code Quality Issues? LLMs can Help! | [2309.12938](http://arxiv.org/abs/2309.12938) | None | 2023-09-22 |
 | GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-09-20 |
@@ -58,7 +58,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
+| Unlock Predictable Scaling from Emergent Abilities | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2023-10-05 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
+| $\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program   Synthesis | [2310.03173](http://arxiv.org/abs/2310.03173) | None | 2023-10-04 |
 | Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
 | Reinforcement Learning from Automatic Feedback for High-Quality Unit   Test Generation | [2310.02368](http://arxiv.org/abs/2310.02368) | None | 2023-10-03 |
 | Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
@@ -68,17 +71,14 @@
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-03 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2023-10-02 |
 | L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-10-02 |
-| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | None | 2023-10-02 |
+| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | L2CEval: Evaluating Language-to-Code Generation Capabilities of Large   Language Models | [2309.17446](http://arxiv.org/abs/2309.17446) | None | 2023-10-02 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-10-01 |
 | CRITIC: Large Language Models Can Self-Correct with Tool-Interactive   Critiquing | [2305.11738](http://arxiv.org/abs/2305.11738) | https://github.com/microsoft/ProphetNet | 2023-09-30 |
-| CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | None | 2023-09-29 |
+| CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-09-29 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-09-29 |
 | Enhancing Large Language Models in Coding Through Multi-Perspective   Self-Consistency | [2309.17272](http://arxiv.org/abs/2309.17272) | None | 2023-09-29 |
 | Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-29 |
-| Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2023-09-28 |
-| From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven   AI Chaining | [2309.15606](http://arxiv.org/abs/2309.15606) | None | 2023-09-27 |
-| ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2023-09-27 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

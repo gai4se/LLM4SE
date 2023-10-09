@@ -1,4 +1,4 @@
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,12 +60,12 @@
 | --- | --- | --- | --- |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
 | Unlock Predictable Scaling from Emergent Abilities | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2023-10-05 |
+| Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-05 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
 | $\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program   Synthesis | [2310.03173](http://arxiv.org/abs/2310.03173) | None | 2023-10-04 |
 | Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
 | Reinforcement Learning from Automatic Feedback for High-Quality Unit   Test Generation | [2310.02368](http://arxiv.org/abs/2310.02368) | None | 2023-10-03 |
 | Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
-| Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-03 |
 | Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-10-03 |
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-03 |

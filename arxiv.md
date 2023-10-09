@@ -58,9 +58,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract   Code Using Vulnerability-constrained Decoding | [2309.09826](http://arxiv.org/abs/2309.09826) | None | 2023-10-06 |
+| Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-05 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
 | Unlock Predictable Scaling from Emergent Abilities | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2023-10-05 |
-| Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-05 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
 | $\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program   Synthesis | [2310.03173](http://arxiv.org/abs/2310.03173) | None | 2023-10-04 |
 | Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
@@ -78,7 +79,6 @@
 | CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-09-29 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-09-29 |
 | Enhancing Large Language Models in Coding Through Multi-Perspective   Self-Consistency | [2309.17272](http://arxiv.org/abs/2309.17272) | None | 2023-09-29 |
-| Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2023-09-29 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

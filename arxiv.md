@@ -1,4 +1,4 @@
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,6 +58,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-07 |
 | Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract   Code Using Vulnerability-constrained Decoding | [2309.09826](http://arxiv.org/abs/2309.09826) | None | 2023-10-06 |
 | Instance Needs More Care: Rewriting Prompts for Instances Yields Better   Zero-Shot Performance | [2310.02107](http://arxiv.org/abs/2310.02107) | https://github.com/salokr/promptd | 2023-10-05 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
@@ -69,7 +70,6 @@
 | Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
 | Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-10-03 |
-| Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-03 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2023-10-02 |
 | L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-10-02 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |

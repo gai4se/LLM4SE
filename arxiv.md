@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in   Code Models | [2310.01166](http://arxiv.org/abs/2310.01166) | None | 2023-10-02 |
@@ -35,7 +36,6 @@
 | Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
 | Towards Generating Functionally Correct Code Edits from Natural Language   Issue Descriptions | [2304.03816](http://arxiv.org/abs/2304.03816) | None | 2023-04-07 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
-| Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each   using ChatGPT | [2304.00385](http://arxiv.org/abs/2304.00385) | None | 2023-04-01 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -58,8 +58,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-10-10 |
+| TRACE: A Comprehensive Benchmark for Continual Learning in Large   Language Models | [2310.06762](http://arxiv.org/abs/2310.06762) | https://github.com/beyonderxx/trace | 2023-10-10 |
+| Benchmarking and Explaining Large Language Model-based Code Generation:   A Causality-Centric Approach | [2310.06680](http://arxiv.org/abs/2310.06680) | None | 2023-10-10 |
+| Forgetful Large Language Models: Lessons Learned from Using LLMs in   Robot Programming | [2310.06646](http://arxiv.org/abs/2310.06646) | None | 2023-10-10 |
+| What If the TV Was Off? Examining Counterfactual Reasoning Abilities of   Multi-modal Language Models | [2310.06627](http://arxiv.org/abs/2310.06627) | https://github.com/letian2003/c-vqa | 2023-10-10 |
+| CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model | [2310.06266](http://arxiv.org/abs/2310.06266) | None | 2023-10-10 |
 | Integrating Graphs with Large Language Models: Methods and Prospects | [2310.05499](http://arxiv.org/abs/2310.05499) | None | 2023-10-09 |
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2023-10-09 |
+| LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 | The Program Testing Ability of Large Language Models for Code | [2310.05727](http://arxiv.org/abs/2310.05727) | None | 2023-10-09 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2023-10-08 |
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2023-10-07 |
@@ -72,13 +79,6 @@
 | Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
 | Reinforcement Learning from Automatic Feedback for High-Quality Unit   Test Generation | [2310.02368](http://arxiv.org/abs/2310.02368) | None | 2023-10-03 |
 | Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
-| Security Weaknesses of Copilot Generated Code in GitHub | [2310.02059](http://arxiv.org/abs/2310.02059) | None | 2023-10-03 |
-| A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2023-10-03 |
-| GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2023-10-02 |
-| L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-10-02 |
-| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
-| L2CEval: Evaluating Language-to-Code Generation Capabilities of Large   Language Models | [2309.17446](http://arxiv.org/abs/2309.17446) | None | 2023-10-02 |
-| Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-10-01 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

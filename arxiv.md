@@ -1,4 +1,4 @@
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,6 +58,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GameGPT: Multi-agent Collaborative Framework for Game Development | [2310.08067](http://arxiv.org/abs/2310.08067) | None | 2023-10-12 |
+| Large Language Models for Scientific Synthesis, Inference and   Explanation | [2310.07984](http://arxiv.org/abs/2310.07984) | None | 2023-10-12 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-10-10 |
 | TRACE: A Comprehensive Benchmark for Continual Learning in Large   Language Models | [2310.06762](http://arxiv.org/abs/2310.06762) | https://github.com/beyonderxx/trace | 2023-10-10 |
 | Benchmarking and Explaining Large Language Model-based Code Generation:   A Causality-Centric Approach | [2310.06680](http://arxiv.org/abs/2310.06680) | None | 2023-10-10 |
@@ -77,13 +79,12 @@
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | None | 2023-10-04 |
 | $\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program   Synthesis | [2310.03173](http://arxiv.org/abs/2310.03173) | None | 2023-10-04 |
 | Interactive Code Generation via Test-Driven User-Intent Formalization | [2208.05950](http://arxiv.org/abs/2208.05950) | None | 2023-10-04 |
-| Reinforcement Learning from Automatic Feedback for High-Quality Unit   Test Generation | [2310.02368](http://arxiv.org/abs/2310.02368) | None | 2023-10-03 |
-| Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with   Agent Team Optimization | [2310.02170](http://arxiv.org/abs/2310.02170) | https://github.com/salt-nlp/dylan | 2023-10-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Harnessing the Power of LLM to Support Binary Taint Analysis | [2310.08275](http://arxiv.org/abs/2310.08275) | None | 2023-10-12 |
 | Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2023-10-10 |
 | GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-10-04 |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | https://github.com/ISU-PAAL/DeepDFA | 2023-10-01 |
@@ -104,7 +105,6 @@
 | SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
 | ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 | Understanding Programs by Exploiting (Fuzzing) Test Cases | [2305.13592](http://arxiv.org/abs/2305.13592) | https://github.com/rabbitjy/fuzztuning | 2023-06-12 |
-| Augmenting Greybox Fuzzing with Generative AI | [2306.06782](http://arxiv.org/abs/2306.06782) | None | 2023-06-11 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

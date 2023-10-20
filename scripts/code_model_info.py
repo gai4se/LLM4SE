@@ -51,6 +51,7 @@ def group_models_by_year(model_list):
     
 
     for year in range(2025, 2014, -1):
+        
         if year in year_dict:
             year_dict[year] = sorted(year_dict[year], key=lambda x: x.lastModified, reverse=True)
 
@@ -68,6 +69,13 @@ def group_models_by_year(model_list):
                 cnt += 1
 
             print("\n\n")
+
+    for year in range(2025, 2014, -1):
+
+        if year in year_dict:
+
+            print("year : {} count: {}".format(year, len(year_dict[year])))
+    
 
 
 filtering_language = "code"

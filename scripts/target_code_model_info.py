@@ -50,42 +50,35 @@ def group_models_by_year(model_list):
         year_dict[year].append(model)
     
 
-    # for year in range(2025, 2014, -1):
-    #     if year in year_dict:
-    #         year_dict[year] = sorted(year_dict[year], key=lambda x: x.lastModified, reverse=True)
+    for year in range(2025, 2014, -1):
+        if year in year_dict:
+            year_dict[year] = sorted(year_dict[year], key=lambda x: x.lastModified, reverse=True)
 
-    #         print("### {} {}\n".format(year,len(year_dict[year])))
-            
-    #         print("|  |  |  |")
-    #         print("|:--------:|:--------:|:--------:|")
-    #         cnt = 0
-    #         for model in year_dict[year]:
-    #             if cnt%3 ==0:
-    #                 print("|",end='')
-    #             print("   {}   |".format(model.modelId), end='')
-    #             if cnt%3 ==2:
-    #                 print("")
-    #             cnt += 1
-
-    #         print("\n\n")
+            print("### {} {}\n".format(year,len(year_dict[year])))
 
 
-filtering_language = "code"
-model_list = retrieve_all_huggingface_models(filtering_language)
-group_models_by_year(model_list)
+def print_model_list(model_list):
 
-model_info_dict = {}
+    model_info_dict = {}
 
-for model in model_list:
-    model_info=get_model_information(model)
-    model_info_dict[model_info['date']]=model_info
+    for model in model_list:
+        model_info=get_model_information(model)
+        model_info_dict[model_info['date']]=model_info
+
+    # sort model_info_dict by date
+    print('| Date | Model Name  | # of Parameters /Model Size | Huggingface  |')
+
+    for date, model_info in model_info_dict.items():
+        # | Year-Id | Model Name  | # of Parameters /Model Size | Huggingface  |
+        
+        # Print the model information
+        print("| {0} | {1} | TBA | {2}/{3} | {4} |".format(model_info['date'], model_info['model name'], model_info['num params'], model_info['model size (MB)'], '[link](https://huggingface.co/{})'.format(model_info['model id'])))
 
 
-# sort model_info_dict by date
-print('| Date | Model Name  | # of Parameters /Model Size | Huggingface  |')
+if __name__ == "__main__":
 
-for date, model_info in model_info_dict.items():
-    # | Year-Id | Model Name  | # of Parameters /Model Size | Huggingface  |
-    
-    # Print the model information
-    print("| {0} | {1} | TBA | {2}/{3} | {4} |".format(model_info['date'], model_info['model name'], model_info['num params'], model_info['model size (MB)'], '[link](https://huggingface.co/{})'.format(model_info['model id'])))
+    filtering_language = "code"
+    model_list = retrieve_all_huggingface_models(filtering_language)
+    group_models_by_year(model_list)
+
+    print_model_list(model_list)

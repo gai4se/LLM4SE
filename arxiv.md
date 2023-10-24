@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | None | 2023-10-23 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-10-19 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
@@ -35,7 +36,6 @@
 | An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
-| Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -59,7 +59,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
+| CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
+| Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | None | 2023-10-23 |
 | Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-22 |
+| Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-10-21 |
+| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-21 |
 | Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | None | 2023-10-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-10-17 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-10-17 |
@@ -74,11 +79,6 @@
 | CoLadder: Supporting Programmers with Hierarchical Code Generation in   Multi-Level Abstraction | [2310.08699](http://arxiv.org/abs/2310.08699) | None | 2023-10-12 |
 | GameGPT: Multi-agent Collaborative Framework for Game Development | [2310.08067](http://arxiv.org/abs/2310.08067) | None | 2023-10-12 |
 | Large Language Models for Scientific Synthesis, Inference and   Explanation | [2310.07984](http://arxiv.org/abs/2310.07984) | https://github.com/zyzisastudyreallyhardguy/llm4sd | 2023-10-12 |
-| TRACE: A Comprehensive Benchmark for Continual Learning in Large   Language Models | [2310.06762](http://arxiv.org/abs/2310.06762) | https://github.com/beyonderxx/trace | 2023-10-10 |
-| Benchmarking and Explaining Large Language Model-based Code Generation:   A Causality-Centric Approach | [2310.06680](http://arxiv.org/abs/2310.06680) | None | 2023-10-10 |
-| Forgetful Large Language Models: Lessons Learned from Using LLMs in   Robot Programming | [2310.06646](http://arxiv.org/abs/2310.06646) | None | 2023-10-10 |
-| What If the TV Was Off? Examining Counterfactual Reasoning Abilities of   Multi-modal Language Models | [2310.06627](http://arxiv.org/abs/2310.06627) | https://github.com/letian2003/c-vqa | 2023-10-10 |
-| CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model | [2310.06266](http://arxiv.org/abs/2310.06266) | None | 2023-10-10 |
 | LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

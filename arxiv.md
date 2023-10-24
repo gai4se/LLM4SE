@@ -1,4 +1,4 @@
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,12 +59,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-22 |
 | Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | None | 2023-10-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-10-17 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-10-17 |
 | Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability   of Large Language Model Code Generation | [2308.10335](http://arxiv.org/abs/2308.10335) | None | 2023-10-17 |
 | Let's reward step by step: Step-Level reward model as the Navigators for   Reasoning | [2310.10080](http://arxiv.org/abs/2310.10080) | None | 2023-10-16 |
-| Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-16 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | Large Language Model-Aware In-Context Learning for Code Generation | [2310.09748](http://arxiv.org/abs/2310.09748) | None | 2023-10-15 |
 | Configuration Validation with Large Language Models | [2310.09690](http://arxiv.org/abs/2310.09690) | https://github.com/ciri4conf/ciri | 2023-10-15 |

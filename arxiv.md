@@ -1,4 +1,4 @@
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,12 +59,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-24 |
 | Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | None | 2023-10-23 |
 | Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-22 |
 | Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-10-21 |
-| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-21 |
 | Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | None | 2023-10-17 |
 | Look Before You Leap: An Exploratory Study of Uncertainty Measurement   for Large Language Models | [2307.10236](http://arxiv.org/abs/2307.10236) | None | 2023-10-17 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-10-17 |

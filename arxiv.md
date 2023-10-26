@@ -1,4 +1,4 @@
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,9 +59,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-25 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-10-24 |
-| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-24 |
 | Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | None | 2023-10-23 |

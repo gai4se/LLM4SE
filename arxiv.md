@@ -15,7 +15,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | None | 2023-10-23 |
+| ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
+| End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | https://github.com/mauricioms/results-generated-with-chatgpt | 2023-10-23 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-10-19 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
@@ -31,16 +32,16 @@
 | Better patching using LLM prompting, via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-08-16 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
-| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
-| An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
 | A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
+| Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
+| Automated Program Repair Based on Code Review: How do Pre-trained   Transformer Models Perform? | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-04-16 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
 | An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
 | Improving Few-Shot Prompts with Relevant Static Analysis Products | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2023-08-29 |
@@ -60,6 +61,8 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-25 |
+| Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
+| Enhancing Large Language Models for Secure Code Generation: A   Dataset-driven Study on Vulnerability Mitigation | [2310.16263](http://arxiv.org/abs/2310.16263) | None | 2023-10-25 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-10-24 |
 | Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
@@ -77,8 +80,6 @@
 | Configuration Validation with Large Language Models | [2310.09690](http://arxiv.org/abs/2310.09690) | https://github.com/ciri4conf/ciri | 2023-10-15 |
 | Improving Code Generation by Dynamic Temperature Sampling | [2309.02772](http://arxiv.org/abs/2309.02772) | None | 2023-10-14 |
 | CoPrompt: Supporting Prompt Sharing and Referring in Collaborative   Natural Language Programming | [2310.09235](http://arxiv.org/abs/2310.09235) | None | 2023-10-13 |
-| CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | None | 2023-10-13 |
-| CoLadder: Supporting Programmers with Hierarchical Code Generation in   Multi-Level Abstraction | [2310.08699](http://arxiv.org/abs/2310.08699) | None | 2023-10-12 |
 | LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

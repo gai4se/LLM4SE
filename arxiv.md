@@ -1,4 +1,4 @@
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,10 +32,10 @@
 | Better patching using LLM prompting, via Self-Consistency | [2306.00108](http://arxiv.org/abs/2306.00108) | None | 2023-08-16 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
+| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
+| Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
+| An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2023-06-29 |
-| A Survey on Automated Program Repair Techniques | [2303.18184](http://arxiv.org/abs/2303.18184) | https://github.com/huangknipc/apr-survey | 2023-05-13 |
-| Fully Autonomous Programming with Large Language Models | [2304.10423](http://arxiv.org/abs/2304.10423) | None | 2023-04-20 |
-| Automated Program Repair Based on Code Review: How do Pre-trained   Transformer Models Perform? | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-04-16 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 

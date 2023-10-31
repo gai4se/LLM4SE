@@ -60,6 +60,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-10-29 |
 | TST$^\mathrm{R}$: Target Similarity Tuning Meets the Real World | [2310.17228](http://arxiv.org/abs/2310.17228) | None | 2023-10-28 |
 | Program Synthesis for Robot Learning from Demonstrations | [2305.03129](http://arxiv.org/abs/2305.03129) | None | 2023-10-26 |
 | Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | None | 2023-10-26 |
@@ -80,12 +81,12 @@
 | Let's reward step by step: Step-Level reward model as the Navigators for   Reasoning | [2310.10080](http://arxiv.org/abs/2310.10080) | None | 2023-10-16 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | Large Language Model-Aware In-Context Learning for Code Generation | [2310.09748](http://arxiv.org/abs/2310.09748) | None | 2023-10-15 |
-| Configuration Validation with Large Language Models | [2310.09690](http://arxiv.org/abs/2310.09690) | https://github.com/ciri4conf/ciri | 2023-10-15 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SkipAnalyzer: An Embodied Agent for Code Analysis with Large Language   Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-10-27 |
 | ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned   Samples in NLP | [2308.02122](http://arxiv.org/abs/2308.02122) | None | 2023-10-27 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
 | Large Language Model-Powered Smart Contract Vulnerability Detection: New   Perspectives | [2310.01152](http://arxiv.org/abs/2310.01152) | https://github.com/git-disl/gptlens | 2023-10-16 |
@@ -106,7 +107,6 @@
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |
 | DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | https://github.com/wagner-group/diversevul | 2023-08-09 |
 | Universal Fuzzing via Large Language Models | [2308.04748](http://arxiv.org/abs/2308.04748) | None | 2023-08-09 |
-| Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2023-08-06 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

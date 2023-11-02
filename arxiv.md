@@ -61,7 +61,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2023-11-01 |
 | Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-11-01 |
+| ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation | [2311.00272](http://arxiv.org/abs/2311.00272) | None | 2023-11-01 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2023-10-31 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-10-31 |
 | SheetCopilot: Bringing Software Productivity to the Next Level through   Large Language Models | [2305.19308](http://arxiv.org/abs/2305.19308) | None | 2023-10-30 |
@@ -78,9 +80,7 @@
 | Enhancing Large Language Models for Secure Code Generation: A   Dataset-driven Study on Vulnerability Mitigation | [2310.16263](http://arxiv.org/abs/2310.16263) | None | 2023-10-25 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-10-24 |
-| Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
-| Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-22 |
 | LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

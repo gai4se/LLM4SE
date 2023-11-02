@@ -1,4 +1,4 @@
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,6 +61,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-11-01 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2023-10-31 |
 | How is ChatGPT's behavior changing over time? | [2307.09009](http://arxiv.org/abs/2307.09009) | https://github.com/lchen001/llmdrift | 2023-10-31 |
 | SheetCopilot: Bringing Software Productivity to the Next Level through   Large Language Models | [2305.19308](http://arxiv.org/abs/2305.19308) | None | 2023-10-30 |
@@ -80,7 +81,6 @@
 | Is GPT-4 a Good Data Analyst? | [2305.15038](http://arxiv.org/abs/2305.15038) | https://github.com/damo-nlp-sg/gpt4-as-dataanalyst | 2023-10-23 |
 | CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
 | Bridging Code Semantic and LLMs: Semantic Chain-of-Thought Prompting for   Code Generation | [2310.10698](http://arxiv.org/abs/2310.10698) | None | 2023-10-22 |
-| Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-10-21 |
 | LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

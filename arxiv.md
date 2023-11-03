@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
 | End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | https://github.com/mauricioms/results-generated-with-chatgpt | 2023-10-23 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-10-19 |
@@ -35,7 +36,6 @@
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
-| An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -61,6 +61,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
+| Generate and Pray: Using SALLMS to Evaluate the Security of LLM   Generated Code | [2311.00889](http://arxiv.org/abs/2311.00889) | None | 2023-11-01 |
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2023-11-01 |
 | Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-11-01 |
 | ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation | [2311.00272](http://arxiv.org/abs/2311.00272) | None | 2023-11-01 |
@@ -79,8 +81,6 @@
 | Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
 | Enhancing Large Language Models for Secure Code Generation: A   Dataset-driven Study on Vulnerability Mitigation | [2310.16263](http://arxiv.org/abs/2310.16263) | None | 2023-10-25 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
-| SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-10-24 |
-| CodeLMSec Benchmark: Systematically Evaluating and Finding Security   Vulnerabilities in Black-Box Code Language Models | [2302.04012](http://arxiv.org/abs/2302.04012) | None | 2023-10-23 |
 | LLM for SoC Security: A Paradigm Shift | [2310.06046](http://arxiv.org/abs/2310.06046) | None | 2023-10-09 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

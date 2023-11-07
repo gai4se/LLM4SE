@@ -61,6 +61,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Retrieval-Augmented Code Generation for Universal Information Extraction | [2311.02962](http://arxiv.org/abs/2311.02962) | None | 2023-11-06 |
+| LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2023-11-05 |
+| Assessing the Promise and Pitfalls of ChatGPT for Automated Code   Generation | [2311.02640](http://arxiv.org/abs/2311.02640) | https://github.com/dsaatusu/chatgpt-promises-and-pitfalls | 2023-11-05 |
+| Can ChatGPT support software verification? | [2311.02433](http://arxiv.org/abs/2311.02433) | None | 2023-11-04 |
 | ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
 | Generate and Pray: Using SALLMS to Evaluate the Security of LLM   Generated Code | [2311.00889](http://arxiv.org/abs/2311.00889) | None | 2023-11-01 |
@@ -78,10 +82,6 @@
 | ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-10-29 |
 | TST$^\mathrm{R}$: Target Similarity Tuning Meets the Real World | [2310.17228](http://arxiv.org/abs/2310.17228) | None | 2023-10-28 |
 | Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | None | 2023-10-26 |
-| GPTutor: an open-source AI pair programming tool alternative to Copilot | [2310.13896](http://arxiv.org/abs/2310.13896) | None | 2023-10-25 |
-| Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
-| Enhancing Large Language Models for Secure Code Generation: A   Dataset-driven Study on Vulnerability Mitigation | [2310.16263](http://arxiv.org/abs/2310.16263) | None | 2023-10-25 |
-| White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

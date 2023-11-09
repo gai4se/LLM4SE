@@ -61,6 +61,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | None | 2023-11-08 |
+| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | None | 2023-11-08 |
 | Retrieval-Augmented Code Generation for Universal Information Extraction | [2311.02962](http://arxiv.org/abs/2311.02962) | None | 2023-11-06 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2023-11-05 |
 | Assessing the Promise and Pitfalls of ChatGPT for Automated Code   Generation | [2311.02640](http://arxiv.org/abs/2311.02640) | https://github.com/dsaatusu/chatgpt-promises-and-pitfalls | 2023-11-05 |
@@ -80,13 +82,12 @@
 | Dynamics of Instruction Tuning: Each Ability of Large Language Models   Has Its Own Growth Pace | [2310.19651](http://arxiv.org/abs/2310.19651) | https://github.com/chiyusong/dynamics-of-instruction-tuning | 2023-10-30 |
 | The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
 | ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-10-29 |
-| TST$^\mathrm{R}$: Target Similarity Tuning Meets the Real World | [2310.17228](http://arxiv.org/abs/2310.17228) | None | 2023-10-28 |
-| Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | https://github.com/ChuyueSun/Clover | 2023-10-26 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Boosting Static Resource Leak Detection via LLM-based Resource-Oriented   Intention Inference | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-11-08 |
 | SkipAnalyzer: An Embodied Agent for Code Analysis with Large Language   Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-10-27 |
 | ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned   Samples in NLP | [2308.02122](http://arxiv.org/abs/2308.02122) | None | 2023-10-27 |
 | White-box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | None | 2023-10-24 |
@@ -107,7 +108,6 @@
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |
 | DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | https://github.com/wagner-group/diversevul | 2023-08-09 |
-| Universal Fuzzing via Large Language Models | [2308.04748](http://arxiv.org/abs/2308.04748) | None | 2023-08-09 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

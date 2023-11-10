@@ -62,6 +62,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | None | 2023-11-09 |
+| Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | None | 2023-11-08 |
 | Retrieval-Augmented Code Generation for Universal Information Extraction | [2311.02962](http://arxiv.org/abs/2311.02962) | None | 2023-11-06 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2023-11-05 |
@@ -81,7 +82,6 @@
 | LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2023-10-30 |
 | Dynamics of Instruction Tuning: Each Ability of Large Language Models   Has Its Own Growth Pace | [2310.19651](http://arxiv.org/abs/2310.19651) | https://github.com/chiyusong/dynamics-of-instruction-tuning | 2023-10-30 |
 | The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
-| ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-10-29 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

@@ -1,4 +1,4 @@
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,10 +15,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
 | End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | https://github.com/mauricioms/results-generated-with-chatgpt | 2023-10-23 |
-| Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-10-19 |
 | Enhancing Genetic Improvement Mutations Using Large Language Models | [2310.19813](http://arxiv.org/abs/2310.19813) | None | 2023-10-18 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
@@ -61,8 +61,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | None | 2023-11-09 |
 | AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | None | 2023-11-08 |
-| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | None | 2023-11-08 |
 | Retrieval-Augmented Code Generation for Universal Information Extraction | [2311.02962](http://arxiv.org/abs/2311.02962) | None | 2023-11-06 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2023-11-05 |
 | Assessing the Promise and Pitfalls of ChatGPT for Automated Code   Generation | [2311.02640](http://arxiv.org/abs/2311.02640) | https://github.com/dsaatusu/chatgpt-promises-and-pitfalls | 2023-11-05 |

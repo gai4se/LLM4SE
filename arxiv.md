@@ -1,4 +1,4 @@
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,7 +61,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | None | 2023-11-09 |
+| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | https://github.com/coinse/libro-journal-artifact | 2023-11-09 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | None | 2023-11-08 |
 | Retrieval-Augmented Code Generation for Universal Information Extraction | [2311.02962](http://arxiv.org/abs/2311.02962) | None | 2023-11-06 |

@@ -61,6 +61,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| MELA: Multilingual Evaluation of Linguistic Acceptability | [2311.09033](http://arxiv.org/abs/2311.09033) | None | 2023-11-15 |
+| When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-11-15 |
+| CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | None | 2023-11-14 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
 | In-context Learning Generalizes, But Not Always Robustly: The Case of   Syntax | [2311.07811](http://arxiv.org/abs/2311.07811) | https://github.com/aaronmueller/syntax-icl | 2023-11-13 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
@@ -79,9 +82,6 @@
 | Can ChatGPT support software verification? | [2311.02433](http://arxiv.org/abs/2311.02433) | None | 2023-11-04 |
 | ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
-| Generate and Pray: Using SALLMS to Evaluate the Security of LLM   Generated Code | [2311.00889](http://arxiv.org/abs/2311.00889) | None | 2023-11-01 |
-| How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2023-11-01 |
-| Advancing Requirements Engineering through Generative AI: Assessing the   Role of LLMs | [2310.13976](http://arxiv.org/abs/2310.13976) | None | 2023-11-01 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
@@ -120,6 +120,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |
 | The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |

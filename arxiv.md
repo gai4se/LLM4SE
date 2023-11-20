@@ -61,6 +61,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2023-11-17 |
+| A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2023-11-17 |
 | Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning   and Coding with LLMs | [2305.11860](http://arxiv.org/abs/2305.11860) | https://github.com/Pranjal2041/AdaptiveConsistency | 2023-11-16 |
 | INTERVENOR: Prompt the Coding Ability of Large Language Models with the   Interactive Chain of Repairing | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2023-11-16 |
 | ML-Bench: Large Language Models Leverage Open-source Libraries for   Machine Learning Tasks | [2311.09835](http://arxiv.org/abs/2311.09835) | None | 2023-11-16 |
@@ -79,8 +81,6 @@
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2023-11-10 |
 | Prompt Problems: A New Programming Exercise for the Generative AI Era | [2311.05943](http://arxiv.org/abs/2311.05943) | None | 2023-11-10 |
 | Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | https://github.com/coinse/libro-journal-artifact | 2023-11-09 |
-| Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
-| AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | None | 2023-11-08 |
 | ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

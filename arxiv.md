@@ -15,6 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-22 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
@@ -35,7 +36,6 @@
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Understanding the Effectiveness of Large Language Models in Code   Translation | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-08-06 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
 
 <h2 id="Code-Summarization"> Code Summarization </h2>
 
@@ -62,6 +62,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-22 |
+| Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | None | 2023-11-22 |
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2023-11-17 |
 | A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2023-11-17 |
 | Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning   and Coding with LLMs | [2305.11860](http://arxiv.org/abs/2305.11860) | https://github.com/Pranjal2041/AdaptiveConsistency | 2023-11-16 |
@@ -80,8 +82,6 @@
 | CompCodeVet: A Compiler-guided Validation and Enhancement Approach for   Code Dataset | [2311.06505](http://arxiv.org/abs/2311.06505) | None | 2023-11-11 |
 | Testing LLMs on Code Generation with Varying Levels of Prompt   Specificity | [2311.07599](http://arxiv.org/abs/2311.07599) | None | 2023-11-10 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2023-11-10 |
-| Prompt Problems: A New Programming Exercise for the Generative AI Era | [2311.05943](http://arxiv.org/abs/2311.05943) | None | 2023-11-10 |
-| Evaluating Diverse Large Language Models for Automatic and General Bug   Reproduction | [2311.04532](http://arxiv.org/abs/2311.04532) | https://github.com/coinse/libro-journal-artifact | 2023-11-09 |
 | ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

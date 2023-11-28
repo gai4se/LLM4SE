@@ -15,7 +15,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-22 |
+| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
@@ -62,7 +62,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-22 |
+| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
+| YUAN 2.0: A Large Language Model with Localized Filtering-based   Attention | [2311.15786](http://arxiv.org/abs/2311.15786) | https://github.com/ieit-yuan/yuan-2.0 | 2023-11-27 |
+| Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-11-27 |
+| Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-11-26 |
+| Code Generation Based Grading: Evaluating an Auto-grading Mechanism for   "Explain-in-Plain-English" Questions | [2311.14903](http://arxiv.org/abs/2311.14903) | None | 2023-11-25 |
 | Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | None | 2023-11-22 |
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2023-11-17 |
 | A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2023-11-17 |
@@ -78,10 +82,6 @@
 | In-context Learning Generalizes, But Not Always Robustly: The Case of   Syntax | [2311.07811](http://arxiv.org/abs/2311.07811) | https://github.com/aaronmueller/syntax-icl | 2023-11-13 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
 | BizBench: A Quantitative Reasoning Benchmark for Business and Finance | [2311.06602](http://arxiv.org/abs/2311.06602) | None | 2023-11-11 |
-| Conceptual Model Interpreter for Large Language Models | [2311.07605](http://arxiv.org/abs/2311.07605) | https://github.com/fhaer/llm-cmi | 2023-11-11 |
-| CompCodeVet: A Compiler-guided Validation and Enhancement Approach for   Code Dataset | [2311.06505](http://arxiv.org/abs/2311.06505) | None | 2023-11-11 |
-| Testing LLMs on Code Generation with Varying Levels of Prompt   Specificity | [2311.07599](http://arxiv.org/abs/2311.07599) | None | 2023-11-10 |
-| Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2023-11-10 |
 | ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

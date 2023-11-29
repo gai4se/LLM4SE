@@ -62,12 +62,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2023-11-28 |
+| Applications of Large Language Models in Data Processing: Innovative   Approaches to Segmenting and Renewing Information | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2023-11-27 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
 | YUAN 2.0: A Large Language Model with Localized Filtering-based   Attention | [2311.15786](http://arxiv.org/abs/2311.15786) | https://github.com/ieit-yuan/yuan-2.0 | 2023-11-27 |
 | Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-11-27 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-11-26 |
 | Code Generation Based Grading: Evaluating an Auto-grading Mechanism for   "Explain-in-Plain-English" Questions | [2311.14903](http://arxiv.org/abs/2311.14903) | None | 2023-11-25 |
-| Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | None | 2023-11-22 |
+| Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | https://github.com/thomaspzollo/prompt_risk | 2023-11-22 |
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2023-11-17 |
 | A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2023-11-17 |
 | Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning   and Coding with LLMs | [2305.11860](http://arxiv.org/abs/2305.11860) | https://github.com/Pranjal2041/AdaptiveConsistency | 2023-11-16 |
@@ -81,14 +83,13 @@
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
 | In-context Learning Generalizes, But Not Always Robustly: The Case of   Syntax | [2311.07811](http://arxiv.org/abs/2311.07811) | https://github.com/aaronmueller/syntax-icl | 2023-11-13 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
-| BizBench: A Quantitative Reasoning Benchmark for Business and Finance | [2311.06602](http://arxiv.org/abs/2311.06602) | None | 2023-11-11 |
-| ChatGPT for GTFS: Benchmarking LLMs on GTFS Understanding and Retrieval | [2308.02618](http://arxiv.org/abs/2308.02618) | https://github.com/utel-uiuc/gtfs_llm | 2023-11-03 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-11-21 |
+| Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2023-11-16 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
 | Boosting Static Resource Leak Detection via LLM-based Resource-Oriented   Intention Inference | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-11-08 |
 | SkipAnalyzer: An Embodied Agent for Code Analysis with Large Language   Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-10-27 |
@@ -108,7 +109,6 @@
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-09-02 |
 | Effective Test Generation Using Pre-trained Large Language Models and   Mutation Testing | [2308.16557](http://arxiv.org/abs/2308.16557) | https://github.com/expertisemodel/mutap | 2023-08-31 |
 | ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel   Patching | [2308.13062](http://arxiv.org/abs/2308.13062) | None | 2023-08-24 |
-| Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | None | 2023-08-24 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

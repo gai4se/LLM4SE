@@ -161,6 +161,8 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2023 | [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396) |
+| 2023 | [A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends](https://arxiv.org/abs/2311.10372) |
 | 2023 | [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533) |
 | 2023 | [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620) |
 | 2023 | [Software Testing with Large Language Model: Survey, Landscape, and Vision](https://arxiv.org/pdf/2307.07221.pdf)  |

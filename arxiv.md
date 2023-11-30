@@ -62,6 +62,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Universal Self-Consistency for Large Language Model Generation | [2311.17311](http://arxiv.org/abs/2311.17311) | None | 2023-11-29 |
 | CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2023-11-28 |
 | Applications of Large Language Models in Data Processing: Innovative   Approaches to Segmenting and Renewing Information | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2023-11-27 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
@@ -81,7 +82,6 @@
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-11-15 |
 | CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | https://github.com/weixiangyan/codescope | 2023-11-14 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
-| In-context Learning Generalizes, But Not Always Robustly: The Case of   Syntax | [2311.07811](http://arxiv.org/abs/2311.07811) | https://github.com/aaronmueller/syntax-icl | 2023-11-13 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

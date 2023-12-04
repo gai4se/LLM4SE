@@ -62,6 +62,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-12-01 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2023-11-30 |
 | Autonomous Agents in Software Development: A Vision Paper | [2311.18440](http://arxiv.org/abs/2311.18440) | None | 2023-11-30 |
 | Predicting Emergent Abilities with Infinite Resolution Evaluation | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2023-11-30 |
@@ -81,7 +82,6 @@
 | ML-Bench: Large Language Models Leverage Open-source Libraries for   Machine Learning Tasks | [2311.09835](http://arxiv.org/abs/2311.09835) | None | 2023-11-16 |
 | GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization   in Programming Language Understanding | [2311.09707](http://arxiv.org/abs/2311.09707) | None | 2023-11-16 |
 | Evaluating In-Context Learning of Libraries for Code Generation | [2311.09635](http://arxiv.org/abs/2311.09635) | None | 2023-11-16 |
-| MELA: Multilingual Evaluation of Linguistic Acceptability | [2311.09033](http://arxiv.org/abs/2311.09033) | None | 2023-11-15 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

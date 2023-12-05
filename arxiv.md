@@ -62,6 +62,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Magicoder: Source Code Is All You Need | [2312.02120](http://arxiv.org/abs/2312.02120) | https://github.com/ise-uiuc/magicoder | 2023-12-04 |
+| BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-12-04 |
+| YUAN 2.0: A Large Language Model with Localized Filtering-based   Attention | [2311.15786](http://arxiv.org/abs/2311.15786) | https://github.com/ieit-yuan/yuan-2.0 | 2023-12-04 |
+| When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-12-04 |
+| Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-12-04 |
+| On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2023-12-04 |
+| Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-12-03 |
+| Zero-Shot Video Question Answering with Procedural Programs | [2312.00937](http://arxiv.org/abs/2312.00937) | None | 2023-12-01 |
 | CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-12-01 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2023-11-30 |
 | Autonomous Agents in Software Development: A Vision Paper | [2311.18440](http://arxiv.org/abs/2311.18440) | None | 2023-11-30 |
@@ -70,24 +78,17 @@
 | CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2023-11-28 |
 | Applications of Large Language Models in Data Processing: Innovative   Approaches to Segmenting and Renewing Information | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2023-11-27 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
-| YUAN 2.0: A Large Language Model with Localized Filtering-based   Attention | [2311.15786](http://arxiv.org/abs/2311.15786) | https://github.com/ieit-yuan/yuan-2.0 | 2023-11-27 |
-| Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-11-27 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-11-26 |
 | Code Generation Based Grading: Evaluating an Auto-grading Mechanism for   "Explain-in-Plain-English" Questions | [2311.14903](http://arxiv.org/abs/2311.14903) | None | 2023-11-25 |
 | Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | https://github.com/thomaspzollo/prompt_risk | 2023-11-22 |
-| Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2023-11-17 |
 | A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2023-11-17 |
-| Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning   and Coding with LLMs | [2305.11860](http://arxiv.org/abs/2305.11860) | https://github.com/Pranjal2041/AdaptiveConsistency | 2023-11-16 |
-| INTERVENOR: Prompt the Coding Ability of Large Language Models with the   Interactive Chain of Repairing | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2023-11-16 |
-| ML-Bench: Large Language Models Leverage Open-source Libraries for   Machine Learning Tasks | [2311.09835](http://arxiv.org/abs/2311.09835) | None | 2023-11-16 |
-| GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization   in Programming Language Understanding | [2311.09707](http://arxiv.org/abs/2311.09707) | None | 2023-11-16 |
-| Evaluating In-Context Learning of Libraries for Code Generation | [2311.09635](http://arxiv.org/abs/2311.09635) | None | 2023-11-16 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-12-04 |
 | How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-11-21 |
 | Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2023-11-16 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
@@ -101,7 +102,6 @@
 | Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2023-10-10 |
 | GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2023-10-04 |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | https://github.com/ISU-PAAL/DeepDFA | 2023-10-01 |
-| BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-09-29 |
 | Smart Fuzzing of 5G Wireless Software Implementation | [2309.12994](http://arxiv.org/abs/2309.12994) | None | 2023-09-22 |
 | When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-14 |
 | FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively   Discovering Jailbreak Vulnerabilities in Large Language Models | [2309.05274](http://arxiv.org/abs/2309.05274) | None | 2023-09-11 |

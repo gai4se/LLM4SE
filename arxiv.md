@@ -62,6 +62,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language   Model Programs | [2312.04372](http://arxiv.org/abs/2312.04372) | None | 2023-12-07 |
 | Exploring Distributional Shifts in Large Language Models for Code   Analysis | [2303.09128](http://arxiv.org/abs/2303.09128) | None | 2023-12-05 |
 | Decoding Data Quality via Synthetic Corruptions: Embedding-guided   Pruning of Code Data | [2312.02418](http://arxiv.org/abs/2312.02418) | None | 2023-12-05 |
 | Magicoder: Source Code Is All You Need | [2312.02120](http://arxiv.org/abs/2312.02120) | https://github.com/ise-uiuc/magicoder | 2023-12-04 |
@@ -81,7 +82,6 @@
 | Applications of Large Language Models in Data Processing: Innovative   Approaches to Segmenting and Renewing Information | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2023-11-27 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2023-11-26 |
-| Code Generation Based Grading: Evaluating an Auto-grading Mechanism for   "Explain-in-Plain-English" Questions | [2311.14903](http://arxiv.org/abs/2311.14903) | None | 2023-11-25 |
 | RLTF: Reinforcement Learning from Unit Test Feedback | [2307.04349](http://arxiv.org/abs/2307.04349) | https://github.com/zyq-scut/rltf | 2023-11-13 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

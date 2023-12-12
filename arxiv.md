@@ -62,6 +62,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-12-11 |
+| VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | https://github.com/nvlabs/verilog-eval | 2023-12-10 |
+| Chain-of-Thought in Neural Code Generation: From and For Lightweight   Language Models | [2312.05562](http://arxiv.org/abs/2312.05562) | None | 2023-12-09 |
+| KEN: Kernel Extensions using Natural Language | [2312.05531](http://arxiv.org/abs/2312.05531) | None | 2023-12-09 |
+| Neuron Patching: Neuron-level Model Editing on Code Generation and LLMs | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2023-12-08 |
 | ALGO: Synthesizing Algorithmic Programs with LLM-Generated Oracle   Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-12-08 |
 | DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial   Natural Language Instructions | [2312.04730](http://arxiv.org/abs/2312.04730) | None | 2023-12-07 |
 | LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language   Model Programs | [2312.04372](http://arxiv.org/abs/2312.04372) | None | 2023-12-07 |
@@ -78,16 +83,12 @@
 | Zero-Shot Video Question Answering with Procedural Programs | [2312.00937](http://arxiv.org/abs/2312.00937) | None | 2023-12-01 |
 | CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-12-01 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2023-11-30 |
-| Autonomous Agents in Software Development: A Vision Paper | [2311.18440](http://arxiv.org/abs/2311.18440) | None | 2023-11-30 |
-| Predicting Emergent Abilities with Infinite Resolution Evaluation | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2023-11-30 |
-| Universal Self-Consistency for Large Language Model Generation | [2311.17311](http://arxiv.org/abs/2311.17311) | None | 2023-11-29 |
-| CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2023-11-28 |
-| Applications of Large Language Models in Data Processing: Innovative   Approaches to Segmenting and Renewing Information | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2023-11-27 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring the Limits of ChatGPT in Software Security Applications | [2312.05275](http://arxiv.org/abs/2312.05275) | None | 2023-12-08 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-12-04 |
 | How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-11-21 |
 | Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2023-11-16 |
@@ -108,7 +109,6 @@
 | Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction | 2023-09-06 |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2023-09-02 |
 | Effective Test Generation Using Pre-trained Large Language Models and   Mutation Testing | [2308.16557](http://arxiv.org/abs/2308.16557) | https://github.com/expertisemodel/mutap | 2023-08-31 |
-| ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel   Patching | [2308.13062](http://arxiv.org/abs/2308.13062) | None | 2023-08-24 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

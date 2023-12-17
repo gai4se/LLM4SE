@@ -1,4 +1,4 @@
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -63,15 +63,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Entity-Augmented Code Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2023-12-14 |
-| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | None | 2023-12-14 |
-| ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric   Strategy for Diverse Generative Tasks | [2312.08583](http://arxiv.org/abs/2312.08583) | https://github.com/microsoft/DeepSpeed | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
 | DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial   Natural Language Instructions | [2312.04730](http://arxiv.org/abs/2312.04730) | None | 2023-12-12 |
 | L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-12-11 |
 | VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | https://github.com/nvlabs/verilog-eval | 2023-12-10 |
 | Chain-of-Thought in Neural Code Generation: From and For Lightweight   Language Models | [2312.05562](http://arxiv.org/abs/2312.05562) | https://github.com/ntdxyg/cotton | 2023-12-09 |
-| KEN: Kernel Extensions using Natural Language | [2312.05531](http://arxiv.org/abs/2312.05531) | None | 2023-12-09 |
+| KEN: Kernel Extensions using Natural Language | [2312.05531](http://arxiv.org/abs/2312.05531) | https://github.com/eunomia-bpf/ken | 2023-12-09 |
 | Neuron Patching: Neuron-level Model Editing on Code Generation and LLMs | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2023-12-08 |
 | ALGO: Synthesizing Algorithmic Programs with LLM-Generated Oracle   Verifiers | [2305.14591](http://arxiv.org/abs/2305.14591) | https://github.com/zkx06111/algo | 2023-12-08 |
 | LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language   Model Programs | [2312.04372](http://arxiv.org/abs/2312.04372) | None | 2023-12-07 |
@@ -84,6 +81,9 @@
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-12-04 |
 | Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-12-04 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2023-12-04 |
+| Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-12-03 |
+| Zero-Shot Video Question Answering with Procedural Programs | [2312.00937](http://arxiv.org/abs/2312.00937) | None | 2023-12-01 |
+| CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2023-12-01 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 

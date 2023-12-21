@@ -139,7 +139,8 @@ def update_json_file(filename, data_dict):
         json.dump(json_data,f)
     
     return json_data
-        
+
+
 def main():
     max_queries = 30
     max_display = 30
@@ -152,10 +153,15 @@ def main():
         
     contents = {}
     
+    total_data = 0
     for topic_info in data:
         topic = topic_info["topic"]
         keyword_sets = topic_info["keyword_sets"]
         contents[topic] = get_daily_papers(keyword_sets, max_queries)
+        total_data += len(contents[topic])
+    
+    if total_data == 0:
+        raise ValueError("Data is empty")
     
     json_to_md(contents, md_file, max_display)
     

@@ -151,7 +151,7 @@ The collection is actively updated with the help of an internal literature searc
 | 2022-1  | CodeGen       | [link](https://arxiv.org/abs/2203.13474) | [350M, 2B, 6B, 16B]       | [source](https://github.com/salesforce/CodeGen)                    |
 | 2021-1  | CodeT5        | [link](https://arxiv.org/abs/2109.00859) | [770M]                    | [source](https://github.com/salesforce/CodeT5)                     |
 | 2020-2  | GraphCodeBERT | [link](https://arxiv.org/abs/2009.08366) |                           | [source](https://github.com/microsoft/CodeBERT#graphcodebert)      |
-| 2020-1  | CodeBERT      | [link](https://arxiv.org/abs/2002.08155) |                           | [source](https://github.com/microsoft/CodeBERT)                    |
+| 2020-1  | CodeBERT      | [link](https://arxiv.org/abs/2002.08155) |       [125M]                    | [source](https://github.com/microsoft/CodeBERT)                    |
 
 <a name="paper-list"></a>
 
@@ -181,46 +181,78 @@ The collection is actively updated with the help of an internal literature searc
 <details>
 <summary>Click to expand!</summary>
 
-| Year-Id | Title                                                                                                                                                                     | Venue Name(Type) |
+| Year-Id | Title                                                                                                                                                                     | Venue Name |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 2023-1  | [Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning](https://10.1109/TSE.2023.3255177)                                                 | TSE(J)           |
-| 2022-27 | [Fast Changeset-based Bug Localization with BERT](https://doi.org/10.1145/3510003.3510042)                                                                                   | ICSE(C)          |
-| 2022-26 | [An Empirical Study on the Usage of Transformer Models for Code Completion](https://doi.org/10.1109/TSE.2021.3128234)                                                        | TSE(J)           |
-| 2022-25 | [DualSC: Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning](https://doi.org/10.1109/SANER53432.2022.00052)                               | SANER(C)         |
-| 2022-24 | [Source Code Summarization with Structural Relative Position Guided Transformer](https://doi.org/10.1109/SANER53432.2022.00013)                                              | SANER(C)         |
-| 2022-23 | [Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?](https://doi.org/10.1109/SANER53432.2022.00054)                                       | SANER(C)         |
-| 2022-22 | [Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?](https://doi.org/10.1109/SANER53432.2022.00130)                                                    | SANER(C)         |
-| 2022-21 | [Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues](https://doi.org/10.1109/ICSME55016.2022.00020)                | ICSME(C)         |
-| 2022-20 | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/10.1145/3540250.3549081)                                                              | FSE(C)           |
-| 2022-19 | [VulCurator: A Vulnerability-fixing Commit Detector](https://doi.org/10.1145/3540250.3558936)                                                                                | FSE(C)           |
-| 2022-18 | [AutoPruner: Transformer-based Call Graph Pruning](https://doi.org/10.1145/3540250.3549175)                                                                                  | FSE(C)           |
-| 2022-17 | [Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks](https://doi.org/10.1007/s10664-022-10118-5) | EMSE(J)          |
-| 2022-16 | [Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding](https://doi.org/10.1145/3510003.3510062)                                                    | ICSE(C)          |
-| 2022-15 | [Jigsaw: Large Language Models meet Program Synthesis](https://doi.org/10.1145/3510003.3510203)                                                                              | ICSE(C)          |
-| 2022-14 | [Natural Attack for Pre-trained Models of Code](https://doi.org/10.1145/3510003.3510146)                                                                                     | ICSE(C)          |
-| 2022-13 | [Using Pre-Trained Models to Boost Code Review Automation](https://doi.org/10.1145/3510003.3510621)                                                                          | ICSE(C)          |
-| 2022-12 | [What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code](https://doi.org/10.1145/3510003.3510050)                                      | ICSE(C)          |
-| 2022-11 | [A Light Bug Triage Framework for Applying Large Pre-trained Language Model](https://doi.org/10.1145/3551349.3556898)                                                        | ASE(C)           |
-| 2022-10 | [AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models](https://doi.org/10.1145/3551349.3556900)                            | ASE(C)           |
-| 2022-9  | [Compressing Pre-trained Models of Code into 3 MB](https://doi.org/10.1145/3551349.3556964)                                                                                  | ASE(C)           |
-| 2022-8  | [PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models](https://doi.org/10.1145/3551349.3560417)                               | ASE(C)           |
-| 2022-7  | [Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code](https://doi.org/10.1145/3551349.3556912)                   | ASE(C)           |
-| 2022-6  | [Few-shot training LLMs for project-specific code-summarization](https://doi.org/10.1145/3551349.3559555)                                                                    | ASE(C)           |
-| 2022-5  | [Diet code is healthy: simplifying programs for pre-trained models of code](https://doi.org/10.1145/3540250.3549094)                                                         | FSE(C)           |
-| 2022-4  | [Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability](https://doi.org/10.1145/3540250.3560881)                                       | FSE(C)           |
-| 2022-3  | [Effective and scalable fault injection using bug reports and generative language models](https://doi.org/10.1145/3540250.3558907)                                           | FSE(C)           |
-| 2022-2  | [An extensive study on pre-trained models for program understanding and generation](https://doi.org/10.1145/3533767.3534390)                                                 | ISSTA(C)         |
-| 2022-1  | [Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)](https://doi.org/10.1145/3533767.3534396)                              | ISSTA(C)         |
-| 2021-7  | [Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks](https://doi.org/10.1109/ICSE43902.2021.00041)                                        | ICSE(C)          |
-| 2021-6  | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)                                        | ICSE(C)          |
-| 2021-5  | [Code Prediction by Feeding Trees to Transformers](https://doi.org/10.1109/ICSE43902.2021.00026)                                                                             | ICSE(C)          |
-| 2021-4  | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)                                        | ICSE(C)          |
-| 2021-3  | [DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models](https://doi.org/10.1109/ASE51524.2021.9678871)                                                | ASE(C)           |
-| 2021-2  | [What do pre-trained code models know about code?](https://doi.org/10.1109/ASE51524.2021.9678927)                                                                            | ASE(C)           |
-| 2021-1  | [Does reusing pre-trained NLP model propagate bugs?](https://doi.org/10.1145/3468264.3473494)                                                                                | FSE(C)           |
-| 2020-3  | [Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT](https://doi.org/10.1109/ICSME46990.2020.00025)                                         | ICSME(C)         |
-| 2020-2  | [Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?](https://doi.org/10.1109/ICSME46990.2020.00017)                                 | ICSME(C)         |
-| 2020-1  | [Multi-task Learning based Pre-trained Language Model for Code Completion](https://doi.org/10.1145/3324884.3416591)                                                          | ASE(C)           |
+|2023-33        |[Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests.](https://doi.org/10.1109/TSE.2022.3201209)      |TSE      |
+|2023-32        |[Do Pretrained Language Models Indeed Understand Software Engineering Tasks?](https://doi.org/10.1109/TSE.2023.3308952) |TSE     |
+|2023-31        |[CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.](https://doi.org/10.1109/ICSE48619.2023.00085)  |ICSE   |
+|2023-30        |[Impact of Code Language Models on Automated Program Repair.](https://doi.org/10.1109/ICSE48619.2023.00125)    |ICSE   |
+|2023-29        |[Automated Repair of Programs from Large Language Models.](https://doi.org/10.1109/ICSE48619.2023.00128)       |ICSE   |
+|2023-28        |[Automated Program Repair in the Era of Large Pre-trained Language Models.](https://doi.org/10.1109/ICSE48619.2023.00129)|ICSE   |
+|2023-27        |[Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.](https://doi.org/10.1109/ICSE48619.2023.00149)    |ICSE   |
+|2023-26        |[Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.](https://doi.org/10.1109/ICSE48619.2023.00194)        |ICSE   |
+|2023-25        |[On the Applicability of Language Models to Block-Based Programs.](https://doi.org/10.1109/ICSE48619.2023.00199)       |ICSE     |
+|2023-24        |[The Devil is in the Tails: How Long-Tailed Code Distributions Impact Large Language Models.](https://doi.org/10.1109/ASE56229.2023.00157)       |ASE    |
+|2023-23        |[CAT-LM Training Language Models on Aligned Code And Tests.](https://doi.org/10.1109/ASE56229.2023.00193)      |ASE    |
+|2023-22        |[Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases.](https://doi.org/10.1109/ASE56229.2023.00076)       |ASE    |
+|2023-21        |[The Plastic Surgery Hypothesis in the Era of Large Language Models.](https://doi.org/10.1109/ASE56229.2023.00047)     |ASE      |
+|2023-20        |[An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair.](https://doi.org/10.1109/ASE56229.2023.00181)     |ASE    |
+|2023-19        |[SMT Solver Validation Empowered by Large Pre-Trained Language Models.](https://doi.org/10.1109/ASE56229.2023.00180)   |ASE      |
+|2023-18        |[Towards Autonomous Testing Agents via Conversational Large Language Models.](https://doi.org/10.1109/ASE56229.2023.00148)       |ASE    |
+|2023-17        |[Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models.](https://doi.org/10.1109/MSR59073.2023.00036)       |MSR    |
+|2023-16        |[Large Language Models and Simple, Stupid Bugs.](https://doi.org/10.1109/MSR59073.2023.00082)  |MSR    |
+|2023-15        |[She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models.](https://doi.org/10.1109/MSR59073.2023.00088) |MSR    |
+|2023-14        |[Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair.](https://doi.org/10.1145/3611643.3616271)   |FSE    |
+|2023-13        |[Multilingual Code Co-evolution using Large Language Models.](https://doi.org/10.1145/3611643.3616350) |FSE    |
+|2023-12        |[Baldur: Whole-Proof Generation and Repair with Large Language Models.](https://doi.org/10.1145/3611643.3616243)       |FSE      |
+|2023-11        |[On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code.](https://doi.org/10.1145/3611643.3616244)     |FSE    |
+|2023-10        |[Grace: Language Models Meet Code Edits.](https://doi.org/10.1145/3611643.3616253)     |FSE    |
+|2023-9 |[Assess and Summarize: Improve Outage Understanding with Large Language Models.](https://doi.org/10.1145/3611643.3613891)      |FSE      |
+|2023-8 |[Getting pwn'd by AI: Penetration Testing with Large Language Models.](https://doi.org/10.1145/3611643.3613083)        |FSE    |
+|2023-7 |[Assisting Static Analysis with Large Language Models: A ChatGPT Experiment.](https://doi.org/10.1145/3611643.3613078) |FSE    |
+|2023-6 |[A Language Model of Java Methods with Train/Test Deduplication.](https://doi.org/10.1145/3611643.3613090)     |FSE    |
+|2023-5 |[Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binarie.](https://doi.org/10.1109/SANER56733.2023.00033)      |SANER  |
+|2023-4 |[Large Language Models: The Next Frontier for Variable Discovery within Metamorphic Testing?](https://doi.org/10.1109/SANER56733.2023.00070)     |SANER  |
+|2023-3 |[How Robust Is a Large Pre-trained Language Model for Code Generationƒ A Case on Attacking GPT2.](https://doi.org/10.1109/SANER56733.2023.00076) |SANER  |
+|2023-2 |[Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.](https://doi.org/10.1145/3597926.3598067)       |ISSTA  |
+|2023-1 |[Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis.](https://doi.org/10.1145/3597926.3605233)      |ISSTA  |
+| 2022-27 | [Fast Changeset-based Bug Localization with BERT](https://doi.org/10.1145/3510003.3510042)                                                                                   | ICSE          |
+| 2022-26 | [An Empirical Study on the Usage of Transformer Models for Code Completion](https://doi.org/10.1109/TSE.2021.3128234)                                                        | TSE           |
+| 2022-25 | [DualSC: Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning](https://doi.org/10.1109/SANER53432.2022.00052)                               | SANER         |
+| 2022-24 | [Source Code Summarization with Structural Relative Position Guided Transformer](https://doi.org/10.1109/SANER53432.2022.00013)                                              | SANER         |
+| 2022-23 | [Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go?](https://doi.org/10.1109/SANER53432.2022.00054)                                       | SANER         |
+| 2022-22 | [Can Identifier Splitting Improve Open-Vocabulary Language Model of Code?](https://doi.org/10.1109/SANER53432.2022.00130)                                                    | SANER         |
+| 2022-21 | [Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues](https://doi.org/10.1109/ICSME55016.2022.00020)                | ICSME         |
+| 2022-20 | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/10.1145/3540250.3549081)                                                              | FSE           |
+| 2022-19 | [VulCurator: A Vulnerability-fixing Commit Detector](https://doi.org/10.1145/3540250.3558936)                                                                                | FSE           |
+| 2022-18 | [AutoPruner: Transformer-based Call Graph Pruning](https://doi.org/10.1145/3540250.3549175)                                                                                  | FSE           |
+| 2022-17 | [Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks](https://doi.org/10.1007/s10664-022-10118-5) | EMSE          |
+| 2022-16 | [Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding](https://doi.org/10.1145/3510003.3510062)                                                    | ICSE          |
+| 2022-15 | [Jigsaw: Large Language Models meet Program Synthesis](https://doi.org/10.1145/3510003.3510203)                                                                              | ICSE          |
+| 2022-14 | [Natural Attack for Pre-trained Models of Code](https://doi.org/10.1145/3510003.3510146)                                                                                     | ICSE          |
+| 2022-13 | [Using Pre-Trained Models to Boost Code Review Automation](https://doi.org/10.1145/3510003.3510621)                                                                          | ICSE          |
+| 2022-12 | [What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code](https://doi.org/10.1145/3510003.3510050)                                      | ICSE          |
+| 2022-11 | [A Light Bug Triage Framework for Applying Large Pre-trained Language Model](https://doi.org/10.1145/3551349.3556898)                                                        | ASE           |
+| 2022-10 | [AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models](https://doi.org/10.1145/3551349.3556900)                            | ASE           |
+| 2022-9  | [Compressing Pre-trained Models of Code into 3 MB](https://doi.org/10.1145/3551349.3556964)                                                                                  | ASE           |
+| 2022-8  | [PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models](https://doi.org/10.1145/3551349.3560417)                               | ASE           |
+| 2022-7  | [Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code](https://doi.org/10.1145/3551349.3556912)                   | ASE           |
+| 2022-6  | [Few-shot training LLMs for project-specific code-summarization](https://doi.org/10.1145/3551349.3559555)                                                                    | ASE           |
+| 2022-5  | [Diet code is healthy: simplifying programs for pre-trained models of code](https://doi.org/10.1145/3540250.3549094)                                                         | FSE           |
+| 2022-4  | [Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability](https://doi.org/10.1145/3540250.3560881)                                       | FSE           |
+| 2022-3  | [Effective and scalable fault injection using bug reports and generative language models](https://doi.org/10.1145/3540250.3558907)                                           | FSE           |
+| 2022-2  | [An extensive study on pre-trained models for program understanding and generation](https://doi.org/10.1145/3533767.3534390)                                                 | ISSTA         |
+| 2022-1  | [Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)](https://doi.org/10.1145/3533767.3534396)                              | ISSTA         |
+| 2021-7  | [Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks](https://doi.org/10.1109/ICSE43902.2021.00041)                                        | ICSE          |
+| 2021-6  | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)                                        | ICSE          |
+| 2021-5  | [Code Prediction by Feeding Trees to Transformers](https://doi.org/10.1109/ICSE43902.2021.00026)                                                                             | ICSE          |
+| 2021-4  | [Traceability Transformed: Generating more Accurate Links with Pre-Trained BERT Models](https://doi.org/10.1109/ICSE43902.2021.00040)                                        | ICSE          |
+| 2021-3  | [DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models](https://doi.org/10.1109/ASE51524.2021.9678871)                                                | ASE           |
+| 2021-2  | [What do pre-trained code models know about code?](https://doi.org/10.1109/ASE51524.2021.9678927)                                                                            | ASE           |
+| 2021-1  | [Does reusing pre-trained NLP model propagate bugs?](https://doi.org/10.1145/3468264.3473494)                                                                                | FSE           |
+| 2020-3  | [Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT](https://doi.org/10.1109/ICSME46990.2020.00025)                                         | ICSME         |
+| 2020-2  | [Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?](https://doi.org/10.1109/ICSME46990.2020.00017)                                 | ICSME         |
+| 2020-1  | [Multi-task Learning based Pre-trained Language Model for Code Completion](https://doi.org/10.1145/3324884.3416591)                                                          | ASE           |
 
 </details>
 
@@ -247,6 +279,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Venue | Count |
 | ----- | ----- |
+| 2023  | 33    |
 | 2022  | 27    |
 | 2021  | 7     |
 | 2020  | 3     |

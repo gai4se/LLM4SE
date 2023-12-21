@@ -13,12 +13,12 @@ def search_arxiv_papers(keywords, max_results):
     encoded_keywords = ["abs:%22{}%22".format(k) for k in keywords]
     query = '+AND+'.join(encoded_keywords)
     # Construct the API query URL
-    url = f"http://export.arxiv.org/api/query?search_query={query}&sortBy=lastUpdatedDate&sortOrder=descending&max_results={max_results}"
+
+    url = f"https://export.arxiv.org/api/query?search_query={query}&sortBy=lastUpdatedDate&sortOrder=descending&max_results={max_results}"
     try:
         # Send a GET request to the Arxiv API
         response = requests.get(url)
         response.raise_for_status()  # Check for any errors
-
         # Parse the XML response
         root = ET.fromstring(response.content)
 
@@ -31,7 +31,6 @@ def search_arxiv_papers(keywords, max_results):
             updated_date = entry.find('{http://www.w3.org/2005/Atom}updated').text
 
             results.append((short_id, title, summary, updated_date))
-
         return results
         
     except requests.exceptions.RequestException as e:
@@ -42,6 +41,7 @@ def get_daily_papers(keyword_sets, max_results=10):
     content = {}
     for keywords in keyword_sets:
         search_results = search_arxiv_papers(keywords, max_results)
+        print(search_results)
         for result in search_results:
             paper_id, paper_title, paper_summary, updated_date = result
             updated_date = updated_date.split("T")[0]
@@ -72,18 +72,12 @@ def sort_papers(papers):
     sorted_dict = dict(sorted(papers.items(), key=lambda x: datetime.datetime.strptime(x[1]["updated_date"], '%Y-%m-%d'), reverse=True))
     return sorted_dict
 
-def json_to_md(filename, md_filename, maximum_papers=20):
-    
+def json_to_md(json_data, md_filename, maximum_papers=20):
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = json_data
 
     # write data into README.md
     with open(md_filename, 'w') as f:
@@ -140,13 +134,15 @@ def update_json_file(filename, data_dict):
             json_data[keyword].update(papers)
         else:
             json_data[keyword] = papers
-
+    
     with open(filename,"w") as f:
         json.dump(json_data,f)
+    
+    return json_data
         
 def main():
-    max_queries = 20
-    max_display = 20
+    max_queries = 30
+    max_display = 30
     md_file = "arxiv.md"
     json_file = "papers/arxiv/data.json"
     # # Open the JSON file
@@ -161,8 +157,7 @@ def main():
         keyword_sets = topic_info["keyword_sets"]
         contents[topic] = get_daily_papers(keyword_sets, max_queries)
     
-    update_json_file(json_file, contents)
-    json_to_md(json_file, md_file, max_display)
+    json_to_md(contents, md_file, max_display)
     
 if __name__ == "__main__":
     main()

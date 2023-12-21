@@ -1,39 +1,69 @@
-[
+[   
     {
-        "topic": "Program/Vulnerability Repair",
+        "topic": "Code Summarization/Understanding",
+        "keyword_sets": [
+            ["large+language+models", "code+summarization"],
+            ["large+language+models", "code+document+generation"],
+            ["large+language+models", "code+comment+generation"],
+            ["large+language+models", "code+understanding"]
+        ] 
+    },
+    {
+        "topic": "Code Generation/Completion",
+        "keyword_sets": [
+            ["large+language+models", "code+generation"],
+            ["large+language+models", "program+synthesis"],
+            ["large+language+models", "programing+by+example"],
+            ["large+language+models", "code+completion"]
+        ] 
+    },
+    {
+        "topic": "Program Repair",
         "keyword_sets": [
             ["large+language+models", "program+repair"],
             ["large+language+models", "bug+fixing"],
-            ["large+language+models", "vulnerability+repair"]
-        ] 
+            ["large+language+models", "vulnerability+repair"],
+            ["large+language+models", "code+edits"]
+        ]
     },
     {
-        "topic": "Code Summarization",
+        "topic": "Automated Debugging/Bug Localization",
         "keyword_sets": [
-            ["large+language+models", "code+summarization"],
-            ["large+language+models", "code+comment+generation"]
-        ] 
-    },
-    {
-        "topic": "Code Generation",
-        "keyword_sets": [
-            ["large+language+models", "code+generation"],
-            ["large+language+models", "program+synthesis"]
-        ] 
+            ["large+language+models", "bug+localization"],
+            ["large+language+models", "fault+localization"],
+            ["large+language+models", "automated+debugging"]
+        ]
     },
     {
         "topic": "Bug/Vulnerability Detection",
         "keyword_sets": [
             ["large+language+models", "vulnerability+detection"],
             ["large+language+models", "bug+detection"],
+            ["large+language+models", "defect+prediction"],
+            ["large+language+models", "bug+prediction"]
+
+        ] 
+    },
+    {
+        "topic": "Fuzzing/Testing",
+        "keyword_sets": [
             ["large+language+models", "fuzzing"],
-            ["large+language+models", "defect+prediction"]
+            ["large+language+models", "testing"],
+            ["large+language+models", "test+generation"],
+            ["large+language+models", "test+automation"]
         ] 
     },
     {
         "topic": "Clone Detection",
         "keyword_sets": [
-            ["large+language+models", "code+clone"]
+            ["large+language+models", "code+clone"],
+            ["large+language+models", "clone+detection"]
+        ] 
+    },
+    {
+        "topic": "Clone Search",
+        "keyword_sets": [
+            ["large+language+models", "code+search"]
         ] 
     },
     {

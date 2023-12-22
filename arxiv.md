@@ -1,4 +1,4 @@
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -125,8 +125,8 @@
 | AI-enhanced Auto-correction of Programming Exercises: How Effective is   GPT-3.5? | [2311.10737](http://arxiv.org/abs/2311.10737) | None | 2023-10-24 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
 | Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
-| Formalizing Natural Language Intent into Program Specifications via   Large Language Models | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2023-10-03 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
+| Formalizing Natural Language Intent into Program Specifications via   Large Language Models | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2023-10-03 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | A Preliminary Evaluation of LLM-Based Fault Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2023-08-26 |
 | SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
@@ -169,12 +169,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors | [2312.12918](http://arxiv.org/abs/2312.12918) | https://github.com/yfzhang114/robustness-detection | 2023-12-21 |
 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis   Testing | [2309.09128](http://arxiv.org/abs/2309.09128) | https://github.com/ianarawjo/ChainForge | 2023-12-20 |
 | Exploring Multimodal Large Language Models for Radiology Report   Error-checking | [2312.13103](http://arxiv.org/abs/2312.13103) | None | 2023-12-20 |
 | In Generative AI we Trust: Can Chatbots Effectively Verify Political   Information? | [2312.13096](http://arxiv.org/abs/2312.13096) | None | 2023-12-20 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Separating form and meaning: Using self-consistency to quantify task   understanding across multiple senses | [2305.11662](http://arxiv.org/abs/2305.11662) | https://github.com/xeniaohmer/multisense_consistency | 2023-12-20 |
-| Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors | [2312.12918](http://arxiv.org/abs/2312.12918) | https://github.com/yfzhang114/robustness-detection | 2023-12-20 |
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
 | A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-19 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-12-19 |

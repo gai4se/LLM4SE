@@ -264,16 +264,16 @@ The collection is actively updated with the help of an internal literature searc
 
 | Venue | Count |
 | ----- | ----- |
-| ICSE  | 10    |
-| FSE   | 7     |
-| ASE   | 9     |
-| ISSTA | 2     |
-| TSE   | 2     |
+| ICSE  | 17    |
+| FSE   | 17     |
+| ASE   | 16     |
+| ISSTA | 4     |
+| TSE   | 3     |
 | TOSEM | 0     |
 | EMSE  | 1     |
 | ICSME | 3     |
-| SANER | 4     |
-| MSR   | 0     |
+| SANER | 7     |
+| MSR   | 3     |
 
 ### Year Stats
 

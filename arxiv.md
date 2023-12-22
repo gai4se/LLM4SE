@@ -48,6 +48,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Capture the Flag: Uncovering Data Insights with Large Language Models | [2312.13876](http://arxiv.org/abs/2312.13876) | None | 2023-12-21 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Opportunities and Challenges of Applying Large Language Models in   Building Energy Efficiency and Decarbonization Studies: An Exploratory   Overview | [2312.11701](http://arxiv.org/abs/2312.11701) | None | 2023-12-18 |
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-12-18 |
@@ -58,7 +59,7 @@
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-12-15 |
 | A Review of Repository Level Prompting for LLMs | [2312.10101](http://arxiv.org/abs/2312.10101) | None | 2023-12-15 |
 | Entity-Augmented Code Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2023-12-14 |
-| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2023-12-14 |
+| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | None | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
 | Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
@@ -78,16 +79,15 @@
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-12-04 |
 | Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-12-04 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2023-12-04 |
-| Large Language Models Empowered Autonomous Edge AI for Connected   Intelligence | [2307.02779](http://arxiv.org/abs/2307.02779) | None | 2023-12-03 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-12-19 |
 | Can Large Language Models Identify And Reason About Security   Vulnerabilities? Not Yet | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2023-12-19 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
-| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | None | 2023-12-11 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
 | Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
@@ -169,6 +169,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
+| Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4-hints-gpt3.5val | 2023-12-21 |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
+| AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-21 |
+| Text2Analysis: A Benchmark of Table Question Answering with Advanced   Data Analysis and Unclear Queries | [2312.13671](http://arxiv.org/abs/2312.13671) | None | 2023-12-21 |
+| LMDrive: Closed-Loop End-to-End Driving with Large Language Models | [2312.07488](http://arxiv.org/abs/2312.07488) | https://github.com/opendilab/lmdrive | 2023-12-21 |
 | Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors | [2312.12918](http://arxiv.org/abs/2312.12918) | https://github.com/yfzhang114/robustness-detection | 2023-12-21 |
 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis   Testing | [2309.09128](http://arxiv.org/abs/2309.09128) | https://github.com/ianarawjo/ChainForge | 2023-12-20 |
 | Exploring Multimodal Large Language Models for Radiology Report   Error-checking | [2312.13103](http://arxiv.org/abs/2312.13103) | None | 2023-12-20 |
@@ -176,13 +182,13 @@
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Separating form and meaning: Using self-consistency to quantify task   understanding across multiple senses | [2305.11662](http://arxiv.org/abs/2305.11662) | https://github.com/xeniaohmer/multisense_consistency | 2023-12-20 |
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
+| RealGen: Retrieval Augmented Generation for Controllable Traffic   Scenarios | [2312.13303](http://arxiv.org/abs/2312.13303) | None | 2023-12-19 |
 | A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-19 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-12-19 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-19 |
 | Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse   Biomedical Tasks | [2311.11608](http://arxiv.org/abs/2311.11608) | https://github.com/dutir-bionlp/taiyi-llm | 2023-12-19 |
 | One Shot Learning as Instruction Data Prospector for Large Language   Models | [2312.10302](http://arxiv.org/abs/2312.10302) | None | 2023-12-19 |
-| Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4-hints-gpt3.5val | 2023-12-19 |
 | Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled   Spatial Ontologies | [2312.11713](http://arxiv.org/abs/2312.11713) | None | 2023-12-18 |
 | MAC-SQL: Multi-Agent Collaboration for Text-to-SQL | [2312.11242](http://arxiv.org/abs/2312.11242) | https://github.com/wbbeyourself/mac-sql | 2023-12-18 |
 | ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding | [2305.14196](http://arxiv.org/abs/2305.14196) | https://github.com/tau-nlp/zero_scrolls | 2023-12-17 |
@@ -193,12 +199,6 @@
 | KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM   Does and Doesn't Know | [2312.11539](http://arxiv.org/abs/2312.11539) | None | 2023-12-15 |
 | Faithful Persona-based Conversational Dataset Generation with Large   Language Models | [2312.10007](http://arxiv.org/abs/2312.10007) | https://github.com/google-research-datasets/Synthetic-Persona-Chat | 2023-12-15 |
 | She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and   Sustainable Language Models | [2310.18333](http://arxiv.org/abs/2310.18333) | None | 2023-12-15 |
-| GPT-4 Surpassing Human Performance in Linguistic Pragmatics | [2312.09545](http://arxiv.org/abs/2312.09545) | None | 2023-12-15 |
-| SeqXGPT: Sentence-Level AI-Generated Text Detection | [2310.08903](http://arxiv.org/abs/2310.08903) | https://github.com/jihuai-wpy/seqxgpt | 2023-12-15 |
-| AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | None | 2023-12-14 |
-| Character-LLM: A Trainable Agent for Role-Playing | [2310.10158](http://arxiv.org/abs/2310.10158) | https://github.com/choosewhatulike/trainable-agents | 2023-12-14 |
-| FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects | [2312.08344](http://arxiv.org/abs/2312.08344) | None | 2023-12-13 |
-| GuardRails: Automated Suggestions for Clarifying Ambiguous Purpose   Statements | [2312.08189](http://arxiv.org/abs/2312.08189) | https://github.com/mrigankpawagi/guardrails | 2023-12-13 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

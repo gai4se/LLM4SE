@@ -1,4 +1,4 @@
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -85,7 +85,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
-| Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-12-19 |
+| Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
 | Can Large Language Models Identify And Reason About Security   Vulnerabilities? Not Yet | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2023-12-19 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
 | Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
@@ -170,7 +170,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
-| Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4-hints-gpt3.5val | 2023-12-21 |
+| Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2023-12-21 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
 | AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-21 |
 | Text2Analysis: A Benchmark of Table Question Answering with Advanced   Data Analysis and Unclear Queries | [2312.13671](http://arxiv.org/abs/2312.13671) | None | 2023-12-21 |
@@ -184,7 +184,7 @@
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
 | RealGen: Retrieval Augmented Generation for Controllable Traffic   Scenarios | [2312.13303](http://arxiv.org/abs/2312.13303) | None | 2023-12-19 |
 | A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-19 |
-| Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | None | 2023-12-19 |
+| Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-19 |
 | Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse   Biomedical Tasks | [2311.11608](http://arxiv.org/abs/2311.11608) | https://github.com/dutir-bionlp/taiyi-llm | 2023-12-19 |

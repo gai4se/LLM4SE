@@ -1,4 +1,4 @@
-## Updated on 2023.12.24
+## Updated on 2023.12.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -137,12 +137,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LLM-based Resource-Oriented Intention Inference for Static Resource Leak   Detection | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-12-22 |
 | How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-12-20 |
 | SkipAnalyzer: A Tool for Static Code Analysis with Large Language Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-12-18 |
 | Exploring the Limits of ChatGPT in Software Security Applications | [2312.05275](http://arxiv.org/abs/2312.05275) | None | 2023-12-08 |
 | Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2023-11-16 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2023-11-14 |
-| Boosting Static Resource Leak Detection via LLM-based Resource-Oriented   Intention Inference | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-11-08 |
 | Large Language Model-Powered Smart Contract Vulnerability Detection: New   Perspectives | [2310.01152](http://arxiv.org/abs/2310.01152) | https://github.com/git-disl/gptlens | 2023-10-16 |
 | Static Code Analysis in the AI Era: An In-depth Exploration of the   Concept, Function, and Potential of Intelligent Code Analysis Agents | [2310.08837](http://arxiv.org/abs/2310.08837) | None | 2023-10-13 |
 | Harnessing the Power of LLM to Support Binary Taint Analysis | [2310.08275](http://arxiv.org/abs/2310.08275) | None | 2023-10-12 |
@@ -169,13 +169,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-22 |
 | Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
 | Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2023-12-21 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
-| AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-21 |
 | Text2Analysis: A Benchmark of Table Question Answering with Advanced   Data Analysis and Unclear Queries | [2312.13671](http://arxiv.org/abs/2312.13671) | None | 2023-12-21 |
 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | [2312.07488](http://arxiv.org/abs/2312.07488) | https://github.com/opendilab/lmdrive | 2023-12-21 |
 | Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors | [2312.12918](http://arxiv.org/abs/2312.12918) | https://github.com/yfzhang114/robustness-detection | 2023-12-21 |
+| A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-21 |
 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis   Testing | [2309.09128](http://arxiv.org/abs/2309.09128) | https://github.com/ianarawjo/ChainForge | 2023-12-20 |
 | Exploring Multimodal Large Language Models for Radiology Report   Error-checking | [2312.13103](http://arxiv.org/abs/2312.13103) | None | 2023-12-20 |
 | In Generative AI we Trust: Can Chatbots Effectively Verify Political   Information? | [2312.13096](http://arxiv.org/abs/2312.13096) | None | 2023-12-20 |
@@ -183,7 +184,6 @@
 | Separating form and meaning: Using self-consistency to quantify task   understanding across multiple senses | [2305.11662](http://arxiv.org/abs/2305.11662) | https://github.com/xeniaohmer/multisense_consistency | 2023-12-20 |
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
 | RealGen: Retrieval Augmented Generation for Controllable Traffic   Scenarios | [2312.13303](http://arxiv.org/abs/2312.13303) | None | 2023-12-19 |
-| A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-19 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-19 |

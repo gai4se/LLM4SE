@@ -48,6 +48,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Turbulence: Systematically and Automatically Testing Instruction-Tuned   Large Language Models for Code | [2312.14856](http://arxiv.org/abs/2312.14856) | None | 2023-12-22 |
 | Capture the Flag: Uncovering Data Insights with Large Language Models | [2312.13876](http://arxiv.org/abs/2312.13876) | None | 2023-12-21 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Opportunities and Challenges of Applying Large Language Models in   Building Energy Efficiency and Decarbonization Studies: An Exploratory   Overview | [2312.11701](http://arxiv.org/abs/2312.11701) | None | 2023-12-18 |
@@ -78,7 +79,6 @@
 | Magicoder: Source Code Is All You Need | [2312.02120](http://arxiv.org/abs/2312.02120) | https://github.com/ise-uiuc/magicoder | 2023-12-04 |
 | BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge | [2308.16458](http://arxiv.org/abs/2308.16458) | https://github.com/gersteinlab/biocoder | 2023-12-04 |
 | Function-constrained Program Synthesis | [2311.15500](http://arxiv.org/abs/2311.15500) | None | 2023-12-04 |
-| On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2023-12-04 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -137,8 +137,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-12-22 |
 | LLM-based Resource-Oriented Intention Inference for Static Resource Leak   Detection | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-12-22 |
-| How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | None | 2023-12-20 |
 | SkipAnalyzer: A Tool for Static Code Analysis with Large Language Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-12-18 |
 | Exploring the Limits of ChatGPT in Software Security Applications | [2312.05275](http://arxiv.org/abs/2312.05275) | None | 2023-12-08 |
 | Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2023-11-16 |
@@ -169,14 +169,17 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Aurora:Activating Chinese chat capability for Mistral-8x7B sparse   Mixture-of-Experts through Instruction-Tuning | [2312.14557](http://arxiv.org/abs/2312.14557) | https://github.com/WangRongsheng/Aurora | 2023-12-22 |
+| Theory of Hallucinations based on Equivariance | [2312.14504](http://arxiv.org/abs/2312.14504) | None | 2023-12-22 |
 | AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-22 |
+| A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-21 |
 | Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
 | Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2023-12-21 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
 | Text2Analysis: A Benchmark of Table Question Answering with Advanced   Data Analysis and Unclear Queries | [2312.13671](http://arxiv.org/abs/2312.13671) | None | 2023-12-21 |
 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | [2312.07488](http://arxiv.org/abs/2312.07488) | https://github.com/opendilab/lmdrive | 2023-12-21 |
+| Illuminating the Black Box: A Psychometric Investigation into the   Multifaceted Nature of Large Language Models | [2312.14202](http://arxiv.org/abs/2312.14202) | None | 2023-12-21 |
 | Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors | [2312.12918](http://arxiv.org/abs/2312.12918) | https://github.com/yfzhang114/robustness-detection | 2023-12-21 |
-| A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-21 |
 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis   Testing | [2309.09128](http://arxiv.org/abs/2309.09128) | https://github.com/ianarawjo/ChainForge | 2023-12-20 |
 | Exploring Multimodal Large Language Models for Radiology Report   Error-checking | [2312.13103](http://arxiv.org/abs/2312.13103) | None | 2023-12-20 |
 | In Generative AI we Trust: Can Chatbots Effectively Verify Political   Information? | [2312.13096](http://arxiv.org/abs/2312.13096) | None | 2023-12-20 |
@@ -185,6 +188,7 @@
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
 | RealGen: Retrieval Augmented Generation for Controllable Traffic   Scenarios | [2312.13303](http://arxiv.org/abs/2312.13303) | None | 2023-12-19 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
+| Large Language Models in Medical Term Classification and Unexpected   Misalignment Between Response and Reasoning | [2312.14184](http://arxiv.org/abs/2312.14184) | None | 2023-12-19 |
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-19 |
 | Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse   Biomedical Tasks | [2311.11608](http://arxiv.org/abs/2311.11608) | https://github.com/dutir-bionlp/taiyi-llm | 2023-12-19 |
@@ -195,10 +199,6 @@
 | LLMEval: A Preliminary Study on How to Evaluate Large Language Models | [2312.07398](http://arxiv.org/abs/2312.07398) | None | 2023-12-17 |
 | Unit Test Generation using Generative AI : A Comparative Performance   Analysis of Autogeneration Tools | [2312.10622](http://arxiv.org/abs/2312.10622) | None | 2023-12-17 |
 | Comprehensive Evaluation of ChatGPT Reliability Through Multilingual   Inquiries | [2312.10524](http://arxiv.org/abs/2312.10524) | https://github.com/llm-research-777/chatgpt-jailbreaking | 2023-12-16 |
-| UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation | [2303.08518](http://arxiv.org/abs/2303.08518) | https://github.com/microsoft/lmops | 2023-12-16 |
-| KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM   Does and Doesn't Know | [2312.11539](http://arxiv.org/abs/2312.11539) | None | 2023-12-15 |
-| Faithful Persona-based Conversational Dataset Generation with Large   Language Models | [2312.10007](http://arxiv.org/abs/2312.10007) | https://github.com/google-research-datasets/Synthetic-Persona-Chat | 2023-12-15 |
-| She had Cobalt Blue Eyes: Prompt Testing to Create Aligned and   Sustainable Language Models | [2310.18333](http://arxiv.org/abs/2310.18333) | None | 2023-12-15 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

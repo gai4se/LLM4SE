@@ -1,0 +1,534 @@
+[
+    {
+        "title": "Mining Workflows for Anomalous Data Transfers.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00013"
+    },
+    {
+        "title": "PSIMiner: A Tool for Mining Rich Abstract Syntax Trees from Code.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00014"
+    },
+    {
+        "title": "Comparative Study of Feature Reduction Techniques in Software Change Prediction.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00015"
+    },
+    {
+        "title": "Automatic Part-of-Speech Tagging for Security Vulnerability Descriptions.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00016"
+    },
+    {
+        "title": "Identifying Critical Projects via PageRank and Truck Factor.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00017"
+    },
+    {
+        "title": "An Empirical Study of Developer Discussions on Low-Code Software Development Challenges.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00018"
+    },
+    {
+        "title": "Learning Off-By-One Mistakes: An Empirical Study.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00019"
+    },
+    {
+        "title": "The Secret Life of Hackathon Code Where does it come from and where does it go?",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00020"
+    },
+    {
+        "title": "gambit - An Open Source Name Disambiguation Tool for Version Control Systems.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00021"
+    },
+    {
+        "title": "Escaping the Time Pit: Pitfalls and Guidelines for Using Time-Based Git Data.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00022"
+    },
+    {
+        "title": "Attention-based model for predicting question relatedness on Stack Overflow.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00023"
+    },
+    {
+        "title": "An Empirical Study on the Usage of BERT Models for Code Completion.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00024"
+    },
+    {
+        "title": "On Improving Deep Learning Trace Analysis with System Call Arguments.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00025"
+    },
+    {
+        "title": "An Empirical Study of OSS-Fuzz Bugs.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00026"
+    },
+    {
+        "title": "An Exploratory Study of Log Placement Recommendation in an Enterprise System.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00027"
+    },
+    {
+        "title": "On the Naturalness and Localness of Software Logs.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00028"
+    },
+    {
+        "title": "Automatically Selecting Follow-up Questions for Deficient Bug Reports.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00029"
+    },
+    {
+        "title": "Architecture Smells and Pareto Principle: A Preliminary Empirical Exploration.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00031"
+    },
+    {
+        "title": "Technical Debt in the Peer-Review Documentation of R Packages: a rOpenSci Case Study.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00032"
+    },
+    {
+        "title": "How Java Programmers Test Exceptional Behavior.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00033"
+    },
+    {
+        "title": "A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00034"
+    },
+    {
+        "title": "Leveraging Models to Reduce Test Cases in Software Repositories.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00035"
+    },
+    {
+        "title": "Which contributions count? Analysis of attribution in open source.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00036"
+    },
+    {
+        "title": "On the Use of Dependabot Security Pull Requests.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00037"
+    },
+    {
+        "title": "S3M: Siamese Stack (Trace) Similarity Measure.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00038"
+    },
+    {
+        "title": "Challenges in Developing Desktop Web Apps: a Study of Stack Overflow and GitHub.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00039"
+    },
+    {
+        "title": "Studying the Change Histories of Stack Overflow and GitHub Snippets.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00040"
+    },
+    {
+        "title": "TNM: A Tool for Mining of Socio-Technical Data from Git Repositories.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00041"
+    },
+    {
+        "title": "Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00042"
+    },
+    {
+        "title": "Mining API Interactions to Analyze Software Revisions for the Evolution of Energy Consumption.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00043"
+    },
+    {
+        "title": "Googling for Software Development: What Developers Search For and What They Find.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00044"
+    },
+    {
+        "title": "Fast and Memory-Efficient Neural Code Completion.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00045"
+    },
+    {
+        "title": "Identifying Versions of Libraries used in Stack Overflow Code Snippets.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00046"
+    },
+    {
+        "title": "Can I Solve It? Identifying APIs Required to Complete OSS Tasks.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00047"
+    },
+    {
+        "title": "Data Balancing Improves Self-Admitted Technical Debt Detection.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00048"
+    },
+    {
+        "title": "JITLine: A Simpler, Better, Faster, Finer-grained Just-In-Time Defect Prediction.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00049"
+    },
+    {
+        "title": "Rollback Edit Inconsistencies in Developer Forum.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00050"
+    },
+    {
+        "title": "What Code Is Deliberately Excluded from Test Coverage and Why?",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00051"
+    },
+    {
+        "title": "Waiting around or job half-done? Sentiment in self-admitted technical debt.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00052"
+    },
+    {
+        "title": "Mining DEV for social and technical insights about software development.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00053"
+    },
+    {
+        "title": "How Do Software Developers Use GitHub Actions to Automate Their Workflows?",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00054"
+    },
+    {
+        "title": "Practitioners' Perceptions of the Goals and Visual Explanations of Defect Prediction Models.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00055"
+    },
+    {
+        "title": "Does Code Review Promote Conformance? A Study of OpenStack Patches.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00056"
+    },
+    {
+        "title": "Revisiting Dockerfiles in Open Source Software Over Time.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00057"
+    },
+    {
+        "title": "Characterising the Knowledge about Primitive Variables in Java Code Comments.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00058"
+    },
+    {
+        "title": "Predicting Design Impactful Changes in Modern Code Review: A Large-Scale Empirical Study.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00059"
+    },
+    {
+        "title": "Mining Energy-Related Practices in Robotics Software.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00060"
+    },
+    {
+        "title": "On the Rise and Fall of Simple Stupid Bugs: a Life-Cycle Analysis of SStuBs.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00061"
+    },
+    {
+        "title": "How Effective is Continuous Integration in Indicating Single-Statement Bugs?",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00062"
+    },
+    {
+        "title": "Applying CodeBERT for Automated Program Repair of Java Simple Bugs.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00063"
+    },
+    {
+        "title": "A large-scale study on human-cloned changes for automated program repair.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00064"
+    },
+    {
+        "title": "Mea culpa: How developers fix their own simple bugs differently from other developers.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00065"
+    },
+    {
+        "title": "PySStuBs: Characterizing Single-Statement Bugs in Popular Open-Source Python Projects.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00066"
+    },
+    {
+        "title": "On the Distribution of \"Simple Stupid Bugs\" in Unit Test Files: An Exploratory Study.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00067"
+    },
+    {
+        "title": "On the Effectiveness of Deep Vulnerability Detectors to Simple Stupid Bug Detection.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00068"
+    },
+    {
+        "title": "AndroidCompass: A Dataset of Android Compatibility Checks in Code Repositories.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00069"
+    },
+    {
+        "title": "Denchmark: A Bug Benchmark of Deep Learning-related Software.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00070"
+    },
+    {
+        "title": "Duets: A Dataset of Reproducible Pairs of Java Library-Clients.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00071"
+    },
+    {
+        "title": "KGTorrent: A Dataset of Python Jupyter Notebooks from Kaggle.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00072"
+    },
+    {
+        "title": "A Traceability Dataset for Open Source Systems.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00073"
+    },
+    {
+        "title": "Sampling Projects in GitHub for MSR Studies.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00074"
+    },
+    {
+        "title": "The Wonderless Dataset for Serverless Computing.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00075"
+    },
+    {
+        "title": "AndroCT: Ten Years of App Call Traces in Android.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00076"
+    },
+    {
+        "title": "Search4Code: Code Search Intent Classification Using Weak Supervision.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00077"
+    },
+    {
+        "title": "Andromeda: A Dataset of Ansible Galaxy Roles and Their Evolution.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00078"
+    },
+    {
+        "title": "ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00079"
+    },
+    {
+        "title": "QScored: A Large Dataset of Code Smells and Quality Metrics.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00080"
+    },
+    {
+        "title": "Apache Software Foundation Incubator Project Sustainability Dataset.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00081"
+    },
+    {
+        "title": "Andror2: A Dataset of Manually-Reproduced Bug Reports for Android apps.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00082"
+    },
+    {
+        "title": "GE526: A Dataset of Open-Source Game Engines.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00083"
+    },
+    {
+        "title": "EqBench: A Dataset of Equivalent and Non-equivalent Program Pairs.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00084"
+    },
+    {
+        "title": "Tracking Hackathon Code Creation and Reuse.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00085"
+    },
+    {
+        "title": "Building the Collaboration Graph of Open-Source Software Ecosystem.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00086"
+    },
+    {
+        "title": "Tracing Vulnerable Code Lineage.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00087"
+    },
+    {
+        "title": "An Exploratory Study of Project Activity Changepoints in Open Source Software Evolution.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00088"
+    },
+    {
+        "title": "The Diversity-Innovation Paradox in Open-Source Software.",
+        "venue_name": "IEEE Working Conference on Mining Software Repositories",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/MSR52588.2021.00089"
+    }
+]

@@ -1,0 +1,765 @@
+[
+    {
+        "title": "An Empirical Study of Smart Contract Decompilers.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00011"
+    },
+    {
+        "title": "Understanding the Archived Projects on GitHub.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00012"
+    },
+    {
+        "title": "Towards Understanding the Impacts of Textual Dissimilarity on Duplicate Bug Report Detection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00013"
+    },
+    {
+        "title": "A Hierarchical Topical Modeling Approach for Recommending Repair of Quality Bugs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00014"
+    },
+    {
+        "title": "Solder: Retrofitting Legacy Code with Cross-Language Patches.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00015"
+    },
+    {
+        "title": "Pseudocode to Code Based on Adaptive Global and Local Information.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00016"
+    },
+    {
+        "title": "Identifying Emergent Leadership in Open Source Software Projects Based on Communication Styles.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00017"
+    },
+    {
+        "title": "NeuralCCD: Integrating Multiple Features for Neural Coincidental Correctness Detection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00018"
+    },
+    {
+        "title": "Studying and Complementing the Use of Identifiers in Logs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00019"
+    },
+    {
+        "title": "Automatic Identification of Crash-inducing Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00020"
+    },
+    {
+        "title": "MulCS: Towards a Unified Deep Representation for Multilingual Code Search.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00021"
+    },
+    {
+        "title": "Efficient Pattern-based Static Analysis Approach via Regular-Expression Rules.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00022"
+    },
+    {
+        "title": "Intelligent Constraint Classification for Symbolic Execution.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00023"
+    },
+    {
+        "title": "Cross-Language Call Graph Construction Supporting Different Host Languages.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00024"
+    },
+    {
+        "title": "Topic Recommendation for GitHub Repositories: How Far Can Extreme Multi-Label Learning Go?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00025"
+    },
+    {
+        "title": "An Empirical Comparison of Model-Agnostic Techniques for Defect Prediction Models.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00026"
+    },
+    {
+        "title": "Security Code Recommendations for Smart Contract.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00027"
+    },
+    {
+        "title": "On the Effect of Transitivity and Granularity on Vulnerability Propagation in the Maven Ecosystem.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00028"
+    },
+    {
+        "title": "ClawSAT: Towards Both Robust and Accurate Code Models.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00029"
+    },
+    {
+        "title": "Efficient Generation of Floating-Point Inputs for Compiler-Induced Variability.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00030"
+    },
+    {
+        "title": "In-Situ Concolic Testing of JavaScript.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00031"
+    },
+    {
+        "title": "Learning Program Representations with a Tree-Structured Transformer.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00032"
+    },
+    {
+        "title": "Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binarie.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00033"
+    },
+    {
+        "title": "Multi-Modal API Recommendation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00034"
+    },
+    {
+        "title": "Analysis and Propagation of Feature Revisions in Preprocessor-based Software Product Lines.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00035"
+    },
+    {
+        "title": "D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00036"
+    },
+    {
+        "title": "UDA-DP: Unsupervised Domain Adaptation for Software Defect Prediction.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00037"
+    },
+    {
+        "title": "Slice-Based Code Change Representation Learning.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00038"
+    },
+    {
+        "title": "Improving Fine-tuning Pre-trained Models on Small Source Code Datasets via Variational Information Bottleneck.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00039"
+    },
+    {
+        "title": "Documentation-Guided API Sequence Search without Worrying about the Text-API Semantic Gap.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00040"
+    },
+    {
+        "title": "A Comprehensive Study of WebAssembly Runtime Bugs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00041"
+    },
+    {
+        "title": "Automated Image Reduction for Explaining Black-box Classifiers.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00042"
+    },
+    {
+        "title": "MixCode: Enhancing Code Classification by Mixup-Based Data Augmentation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00043"
+    },
+    {
+        "title": "Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00044"
+    },
+    {
+        "title": "CSSAM: Code Search via Attention Matching of Code Semantics and Structures.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00045"
+    },
+    {
+        "title": "Towards a Large-Scale Empirical Study of Python Static Type Annotations.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00046"
+    },
+    {
+        "title": "Understanding the Impact of Quantum Noise on Quantum Programs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00047"
+    },
+    {
+        "title": "Optimizing Continuous Integration by Dynamic Test Proportion Selection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00048"
+    },
+    {
+        "title": "A Multi-Step Learning Approach to Assist Code Review.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00049"
+    },
+    {
+        "title": "Evaluating Learning-to-Rank Models for Prioritizing Code Review Requests using Process Simulation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00050"
+    },
+    {
+        "title": "Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00051"
+    },
+    {
+        "title": "Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00052"
+    },
+    {
+        "title": "Automatic Code Annotation Generation Based on Heterogeneous Graph Structure.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00053"
+    },
+    {
+        "title": "Brigadier: A Datalog-based IAST framework for Node.js Applications.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00054"
+    },
+    {
+        "title": "How Dynamic Features Affect API Usages? An Empirical Study of API Misuses in Python Programs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00055"
+    },
+    {
+        "title": "Test Input Selection for Deep Neural Network Enhancement Based on Multiple-Objective Optimization.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00056"
+    },
+    {
+        "title": "IRP2API: Automated Mapping of Cyber Security Incident Response Plan to Security Tools' APIs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00057"
+    },
+    {
+        "title": "Detecting JavaScript Transpiler Bugs with Grammar-guided Mutation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00058"
+    },
+    {
+        "title": "Towards Understanding Fixes of SonarQube Static Analysis Violations: A Large-Scale Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00059"
+    },
+    {
+        "title": "Self-Adaptive Ensemble-based Approach for Software Effort Estimation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00060"
+    },
+    {
+        "title": "Boosting Compiler Testing via Eliminating Test Programs with Long-Execution-Time.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00061"
+    },
+    {
+        "title": "Prediction of Vulnerability Characteristics Based on Vulnerability Description and Prompt Learning.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00062"
+    },
+    {
+        "title": "Architecture Decisions in AI-based Systems Development: An Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00063"
+    },
+    {
+        "title": "Self-Admitted Library Migrations in Java, JavaScript, and Python Packaging Ecosystems: A Comparative Study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00064"
+    },
+    {
+        "title": "RGDroid: Detecting Android Malware with Graph Convolutional Networks against Structural Attacks.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00065"
+    },
+    {
+        "title": "Exploring and Repairing Gender Fairness Violations in Word Embedding-based Sentiment Analysis Model through Adversarial Patches.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00066"
+    },
+    {
+        "title": "Constructing Temporal Networks of OSS Programming Language Ecosystems.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00067"
+    },
+    {
+        "title": "An Adaptive Partition-Based Approach for Adaptive Random Testing on Real Programs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00068"
+    },
+    {
+        "title": "WasmSlim: Optimizing WebAssembly Binary Distribution via Automatic Module Splitting.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00069"
+    },
+    {
+        "title": "Large Language Models: The Next Frontier for Variable Discovery within Metamorphic Testing?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00070"
+    },
+    {
+        "title": "Combining Contexts from Multiple Sources for Documentation-Specific Code Example Generation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00071"
+    },
+    {
+        "title": "CGORewritter: A better way to use C library in G.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00072"
+    },
+    {
+        "title": "An Empirical Investigation on the Performance of Domain Adaptation for T5 Code Completion.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00073"
+    },
+    {
+        "title": "Weak Labelling for File-level Source Code Classification.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00074"
+    },
+    {
+        "title": "Towards Automated Code Reviews: Does Learning Code Structure Help?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00075"
+    },
+    {
+        "title": "How Robust Is a Large Pre-trained Language Model for Code Generationƒ A Case on Attacking GPT2.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00076"
+    },
+    {
+        "title": "JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00077"
+    },
+    {
+        "title": "TADL: Fault Localization with Transformer-based Anomaly Detection for Dynamic Microservice Systems.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00078"
+    },
+    {
+        "title": "TemLock: A Lightweight Template-based Approach for Fixing Deadlocks Caused by ReentrantLock.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00079"
+    },
+    {
+        "title": "HFCommunity: A Tool to Analyze the Hugging Face Hub Community.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00080"
+    },
+    {
+        "title": "Multi-Layer Observability for Fault Localization in Microservices Based Systems.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00081"
+    },
+    {
+        "title": "xVMP: An LLVM-based Code Virtualization Obfuscator.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00082"
+    },
+    {
+        "title": "Naturalistic Static Program Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00083"
+    },
+    {
+        "title": "µDetector: Automated Intrusion Detection for Microservices.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00084"
+    },
+    {
+        "title": "WasmA: A Static WebAssembly Analysis Framework for Everyone.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00085"
+    },
+    {
+        "title": "ISTA: Automatic Test Case Generation and Optimization for Intelligent Systems based on Coverage Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00086"
+    },
+    {
+        "title": "Environment-aware Testing for DNN-based Smart-home WiFi Sensing Systems.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00087"
+    },
+    {
+        "title": "Leveraging and Evaluating Automatic Code Summarization for JPA Program Comprehension.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00088"
+    },
+    {
+        "title": "A Method of Component Prediction for Crash Bug Reports Using Component-Based Features and Machine Learning.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00089"
+    },
+    {
+        "title": "An Experience Report on Regression-Free Repair of Deep Neural Network Model.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00090"
+    },
+    {
+        "title": "Negative Results of Fusing Code and Documentation for Learning to Accurately Identify Sensitive Source and Sink Methods : An Application to the Android Framework for Data Leak Detection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00091"
+    },
+    {
+        "title": "MLinter: Learning Coding Practices from Examples - Dream or Reality?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00092"
+    },
+    {
+        "title": "Revisiting Inter-Class Maintainability Indicators.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00093"
+    },
+    {
+        "title": "Large-Scale Evaluation of Method-Level Bug Localization with FinerBench4BL.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00094"
+    },
+    {
+        "title": "Technical Debt Diffuseness in the Apache Ecosystem: A Differentiated Replication.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00095"
+    },
+    {
+        "title": "Evaluating and improving transformers pre-trained on ASTs for Code Completion.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00096"
+    },
+    {
+        "title": "Extended Abstract of A Comparative Study and Analysis of Developer Communications on Slack and Gitter.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00097"
+    },
+    {
+        "title": "Extended Abstract of E-SC4R: Explaining Software Clustering for Remodularisation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00098"
+    },
+    {
+        "title": "Extended Abstract of SeCNN: A semantic CNN parser for code comment generation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00099"
+    },
+    {
+        "title": "Extended Abstract of Graph4Web: A Relation-Aware Graph Attention Network for Web Service Classification.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00100"
+    },
+    {
+        "title": "Extended Abstract of Combine Sliced Joint Graph with Graph Neural Networks for Smart Contract Vulnerability Detection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00101"
+    },
+    {
+        "title": "Extended Abstract of Candidate Test Set Reduction for Adaptive Random Testing: An Overheads Reduction Technique.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00102"
+    },
+    {
+        "title": "Blockchain oracles for document certification: A case study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00103"
+    },
+    {
+        "title": "Analysis of Users' Most Discussed Topics and Trends on Blockchain Technologies and Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00104"
+    },
+    {
+        "title": "An Optimized Concurrent Proof of Authority Consensus Protocol.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00105"
+    },
+    {
+        "title": "An analysis of the Oracles used in Ethereum's blockchain.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00106"
+    },
+    {
+        "title": "Investigating Software Testing and Maintenance of Open-Source Distributed Ledger.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00107"
+    },
+    {
+        "title": "Detection of test smells with basic language analysis methods and its evaluation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00108"
+    },
+    {
+        "title": "Bug or not Bug? Analysing the Reasons Behind Metamorphic Relation Violations.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00109"
+    },
+    {
+        "title": "A Comparative Study of Code Clone Genealogies in Test Code and Production Code.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00110"
+    },
+    {
+        "title": "Insights from Building a GUI Testing Tool.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00111"
+    },
+    {
+        "title": "Deep Reinforcement Learning Guided Decision Tree Learning For Program Synthesis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00112"
+    },
+    {
+        "title": "EcoDialTest: Adaptive Mutation Schedule for Automated Dialogue Systems Testing.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00113"
+    },
+    {
+        "title": "Interpretable Software Defect Prediction Incorporating Multiple Rules.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00114"
+    },
+    {
+        "title": "A Cross-Language Name Binding Recognition and Discrimination Approach for Identifiers.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00115"
+    },
+    {
+        "title": "TAG: UML Activity Diagram Deeply Supervised Generation from Business Textural Specification.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00116"
+    },
+    {
+        "title": "Multimodal Sentiment Analysis under modality deficiency with prototype-Augmentation in software engineering.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00117"
+    },
+    {
+        "title": "SICUP: A Comment Updating Approach based on Structural Information.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00118"
+    },
+    {
+        "title": "ASTHGCN: Adaptive Spatio-Temporal Hypergraph Convolutional Network for Traffic Forecasting.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER56733.2023.00119"
+    }
+]

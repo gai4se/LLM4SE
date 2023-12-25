@@ -1,0 +1,1472 @@
+[
+    {
+        "title": "Predicting Bugs by Monitoring Developers During Task Execution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00100"
+    },
+    {
+        "title": "Future Software for Life in Trusted Futures.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00010"
+    },
+    {
+        "title": "The Road Toward Dependable AI Based Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00011"
+    },
+    {
+        "title": "Software Engineering as the Linchpin of Responsible AI.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00012"
+    },
+    {
+        "title": "One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00013"
+    },
+    {
+        "title": "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00014"
+    },
+    {
+        "title": "Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00015"
+    },
+    {
+        "title": "Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00016"
+    },
+    {
+        "title": "JITfuzz: Coverage-guided Fuzzing for JVM Just-in-Time Compilers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00017"
+    },
+    {
+        "title": "Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00018"
+    },
+    {
+        "title": "Regression Fuzzing for Deep Learning Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00019"
+    },
+    {
+        "title": "Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00020"
+    },
+    {
+        "title": "The untold story of code refactoring customizations in practice.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00021"
+    },
+    {
+        "title": "Data Quality for Software Vulnerability Datasets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00022"
+    },
+    {
+        "title": "Do code refactorings influence the merge effort?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00023"
+    },
+    {
+        "title": "A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00024"
+    },
+    {
+        "title": "Evaluating the Impact of Experimental Assumptions in Automated Fault Localization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00025"
+    },
+    {
+        "title": "Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00026"
+    },
+    {
+        "title": "PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00027"
+    },
+    {
+        "title": "RAT: A Refactoring-Aware Traceability Model for Bug Localization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00028"
+    },
+    {
+        "title": "How Do We Read Formal Claims? Eye-Tracking and the Cognition of Proofs about Algorithms.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00029"
+    },
+    {
+        "title": "Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00030"
+    },
+    {
+        "title": "UPCY: Safely Updating Outdated Dependencies.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00031"
+    },
+    {
+        "title": "APICAD: Augmenting API Misuse Detection through Specifications from Code and Documents.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00032"
+    },
+    {
+        "title": "Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00033"
+    },
+    {
+        "title": "OSSFP: Precise and Scalable C/C++ Third-Party Library Detection using Fingerprinting Functions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00034"
+    },
+    {
+        "title": "Smartmark: Software Watermarking Scheme for Smart Contracts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00035"
+    },
+    {
+        "title": "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00036"
+    },
+    {
+        "title": "BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00037"
+    },
+    {
+        "title": "Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00038"
+    },
+    {
+        "title": "Comparison and Evaluation of Clone Detection Techniques with Different Code Representations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00039"
+    },
+    {
+        "title": "Learning Graph-based Code Representations for Source-level Functional Similarity Detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00040"
+    },
+    {
+        "title": "The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00041"
+    },
+    {
+        "title": "Reachable Coverage: Estimating Saturation in Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00042"
+    },
+    {
+        "title": "Learning Seed-Adaptive Mutation Strategies for Greybox Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00043"
+    },
+    {
+        "title": "Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00044"
+    },
+    {
+        "title": "Evaluating and Improving Hybrid Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00045"
+    },
+    {
+        "title": "Robustification of Behavioral Designs against Environmental Deviations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00046"
+    },
+    {
+        "title": "A Qualitative Study on the Implementation Design Decisions of Developers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00047"
+    },
+    {
+        "title": "BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00048"
+    },
+    {
+        "title": "FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00049"
+    },
+    {
+        "title": "PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00050"
+    },
+    {
+        "title": "Adhere: Automated Detection and Repair of Intrusive Ads.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00051"
+    },
+    {
+        "title": "Bad Snakes: Understanding and Improving Python Package Index Malware Scanning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00052"
+    },
+    {
+        "title": "FedDebug: Systematic Debugging for Federated Learning Applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00053"
+    },
+    {
+        "title": "Practical and Efficient Model Extraction of Sentiment Analysis APIs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00054"
+    },
+    {
+        "title": "CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00055"
+    },
+    {
+        "title": "ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00056"
+    },
+    {
+        "title": "Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00057"
+    },
+    {
+        "title": "Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debuggers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00058"
+    },
+    {
+        "title": "Fonte: Finding Bug Inducing Commits from Failures.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00059"
+    },
+    {
+        "title": "RepresentThemAll: A Universal Learning Representation of Bug Reports.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00060"
+    },
+    {
+        "title": "Demystifying Exploitable Bugs in Smart Contracts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00061"
+    },
+    {
+        "title": "Understanding and Detecting On-The-Fly Configuration Bugs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00062"
+    },
+    {
+        "title": "Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00063"
+    },
+    {
+        "title": "Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00064"
+    },
+    {
+        "title": "From Organizations to Individuals: Psychoactive Substance Use By Professional Programmers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00065"
+    },
+    {
+        "title": "On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00066"
+    },
+    {
+        "title": "Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00067"
+    },
+    {
+        "title": "Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00068"
+    },
+    {
+        "title": "Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00069"
+    },
+    {
+        "title": "Triggers for Reactive Synthesis Specifications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00070"
+    },
+    {
+        "title": "Using Reactive Synthesis: An End-to-End Exploratory Case Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00071"
+    },
+    {
+        "title": "Syntax and Domain Aware Model for Unsupervised Program Translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00072"
+    },
+    {
+        "title": "Developer-Intent Driven Code Comment Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00073"
+    },
+    {
+        "title": "Data Quality Matters: A Case Study of Obsolete Comment Detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00074"
+    },
+    {
+        "title": "Revisiting Learning-based Commit Message Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00075"
+    },
+    {
+        "title": "Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00076"
+    },
+    {
+        "title": "PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00077"
+    },
+    {
+        "title": "Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00078"
+    },
+    {
+        "title": "On the Temporal Relations between Logging and Code.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00079"
+    },
+    {
+        "title": "How Do Developers' Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00080"
+    },
+    {
+        "title": "When to Say What: Learning to Find Condition-Message Inconsistencies.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00081"
+    },
+    {
+        "title": "SemParser: A Semantic Parser for Log Analytics.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00082"
+    },
+    {
+        "title": "Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00083"
+    },
+    {
+        "title": "Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00084"
+    },
+    {
+        "title": "CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00085"
+    },
+    {
+        "title": "Taintmini: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00086"
+    },
+    {
+        "title": "AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00087"
+    },
+    {
+        "title": "Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00088"
+    },
+    {
+        "title": "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00089"
+    },
+    {
+        "title": "Reusing Deep Neural Network Models through Model Re-engineering.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00090"
+    },
+    {
+        "title": "PYEVOLVE: Automating Frequent Code Changes in Python ML Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00091"
+    },
+    {
+        "title": "DeepArc: Modularizing Neural Networks for the Model Maintenance.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00092"
+    },
+    {
+        "title": "Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00093"
+    },
+    {
+        "title": "CHRONOS: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00094"
+    },
+    {
+        "title": "Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00095"
+    },
+    {
+        "title": "SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00096"
+    },
+    {
+        "title": "On Privacy Weaknesses and Vulnerabilities in Software Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00097"
+    },
+    {
+        "title": "Detecting Exception Handling Bugs in C++ Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00098"
+    },
+    {
+        "title": "Learning to Boost Disjunctive Static Bug-Finders.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00099"
+    },
+    {
+        "title": "Detecting Isolation Bugs via Transaction Oracle Construction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00101"
+    },
+    {
+        "title": "SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00102"
+    },
+    {
+        "title": "\"STILL AROUND\": Experiences and Survival Strategies of Veteran Women Software Developers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00103"
+    },
+    {
+        "title": "When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00104"
+    },
+    {
+        "title": "Fuzzing Automatic Differentiation in Deep-Learning Libraries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00105"
+    },
+    {
+        "title": "Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00106"
+    },
+    {
+        "title": "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00107"
+    },
+    {
+        "title": "Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00108"
+    },
+    {
+        "title": "Better Automatic Program Repair by Using Bug Reports and Tests Together.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00109"
+    },
+    {
+        "title": "CCTEST: Testing and Repairing Code Completion Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00110"
+    },
+    {
+        "title": "KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00111"
+    },
+    {
+        "title": "Rete: Learning Namespace Representation for Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00112"
+    },
+    {
+        "title": "AI-based Question Answering Assistance for Analyzing Natural-language Requirements.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00113"
+    },
+    {
+        "title": "Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00114"
+    },
+    {
+        "title": "Data-driven Recurrent Set Learning For Non-termination Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00115"
+    },
+    {
+        "title": "Compiling Parallel Symbolic Execution with Continuations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00116"
+    },
+    {
+        "title": "Verifying Data Constraint Equivalence in FinTech Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00117"
+    },
+    {
+        "title": "Tolerate Control-Flow Changes for Sound Data Race Prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00118"
+    },
+    {
+        "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00119"
+    },
+    {
+        "title": "Detecting Dialog-Related Keyboard Navigation Failures in Web Applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00120"
+    },
+    {
+        "title": "Columbus: Android App Testing Through Systematic Callback Exploration.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00121"
+    },
+    {
+        "title": "GameRTS: A Regression Testing Framework for Video Games.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00122"
+    },
+    {
+        "title": "Autonomy Is An Acquired Taste: Exploring Developer Preferences for GitHub Bots.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00123"
+    },
+    {
+        "title": "Flexible and Optimal Dependency Management via Max-SMT.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00124"
+    },
+    {
+        "title": "Impact of Code Language Models on Automated Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00125"
+    },
+    {
+        "title": "Tare: Type-Aware Neural Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00126"
+    },
+    {
+        "title": "Template-based Neural Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00127"
+    },
+    {
+        "title": "Automated Repair of Programs from Large Language Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00128"
+    },
+    {
+        "title": "Automated Program Repair in the Era of Large Pre-trained Language Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00129"
+    },
+    {
+        "title": "Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00130"
+    },
+    {
+        "title": "Testability Refactoring in Pull Requests: Patterns and Trends.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00131"
+    },
+    {
+        "title": "Usability-Oriented Design of Liquid Types for Java.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00132"
+    },
+    {
+        "title": "Towards Understanding Fairness and its Composition in Ensemble Machine Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00133"
+    },
+    {
+        "title": "Fairify: Fairness Verification of Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00134"
+    },
+    {
+        "title": "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00135"
+    },
+    {
+        "title": "Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00136"
+    },
+    {
+        "title": "Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00137"
+    },
+    {
+        "title": "Cross-Domain Requirements Linking via Adversarial-based Domain Adaptation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00138"
+    },
+    {
+        "title": "On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00139"
+    },
+    {
+        "title": "Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is not the Moon.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00140"
+    },
+    {
+        "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00141"
+    },
+    {
+        "title": "Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00142"
+    },
+    {
+        "title": "Keyword Extraction From Specification Documents for Planning Security Mechanisms.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00143"
+    },
+    {
+        "title": "Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00144"
+    },
+    {
+        "title": "Test Selection for Unified Regression Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00145"
+    },
+    {
+        "title": "ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00146"
+    },
+    {
+        "title": "Measuring and Mitigating Gaps in Structural Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00147"
+    },
+    {
+        "title": "Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00148"
+    },
+    {
+        "title": "Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00149"
+    },
+    {
+        "title": "Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00150"
+    },
+    {
+        "title": "LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00151"
+    },
+    {
+        "title": "Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy Estimation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00152"
+    },
+    {
+        "title": "CC: Causality-Aware Coverage Criterion for Deep Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00153"
+    },
+    {
+        "title": "Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00154"
+    },
+    {
+        "title": "Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00155"
+    },
+    {
+        "title": "Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00156"
+    },
+    {
+        "title": "Demystifying Issues, Challenges, and Solutions for Multilingual Software Development.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00157"
+    },
+    {
+        "title": "Automated Summarization of Stack Overflow Posts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00158"
+    },
+    {
+        "title": "Semi-Automatic, Inline and Collaborative Web Page Code Curations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00159"
+    },
+    {
+        "title": "Identifying Key Classes for Initial Software Comprehension: Can We Do It Better?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00160"
+    },
+    {
+        "title": "Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00161"
+    },
+    {
+        "title": "Evidence Profiles for Validity Threats in Program Comprehension Experiments.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00162"
+    },
+    {
+        "title": "Developers' Visuo-spatial Mental Model and Program Comprehension.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00163"
+    },
+    {
+        "title": "Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00164"
+    },
+    {
+        "title": "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00165"
+    },
+    {
+        "title": "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00166"
+    },
+    {
+        "title": "Carving UI Tests to Generate API Tests and API Specification.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00167"
+    },
+    {
+        "title": "Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00168"
+    },
+    {
+        "title": "Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00169"
+    },
+    {
+        "title": "DLInfer: Deep Learning with Static Slicing for Python Type Inference.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00170"
+    },
+    {
+        "title": "ViolationTracker: Building Precise Histories for Static Analysis Violations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00171"
+    },
+    {
+        "title": "Compiler Test-Program Generation via Memoized Configuration Search.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00172"
+    },
+    {
+        "title": "Generating Test Databases for Database-Backed Applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00173"
+    },
+    {
+        "title": "Testing Database Engines via Query Plan Guidance.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00174"
+    },
+    {
+        "title": "Testing Database Systems via Differential Query Execution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00175"
+    },
+    {
+        "title": "Analysing the Impact of Workloads on Modeling the Performance of Configurable Software Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00176"
+    },
+    {
+        "title": "Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00177"
+    },
+    {
+        "title": "Learning Deep Semantics for Test Completion.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00178"
+    },
+    {
+        "title": "SkCoder: A Sketch-based Approach for Automatic Code Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00179"
+    },
+    {
+        "title": "An Empirical Comparison of Pre-Trained Models of Source Code.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00180"
+    },
+    {
+        "title": "On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00181"
+    },
+    {
+        "title": "Source Code Recommender Systems: The Practitioners' Perspective.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00182"
+    },
+    {
+        "title": "Safe Low-Level Code Without Overhead is Practical.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00183"
+    },
+    {
+        "title": "Sibyl: Improving Software Engineering Tools with SMT Selection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00184"
+    },
+    {
+        "title": "CoCoSoDa: Effective Contrastive Learning for Code Search.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00185"
+    },
+    {
+        "title": "Coverage Guided Fault Injection for Cloud Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00186"
+    },
+    {
+        "title": "Diver: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00187"
+    },
+    {
+        "title": "An Empirical Study of Deep Learning Models for Vulnerability Detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00188"
+    },
+    {
+        "title": "DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00189"
+    },
+    {
+        "title": "Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00190"
+    },
+    {
+        "title": "Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00191"
+    },
+    {
+        "title": "Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00192"
+    },
+    {
+        "title": "Incident-aware Duplicate Ticket Aggregation for Cloud Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00193"
+    },
+    {
+        "title": "Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00194"
+    },
+    {
+        "title": "On the Reproducibility of Software Defect Datasets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00195"
+    },
+    {
+        "title": "Context-aware Bug Reproduction for Mobile Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00196"
+    },
+    {
+        "title": "Read It, Don't Watch It: Captioning Bug Recordings Automatically.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00197"
+    },
+    {
+        "title": "Duetcs: Code Style Transfer through Generation and Retrieval.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00198"
+    },
+    {
+        "title": "On the Applicability of Language Models to Block-Based Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00199"
+    },
+    {
+        "title": "MTTM: Metamorphic Testing for Textual Content Moderation Software.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00200"
+    },
+    {
+        "title": "Metamorphic Shader Fusion for Testing Graphics Shader Compilers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00201"
+    },
+    {
+        "title": "MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00202"
+    },
+    {
+        "title": "Automating Code-Related Tasks Through Transformers: The Impact of Pre-training.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00203"
+    },
+    {
+        "title": "Log Parsing with Prompt-based Few-shot Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00204"
+    },
+    {
+        "title": "Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00205"
+    },
+    {
+        "title": "An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00206"
+    },
+    {
+        "title": "ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00207"
+    },
+    {
+        "title": "DStream: A Streaming-Based Highly Parallel IFDS Framework.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00208"
+    },
+    {
+        "title": "(Partial) Program Dependence Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00209"
+    },
+    {
+        "title": "MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00210"
+    },
+    {
+        "title": "VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00211"
+    },
+    {
+        "title": "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00212"
+    },
+    {
+        "title": "Automated Black-Box Testing of Mass Assignment Vulnerabilities in RESTful APIs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00213"
+    },
+    {
+        "title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00214"
+    },
+    {
+        "title": "Finding Causally Different Tests for an Industrial Control System.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00215"
+    },
+    {
+        "title": "Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00216"
+    },
+    {
+        "title": "Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00217"
+    },
+    {
+        "title": "Rules of Engagement: Why and How Companies Participate in OSS.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00218"
+    },
+    {
+        "title": "An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2023,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE48619.2023.00219"
+    }
+]

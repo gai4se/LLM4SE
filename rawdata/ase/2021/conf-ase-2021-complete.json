@@ -1,0 +1,1164 @@
+[
+    {
+        "title": "Explainable AI for Software Engineering.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678580"
+    },
+    {
+        "title": "Tackling Flaky Tests: Understanding the Problem and Providing Practical Solutions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678701"
+    },
+    {
+        "title": "Automating User Notice Generation for Smart Contract Functions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678552"
+    },
+    {
+        "title": "End-to-End Automation of Feedback on Student Assembly Programs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678837"
+    },
+    {
+        "title": "Is Historical Data an Appropriate Benchmark for Reviewer Recommendation Systems? : A Case Study of the Gerrit Community.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678640"
+    },
+    {
+        "title": "An Empirical Study of Bugs in WebAssembly Compilers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678776"
+    },
+    {
+        "title": "Detecting TensorFlow Program Bugs in Real-World Industrial Environment.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678891"
+    },
+    {
+        "title": "Why Do Developers Remove Lambda Expressions in Java?",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678600"
+    },
+    {
+        "title": "Context Debloating for Object-Sensitive Pointer Analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678880"
+    },
+    {
+        "title": "Dynamic Generation of Python Bindings for HPC Kernels.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678726"
+    },
+    {
+        "title": "Testing Your Question Answering Software via Asking Recursively.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678670"
+    },
+    {
+        "title": "Improving Test Case Generation for REST APIs Through Hierarchical Clustering.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678586"
+    },
+    {
+        "title": "VizSmith: Automated Visualization Synthesis by Mining Data-Science Notebooks.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678696"
+    },
+    {
+        "title": "ISPY: Automatic Issue-Solution Pair Extraction from Community Live Chats.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678894"
+    },
+    {
+        "title": "EditSum: A Retrieve-and-Edit Framework for Source Code Summarization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678724"
+    },
+    {
+        "title": "Interactive Cross-language Code Retrieval with Auto-Encoders.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678929"
+    },
+    {
+        "title": "Data-Driven Design and Evaluation of SMT Meta-Solving Strategies: Balancing Performance, Accuracy, and Cost.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678881"
+    },
+    {
+        "title": "Reducing Bug Triaging Confusion by Learning from Mistakes with a Bug Tossing Knowledge Graph.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678574"
+    },
+    {
+        "title": "ASE: A Value Set Decision Procedure for Symbolic Execution.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678584"
+    },
+    {
+        "title": "CorbFuzz: Checking Browser Security Policies with Fuzzing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678636"
+    },
+    {
+        "title": "SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Data-Flow Analyses.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678888"
+    },
+    {
+        "title": "Restoring the Executability of Jupyter Notebooks by Automatic Upgrade of Deprecated APIs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678889"
+    },
+    {
+        "title": "Adversarial Attacks to API Recommender Systems: Time to Wake Up and Smell the Coffeeƒ.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678946"
+    },
+    {
+        "title": "REPFINDER: Finding Replacements for Missing APIs in Library Update.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678905"
+    },
+    {
+        "title": "Targeting Requirements Violations of Autonomous Driving Systems by Dynamic Evolutionary Search.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678883"
+    },
+    {
+        "title": "On the Real-World Effectiveness of Static Bug Detectors at Finding Null Pointer Exceptions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678535"
+    },
+    {
+        "title": "Subtle Bugs Everywhere: Generating Documentation for Data Wrangling Code.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678520"
+    },
+    {
+        "title": "Distribution Models for Falsification and Verification of DNNs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678590"
+    },
+    {
+        "title": "SATune: A Study-Driven Auto-Tuning Approach for Configurable Software Verification Tools.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678761"
+    },
+    {
+        "title": "Efficient SMT-Based Model Checking for Signal Temporal Logic.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678719"
+    },
+    {
+        "title": "DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678764"
+    },
+    {
+        "title": "Efficient state synchronisation in model-based testing through reinforcement learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678566"
+    },
+    {
+        "title": "Faster Mutation Analysis with Fewer Processes and Smaller Overheads.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678827"
+    },
+    {
+        "title": "FRUGAL: Unlocking Semi-Supervised Learning for Software Analytics.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678617"
+    },
+    {
+        "title": "PyExplainer: Explaining the Predictions of Just-In-Time Defect Models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678763"
+    },
+    {
+        "title": "Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678708"
+    },
+    {
+        "title": "Graph-based Incident Aggregation for Large-Scale Online Service Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678746"
+    },
+    {
+        "title": "On Multi-Modal Learning of Editing Source Code.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678559"
+    },
+    {
+        "title": "Learning Highly Recursive Input Grammars.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678879"
+    },
+    {
+        "title": "Automated Testing for Machine Translation via Constituency Invariance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678715"
+    },
+    {
+        "title": "Race Detection for Event-Driven Node.js Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678814"
+    },
+    {
+        "title": "Log-based Anomaly Detection Without Log Parsing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678773"
+    },
+    {
+        "title": "Finding the Missing Piece: Permission Specification Analysis for Android NDK.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678843"
+    },
+    {
+        "title": "Characterizing and Detecting Configuration Compatibility Issues in Android Apps.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678556"
+    },
+    {
+        "title": "Where to Start: Studying Type Annotation Practices in Python.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678947"
+    },
+    {
+        "title": "APIzation: Generating Reusable APIs from StackOverflow Code Snippets.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678576"
+    },
+    {
+        "title": "FIGCPS: Effective Failure-inducing Input Generation for Cyber-Physical Systems with Deep Reinforcement Learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678832"
+    },
+    {
+        "title": "InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678671"
+    },
+    {
+        "title": "RULF: Rust Library Fuzzing via API Dependency Graph Traversal.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678813"
+    },
+    {
+        "title": "PyNose: A Test Smell Detector For Python.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678615"
+    },
+    {
+        "title": "JSTAR: JavaScript Specification Type Analyzer using Refinement.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678781"
+    },
+    {
+        "title": "Can Neural Clone Detection Generalize to Unseen Functionalitiesƒ.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678907"
+    },
+    {
+        "title": "Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678597"
+    },
+    {
+        "title": "\"What makes my queries slow?\": Subgroup Discovery for SQL Workload Analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678915"
+    },
+    {
+        "title": "AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678534"
+    },
+    {
+        "title": "Performance Testing for Cloud Computing with Dependent Data Bootstrapping.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678687"
+    },
+    {
+        "title": "Nekara: Generalized Concurrency Testing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678838"
+    },
+    {
+        "title": "QDiff: Differential Testing of Quantum Software Stacks.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678792"
+    },
+    {
+        "title": "Finding A Needle in a Haystack: Automated Mining of Silent Vulnerability Fixes.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678720"
+    },
+    {
+        "title": "DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678622"
+    },
+    {
+        "title": "Automated Repair of Size-Based Inaccessibility Issues in Mobile Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678625"
+    },
+    {
+        "title": "Mining Cross-Domain Apps for Software Evolution: A Feature-based Approach.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678514"
+    },
+    {
+        "title": "UI Test Migration Across Mobile Platforms.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678643"
+    },
+    {
+        "title": "Intelligent Change Operators for Multi-Objective Refactoring.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678519"
+    },
+    {
+        "title": "Refactorings and Technical Debt in Docker Projects: An Empirical Study.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678585"
+    },
+    {
+        "title": "FirmGuide: Boosting the Capability of Rehosting Embedded Linux Kernels through Model-Guided Kernel Execution.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678653"
+    },
+    {
+        "title": "IFIZZ: Deep-State and Efficient Fault-Scenario Generation to Test IoT Firmware.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678785"
+    },
+    {
+        "title": "Learning Patterns in Configuration.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678525"
+    },
+    {
+        "title": "Transcode: Detecting Status Code Mapping Errors in Large-Scale Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678823"
+    },
+    {
+        "title": "Evolutionary-Guided Synthesis of Verified Pareto-Optimal MDP Policies.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678727"
+    },
+    {
+        "title": "Automating Developer Chat Mining.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678923"
+    },
+    {
+        "title": "Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678712"
+    },
+    {
+        "title": "Detecting Memory-Related Bugs by Tracking Heap Memory Management of C++ Smart Pointers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678836"
+    },
+    {
+        "title": "Understanding and Detecting Performance Bugs in Markdown Compilers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678611"
+    },
+    {
+        "title": "Deep GUI: Black-box GUI Input Generation with Deep Learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678778"
+    },
+    {
+        "title": "Towards Exploring the Limitations of Active Learning: An Empirical Study.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678672"
+    },
+    {
+        "title": "Learning Domain-Specific Edit Operations from Model Repositories with Frequent Subgraph Mining.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678698"
+    },
+    {
+        "title": "Unsupervised Labeling and Extraction of Phrase-based Concepts in Vulnerability Descriptions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678638"
+    },
+    {
+        "title": "A Compositional Deadlock Detector for Android Java.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678572"
+    },
+    {
+        "title": "Binary Diffing as a Network Alignment Problem via Belief Propagation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678782"
+    },
+    {
+        "title": "CiFi: Versatile Analysis of Class and Field Immutability.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678903"
+    },
+    {
+        "title": "Modeling Team Dynamics for the Characterization and Prediction of Delays in User Stories.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678939"
+    },
+    {
+        "title": "DeepMemory: Model-based Memorization Analysis of Deep Neural Language Models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678871"
+    },
+    {
+        "title": "Automated Verification of Go Programs via Bounded Model Checking.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678571"
+    },
+    {
+        "title": "A Prediction Model for Software Requirements Change Impact.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678582"
+    },
+    {
+        "title": "DSInfoSearch: Supporting Experimentation Process of Data Scientists.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678873"
+    },
+    {
+        "title": "Towards the generation of machine learning defect reports.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678592"
+    },
+    {
+        "title": "Leveraging Code Clones and Natural Language Processing for Log Statement Prediction.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678596"
+    },
+    {
+        "title": "An Automated Pipeline for Privacy Leak Analysis of Android Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678875"
+    },
+    {
+        "title": "Training Automated Test Oracles to Identify Semantic Bugs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678886"
+    },
+    {
+        "title": "Binary Code Similarity Detection.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678518"
+    },
+    {
+        "title": "API Compatibility Issue Detection, Testing and Analysis for Android Apps.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678812"
+    },
+    {
+        "title": "Effectively Analyzing Evolving Software with Differential Facts.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678659"
+    },
+    {
+        "title": "Automated Approach for System-level Testing of Unmanned Aerial Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678902"
+    },
+    {
+        "title": "Cross-Lingual Transfer Learning Framework for Program Analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678848"
+    },
+    {
+        "title": "Fuzzing Methods Recommendation Based on Feature Vectors.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678630"
+    },
+    {
+        "title": "Gas Estimation and Optimization for Smart Contracts on Ethereum.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678932"
+    },
+    {
+        "title": "Quality analysis of mobile applications with special focus on security aspects.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678681"
+    },
+    {
+        "title": "Semi-automated Cross-Component Issue Management and Impact Analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678830"
+    },
+    {
+        "title": "How Can Subgroup Discovery Help AIOps?",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678697"
+    },
+    {
+        "title": "Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678685"
+    },
+    {
+        "title": "Access Control Tree for Testing and Learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678797"
+    },
+    {
+        "title": "FinFuzzer: One Step Further in Fuzzing Fintech Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678675"
+    },
+    {
+        "title": "Evaluating Semantic Autocompletion of Business Processes with Domain Experts.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678821"
+    },
+    {
+        "title": "Learning-based Assistant for Data Migration of Enterprise Information Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678533"
+    },
+    {
+        "title": "Reducing Time-To-Fix For Fuzzer Bugs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678606"
+    },
+    {
+        "title": "Automatically Deciding on the Integration of Commits Based on Their Descriptions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678906"
+    },
+    {
+        "title": "BeeSwarm: Enabling Parallel Scaling Performance Measurement in Continuous Integration for HPC Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678805"
+    },
+    {
+        "title": "Lessons learned from hyper-parameter tuning for microservice candidate identification.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678704"
+    },
+    {
+        "title": "Learning GraphQL Query Cost.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678513"
+    },
+    {
+        "title": "Automatic HMI Structure Exploration Via Curiosity-Based Reinforcement Learning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678703"
+    },
+    {
+        "title": "Towards a Serverless Java Runtime.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678709"
+    },
+    {
+        "title": "BIFF: Practical Binary Fuzzing Framework for Programs of IoT and Mobile Devices.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678910"
+    },
+    {
+        "title": "Infrastructure in Code: Towards Developer-Friendly Cloud Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678943"
+    },
+    {
+        "title": "Metamorphic Testing on Multi-module UAV Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678841"
+    },
+    {
+        "title": "Decoupling Server and Client Code Through Cloud-Native Domain-Specific Functions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678747"
+    },
+    {
+        "title": "Automatically Annotating Sentences for Task-specific Bug Report Summarization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678554"
+    },
+    {
+        "title": "Genetic Optimisation of C++ Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678650"
+    },
+    {
+        "title": "Revisiting Textual Feature of Bug-Triage Approach.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678863"
+    },
+    {
+        "title": "A First Look at the Effect of Deep Learning in Coverage-guided Fuzzing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678794"
+    },
+    {
+        "title": "Counterexample Guided Inductive Repair of Reactive Contracts.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678548"
+    },
+    {
+        "title": "AST-Transformer: Encoding Abstract Syntax Trees Efficiently for Code Summarization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678882"
+    },
+    {
+        "title": "Detecting Adversarial Samples with Graph-Guided Testing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678732"
+    },
+    {
+        "title": "Using Static Analysis to Address Microservice Architecture Reconstruction.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678749"
+    },
+    {
+        "title": "Business Process Extraction Using Static Analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678588"
+    },
+    {
+        "title": "Improving Mutation-Based Fault Localization with Plausible-code Generating Mutation Operators.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678577"
+    },
+    {
+        "title": "Using Version Control and Issue Tickets to detect Code Debt and Economical Cost.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678532"
+    },
+    {
+        "title": "Human-in-the-Loop XAI-enabled Vulnerability Detection, Investigation, and Mitigation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678840"
+    },
+    {
+        "title": "BeAFix: An Automated Repair Tool for Faulty Alloy Models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678524"
+    },
+    {
+        "title": "FLACK: Localizing Faults in Alloy Models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678740"
+    },
+    {
+        "title": "IncBL: Incremental Bug Localization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678546"
+    },
+    {
+        "title": "Q&A MAESTRO: Q&A Post Recommendation for Fixing Java Runtime Exceptions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678893"
+    },
+    {
+        "title": "GenTree: Inferring Configuration Interactions using Decision Trees.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678676"
+    },
+    {
+        "title": "Quito: a Coverage-Guided Test Generator for Quantum Programs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678798"
+    },
+    {
+        "title": "Revizor: A Data-Driven Approach to Automate Frequent Code Changes Based on Graph Matching.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678635"
+    },
+    {
+        "title": "Scalable Fuzzing of Program Binaries with E9AFL.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678913"
+    },
+    {
+        "title": "EvoMe: A Software Evolution Management Engine Based on Differential Factbase.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678795"
+    },
+    {
+        "title": "FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678680"
+    },
+    {
+        "title": "Automated Code Refactoring upon Database-Schema Changes in Web Applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678934"
+    },
+    {
+        "title": "Muskit: A Mutation Analysis Tool for Quantum Software Testing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678563"
+    },
+    {
+        "title": "JTDog: a Gradle Plugin for Dynamic Test Smell Detection.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678529"
+    },
+    {
+        "title": "RefactorInsight: Enhancing IDE Representation of Changes in Git with Refactorings Information.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678646"
+    },
+    {
+        "title": "Shaker: a Tool for Detecting More Flaky Tests Faster.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678918"
+    },
+    {
+        "title": "DEVIATE: A Deep Learning Variance Testing Framework.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678540"
+    },
+    {
+        "title": "SoManyConflicts: Resolve Many Merge Conflicts Interactively and Systematically.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678937"
+    },
+    {
+        "title": "A Mocktail of Source Code Representations.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678551"
+    },
+    {
+        "title": "Empowering Web Applications with WebAssembly: Are We There Yet?",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678831"
+    },
+    {
+        "title": "Property-based Test for Part-of-Speech Tagging Tool.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678807"
+    },
+    {
+        "title": "Understanding Code Fragments with Issue Reports.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678864"
+    },
+    {
+        "title": "An Empirical Study on Obsolete Issue Reports.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678543"
+    },
+    {
+        "title": "Did You Do Your Homework? Raising Awareness on Software Fairness and Discrimination.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678568"
+    },
+    {
+        "title": "Shake Those System Parameters! On the Need for Parameter Coverage for Decision Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678593"
+    },
+    {
+        "title": "What do pre-trained code models know about code?",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678927"
+    },
+    {
+        "title": "Towards Systematic and Dynamic Task Allocation for Collaborative Parallel Fuzzing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678810"
+    },
+    {
+        "title": "Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678735"
+    },
+    {
+        "title": "Adaptation2: Adapting Specification Learners in Assured Adaptive Systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678919"
+    },
+    {
+        "title": "Log Anomaly to Resolution: AI Based Proactive Incident Remediation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678815"
+    },
+    {
+        "title": "HyperGI: Automated Detection and Repair of Information Flow Leakage.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678758"
+    },
+    {
+        "title": "Privacy as first-class requirements in software development: A socio-technical approach.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678872"
+    },
+    {
+        "title": "Towards Fluid Software Architectures: Bidirectional Human-AI Interaction.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678647"
+    },
+    {
+        "title": "Bugs4Q: A Benchmark of Real Bugs for Quantum Programs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678908"
+    },
+    {
+        "title": "Assessing Robustness of ML-Based Program Analysis Tools using Metamorphic Program Transformations.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678706"
+    },
+    {
+        "title": "Defeating Program Analysis Techniques via Ambiguous Translation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678912"
+    },
+    {
+        "title": "A Program Synthesis Approach for Adding Architectural Tactics to An Existing Code Base.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678705"
+    },
+    {
+        "title": "Program Synthesis with Algorithm Pseudocode Guidance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678657"
+    },
+    {
+        "title": "py2src: Towards the Automatic (and Reliable) Identification of Sources for PyPI Package.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE51524.2021.9678526"
+    }
+]

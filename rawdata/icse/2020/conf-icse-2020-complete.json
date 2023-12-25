@@ -1,0 +1,905 @@
+[
+    {
+        "title": "Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380369"
+    },
+    {
+        "title": "A cost-efficient approach to building in continuous integration.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380437"
+    },
+    {
+        "title": "Practical fault detection in puppet programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380384"
+    },
+    {
+        "title": "Learning from, understanding, and supporting DevOps artifacts for docker.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380406"
+    },
+    {
+        "title": "Adapting requirements models to varying environments.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380927"
+    },
+    {
+        "title": "Comparing formal tools for system design: a judgment study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380373"
+    },
+    {
+        "title": "Debugging inputs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380329"
+    },
+    {
+        "title": "Causal testing: understanding defects' root causes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380377"
+    },
+    {
+        "title": "Impact analysis of cross-project bugs on software ecosystems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380442"
+    },
+    {
+        "title": "Taming behavioral backward incompatibilities via cross-project testing and analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380436"
+    },
+    {
+        "title": "Watchman: monitoring dependency conflicts for Python library ecosystem.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380426"
+    },
+    {
+        "title": "One size does not fit all: a grounded theory and online survey study of developer preferences for security warning types.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380387"
+    },
+    {
+        "title": "Schrödinger's security: opening the box on app developers' security rationale.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380394"
+    },
+    {
+        "title": "How software practitioners use informal local meetups to share software engineering knowledge.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380333"
+    },
+    {
+        "title": "Predicting developers' negative feelings about code review.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380414"
+    },
+    {
+        "title": "Near-duplicate detection in web app model inference.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380416"
+    },
+    {
+        "title": "Extracting taint specifications for JavaScript libraries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380390"
+    },
+    {
+        "title": "SLACC: simion-based language agnostic code clones.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380407"
+    },
+    {
+        "title": "Finding client-side business flow tampering vulnerabilities.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380355"
+    },
+    {
+        "title": "Securing unsafe rust programs with XRust.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380325"
+    },
+    {
+        "title": "Is rust used safely by software developers?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380413"
+    },
+    {
+        "title": "Burn after reading: a shadow stack with microsecond-level runtime rerandomization for protecting return addresses.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380439"
+    },
+    {
+        "title": "SAVER: scalable, precise, and safe memory-error repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380323"
+    },
+    {
+        "title": "Revealing injection vulnerabilities by leveraging existing tests.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380326"
+    },
+    {
+        "title": "RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380431"
+    },
+    {
+        "title": "Translating video recordings of mobile app usages into replayable scenarios.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380328"
+    },
+    {
+        "title": "Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380327"
+    },
+    {
+        "title": "SLEMI: equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380381"
+    },
+    {
+        "title": "DeepBillboard: systematic physical-world testing of autonomous driving systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380422"
+    },
+    {
+        "title": "Misbehaviour prediction for autonomous driving systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380353"
+    },
+    {
+        "title": "Approximation-refinement testing of compute-intensive cyber-physical models: an approach based on system identification.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380370"
+    },
+    {
+        "title": "A comprehensive study of autonomous vehicle bugs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380397"
+    },
+    {
+        "title": "Studying the use of Java logging utilities in the wild.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380408"
+    },
+    {
+        "title": "A study on the prevalence of human values in software engineering publications, 2015 - 2018.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380393"
+    },
+    {
+        "title": "Explaining pair programming session dynamics from knowledge gaps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380925"
+    },
+    {
+        "title": "Engineering gender-inclusivity into software: ten teams' tales from the trenches.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380371"
+    },
+    {
+        "title": "How has forking changed in the last 20 years?: a study of hard forks on GitHub.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380412"
+    },
+    {
+        "title": "Multiple-entry testing of Android applications by constructing activity launching contexts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380347"
+    },
+    {
+        "title": "ComboDroid: generating high-quality test inputs for Android apps via use case combinations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380382"
+    },
+    {
+        "title": "Time-travel testing of Android apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380402"
+    },
+    {
+        "title": "HeteroRefactor: refactoring for heterogeneous computing with FPGA.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380340"
+    },
+    {
+        "title": "HARP: holistic analysis for refactoring Python-based analytics programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380434"
+    },
+    {
+        "title": "CC2Vec: distributed representations of code changes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380361"
+    },
+    {
+        "title": "Empirical review of automated analysis tools on 47, 587 Ethereum smart contracts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380364"
+    },
+    {
+        "title": "Gap between theory and practice: an empirical study of security patches in solidity.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380424"
+    },
+    {
+        "title": "An investigation of cross-project learning in online just-in-time software defect prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380403"
+    },
+    {
+        "title": "Understanding the automated parameter optimization on transfer learning for cross-project defect prediction: an empirical study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380360"
+    },
+    {
+        "title": "Software visualization and deep transfer learning for effective software defect prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380389"
+    },
+    {
+        "title": "Software documentation: the practitioners' perspective.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380405"
+    },
+    {
+        "title": "DLFix: context-based code transformation learning for automated program repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380345"
+    },
+    {
+        "title": "On the efficiency of test suite based program repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380338"
+    },
+    {
+        "title": "Caspar: extracting and synthesizing user stories of problems from app reviews.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380924"
+    },
+    {
+        "title": "Detection of hidden feature requests from massive chat messages via deep siamese network.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380356"
+    },
+    {
+        "title": "A tale from the trenches: cognitive biases and software development.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380330"
+    },
+    {
+        "title": "Recognizing developers' emotions while programming.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380374"
+    },
+    {
+        "title": "Neurological divide: an fMRI study of prose and code writing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380348"
+    },
+    {
+        "title": "Here we go again: why is it difficult for developers to learn another programming language?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380352"
+    },
+    {
+        "title": "Importance-driven deep learning system testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380391"
+    },
+    {
+        "title": "ReluDiff: differential verification of deep neural networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380337"
+    },
+    {
+        "title": "Dissector: input validation for deep learning applications by crossing-layer dissection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380379"
+    },
+    {
+        "title": "Towards characterizing adversarial defects of deep learning software from the lens of uncertainty.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380368"
+    },
+    {
+        "title": "Gang of eight: a defect taxonomy for infrastructure as code scripts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380409"
+    },
+    {
+        "title": "MemLock: memory usage guided fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380396"
+    },
+    {
+        "title": "sFuzz: an efficient adaptive fuzzer for solidity smart contracts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380334"
+    },
+    {
+        "title": "Targeted greybox fuzzing with static lookahead analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380388"
+    },
+    {
+        "title": "Planning for untangling: predicting the difficulty of merge conflicts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380344"
+    },
+    {
+        "title": "Conquering the extensional scalability problem for value-flow analysis frameworks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380346"
+    },
+    {
+        "title": "Tailoring programs for static analysis via program transformation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380343"
+    },
+    {
+        "title": "Pipelining bottom-up data flow analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380425"
+    },
+    {
+        "title": "A novel approach to tracing safety requirements and state-based design models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380332"
+    },
+    {
+        "title": "Establishing multilevel test-to-code traceability links.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380921"
+    },
+    {
+        "title": "Improving the effectiveness of traceability link recovery using hierarchical bayesian networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380418"
+    },
+    {
+        "title": "How Android developers handle evolution-induced API compatibility issues: a large-scale study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380357"
+    },
+    {
+        "title": "An empirical study on API parameter rules.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380922"
+    },
+    {
+        "title": "When APIs are intentionally bypassed: an exploratory study of API workarounds.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380433"
+    },
+    {
+        "title": "Demystify official API usage directives with crowdsourced API misuse scenarios, erroneous code examples and patches.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380430"
+    },
+    {
+        "title": "Simulee: detecting CUDA synchronization bugs via memory-access modeling.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380358"
+    },
+    {
+        "title": "White-box fairness testing through adversarial sampling.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380331"
+    },
+    {
+        "title": "Structure-invariant testing for machine translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380339"
+    },
+    {
+        "title": "Automatic testing and improvement of machine translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380420"
+    },
+    {
+        "title": "TRADER: trace divergence analysis and embedding regulation for debugging recurrent neural networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380423"
+    },
+    {
+        "title": "Typestate-guided fuzzer for discovering use-after-free vulnerabilities.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380386"
+    },
+    {
+        "title": "JVM fuzzing for JIT-induced side-channel detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380432"
+    },
+    {
+        "title": "Ankou: guiding grey-box fuzzing towards combinatorial difference.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380421"
+    },
+    {
+        "title": "BCFA: bespoke control flow analysis for CFA at scale.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380435"
+    },
+    {
+        "title": "On the recall of static call graph construction in practice.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380441"
+    },
+    {
+        "title": "Heaps'n leaks: how heap snapshots improve Android taint analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380438"
+    },
+    {
+        "title": "Big code != big vocabulary: open-vocabulary models for source code.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380342"
+    },
+    {
+        "title": "Improving data scientist efficiency with provenance.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380366"
+    },
+    {
+        "title": "Managing data constraints in database-backed web applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380375"
+    },
+    {
+        "title": "Taxonomy of real faults in deep learning systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380395"
+    },
+    {
+        "title": "Testing DNN image classifiers for confusion & bias errors.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380400"
+    },
+    {
+        "title": "Repairing deep neural networks: fix patterns and challenges.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380378"
+    },
+    {
+        "title": "Fuzz testing based data augmentation to improve robustness of deep neural networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380415"
+    },
+    {
+        "title": "An empirical study on program failures of deep learning jobs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380362"
+    },
+    {
+        "title": "Primers or reminders?: the effects of existing review comments on code review.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380385"
+    },
+    {
+        "title": "Mitigating turnover with code review recommendation: balancing expertise, workload, and knowledge distribution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380335"
+    },
+    {
+        "title": "How do companies collaborate in open source ecosystems?: an empirical study of OpenStack.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380376"
+    },
+    {
+        "title": "How to not get rich: an empirical study of donations in open source.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380410"
+    },
+    {
+        "title": "Scaling open source communities: an empirical study of the Linux kernel.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380920"
+    },
+    {
+        "title": "SpecuSym: speculative symbolic execution for cache timing leak detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380428"
+    },
+    {
+        "title": "Symbolic verification of message passing interface programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380419"
+    },
+    {
+        "title": "Efficient generation of error-inducing floating-point inputs via symbolic execution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380359"
+    },
+    {
+        "title": "HyDiff: hybrid differential software analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380363"
+    },
+    {
+        "title": "Seenomaly: vision-based linting of GUI animation effects against design-don't guidelines.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380411"
+    },
+    {
+        "title": "Low-overhead deadlock prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380367"
+    },
+    {
+        "title": "An empirical assessment of security risks of global Android banking apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380417"
+    },
+    {
+        "title": "Accessibility issues in Android apps: state of affairs, sentiments, and ways forward.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380392"
+    },
+    {
+        "title": "Collaborative bug finding for Android apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380349"
+    },
+    {
+        "title": "POSIT: simultaneously tagging natural and programming languages.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380440"
+    },
+    {
+        "title": "CPC: automatically classifying and propagating natural language comments via program analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380427"
+    },
+    {
+        "title": "Suggesting natural method names to check name consistencies.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380926"
+    },
+    {
+        "title": "Retrieval-based neural source code summarization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380383"
+    },
+    {
+        "title": "On learning meaningful assert statements for unit test cases.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380429"
+    },
+    {
+        "title": "Quickly generating diverse valid test inputs with reinforcement learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380399"
+    },
+    {
+        "title": "An evidence-based inquiry into the use of grey literature in software engineering.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380336"
+    },
+    {
+        "title": "Towards the use of the readily available tests from the release pipeline as performance tests: are we there yet?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380351"
+    },
+    {
+        "title": "Verifying object construction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380341"
+    },
+    {
+        "title": "Automatically testing string solvers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380398"
+    },
+    {
+        "title": "A study on the lifecycle of flaky tests.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3381749"
+    },
+    {
+        "title": "Testing file system implementations on layered models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380350"
+    },
+    {
+        "title": "Co-evolving code with evolving metamodels.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380324"
+    },
+    {
+        "title": "Lazy product discovery in huge configuration spaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380372"
+    },
+    {
+        "title": "Reducing run-time adaptation space via analysis of possible utility bounds.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380365"
+    },
+    {
+        "title": "Context-aware in-process crowdworker recommendation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380380"
+    },
+    {
+        "title": "A large-scale empirical study on vulnerability distribution within projects and the lessons learned.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380923"
+    },
+    {
+        "title": "Unsuccessful story about few shot malware family classification and siamese network to the rescue.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380354"
+    },
+    {
+        "title": "How does misconfiguration of analytic services compromise mobile privacy?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380401"
+    },
+    {
+        "title": "Interpreting cloud computer vision pain-points: a mining study of stack overflow.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380404"
+    }
+]

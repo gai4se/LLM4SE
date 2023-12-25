@@ -1,0 +1,744 @@
+[
+    {
+        "title": "Effects of Adopting Code Review Bots on Pull Requests to OSS Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00011"
+    },
+    {
+        "title": "Can You Capture Information As You Intend To? A Case Study on Logging Practice in Industry.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00012"
+    },
+    {
+        "title": "Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00013"
+    },
+    {
+        "title": "An Empirical Study of Usages, Updates and Risks of Third-Party Libraries in Java Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00014"
+    },
+    {
+        "title": "What Developers (Care to) Recall: An Interview Survey on Smaller Systems.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00015"
+    },
+    {
+        "title": "Database-Access Performance Antipatterns in Database-Backed Web Applications.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00016"
+    },
+    {
+        "title": "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00017"
+    },
+    {
+        "title": "GenSlice: Generalized Semantic History Slicing.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00018"
+    },
+    {
+        "title": "A Method for Finding Missing Unit Tests.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00019"
+    },
+    {
+        "title": "Analysis of Modern Release Engineering Topics : - A Large-Scale Study using StackOverflow -.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00020"
+    },
+    {
+        "title": "Learning Code-Query Interaction for Enhancing Code Searches.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00021"
+    },
+    {
+        "title": "Static source code metrics and static analysis warnings for fine-grained just-in-time defect prediction.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00022"
+    },
+    {
+        "title": "A Framework and DataSet for Bugs in Ethereum Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00023"
+    },
+    {
+        "title": "A First Look at the Deprecation of RESTful APIs: An Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00024"
+    },
+    {
+        "title": "Achieving Reliable Sentiment Analysis in the Software Engineering Domain using BERT.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00025"
+    },
+    {
+        "title": "Detecting Semantic Conflicts via Automated Behavior Change Detection.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00026"
+    },
+    {
+        "title": "Failures and Fixes: A Study of Software System Incident Response.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00027"
+    },
+    {
+        "title": "Every Mutation Should Be Rewarded: Boosting Fault Localization with Mutated Predicates.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00028"
+    },
+    {
+        "title": "Automated Extraction of Requirement Entities by Leveraging LSTM-CRF and Transfer Learning.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00029"
+    },
+    {
+        "title": "A Fine-Grained Analysis on the Inconsistent Changes in Code Clones.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00030"
+    },
+    {
+        "title": "Identifying Compiler and Optimization Options from Binary Code using Deep Learning Approaches.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00031"
+    },
+    {
+        "title": "Guided, Deep Testing of X.509 Certificate Validation via Coverage Transfer Graphs.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00032"
+    },
+    {
+        "title": "#ifdef Directives and Program Comprehension: The Dilemma between Correctness and Preference.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00033"
+    },
+    {
+        "title": "Introducing Differential Privacy Mechanisms for Mobile App Analytics of Dynamic Content.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00034"
+    },
+    {
+        "title": "Defining a Software Maintainability Dataset: Collecting, Aggregating and Analysing Expert Evaluations of Software Maintainability.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00035"
+    },
+    {
+        "title": "Experiments with Interactive Fault Localization Using Simulated and Real Users.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00036"
+    },
+    {
+        "title": "Shake It! Detecting Flaky Tests Caused by Concurrency with Shaker.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00037"
+    },
+    {
+        "title": "Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00038"
+    },
+    {
+        "title": "Assessing the Characteristics of FOSS Contributions in Network Automation Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00039"
+    },
+    {
+        "title": "Pizza versus Pinsa: On the Perception and Measurability of Unit Test Code Quality.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00040"
+    },
+    {
+        "title": "Evaluating Code Readability and Legibility: An Examination of Human-centric Studies.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00041"
+    },
+    {
+        "title": "A software maintenance-focused process and supporting toolset for academic environments.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00042"
+    },
+    {
+        "title": "A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00043"
+    },
+    {
+        "title": "CounterFault: Value-Based Fault Localization by Modeling and Predicting Counterfactual Outcomes.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00044"
+    },
+    {
+        "title": "Commit-Aware Mutation Testing.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00045"
+    },
+    {
+        "title": "Remote Pair Programming in Virtual Reality.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00046"
+    },
+    {
+        "title": "A Cost-Effective Approach for Hyper-Parameter Tuning in Search-based Test Case Generation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00047"
+    },
+    {
+        "title": "It Takes a Village to Build a Robot: An Empirical Study of The ROS Ecosystem.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00048"
+    },
+    {
+        "title": "How (Not) to Find Bugs: The Interplay Between Merge Conflicts, Co-Changes, and Bugs.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00049"
+    },
+    {
+        "title": "Assessing Mock Classes: An Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00050"
+    },
+    {
+        "title": "Automated Recording and Semantics-Aware Replaying of High-Speed Eye Tracking and Interaction Data to Support Cognitive Studies of Software Engineering Tasks.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00051"
+    },
+    {
+        "title": "Characterizing Task-Relevant Information in Natural Language Software Artifacts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00052"
+    },
+    {
+        "title": "Improving Testing by Mimicking User Behavior.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00053"
+    },
+    {
+        "title": "Expanding the Number of Reviewers in Open-Source Projects by Recommending Appropriate Developers.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00054"
+    },
+    {
+        "title": "How Does Modern Code Review Impact Software Design Degradation? An In-depth Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00055"
+    },
+    {
+        "title": "Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00056"
+    },
+    {
+        "title": "Lifting the Curtain on Merge Conflict Resolution: A Sensemaking Perspective.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00057"
+    },
+    {
+        "title": "On the Impact of Multi-language Development in Machine Learning Frameworks.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00058"
+    },
+    {
+        "title": "Improving Automated GUI Exploration of Android Apps via Static Dependency Analysis.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00059"
+    },
+    {
+        "title": "On the Performance and Adoption of Search-Based Microservice Identification with toMicroservices.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00060"
+    },
+    {
+        "title": "An Empirical Study of i18n Collateral Changes and Bugs in GUIs of Android apps.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00061"
+    },
+    {
+        "title": "AOBTM: Adaptive Online Biterm Topic Modeling for Version Sensitive Short-texts Analysis.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00062"
+    },
+    {
+        "title": "Why are Some Bugs Non-Reproducible? : -An Empirical Investigation using Data Fusion-.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00063"
+    },
+    {
+        "title": "A3Ident: A Two-phased Approach to Identify the Leading Authors of Android Apps.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00064"
+    },
+    {
+        "title": "Interest of Defect Technical Debt: An Exploratory Study on Apache Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00065"
+    },
+    {
+        "title": "CrossASR: Efficient Differential Testing of Automatic Speech Recognition via Text-To-Speech.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00066"
+    },
+    {
+        "title": "Score-Based Automatic Detection and Resolution of Syntactic Ambiguity in Natural Language Requirements.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00067"
+    },
+    {
+        "title": "Moderate Detection and Removal of Omnipresent Modules in Software Clustering.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00068"
+    },
+    {
+        "title": "Improving Log-Based Anomaly Detection with Component-Aware Analysis.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00069"
+    },
+    {
+        "title": "Who (Self) Admits Technical Debt?",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00070"
+    },
+    {
+        "title": "Investigating The Reproducibility of NPM Packages.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00071"
+    },
+    {
+        "title": "On Package Freshness in Linux Distributions.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00072"
+    },
+    {
+        "title": "Fuzzing to Estimate Gas Costs of Ethereum Contracts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00073"
+    },
+    {
+        "title": "Regression Testing of Massively Multiplayer Online Role-Playing Games.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00074"
+    },
+    {
+        "title": "SiblingClassTestDetector: Finding Untested Sibling Functions.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00075"
+    },
+    {
+        "title": "SBFL-Suitability: A Software Characteristic for Fault Localization.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00076"
+    },
+    {
+        "title": "Examining The Work Experience of Programmers with Visual Impairments.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00077"
+    },
+    {
+        "title": "Using Symbolic Execution to Analyze Linux KBuild Makefiles.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00078"
+    },
+    {
+        "title": "Few-Shot Guided Mix for DNN Repairing.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00079"
+    },
+    {
+        "title": "On the need for automatic knowledge management in modern collaboration tools to improve software maintenance.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00080"
+    },
+    {
+        "title": "EWIDL: Single-Source Web API Documentation Management System.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00081"
+    },
+    {
+        "title": "Efficient Bug Triage For Industrial Environments.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00082"
+    },
+    {
+        "title": "De-Flake Your Tests : Automatically Locating Root Causes of Flaky Tests in Code At Google.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00083"
+    },
+    {
+        "title": "From 6.2 to 0.15 seconds - an Industrial Case Study on Mobile Web Performance.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00084"
+    },
+    {
+        "title": "Incremental Type Migration Using Type Algebra.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00085"
+    },
+    {
+        "title": "Improving Bug Localization by Mining Crash Reports: An Industrial Study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00086"
+    },
+    {
+        "title": "Toward a Definition of Cognitive-Driven Development.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00087"
+    },
+    {
+        "title": "A blessing in disguise? Assessing the Relationship between Code Smells and Sustainability.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00088"
+    },
+    {
+        "title": "Reducing accidental clones using instant clone search in automatic code review.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00089"
+    },
+    {
+        "title": "Exploring the Challenges of Cloud Migrations During a Global Pandemic.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00090"
+    },
+    {
+        "title": "Towards a new Test Case Prioritization Approach based on Fuzzy Clustering Analysis.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00091"
+    },
+    {
+        "title": "Robin: A Voice Controlled Virtual Teammate for Software Developers and Teams.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00092"
+    },
+    {
+        "title": "Exploring Bluetooth Communication Protocols in Internet-of-Things Software Development.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00093"
+    },
+    {
+        "title": "Refactoring Recommendations Based on the Optimization of Socio-Technical Congruence.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00094"
+    },
+    {
+        "title": "Practitioners' insights on machine-learning software engineering design patterns: a preliminary study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00095"
+    },
+    {
+        "title": "Graph Neural Network-based Vulnerability Predication.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00096"
+    },
+    {
+        "title": "DR-Tools: a suite of lightweight open-source tools to measure and visualize Java source code.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00097"
+    },
+    {
+        "title": "Teddy: Automatic Recommendation of Pythonic Idiom Usage For Pull-Based Software Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00098"
+    },
+    {
+        "title": "JCoffee: Using Compiler Feedback to Make Partial Code Snippets Compilable.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00099"
+    },
+    {
+        "title": "A toolset to support a software maintenance process in academic environments.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00100"
+    },
+    {
+        "title": "QScored: An Open Platform for Code Quality Ranking and Visualization.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00101"
+    },
+    {
+        "title": "WebRTS: A Dynamic Regression Test Selection Tool for Java Web Applications.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00102"
+    },
+    {
+        "title": "Kaya: A Testing Framework for Blockchain-based Decentralized Applications.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00103"
+    },
+    {
+        "title": "Automatic Support for Multi-Domain Model Management.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00104"
+    },
+    {
+        "title": "Verifying and Testing Concurrent Programs using Constraint Solver based Approaches.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00105"
+    },
+    {
+        "title": "Integration of Program Slicing with Cognitive Complexity for Defect Prediction.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00106"
+    },
+    {
+        "title": "Debugging Declarative Models in Alloy.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00107"
+    },
+    {
+        "title": "From Transient Information to Persistent Documentation: Enhancing Software Documentation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00108"
+    },
+    {
+        "title": "Mobile App Energy Consumption: A Study of Known Energy Issues in Mobile Applications and their Classification Schemes - Summary Plan.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00109"
+    },
+    {
+        "title": "Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00110"
+    },
+    {
+        "title": "Automatic Identification of Rollback Edit with Reasons in Stack Overflow Q&A Site.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00111"
+    },
+    {
+        "title": "The Making of Accessible Android Applications: An Empirical Study on the State of the Practice.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00112"
+    },
+    {
+        "title": "Leveraging Textual and Non-Textual Features for Documentation Decluttering.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00113"
+    },
+    {
+        "title": "Source Code based On-demand Class Documentation Generation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00114"
+    },
+    {
+        "title": "Learning based and Context Aware Non-Informative Comment Detection.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00115"
+    },
+    {
+        "title": "An Empirical Study of the Dependency Networks of Deep Learning Libraries.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME46990.2020.00116"
+    }
+]

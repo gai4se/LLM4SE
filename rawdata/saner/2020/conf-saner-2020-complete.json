@@ -1,0 +1,541 @@
+[
+    {
+        "title": "Referee: A Pattern-Guided Approach for Auto Design in Compiler-Based Analyzers.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054849"
+    },
+    {
+        "title": "Web APIs in Android through the Lens of Security.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054850"
+    },
+    {
+        "title": "SMARTSHIELD: Automatic Smart Contract Protection Made Easy.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054825"
+    },
+    {
+        "title": "Automatically Extracting Subroutine Summary Descriptions from Unstructured Comments.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054789"
+    },
+    {
+        "title": "Resource Race Attacks on Android.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054863"
+    },
+    {
+        "title": "We Are Family: Analyzing Communication in GitHub Software Repositories and Their Forks.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054834"
+    },
+    {
+        "title": "Exploring Type Inference Techniques of Dynamically Typed Languages.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054814"
+    },
+    {
+        "title": "How Do Python Framework APIs Evolve? An Exploratory Study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054800"
+    },
+    {
+        "title": "Associating Code Clones with Association Rules for Change Impact Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054846"
+    },
+    {
+        "title": "LibDX: A Cross-Platform and Accurate System to Detect Third-Party Libraries in Binary Code.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054845"
+    },
+    {
+        "title": "EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054822"
+    },
+    {
+        "title": "Sequence Directed Hybrid Fuzzing.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054807"
+    },
+    {
+        "title": "LESSQL: Dealing with Database Schema Changes in Continuous Deployment.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054796"
+    },
+    {
+        "title": "Cross-Dataset Design Discussion Mining.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054792"
+    },
+    {
+        "title": "C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054842"
+    },
+    {
+        "title": "Automated Bug Detection and Replay for COTS Linux Kernel Modules with Concolic Execution.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054797"
+    },
+    {
+        "title": "Ultra-Large-Scale Repository Analysis via Graph Compression.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054827"
+    },
+    {
+        "title": "Studying Developer Reading Behavior on Stack Overflow during API Summarization Tasks.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054848"
+    },
+    {
+        "title": "On the Adoption of Kotlin on Android Development: A Triangulation Study.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054859"
+    },
+    {
+        "title": "Energy Refactorings for Android in the Large and in the Wild.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054858"
+    },
+    {
+        "title": "Essential Sentences for Navigating Stack Overflow Answers.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054828"
+    },
+    {
+        "title": "HistoRank: History-Based Ranking of Co-change Candidates.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054869"
+    },
+    {
+        "title": "D-Goldilocks: Automatic Redistribution of Remote Functionalities for Performance and Efficiency.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054870"
+    },
+    {
+        "title": "Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054857"
+    },
+    {
+        "title": "SAGA: Efficient and Large-Scale Detection of Near-Miss Clones with GPU Acceleration.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054832"
+    },
+    {
+        "title": "CORE: Automating Review Recommendation for Code Changes.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054794"
+    },
+    {
+        "title": "Distinguishing Similar Design Pattern Instances through Temporal Behavior Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054804"
+    },
+    {
+        "title": "Relationship between the Effectiveness of Spectrum-Based Fault Localization and Bug-Fix Types in JavaScript Programs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054803"
+    },
+    {
+        "title": "Incremental Map-Reduce on Repository History.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054811"
+    },
+    {
+        "title": "How EvoStreets Are Observed in Three-Dimensional and Virtual Reality Environments.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054802"
+    },
+    {
+        "title": "Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054840"
+    },
+    {
+        "title": "Automatically Learning Patterns for Self-Admitted Technical Debt Removal.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054868"
+    },
+    {
+        "title": "Refactoring Graphs: Assessing Refactoring over Time.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054864"
+    },
+    {
+        "title": "On Relating Technical, Social Factors, and the Introduction of Bugs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054824"
+    },
+    {
+        "title": "Characterizing Architectural Drifts of Adaptive Systems.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054856"
+    },
+    {
+        "title": "Using Productive Collaboration Bursts to Analyze Open Source Collaboration Effectiveness.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054852"
+    },
+    {
+        "title": "Slice-Based Cognitive Complexity Metrics for Defect Prediction.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054836"
+    },
+    {
+        "title": "The Silent Helper: The Impact of Continuous Integration on Code Reviews.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054818"
+    },
+    {
+        "title": "Heap Memory Snapshot Assisted Program Analysis for Android Permission Specification.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054795"
+    },
+    {
+        "title": "A Code-Description Representation Learning Model Based on Attention.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054830"
+    },
+    {
+        "title": "Suggesting Comment Completions for Python using Neural Language Models.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054866"
+    },
+    {
+        "title": "Leveraging Contextual Information from Function Call Chains to Improve Fault Localization.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054820"
+    },
+    {
+        "title": "Deep Learning Based Identification of Suspicious Return Statements.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054826"
+    },
+    {
+        "title": "Clone Detection in Test Code: An Empirical Evaluation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054798"
+    },
+    {
+        "title": "Are SonarQube Rules Inducing Bugs?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054821"
+    },
+    {
+        "title": "Enhancing Source Code Refactoring Detection with Explanations from Commit Messages.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054816"
+    },
+    {
+        "title": "Unleashing the Potentials of Immersive Augmented Reality for Software Engineering.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054812"
+    },
+    {
+        "title": "Reflection on Building Hybrid Access Control by Configuring RBAC and MAC Features.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054862"
+    },
+    {
+        "title": "Is Developer Sentiment Related to Software Bugs: An Exploratory Study on GitHub Commits.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054801"
+    },
+    {
+        "title": "The Python/C API: Evolution, Usage Statistics, and Bug Patterns.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054835"
+    },
+    {
+        "title": "Revisiting the Challenges and Opportunities in Software Plagiarism Detection.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054847"
+    },
+    {
+        "title": "Req2Lib: A Semantic Neural Model for Software Library Recommendation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054865"
+    },
+    {
+        "title": "Dependency Solving Is Still Hard, but We Are Getting Better at It.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054837"
+    },
+    {
+        "title": "A Reflection on \"An Exploratory Study on Exception Handling Bugs in Java Programs\".",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054791"
+    },
+    {
+        "title": "A Preliminary Study on Open-Source Memory Vulnerability Detectors.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054851"
+    },
+    {
+        "title": "A Reflection on the Predictive Accuracy of Dynamic Impact Analysis.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054806"
+    },
+    {
+        "title": "JavaScript API Deprecation in the Wild: A First Assessment.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054854"
+    },
+    {
+        "title": "A Semantic-Based Framework for Analyzing App Users' Feedback.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054843"
+    },
+    {
+        "title": "MobiLogLeak: A Preliminary Study on Data Leakage Caused by Poor Logging Practices.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054831"
+    },
+    {
+        "title": "Identifying Vulnerable IoT Applications using Deep Learning.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054817"
+    },
+    {
+        "title": "A Mutation Framework for Evaluating Security Analysis Tools in IoT Applications.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054853"
+    },
+    {
+        "title": "Pull Requests or Commits? Which Method Should We Use to Study Contributors' Behavior?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054855"
+    },
+    {
+        "title": "Automated Deprecated-API Usage Update for Android Apps: How Far are We?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054860"
+    },
+    {
+        "title": "Experience Report: How Effective is Automated Program Repair for Industrial Software?",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054829"
+    },
+    {
+        "title": "Reducing Code Complexity through Code Refactoring and Model-Based Rejuvenation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054823"
+    },
+    {
+        "title": "Leveraging Machine Learning for Software Redocumentation.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054838"
+    },
+    {
+        "title": "Automated Code Transformations: Dealing with the Aftermath.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054813"
+    },
+    {
+        "title": "CryptoExplorer: An Interactive Web Platform Supporting Secure Use of Cryptography APIs.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054799"
+    },
+    {
+        "title": "AUSearch: Accurate API Usage Search in GitHub Repositories with Type Resolution.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054809"
+    },
+    {
+        "title": "Clone Notifier: Developing and Improving the System to Notify Changes of Code Clones.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054793"
+    },
+    {
+        "title": "Mining Version Control Systems and Issue Trackers with LibVCS4j.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054841"
+    },
+    {
+        "title": "SpojitR: Intelligently Link Development Artifacts.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054839"
+    },
+    {
+        "title": "ChangeBeadsThreader: An Interactive Environment for Tailoring Automatically Untangled Changes.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054861"
+    },
+    {
+        "title": "Reinforcement Learning Guided Symbolic Execution.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054815"
+    },
+    {
+        "title": "Live Replay of Screen Videos: Automatically Executing Real Applications as Shown in Recordings.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054833"
+    },
+    {
+        "title": "Documentation of Machine Learning Software.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054844"
+    },
+    {
+        "title": "Building an Inclusive Distributed Ledger System.",
+        "venue_name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/SANER48275.2020.9054867"
+    }
+]

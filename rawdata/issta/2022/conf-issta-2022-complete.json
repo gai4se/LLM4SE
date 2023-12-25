@@ -1,0 +1,506 @@
+[
+    {
+        "title": "jTrans: jump-aware transformer for binary code similarity detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534367"
+    },
+    {
+        "title": "FDG: a precise measurement of fault diagnosability gain of test cases.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534370"
+    },
+    {
+        "title": "TeLL: log level suggestions via modeling multi-level code block information.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534379"
+    },
+    {
+        "title": "An extensive study on pre-trained models for program understanding and generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534390"
+    },
+    {
+        "title": "Metamorphic relations via relaxations: an approach to obtain oracles for action-policy testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534392"
+    },
+    {
+        "title": "Hunting bugs with accelerated optimal graph vertex matching.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534393"
+    },
+    {
+        "title": "Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534396"
+    },
+    {
+        "title": "Combining solution reuse and bound tightening for efficient analysis of evolving systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534399"
+    },
+    {
+        "title": "On the use of evaluation measures for defect prediction studies.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534405"
+    },
+    {
+        "title": "Evolution-aware detection of order-dependent flaky tests.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534404"
+    },
+    {
+        "title": "ε-weakened robustness of deep neural networks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534373"
+    },
+    {
+        "title": "Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534375"
+    },
+    {
+        "title": "Improving cross-platform binary analysis using representation learning via graph alignment.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534383"
+    },
+    {
+        "title": "BET: black-box efficient testing for convolutional neural networks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534386"
+    },
+    {
+        "title": "DocTer: documentation-guided fuzzing for testing deep learning API functions.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534220"
+    },
+    {
+        "title": "ASRTest: automated testing for deep-neural-network-driven speech recognition systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534391"
+    },
+    {
+        "title": "AEON: a method for automatic evaluation of NLP test cases.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534394"
+    },
+    {
+        "title": "Human-in-the-loop oracle learning for semantic bugs in string processing programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534406"
+    },
+    {
+        "title": "HybridRepair: towards annotation-efficient repair for deep learning models.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534408"
+    },
+    {
+        "title": "Cross-lingual transfer learning for statistical type inference.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534411"
+    },
+    {
+        "title": "Unicorn: detect runtime errors in time-series databases with hybrid input synthesis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534364"
+    },
+    {
+        "title": "On the use of mutation analysis for evaluating student test suite quality.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534217"
+    },
+    {
+        "title": "Test mimicry to assess the exploitability of library vulnerabilities.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534398"
+    },
+    {
+        "title": "Automated test generation for REST APIs: no time to rest yet.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534401"
+    },
+    {
+        "title": "Finding bugs in Gremlin-based graph database systems via Randomized differential testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534409"
+    },
+    {
+        "title": "RegMiner: towards constructing a large regression dataset from code evolution history.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534224"
+    },
+    {
+        "title": "One step further: evaluating interpreters using metamorphic testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534225"
+    },
+    {
+        "title": "SnapFuzz: high-throughput fuzzing of network applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534376"
+    },
+    {
+        "title": "Almost correct invariants: synthesizing inductive invariants by fuzzing proofs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534381"
+    },
+    {
+        "title": "SLIME: program-sensitive energy allocation for fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534385"
+    },
+    {
+        "title": "MDPFuzz: testing models solving Markov decision processes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534388"
+    },
+    {
+        "title": "TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534403"
+    },
+    {
+        "title": "PrIntFuzz: fuzzing Linux drivers via automated virtual device simulation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534226"
+    },
+    {
+        "title": "Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534414"
+    },
+    {
+        "title": "Understanding device integration bugs in smart home system.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534365"
+    },
+    {
+        "title": "A large-scale empirical analysis of the vulnerabilities introduced by third-party components in IoT firmware.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534366"
+    },
+    {
+        "title": "Deadlock prediction via generalized dependency.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534377"
+    },
+    {
+        "title": "Automated testing of image captioning systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534389"
+    },
+    {
+        "title": "LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534397"
+    },
+    {
+        "title": "Detecting multi-sensor fusion errors in advanced driver-assistance systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534223"
+    },
+    {
+        "title": "Precise and efficient atomicity violation detection for interrupt-driven programs via staged path pruning.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534412"
+    },
+    {
+        "title": "Path-sensitive code embedding via contrastive learning for software vulnerability detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534371"
+    },
+    {
+        "title": "A large-scale study of usability criteria addressed by static analysis tools.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534374"
+    },
+    {
+        "title": "An empirical study on the effectiveness of static C code analyzers for vulnerability detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534380"
+    },
+    {
+        "title": "Testing Dafny (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534382"
+    },
+    {
+        "title": "Combining static analysis error traces with dynamic symbolic execution (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534384"
+    },
+    {
+        "title": "The raise of machine learning hyperparameter constraints in Python code.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534400"
+    },
+    {
+        "title": "PermDroid: automatically testing permission-related behaviour of Android applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534221"
+    },
+    {
+        "title": "Detecting and fixing data loss issues in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534402"
+    },
+    {
+        "title": "Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534407"
+    },
+    {
+        "title": "NCScope: hardware-assisted analyzer for native code in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534410"
+    },
+    {
+        "title": "Detecting resource utilization bugs induced by variant lifecycles in Android.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534413"
+    },
+    {
+        "title": "Patch correctness assessment in automated program repair based on the impact of patches on production and test code.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534368"
+    },
+    {
+        "title": "ATR: template-based repair for Alloy specifications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534369"
+    },
+    {
+        "title": "CIRCLE: continual repair across programming languages.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534219"
+    },
+    {
+        "title": "Program vulnerability repair via inductive inference.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534387"
+    },
+    {
+        "title": "WASAI: uncovering vulnerabilities in Wasm smart contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534218"
+    },
+    {
+        "title": "Finding permission bugs in smart contracts with role mining.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534372"
+    },
+    {
+        "title": "eTainter: detecting gas-related vulnerabilities in smart contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534378"
+    },
+    {
+        "title": "Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534395"
+    },
+    {
+        "title": "SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3534222"
+    },
+    {
+        "title": "ATUA: an update-driven app testing tool.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543293"
+    },
+    {
+        "title": "Automatic generation of smoke test suites for kubernetes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543298"
+    },
+    {
+        "title": "ESBMC-CHERI: towards verification of C programs for CHERI platforms with ESBMC.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543289"
+    },
+    {
+        "title": "ESBMC-Jimple: verifying Kotlin programs via jimple intermediate representation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543294"
+    },
+    {
+        "title": "Faster mutation analysis with MeMu.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543288"
+    },
+    {
+        "title": "iFixDataloss: a tool for detecting and fixing data loss issues in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543297"
+    },
+    {
+        "title": "Maestro: a platform for benchmarking automatic program repair tools on software vulnerabilities.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543291"
+    },
+    {
+        "title": "Pytest-Smell: a smell detection tool for Python unit tests.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543290"
+    },
+    {
+        "title": "QMutPy: a mutation testing tool for Quantum algorithms and applications in Qiskit.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543296"
+    },
+    {
+        "title": "SpecChecker-ISA: a data sharing analyzer for interrupt-driven embedded software.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543295"
+    },
+    {
+        "title": "UniRLTest: universal platform-independent testing with reinforcement learning via image understanding.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3533767.3543292"
+    }
+]

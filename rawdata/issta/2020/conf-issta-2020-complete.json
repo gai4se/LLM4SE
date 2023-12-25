@@ -1,0 +1,387 @@
+[
+    {
+        "title": "WEIZZ: automatic grey-box fuzzing for structured binary formats.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397372"
+    },
+    {
+        "title": "Active fuzzing for testing and securing cyber-physical systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397376"
+    },
+    {
+        "title": "Learning input tokens for effective fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397348"
+    },
+    {
+        "title": "Fast bit-vector satisfiability.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397378"
+    },
+    {
+        "title": "Relocatable addressing model for symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397363"
+    },
+    {
+        "title": "Running symbolic execution forever.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397360"
+    },
+    {
+        "title": "Can automated program repair refine fault localization? a unified debugging approach.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397351"
+    },
+    {
+        "title": "Automated repair of feature interaction failures in automated driving systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397386"
+    },
+    {
+        "title": "CoCoNuT: combining context-aware neural translation models using ensemble for program repair.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397369"
+    },
+    {
+        "title": "Detecting and diagnosing energy issues for mobile applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397350"
+    },
+    {
+        "title": "Automated classification of actions in bug reports of mobile apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397355"
+    },
+    {
+        "title": "Data loss detector: automatically revealing data loss bugs in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397379"
+    },
+    {
+        "title": "Reinforcement learning based curiosity-driven testing of Android applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397354"
+    },
+    {
+        "title": "Effective white-box testing of deep neural networks with adaptive neuron-selection strategy.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397346"
+    },
+    {
+        "title": "DeepGini: prioritizing massive tests to enhance the robustness of deep neural networks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397357"
+    },
+    {
+        "title": "Detecting and understanding real-world differential performance bugs in machine learning libraries.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404540"
+    },
+    {
+        "title": "Higher income, larger loan? monotonicity testing of machine learning models.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397352"
+    },
+    {
+        "title": "Detecting flaky tests in probabilistic and machine learning applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397366"
+    },
+    {
+        "title": "Scaffle: bug localization on millions of files.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397356"
+    },
+    {
+        "title": "Abstracting failure-inducing inputs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397349"
+    },
+    {
+        "title": "Debugging the performance of Maven's test isolation: experience report.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397381"
+    },
+    {
+        "title": "Feedback-driven side-channel analysis for networked applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397365"
+    },
+    {
+        "title": "Scalable analysis of interaction threats in IoT systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397347"
+    },
+    {
+        "title": "DeepSQLi: deep semantic learning for testing SQL injection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397375"
+    },
+    {
+        "title": "Dependent-test-aware regression testing techniques.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397364"
+    },
+    {
+        "title": "Differential regression testing for REST APIs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397374"
+    },
+    {
+        "title": "Empirically revisiting and enhancing IR-based test-case prioritization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397383"
+    },
+    {
+        "title": "Intermittently failing tests in the embedded systems domain.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397359"
+    },
+    {
+        "title": "Feasible and stressful trajectory generation for mobile robots.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397387"
+    },
+    {
+        "title": "Detecting cache-related bugs in Spark applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397353"
+    },
+    {
+        "title": "Patch based vulnerability matching for binary programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397361"
+    },
+    {
+        "title": "Identifying Java calls in native code via binary scanning.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397368"
+    },
+    {
+        "title": "An empirical study on ARM disassembly tools.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397377"
+    },
+    {
+        "title": "How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397385"
+    },
+    {
+        "title": "A programming model for semi-implicit parallelization of static analyses.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397367"
+    },
+    {
+        "title": "Recovering fitness gradients for interprocedural Boolean flags in search-based testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397358"
+    },
+    {
+        "title": "Scalable build service system with smart scheduling service.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397371"
+    },
+    {
+        "title": "Escaping dependency hell: finding build dependency errors with the unified dependency graph.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397388"
+    },
+    {
+        "title": "How far we have come: testing decompilation correctness of C decompilers.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397370"
+    },
+    {
+        "title": "Discovering discrepancies in numerical libraries.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397380"
+    },
+    {
+        "title": "Testing high performance numerical simulation programs: experience, lessons learned, and open issues.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397382"
+    },
+    {
+        "title": "Functional code clone detection with syntax and semantics fusion learning.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397362"
+    },
+    {
+        "title": "Learning to detect table clones in spreadsheets.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3397384"
+    },
+    {
+        "title": "ObjSim: lightweight automatic patch prioritization via object similarity.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404362"
+    },
+    {
+        "title": "Crowdsourced requirements generation for automatic testing via knowledge graph.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404363"
+    },
+    {
+        "title": "TauJud: test augmentation of machine learning in judicial documents.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404364"
+    },
+    {
+        "title": "EShield: protect smart contracts against reverse engineering.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404365"
+    },
+    {
+        "title": "Echidna: effective, usable, and fast fuzzing for smart contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404366"
+    },
+    {
+        "title": "ProFL: a fault localization framework for Prolog.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404367"
+    },
+    {
+        "title": "FineLock: automatically refactoring coarse-grained locks into fine-grained locks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404368"
+    },
+    {
+        "title": "CPSDebug: a tool for explanation of failures in cyber-physical systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404369"
+    },
+    {
+        "title": "Test recommendation system based on slicing coverage filtering.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3404370"
+    },
+    {
+        "title": "Automated mobile apps testing from visual perspective.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3402644"
+    },
+    {
+        "title": "Program-aware fuzzing for MQTT applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3402645"
+    },
+    {
+        "title": "Automatic support for the identification of infeasible testing requirements.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3395363.3402646"
+    }
+]

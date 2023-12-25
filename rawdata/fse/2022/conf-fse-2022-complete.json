@@ -1,0 +1,1304 @@
+[
+    {
+        "title": "AI-assisted programming: applications, user experiences, and neuro-symbolic techniques (keynote).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569444"
+    },
+    {
+        "title": "On safety, assurance, and reliability: a software engineering perspective (keynote).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569443"
+    },
+    {
+        "title": "Task modularity and the emergence of software value streams (impact award paper keynote).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569445"
+    },
+    {
+        "title": "Academic prototyping (invited tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569447"
+    },
+    {
+        "title": "Multi-perspective representation learning for source code analytics (invited tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569446"
+    },
+    {
+        "title": "Adaptive fairness improvement based on causality analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549103"
+    },
+    {
+        "title": "NatGen: generative pre-training by \"naturalizing\" source code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549162"
+    },
+    {
+        "title": "Testing of autonomous driving systems: where are we and where should we go?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549111"
+    },
+    {
+        "title": "Fuzzing deep-learning libraries via automated relational API inference.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549085"
+    },
+    {
+        "title": "SEDiff: scope-aware differential fuzzing to test internal function models in symbolic execution.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549080"
+    },
+    {
+        "title": "Perfect is the enemy of test oracle.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549086"
+    },
+    {
+        "title": "Scenario-based test reduction and prioritization for multi-module autonomous driving systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549152"
+    },
+    {
+        "title": "MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549100"
+    },
+    {
+        "title": "Are we building on the rock? on the importance of data preprocessing for code summarization.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549145"
+    },
+    {
+        "title": "Correlates of programmer efficacy and their link to experience: a combined EEG and eye-tracking study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549084"
+    },
+    {
+        "title": "What motivates software practitioners to contribute to inner source?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549148"
+    },
+    {
+        "title": "A retrospective study of one decade of artifact evaluations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549172"
+    },
+    {
+        "title": "Quantifying community evolution in developer social networks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549106"
+    },
+    {
+        "title": "Understanding skills for OSS communities on GitHub.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549082"
+    },
+    {
+        "title": "Accurate method and variable tracking in commit history.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549079"
+    },
+    {
+        "title": "Classifying edits to variability in source code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549108"
+    },
+    {
+        "title": "The evolution of type annotations in python: an empirical study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549114"
+    },
+    {
+        "title": "UTANGO: untangling commits with context-aware, graph-based, code change clustering learning model.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549171"
+    },
+    {
+        "title": "Static executes-before analysis for event driven programs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549116"
+    },
+    {
+        "title": "Security code smells in apps: are we getting better?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549091"
+    },
+    {
+        "title": "Large-scale analysis of non-termination bugs in real-world OSS projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549129"
+    },
+    {
+        "title": "On-the-fly syntax highlighting using neural networks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549109"
+    },
+    {
+        "title": "Declarative smart contracts.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549121"
+    },
+    {
+        "title": "Asynchronous technical interviews: reducing the effect of supervised think-aloud on communication ability.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549168"
+    },
+    {
+        "title": "How to formulate specific how-to questions in software development?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549160"
+    },
+    {
+        "title": "Pair programming conversations with agents vs. developers: challenges and opportunities for SE community.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549127"
+    },
+    {
+        "title": "Psychologically-inspired, unsupervised inference of perceptual groups of GUI widgets from GUI images.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549138"
+    },
+    {
+        "title": "Toward interactive bug reporting for (android app) end-users.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549131"
+    },
+    {
+        "title": "Understanding performance problems in deep learning systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549123"
+    },
+    {
+        "title": "API recommendation for machine learning libraries: how far are we?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549124"
+    },
+    {
+        "title": "No more fine-tuning? an experimental evaluation of prompt tuning in code intelligence.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549113"
+    },
+    {
+        "title": "Cross-device record and replay for Android apps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549083"
+    },
+    {
+        "title": "Online testing of RESTful APIs: promises and challenges.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549144"
+    },
+    {
+        "title": "Avgust: automating usage-based test generation from videos of app executions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549134"
+    },
+    {
+        "title": "Detecting non-crashing functional bugs in Android apps via deep-state differential analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549170"
+    },
+    {
+        "title": "RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549164"
+    },
+    {
+        "title": "AgileCtrl: a self-adaptive framework for configuration tuning.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549136"
+    },
+    {
+        "title": "Using nudges to accelerate code reviews at scale.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549104"
+    },
+    {
+        "title": "First come first served: the impact of file position on code review.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549177"
+    },
+    {
+        "title": "Code, quality, and process metrics in graduated and retired ASFI projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549132"
+    },
+    {
+        "title": "CommentFinder: a simpler, faster, more accurate code review comments recommendation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549119"
+    },
+    {
+        "title": "AutoPruner: transformer-based call graph pruning.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549175"
+    },
+    {
+        "title": "Lighting up supervised learning in user review-based code localization: dataset and benchmark.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549141"
+    },
+    {
+        "title": "CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549115"
+    },
+    {
+        "title": "Hierarchical Bayesian multi-kernel learning for integrated classification and summarization of app reviews.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549174"
+    },
+    {
+        "title": "Semi-supervised pre-processing for learning-based traceability framework on real-world software projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549151"
+    },
+    {
+        "title": "Input invariants.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549139"
+    },
+    {
+        "title": "Modus: a Datalog dialect for building container images.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549133"
+    },
+    {
+        "title": "Multi-phase invariant synthesis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549166"
+    },
+    {
+        "title": "Parasol: efficient parallel synthesis of large model spaces.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549157"
+    },
+    {
+        "title": "Neural termination analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549120"
+    },
+    {
+        "title": "PaReco: patched clones and missed patches among the divergent variants of a software family.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549112"
+    },
+    {
+        "title": "Fault localization to detect co-change fixing locations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549137"
+    },
+    {
+        "title": "The best of both worlds: integrating semantic features with expert features for defect prediction and localization.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549165"
+    },
+    {
+        "title": "An exploratory study on the predominant programming paradigms in Python code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549158"
+    },
+    {
+        "title": "Making Python code idiomatic by automatic refactoring non-idiomatic Python code with pythonic idioms.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549143"
+    },
+    {
+        "title": "An empirical study of blockchain system vulnerabilities: modules, types, and patterns.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549105"
+    },
+    {
+        "title": "How to better utilize code graphs in semantic code search?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549087"
+    },
+    {
+        "title": "23 shades of self-admitted technical debt: an empirical study on machine learning software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549088"
+    },
+    {
+        "title": "NeuDep: neural binary memory dependence analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549147"
+    },
+    {
+        "title": "DynaPyt: a dynamic analysis framework for Python.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549126"
+    },
+    {
+        "title": "Cross-language Android permission specification.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549142"
+    },
+    {
+        "title": "Peahen: fast and precise static deadlock detection via context reduction.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549110"
+    },
+    {
+        "title": "A case study of implicit mentoring, its prevalence, and impact in Apache.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549167"
+    },
+    {
+        "title": "Software security during modern code review: the developer's perspective.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549135"
+    },
+    {
+        "title": "Program merge conflict resolution via neural transformers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549163"
+    },
+    {
+        "title": "Automated unearthing of dangerous issue reports.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549156"
+    },
+    {
+        "title": "On the vulnerability proneness of multilingual code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549173"
+    },
+    {
+        "title": "Tracking patches for open source software vulnerabilities.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549125"
+    },
+    {
+        "title": "DeJITLeak: eliminating JIT-induced timing side-channel leaks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549150"
+    },
+    {
+        "title": "Quantitative relational modelling with QAlloy.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549154"
+    },
+    {
+        "title": "Demystifying the underground ecosystem of account registration bots.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549090"
+    },
+    {
+        "title": "Using graph neural networks for program termination.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549095"
+    },
+    {
+        "title": "PyTER: effective program repair for Python type errors.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549130"
+    },
+    {
+        "title": "VulRepair: a T5-based automated software vulnerability repair.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549098"
+    },
+    {
+        "title": "DeepDev-PERF: a deep learning-based approach for improving software performance.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549096"
+    },
+    {
+        "title": "Less training, more repairing please: revisiting automated program repair via zero-shot learning.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549101"
+    },
+    {
+        "title": "NL2Viz: natural language to visualization via constrained syntax-guided synthesis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549140"
+    },
+    {
+        "title": "AccessiText: automated detection of text accessibility issues in Android apps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549118"
+    },
+    {
+        "title": "Actionable and interpretable fault localization for recurring failures in online service systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549092"
+    },
+    {
+        "title": "AUGER: automatically generating review comments with pre-training models.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549099"
+    },
+    {
+        "title": "Automatically deriving JavaScript static analyzers from specifications using Meta-level static analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549097"
+    },
+    {
+        "title": "Automating code review activities by large-scale pre-training.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549081"
+    },
+    {
+        "title": "Corporate dominance in open source ecosystems: a case study of OpenStack.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549117"
+    },
+    {
+        "title": "Detecting Simulink compiler bugs via controllable zombie blocks mutation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549159"
+    },
+    {
+        "title": "Diet code is healthy: simplifying programs for pre-trained models of code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549094"
+    },
+    {
+        "title": "Do bugs lead to unnaturalness of source code?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549149"
+    },
+    {
+        "title": "Generating realistic vulnerabilities via neural code editing: an empirical study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549128"
+    },
+    {
+        "title": "Generic sensitivity: customizing context-sensitive pointer analysis for generics.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549122"
+    },
+    {
+        "title": "MAAT: a novel ensemble approach to addressing fairness and performance bugs for machine learning software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549093"
+    },
+    {
+        "title": "Minerva: browser API fuzzing with dynamic mod-ref analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549107"
+    },
+    {
+        "title": "NMTSloth: understanding and testing efficiency degradation of neural machine translation systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549102"
+    },
+    {
+        "title": "Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549089"
+    },
+    {
+        "title": "RULER: discriminative and iterative adversarial training for deep neural network fairness.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549169"
+    },
+    {
+        "title": "SamplingCA: effective and efficient sampling-based pairwise testing for highly configurable software systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549155"
+    },
+    {
+        "title": "SPINE: a scalable log parser with feedback guidance.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549176"
+    },
+    {
+        "title": "SymMC: approximate model enumeration and counting using symmetry information for Alloy specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549161"
+    },
+    {
+        "title": "TraceCRL: contrastive representation learning for microservice trace analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549146"
+    },
+    {
+        "title": "You see what I want you to see: poisoning vulnerabilities in neural code search.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3549153"
+    },
+    {
+        "title": "Nalanda: a socio-technical graph platform for building software analytics tools at enterprise scale.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558949"
+    },
+    {
+        "title": "Uncertainty-aware transfer learning to evolve digital twins for industrial elevators.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558957"
+    },
+    {
+        "title": "All you need is logs: improving code completion by learning from anonymous IDE usage logs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558968"
+    },
+    {
+        "title": "Testing of machine learning models with limited samples: an industrial vacuum pumping application.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558943"
+    },
+    {
+        "title": "Improving ML-based information retrieval software with user-driven functional testing and defect class analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558941"
+    },
+    {
+        "title": "What improves developer productivity at google? code quality.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558940"
+    },
+    {
+        "title": "Understanding why we cannot model how long a code review will take: an industrial case study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558945"
+    },
+    {
+        "title": "Leveraging test plan quality to improve code review efficacy.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558952"
+    },
+    {
+        "title": "Are elevator software robust against uncertainties? results and experiences from an industrial case study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558955"
+    },
+    {
+        "title": "Achievement unlocked: a case study on gamifying DevOps practices in industry.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558948"
+    },
+    {
+        "title": "Sometimes you have to treat the symptoms: tackling model drift in an industrial clone-and-own software product line.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558960"
+    },
+    {
+        "title": "Input splitting for cloud-based static application security testing platforms.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558944"
+    },
+    {
+        "title": "Metadata-based retrieval for resolution recommendation in AIOps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558964"
+    },
+    {
+        "title": "Workgraph: personal focus vs. interruption for engineers at Meta.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558961"
+    },
+    {
+        "title": "Understanding automated code review process and developer experience in industry.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558950"
+    },
+    {
+        "title": "Unite: an adapter for transforming analysis tools to web services via OSLC.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558939"
+    },
+    {
+        "title": "Discovering feature flag interdependencies in Microsoft office.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558942"
+    },
+    {
+        "title": "What did you pack in my app? a systematic analysis of commercial Android packers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558969"
+    },
+    {
+        "title": "An empirical study of deep transfer learning-based program repair for Kotlin projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558967"
+    },
+    {
+        "title": "An empirical investigation of missing data handling in cloud node failure prediction.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558946"
+    },
+    {
+        "title": "An empirical study of log analysis at Microsoft.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558963"
+    },
+    {
+        "title": "AutoTSG: learning and synthesis for incident troubleshooting.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558958"
+    },
+    {
+        "title": "Demystifying \"removed reviews\" in iOS app store.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558966"
+    },
+    {
+        "title": "Exploring and evaluating personalized models for code generation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558959"
+    },
+    {
+        "title": "FlakeRepro: automated and efficient reproduction of concurrency-related flaky tests.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558956"
+    },
+    {
+        "title": "Group-based corpus scheduling for parallel fuzzing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560885"
+    },
+    {
+        "title": "Incorporating domain knowledge through task augmentation for front-end JavaScript code generation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558965"
+    },
+    {
+        "title": "Industry experiences with large-scale refactoring.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558954"
+    },
+    {
+        "title": "Industry practice of configuration auto-tuning for cloud applications and services.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558962"
+    },
+    {
+        "title": "Investigating and improving log parsing in practice.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558947"
+    },
+    {
+        "title": "Towards developer-centered automatic program repair: findings from Bloomberg.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558953"
+    },
+    {
+        "title": "Trace analysis based microservice architecture measurement.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558951"
+    },
+    {
+        "title": "In war and peace: the impact of world politics on software ecosystems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560882"
+    },
+    {
+        "title": "Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560881"
+    },
+    {
+        "title": "Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560883"
+    },
+    {
+        "title": "Reflections on software failure analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560879"
+    },
+    {
+        "title": "Language-agnostic dynamic analysis of multilingual code: promises, pitfalls, and prospects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560880"
+    },
+    {
+        "title": "A study on identifying code author from real development.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560878"
+    },
+    {
+        "title": "Paving the way for mature secondary research: the seven types of literature review.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3560877"
+    },
+    {
+        "title": "iTiger: an automatic issue title generation tool.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558934"
+    },
+    {
+        "title": "CodeMatcher: a tool for large-scale code search based on query semantics matching.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558935"
+    },
+    {
+        "title": "Context-aware code recommendation in Intellij IDEA.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558937"
+    },
+    {
+        "title": "Python-by-contract dataset.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558917"
+    },
+    {
+        "title": "MultIPAs: applying program transformations to introductory programming assignments for data augmentation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558931"
+    },
+    {
+        "title": "PolyFax: a toolkit for characterizing multi-language software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558925"
+    },
+    {
+        "title": "CLIFuzzer: mining grammars for command-line invocations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558918"
+    },
+    {
+        "title": "RecipeGen++: an automated trigger action programs generator.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558913"
+    },
+    {
+        "title": "TAPHSIR: towards AnaPHoric ambiguity detection and ReSolution in requirements.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558928"
+    },
+    {
+        "title": "COREQQA: a COmpliance REQuirements understanding using question answering tool.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558926"
+    },
+    {
+        "title": "SolSEE: a source-level symbolic execution engine for solidity.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558923"
+    },
+    {
+        "title": "MpBP: verifying robustness of neural networks with multi-path bound propagation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558924"
+    },
+    {
+        "title": "eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558914"
+    },
+    {
+        "title": "SFLKit: a workbench for statistical fault localization.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558915"
+    },
+    {
+        "title": "WikiDoMiner: wikipedia domain-specific miner.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558916"
+    },
+    {
+        "title": "RegMiner: mining replicable regression dataset from code repositories.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558929"
+    },
+    {
+        "title": "FIM: fault injection and mutation for Simulink.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558932"
+    },
+    {
+        "title": "JSIMutate: understanding performance results through mutations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558930"
+    },
+    {
+        "title": "VulCurator: a vulnerability-fixing commit detector.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558936"
+    },
+    {
+        "title": "KVS: a tool for knowledge-driven vulnerability searching.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558920"
+    },
+    {
+        "title": "MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558927"
+    },
+    {
+        "title": "FastKLEE: faster symbolic execution via reducing redundant bound checking of type-safe pointers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558919"
+    },
+    {
+        "title": "Clang __usercall: towards native support for user defined calling conventions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558921"
+    },
+    {
+        "title": "GFI-bot: automated good first issue recommendation on GitHub.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558922"
+    },
+    {
+        "title": "SemCluster: a semi-supervised clustering tool for crowdsourced test reports with deep image understanding.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558933"
+    },
+    {
+        "title": "TSA: a tool to detect and quantify network side-channels.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558938"
+    },
+    {
+        "title": "Blackbox adversarial attacks and explanations for automatic speech recognition.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558906"
+    },
+    {
+        "title": "This is your cue! assisting search behaviour with resource style properties.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558909"
+    },
+    {
+        "title": "Infrastructure as code for dynamic deployments.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558912"
+    },
+    {
+        "title": "Automated capacity analysis of limitation-aware microservices architectures.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558905"
+    },
+    {
+        "title": "Change-aware mutation testing for evolving systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558911"
+    },
+    {
+        "title": "Effective and scalable fault injection using bug reports and generative language models.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558907"
+    },
+    {
+        "title": "Explaining and debugging pathological program behavior.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558910"
+    },
+    {
+        "title": "Sentiment in software engineering: detection and application.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3558908"
+    },
+    {
+        "title": "A practical call graph construction method for Python.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3559077"
+    },
+    {
+        "title": "Automated generation of test oracles for RESTful APIs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3559080"
+    },
+    {
+        "title": "CheapET-3: cost-efficient use of remote DNN models.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3559082"
+    },
+    {
+        "title": "Improving IDE code inspections with tree automata.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3559081"
+    },
+    {
+        "title": "RESTInfer: automated inferring parameter constraints from natural language RESTful API descriptions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3559078"
+    },
+    {
+        "title": "Program analysis using WALA (tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569449"
+    },
+    {
+        "title": "Dynamic data race prediction: fundamentals, theory, and practice (tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569450"
+    },
+    {
+        "title": "Machine learning and natural language processing for automating software testing (tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569451"
+    },
+    {
+        "title": "Performing large-scale mining studies: from start to finish (tutorial).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3540250.3569448"
+    }
+]

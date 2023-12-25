@@ -1,0 +1,541 @@
+[
+    {
+        "title": "An Effective Approach for Parsing Large Log Files.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00009"
+    },
+    {
+        "title": "An Empirical Study of Challenges in Converting Deep Learning Models.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00010"
+    },
+    {
+        "title": "An Empirical Study of Flaky Tests in JavaScript.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00011"
+    },
+    {
+        "title": "An Empirical Study on Performance Bugs in Deep Learning Frameworks.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00012"
+    },
+    {
+        "title": "An Empirical Study on the Fault-Inducing Effect of Functional Constructs in Python.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00013"
+    },
+    {
+        "title": "An Empirical Study on the Usage of Automated Machine Learning Tools.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00014"
+    },
+    {
+        "title": "Automatic Pull Request Title Generation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00015"
+    },
+    {
+        "title": "BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00016"
+    },
+    {
+        "title": "Cross-Modal Contrastive Learning for Code Search.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00017"
+    },
+    {
+        "title": "Dazed and Confused: Studying the Prevalence of Atoms of Confusion in Long-Lived Java Libraries.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00018"
+    },
+    {
+        "title": "Deceiving Deep Neural Networks-Based Binary Code Matching with Adversarial Programs.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00019"
+    },
+    {
+        "title": "Evaluation of Context-Aware Language Models and Experts for Effort Estimation of Software Maintenance Issues.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00020"
+    },
+    {
+        "title": "Exploring the Notion of Risk in Code Reviewer Recommendation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00021"
+    },
+    {
+        "title": "FFL: Fine-grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00022"
+    },
+    {
+        "title": "Guiding Automated Test Case Generation for Transaction-Reverting Statements in Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00023"
+    },
+    {
+        "title": "Heterogeneous Vulnerability Report Traceability Recovery by Vulnerability Aspect Matching.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00024"
+    },
+    {
+        "title": "INFuse: Towards Efficient Context Consistency by Incremental-Concurrent Check Fusion.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00025"
+    },
+    {
+        "title": "Improving Fault Localization Using Model-domain Synthesized Failing Test Generation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00026"
+    },
+    {
+        "title": "Is Kernel Code Different From Non-Kernel Code? A Case Study of BSD Family Operating Systems.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00027"
+    },
+    {
+        "title": "On the Security of Python Virtual Machines: An Empirical Study.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00028"
+    },
+    {
+        "title": "On the Use of GitHub Actions in Software Development Repositories.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00029"
+    },
+    {
+        "title": "OpenCBS: An Open-Source COBOL Defects Benchmark Suite.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00030"
+    },
+    {
+        "title": "Peeler: Learning to Effectively Predict Flakiness without Running Tests.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00031"
+    },
+    {
+        "title": "Quantifying the Potential to Automate the Synchronization of Variants in Clone-and-Own.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00032"
+    },
+    {
+        "title": "RMove: Recommending Move Method Refactoring Opportunities using Structural and Semantic Representations of Code.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00033"
+    },
+    {
+        "title": "Smart Money Wasting: Analyzing Gas Cost Drivers of Ethereum Smart Contracts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00034"
+    },
+    {
+        "title": "Stronger Together: On Combining Relationships in Architectural Recovery Approaches.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00035"
+    },
+    {
+        "title": "The Energy Cost of the Visitor Pattern.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00036"
+    },
+    {
+        "title": "VERJava: Vulnerable Version Identification for Java OSS with a Two-Stage Analysis.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00037"
+    },
+    {
+        "title": "What Is Thrown? Lightweight Precise Automatic Extraction of Exception Preconditions in Java Methods.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00038"
+    },
+    {
+        "title": "What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00039"
+    },
+    {
+        "title": "A Conceptual Antifragile Microservice Framework for Reshaping Critical Infrastructures.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00040"
+    },
+    {
+        "title": "A First Look at Information Highlighting in Stack Overflow Answers.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00041"
+    },
+    {
+        "title": "Adding Context to Source Code Representations for Deep Learning.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00042"
+    },
+    {
+        "title": "An Exploratory Study of Documentation Strategies for Product Features in Popular GitHub Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00043"
+    },
+    {
+        "title": "Apples, Oranges & Fruits - Understanding Similarity of Software Repositories Through The Lens of Dissimilar Artifacts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00044"
+    },
+    {
+        "title": "Developers Struggle with Authentication in Blazor WebAssembly.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00045"
+    },
+    {
+        "title": "Don't Reinvent the Wheel: Towards Automatic Replacement of Custom Implementations with APIs.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00046"
+    },
+    {
+        "title": "Elevating Jupyter Notebook Maintenance Tooling by Identifying and Extracting Notebook Structures.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00047"
+    },
+    {
+        "title": "Evaluating Atoms of Confusion in the Context of Code Reviews.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00048"
+    },
+    {
+        "title": "FuzzNT : Checking for Program Non-termination.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00049"
+    },
+    {
+        "title": "How to Configure Masked Event Anomaly Detection on Software Logs?",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00050"
+    },
+    {
+        "title": "Impact of Defect Instances for Successful Deep Learning-based Automatic Program Repair.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00051"
+    },
+    {
+        "title": "Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00052"
+    },
+    {
+        "title": "Integrating Software Issue Tracking and Traceability Models.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00053"
+    },
+    {
+        "title": "Together or Apart? Investigating a mediator bot to aggregate bot's comments on pull requests.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00054"
+    },
+    {
+        "title": "\"When the Code becomes a Crime Scene\" Towards Dark Web Threat Intelligence with Software Quality Metrics.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00055"
+    },
+    {
+        "title": "Why Don't XAI Techniques Agree? Characterizing the Disagreements Between Post-hoc Explanations of Defect Predictions.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00056"
+    },
+    {
+        "title": "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00057"
+    },
+    {
+        "title": "AutoPRTitle: A Tool for Automatic Pull Request Title Generation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00058"
+    },
+    {
+        "title": "CATTO: Just-in-time Test Case Selection and Execution.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00059"
+    },
+    {
+        "title": "COBREX: A Tool for Extracting Business Rules from COBOL.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00060"
+    },
+    {
+        "title": "Community Smell Detection and Refactoring in SLACK: The CADOCS Project.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00061"
+    },
+    {
+        "title": "DiscOrDance: Visualizing Software Developers Communities on Discord.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00062"
+    },
+    {
+        "title": "Defuse: A Data Annotator and Model Builder for Software Defect Prediction.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00063"
+    },
+    {
+        "title": "eTagger - An Energy Pattern Tagging Tool for GitHub Issues in Android Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00064"
+    },
+    {
+        "title": "LiFUSO: A Tool for Library Feature Unveiling based on Stack Overflow Posts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00065"
+    },
+    {
+        "title": "The Visual Debugger Tool.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00066"
+    },
+    {
+        "title": "Perun: Performance Version System.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00067"
+    },
+    {
+        "title": "RestTestGen: An Extensible Framework for Automated Black-box Testing of RESTful APIs.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00068"
+    },
+    {
+        "title": "RepoQuester: A Tool Towards Evaluating GitHub Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00069"
+    },
+    {
+        "title": "VSCode Migrate: Semi-Automatic Migrations for Low Coverage Projects.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00070"
+    },
+    {
+        "title": "Automated Server Testing: an Industrial Experience Report.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00071"
+    },
+    {
+        "title": "Generating Customised Control Flow Graphs for Legacy Languages with Semi-Parsing.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00072"
+    },
+    {
+        "title": "Learning-based Identification of Coding Best Practices from Software Documentation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00073"
+    },
+    {
+        "title": "MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00074"
+    },
+    {
+        "title": "Mining Annotation Usage Rules: A Case Study with MicroProfile.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00075"
+    },
+    {
+        "title": "On Quantifying the Benefits of Dead Code Removal.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00076"
+    },
+    {
+        "title": "Selecting Test Cases based on Similarity of Runtime Information: A Case Study of an Industrial Simulator.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00077"
+    },
+    {
+        "title": "The Engineering Implications of Code Maintenance in Practice.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00078"
+    },
+    {
+        "title": "There Ain't No Such Thing as a Free Custom Memory Allocator.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00079"
+    },
+    {
+        "title": "Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00080"
+    },
+    {
+        "title": "Assessing and Improving the Quality of Docker Artifacts.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00081"
+    },
+    {
+        "title": "On the Evolution of Code Readability.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00082"
+    },
+    {
+        "title": "Quality Analysis of iOS Applications with Focus on Maintainability and Security.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00083"
+    },
+    {
+        "title": "Synthesising Linear API Usage Examples for API Documentation.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00084"
+    },
+    {
+        "title": "The Phantom Menace: Unmasking Security Issues in Evolving Software.",
+        "venue_name": "IEEE International Conference on Software Maintenance and Evolution",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSME55016.2022.00085"
+    }
+]

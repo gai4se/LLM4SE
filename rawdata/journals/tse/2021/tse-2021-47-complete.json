@@ -1,0 +1,1274 @@
+[
+    {
+        "title": "Symbolic Refinement of Extended State Machines with Applications to the Automatic Derivation of Sub-Components and Controllers.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2878728",
+        "volume": "47"
+    },
+    {
+        "title": "A Systematic Literature Review on Bad Smells-5 W's: Which, When, What, Who, Where.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2880977",
+        "volume": "47"
+    },
+    {
+        "title": "Automatic Feature Learning for Predicting Vulnerable Software Components.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2881961",
+        "volume": "47"
+    },
+    {
+        "title": "CBGA-ES+: A Cluster-Based Genetic Algorithm with Non-Dominated Elitist Selection for Supporting Multi-Objective Test Optimization.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2882176",
+        "volume": "47"
+    },
+    {
+        "title": "Beyond Technical Aspects: How Do Community Smells Influence the Intensity of Code Smells?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2883603",
+        "volume": "47"
+    },
+    {
+        "title": "Evaluating Model-Driven Development Claims with Respect to Quality: A Family of Experiments.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2884706",
+        "volume": "47"
+    },
+    {
+        "title": "A Study of Feature Scattering in the Linux Kernel.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2884911",
+        "volume": "47"
+    },
+    {
+        "title": "Mining Fix Patterns for FindBugs Violations.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2884955",
+        "volume": "47"
+    },
+    {
+        "title": "Automatically 'Verifying' Discrete-Time Complex Systems through Learning, Abstraction and Refinement.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2886898",
+        "volume": "47"
+    },
+    {
+        "title": "Automated Documentation of Android Apps.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2890652",
+        "volume": "47"
+    },
+    {
+        "title": "PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2886875",
+        "volume": "47"
+    },
+    {
+        "title": "Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2887384",
+        "volume": "47"
+    },
+    {
+        "title": "Coverage Prediction for Accelerating Compiler Testing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2889771",
+        "volume": "47"
+    },
+    {
+        "title": "Inductive Validity Cores.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2891709",
+        "volume": "47"
+    },
+    {
+        "title": "App Store Effects on Software Engineering Practices.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2891715",
+        "volume": "47"
+    },
+    {
+        "title": "The Impact of Correlated Metrics on the Interpretation of Defect Models.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2891758",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Study of Fault Localization Families and Their Combinations.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2892102",
+        "volume": "47"
+    },
+    {
+        "title": "Using K-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2892959",
+        "volume": "47"
+    },
+    {
+        "title": "Too Many User-Reviews! What Should App Developers Look at First?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2893171",
+        "volume": "47"
+    },
+    {
+        "title": "Specifying Callback Control Flow of Mobile Apps Using Finite Automata.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2893207",
+        "volume": "47"
+    },
+    {
+        "title": "Mining Treatment-Outcome Constructs from Sequential Software Engineering Data.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2892956",
+        "volume": "47"
+    },
+    {
+        "title": "A Theoretical and Empirical Analysis of Program Spectra Diagnosability.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2895640",
+        "volume": "47"
+    },
+    {
+        "title": "Mining Likely Analogical APIs Across Third-Party Libraries via Large-Scale Unsupervised API Semantics Embedding.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2896123",
+        "volume": "47"
+    },
+    {
+        "title": "Which Commits Can Be CI Skipped?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2897300",
+        "volume": "47"
+    },
+    {
+        "title": "Generic Adaptive Scheduling for Efficient Context Inconsistency Detection.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2898976",
+        "volume": "47"
+    },
+    {
+        "title": "A Progression Model of Software Engineering Goals, Challenges, and Practices in Start-Ups.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2900213",
+        "volume": "47"
+    },
+    {
+        "title": "Automatic Mining of Opinions Expressed About APIs in Stack Overflow.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2900245",
+        "volume": "47"
+    },
+    {
+        "title": "Toxic Code Snippets on Stack Overflow.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2900307",
+        "volume": "47"
+    },
+    {
+        "title": "What Predicts Software Developers' Productivity?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2900308",
+        "volume": "47"
+    },
+    {
+        "title": "Automatically Assessing Code Understandability.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2901468",
+        "volume": "47"
+    },
+    {
+        "title": "Topology-Specific Synthesis of Self-Stabilizing Parameterized Systems with Constant-Space Processes.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2901485",
+        "volume": "47"
+    },
+    {
+        "title": "Exploring Community Smells in Open-Source: An Automated Approach.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2901490",
+        "volume": "47"
+    },
+    {
+        "title": "Automatic Detection and Update Suggestion for Outdated API Names in Documentation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2901459",
+        "volume": "47"
+    },
+    {
+        "title": "Rebooting Research on Detecting Repackaged Android Apps: Literature Review and Benchmark.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2901679",
+        "volume": "47"
+    },
+    {
+        "title": "Understanding How and Why Developers Seek and Analyze API-Related Opinions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2903039",
+        "volume": "47"
+    },
+    {
+        "title": "The Effect of Work Environments on Productivity and Satisfaction of Software Engineers.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2903053",
+        "volume": "47"
+    },
+    {
+        "title": "Lightweight Assessment of Test-Case Effectiveness Using Source-Code-Quality Indicators.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2903057",
+        "volume": "47"
+    },
+    {
+        "title": "A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2903797",
+        "volume": "47"
+    },
+    {
+        "title": "Studying Task Processes for Improving Programmer Productivity.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2904230",
+        "volume": "47"
+    },
+    {
+        "title": "Dealing with Non-Functional Requirements in Model-Driven Development: A Survey.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2904476",
+        "volume": "47"
+    },
+    {
+        "title": "Software Development Process Ambidexterity and Project Performance: A Coordination Cost-Effectiveness View.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2904571",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Study of Obsolete Answers on Stack Overflow.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2906315",
+        "volume": "47"
+    },
+    {
+        "title": "Today Was a Good Day: The Daily Life of Software Developers.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2904957",
+        "volume": "47"
+    },
+    {
+        "title": "Adaptive Test Case Allocation, Selection and Generation Using Coverage Spectrum and Operational Profile.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2906187",
+        "volume": "47"
+    },
+    {
+        "title": "Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2907595",
+        "volume": "47"
+    },
+    {
+        "title": "Modeling and Recommending Open Source Licenses with findOSSLicense.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2909021",
+        "volume": "47"
+    },
+    {
+        "title": "Requirements Framing Affects Design Creativity.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2909033",
+        "volume": "47"
+    },
+    {
+        "title": "Reusing Solutions Modulo Theories.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2898199",
+        "volume": "47"
+    },
+    {
+        "title": "Characterizing the Usage, Evolution and Impact of Java Annotations in Practice.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2910516",
+        "volume": "47"
+    },
+    {
+        "title": "Service Candidate Identification from Monolithic Systems Based on Execution Traces.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2910531",
+        "volume": "47"
+    },
+    {
+        "title": "Architecture Anti-Patterns: Automatically Detectable Violations of Design Principles.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2910856",
+        "volume": "47"
+    },
+    {
+        "title": "$\\mathcal K$K-Branching UIO Sequences for Partially Specified Observable Non-Deterministic FSMs.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2911076",
+        "volume": "47"
+    },
+    {
+        "title": "The Impact of Code Review on Architectural Changes.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2912113",
+        "volume": "47"
+    },
+    {
+        "title": "The Mutation and Injection Framework: Evaluating Clone Detection Tools with Mutation Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2912962",
+        "volume": "47"
+    },
+    {
+        "title": "Erratum to \"Accurate and Scalable Cross-Architecture Cross-OS Binary Code Search With Emulation\".",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2021.3069529",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Study of Boosting Spectrum-Based Fault Localization via PageRank.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2911283",
+        "volume": "47"
+    },
+    {
+        "title": "Efficient Parametric Model Checking Using Domain Knowledge.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2912958",
+        "volume": "47"
+    },
+    {
+        "title": "Evolution of the Unix System Architecture: An Exploratory Case Study.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2892149",
+        "volume": "47"
+    },
+    {
+        "title": "Metamorphic Robustness Testing: Exposing Hidden Defects in Citation Statistics and Journal Impact Factors.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2915065",
+        "volume": "47"
+    },
+    {
+        "title": "Debugging of Behavioural Models using Counterexample Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2915303",
+        "volume": "47"
+    },
+    {
+        "title": "Recommending Participants for Collaborative Merge Sessions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2917191",
+        "volume": "47"
+    },
+    {
+        "title": "The ORIS Tool: Quantitative Evaluation of Non-Markovian Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2917202",
+        "volume": "47"
+    },
+    {
+        "title": "What Do Package Dependencies Tell Us About Semantic Versioning?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2918315",
+        "volume": "47"
+    },
+    {
+        "title": "A Semantics-Based Hybrid Approach on Binary Code Similarity Comparison.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2918326",
+        "volume": "47"
+    },
+    {
+        "title": "Characterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2918520",
+        "volume": "47"
+    },
+    {
+        "title": "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2918536",
+        "volume": "47"
+    },
+    {
+        "title": "Enriching API Documentation with Code Samples and Usage Scenarios from Crowd Knowledge.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2919304",
+        "volume": "47"
+    },
+    {
+        "title": "A Controlled Experiment with Novice Developers on the Impact of Task Description Granularity on Software Quality in Test-Driven Development.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2920377",
+        "volume": "47"
+    },
+    {
+        "title": "What Do Programmers Discuss About Blockchain? A Case Study on the Use of Balanced LDA and the Reference Architecture of a Domain to Capture Online Discussions About Blockchain Platforms Across Stack Exchange Communities.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2921343",
+        "volume": "47"
+    },
+    {
+        "title": "An Integration Test Order Strategy to Consider Control Coupling.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2921965",
+        "volume": "47"
+    },
+    {
+        "title": "Deep Transfer Bug Localization.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2920771",
+        "volume": "47"
+    },
+    {
+        "title": "On Company Contributions to Community Open Source Software Projects.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2919305",
+        "volume": "47"
+    },
+    {
+        "title": "Locating Latent Design Information in Developer Discussions: A Study on Pull Requests.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2924006",
+        "volume": "47"
+    },
+    {
+        "title": "Impact of Discretization Noise of the Dependent Variable on Machine Learning Classifiers in Software Engineering.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2924371",
+        "volume": "47"
+    },
+    {
+        "title": "Reactive Auto-Completion of Modeling Activities.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2924886",
+        "volume": "47"
+    },
+    {
+        "title": "What's Wrong with My Benchmark Results? Studying Bad Practices in JMH Benchmarks.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2925345",
+        "volume": "47"
+    },
+    {
+        "title": "Empirical Assessment of Multimorphic Testing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2926971",
+        "volume": "47"
+    },
+    {
+        "title": "Stability in Software Engineering: Survey of the State-of-the-Art and Research Directions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2925616",
+        "volume": "47"
+    },
+    {
+        "title": "Methodological Principles for Reproducible Performance Evaluation in Cloud Computing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2927908",
+        "volume": "47"
+    },
+    {
+        "title": "Evolving JavaScript Code to Reduce Load Time.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2928293",
+        "volume": "47"
+    },
+    {
+        "title": "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2929761",
+        "volume": "47"
+    },
+    {
+        "title": "Exploiting Natural Language Structures in Software Informal Documentation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2930519",
+        "volume": "47"
+    },
+    {
+        "title": "Empirical Evaluation of Fault Localisation Using Code and Change Metrics.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2930977",
+        "volume": "47"
+    },
+    {
+        "title": "Finding Substitutable Binary Code By Synthesizing Adapters.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2931000",
+        "volume": "47"
+    },
+    {
+        "title": "Version Control Systems: An Information Foraging Perspective.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2931296",
+        "volume": "47"
+    },
+    {
+        "title": "ModGuard : Identifying Integrity & Confidentiality Violations in Java Modules.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2931331",
+        "volume": "47"
+    },
+    {
+        "title": "Fine-Grained Dynamic Resource Allocation for Big-Data Applications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2931537",
+        "volume": "47"
+    },
+    {
+        "title": "Software Deployment on Heterogeneous Platforms: A Systematic Mapping Study.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2932665",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Validation of Oracle Improvement.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2934409",
+        "volume": "47"
+    },
+    {
+        "title": "A Cost-Efficient Auto-Scaling Algorithm for Large-Scale Graph Processing in Cloud Environments with Heterogeneous Resources.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2934849",
+        "volume": "47"
+    },
+    {
+        "title": "A Procedure and Guidelines for Analyzing Groups of Software Engineering Replications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2935720",
+        "volume": "47"
+    },
+    {
+        "title": "METRIC$^{+}$+: A Metamorphic Relation Identification Technique Based on Input Plus Output Domains.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2934848",
+        "volume": "47"
+    },
+    {
+        "title": "Bayesian Data Analysis in Empirical Software Engineering Research.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2935974",
+        "volume": "47"
+    },
+    {
+        "title": "Deep Learning Based Code Smell Detection.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2936376",
+        "volume": "47"
+    },
+    {
+        "title": "Moving from Closed to Open Source: Observations from Six Transitioned Projects to GitHub.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2937025",
+        "volume": "47"
+    },
+    {
+        "title": "How does Machine Learning Change Software Development Practices?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2937083",
+        "volume": "47"
+    },
+    {
+        "title": "Enabling Good Work Habits in Software Developers through Reflective Goal-Setting.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2938525",
+        "volume": "47"
+    },
+    {
+        "title": "Kernel Spectral Embedding Transfer Ensemble for Heterogeneous Defect Prediction.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2939303",
+        "volume": "47"
+    },
+    {
+        "title": "ProXray: Protocol Model Learning and Guided Firmware Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2939526",
+        "volume": "47"
+    },
+    {
+        "title": "POMP++: Facilitating Postmortem Program Diagnosis with Value-Set Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2939528",
+        "volume": "47"
+    },
+    {
+        "title": "SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2940179",
+        "volume": "47"
+    },
+    {
+        "title": "SEthesaurus: WordNet in Software Engineering.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2940439",
+        "volume": "47"
+    },
+    {
+        "title": "Smart Greybox Fuzzing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2941681",
+        "volume": "47"
+    },
+    {
+        "title": "Studying the Impact of Noises in Build Breakage Data.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2941880",
+        "volume": "47"
+    },
+    {
+        "title": "Which Variables Should I Log?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2941943",
+        "volume": "47"
+    },
+    {
+        "title": "Enhancing Trustability of Android Applications via User-Centric Flexible Permissions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2941936",
+        "volume": "47"
+    },
+    {
+        "title": "A Survey on Adaptive Random Testing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2942921",
+        "volume": "47"
+    },
+    {
+        "title": "Smart Contract Development: Challenges and Opportunities.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2942301",
+        "volume": "47"
+    },
+    {
+        "title": "FutureWare: Designing a Middleware for Anticipatory Mobile Computing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2943554",
+        "volume": "47"
+    },
+    {
+        "title": "Towards a Theory of Software Developer Job Satisfaction and Perceived Productivity.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2944354",
+        "volume": "47"
+    },
+    {
+        "title": "The Assessor's Dilemma: Improving Bug Repair via Empirical Game Theory.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2944608",
+        "volume": "47"
+    },
+    {
+        "title": "SOSRepair: Expressive Semantic Search for Real-World Program Repair.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2944914",
+        "volume": "47"
+    },
+    {
+        "title": "How to \"DODGE\" Complex Software Analytics.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2945020",
+        "volume": "47"
+    },
+    {
+        "title": "Metric-Based Fault Prediction for Spreadsheets.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2944604",
+        "volume": "47"
+    },
+    {
+        "title": "Specification Patterns for Robotic Missions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2945329",
+        "volume": "47"
+    },
+    {
+        "title": "IntRepair: Informed Repairing of Integer Overflows.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946148",
+        "volume": "47"
+    },
+    {
+        "title": "Companies' Participation in OSS Development-An Empirical Study of OpenStack.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946156",
+        "volume": "47"
+    },
+    {
+        "title": "On the Energy Footprint of Mobile Testing Frameworks.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946163",
+        "volume": "47"
+    },
+    {
+        "title": "ElementRank: Ranking Java Software Classes and Packages using a Multilayer Complex Network-Based Approach.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946357",
+        "volume": "47"
+    },
+    {
+        "title": "Easy-to-Deploy API Extraction by Multi-Level Feature Embedding and Transfer Learning.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946830",
+        "volume": "47"
+    },
+    {
+        "title": "The Art, Science, and Engineering of Fuzzing: A Survey.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946563",
+        "volume": "47"
+    },
+    {
+        "title": "Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2946773",
+        "volume": "47"
+    },
+    {
+        "title": "Historical Spectrum Based Fault Localization.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2948158",
+        "volume": "47"
+    },
+    {
+        "title": "Automatic Repair of Timestamp Comparisons.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2948351",
+        "volume": "47"
+    },
+    {
+        "title": "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2948910",
+        "volume": "47"
+    },
+    {
+        "title": "Improving Vulnerability Inspection Efficiency Using Active Learning.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2949275",
+        "volume": "47"
+    },
+    {
+        "title": "Explaining Regressions via Alignment Slicing and Mending.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2949568",
+        "volume": "47"
+    },
+    {
+        "title": "Investigating the Impact of Development Task on External Quality in Test-Driven Development: An Industry Experiment.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2949811",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Study of Dependency Downgrades in the npm Ecosystem.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2952130",
+        "volume": "47"
+    },
+    {
+        "title": "PatchNet: Hierarchical Deep Learning-Based Stable Patch Identification for the Linux Kernel.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2952614",
+        "volume": "47"
+    },
+    {
+        "title": "Grammar Based Directed Testing of Machine Learning Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2953066",
+        "volume": "47"
+    },
+    {
+        "title": "oo7: Low-Overhead Defense Against Spectre Attacks via Program Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2953709",
+        "volume": "47"
+    },
+    {
+        "title": "Reading Answers on Stack Overflow: Not Enough!",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2954319",
+        "volume": "47"
+    },
+    {
+        "title": "A Chaos Engineering System for Live Analysis and Falsification of Exception-Handling in the JVM.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2954871",
+        "volume": "47"
+    },
+    {
+        "title": "Comparative Analysis of Constraint Handling Techniques for Constrained Combinatorial Testing.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2955687",
+        "volume": "47"
+    },
+    {
+        "title": "Using Docker to Assist Q&A Forum Users.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2956919",
+        "volume": "47"
+    },
+    {
+        "title": "Semantic Learning and Emulation Based Cross-Platform Binary Vulnerability Seeker.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2956932",
+        "volume": "47"
+    },
+    {
+        "title": "Where2Change: Change Request Localization for App Reviews.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2956941",
+        "volume": "47"
+    },
+    {
+        "title": "On the Costs and Profit of Software Defect Prediction.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2957794",
+        "volume": "47"
+    },
+    {
+        "title": "Effects of Personality Traits on Pull Request Acceptance.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2960357",
+        "volume": "47"
+    },
+    {
+        "title": "A Study of Call Graph Construction for JVM-Hosted Languages.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2956925",
+        "volume": "47"
+    },
+    {
+        "title": "Scrutinizing Implementations of Smart Home Integrations.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2960690",
+        "volume": "47"
+    },
+    {
+        "title": "A Study of Bug Resolution Characteristics in Popular Programming Languages.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2961897",
+        "volume": "47"
+    },
+    {
+        "title": "Review Dynamics and Their Impact on Software Quality.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2964660",
+        "volume": "47"
+    },
+    {
+        "title": "checsdm: A Method for Ensuring Consistency in Heterogeneous Safety-Critical System Design.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2966994",
+        "volume": "47"
+    },
+    {
+        "title": "A Machine Learning Approach to Improve the Detection of CI Skip Commits.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2967380",
+        "volume": "47"
+    },
+    {
+        "title": "User Review-Based Change File Localization for Mobile Applications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2967383",
+        "volume": "47"
+    },
+    {
+        "title": "MoMIT: Porting a JavaScript Interpreter on a Quarter Coin.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2968061",
+        "volume": "47"
+    },
+    {
+        "title": "RefDiff 2.0: A Multi-Language Refactoring Detection Tool.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2968072",
+        "volume": "47"
+    },
+    {
+        "title": "An Empirical Study on Heterogeneous Defect Prediction Approaches.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2968520",
+        "volume": "47"
+    },
+    {
+        "title": "Falsification of Cyber-Physical Systems Using Deep Reinforcement Learning.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2969178",
+        "volume": "47"
+    },
+    {
+        "title": "Contract-Based Program Repair Without The Contracts: An Extended Study.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2970009",
+        "volume": "47"
+    },
+    {
+        "title": "A Qualitative Study of the Benefits and Costs of Logging From Developers' Perspectives.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2970422",
+        "volume": "47"
+    },
+    {
+        "title": "Checking Smart Contracts With Structural Code Embedding.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2971482",
+        "volume": "47"
+    },
+    {
+        "title": "Relations Between Effort Estimates, Skill Indicators, and Measured Programming Skill.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2973638",
+        "volume": "47"
+    },
+    {
+        "title": "ConfigMiner: Identifying the Appropriate Configuration Options for Config-Related User Questions by Mining Online Forums.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2973997",
+        "volume": "47"
+    },
+    {
+        "title": "Studying the Association Between Bountysource Bounties and the Issue-Addressing Likelihood of GitHub Issue Reports.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2974469",
+        "volume": "47"
+    },
+    {
+        "title": "A Longitudinal Study of Application Structure and Behaviors in Android.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2975176",
+        "volume": "47"
+    },
+    {
+        "title": "Whence to Learn? Transferring Knowledge in Configurable Systems Using BEETLE.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2021,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.2983927",
+        "volume": "47"
+    }
+]

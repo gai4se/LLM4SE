@@ -1,0 +1,1570 @@
+[
+    {
+        "title": "Game-based Sprint retrospectives: multiple action research.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10043-z",
+        "volume": "27"
+    },
+    {
+        "title": "Deep security analysis of program code.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10029-x",
+        "volume": "27"
+    },
+    {
+        "title": "GitHub Discussions: An exploratory study of early adoption.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10058-6",
+        "volume": "27"
+    },
+    {
+        "title": "Dynamical analysis of diversity in rule-based open source network intrusion detection systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10046-w",
+        "volume": "27"
+    },
+    {
+        "title": "Information retrieval versus deep learning approaches for generating traceability links in bilingual projects.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10050-0",
+        "volume": "27"
+    },
+    {
+        "title": "Reflections on the Empirical Software Engineering journal.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10055-9",
+        "volume": "27"
+    },
+    {
+        "title": "Reviewing rounds prediction for code patches.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10035-z",
+        "volume": "27"
+    },
+    {
+        "title": "Mining and relating design contexts and design patterns from Stack Overflow.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10034-0",
+        "volume": "27"
+    },
+    {
+        "title": "Conclusion stability for natural language based mining of design discussions.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10009-1",
+        "volume": "27"
+    },
+    {
+        "title": "Efficient static analysis and verification of featured transition systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-020-09930-8",
+        "volume": "27"
+    },
+    {
+        "title": "How do i refactor this? An empirical study on refactoring trends and topics in Stack Overflow.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10045-x",
+        "volume": "27"
+    },
+    {
+        "title": "Correction to: Preface to the special issue on program comprehension.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10030-4",
+        "volume": "27"
+    },
+    {
+        "title": "Developers perception of peer code review in research software development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10053-x",
+        "volume": "27"
+    },
+    {
+        "title": "Quick remedy commits and their impact on mining software repositories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10051-z",
+        "volume": "27"
+    },
+    {
+        "title": "\"More Than Deep Learning\": post-processing for API sequence recommendation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10040-2",
+        "volume": "27"
+    },
+    {
+        "title": "TaintBench: Automatic real-world malware benchmarking of Android taint analyses.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10013-5",
+        "volume": "27"
+    },
+    {
+        "title": "Ethics in the mining of software repositories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10057-7",
+        "volume": "27"
+    },
+    {
+        "title": "On the analysis of non-coding roles in open source development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10061-x",
+        "volume": "27"
+    },
+    {
+        "title": "An exploratory study on the repeatedly shared external links on Stack Overflow.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10028-y",
+        "volume": "27"
+    },
+    {
+        "title": "Injecting software faults in Python applications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10047-9",
+        "volume": "27"
+    },
+    {
+        "title": "Demystifying regular expression bugs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10033-1",
+        "volume": "27"
+    },
+    {
+        "title": "Studying eventual connectivity issues in Android apps.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10020-6",
+        "volume": "27"
+    },
+    {
+        "title": "Rap4DQ: Learning to recommend relevant API documentation for developer questions.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10067-5",
+        "volume": "27"
+    },
+    {
+        "title": "Studying donations and their expenses in open source projects: a case study of GitHub projects collecting donations through open collectives.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10060-y",
+        "volume": "27"
+    },
+    {
+        "title": "Enjoy your observability: an industrial survey of microservice tracing and analysis.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10063-9",
+        "volume": "27"
+    },
+    {
+        "title": "Omni: automated ensemble with unexpected models against adversarial evasion attack.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10064-8",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of developers' discussions about security challenges of different programming languages.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10054-w",
+        "volume": "27"
+    },
+    {
+        "title": "Using code reviews to automatically configure static analysis tools.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10076-4",
+        "volume": "27"
+    },
+    {
+        "title": "Test case selection and prioritization using machine learning: a systematic literature review.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10066-6",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical investigation of command-line customization.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10036-y",
+        "volume": "27"
+    },
+    {
+        "title": "Software testing and Android applications: a large-scale empirical study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10059-5",
+        "volume": "27"
+    },
+    {
+        "title": "CT-IoT: a combinatorial testing-based path selection framework for effective IoT testing.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10017-1",
+        "volume": "27"
+    },
+    {
+        "title": "Two N-of-1 self-trials on readability differences between anonymous inner classes (AICs) and lambda expressions (LEs) on Java code snippets.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10077-3",
+        "volume": "27"
+    },
+    {
+        "title": "A study of gender in user reviews on the Google Play Store.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10080-8",
+        "volume": "27"
+    },
+    {
+        "title": "Gamification in software engineering: the mediating role of developer engagement and job satisfaction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10062-w",
+        "volume": "27"
+    },
+    {
+        "title": "Inter-team communication in large-scale co-located software engineering: a case study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10027-z",
+        "volume": "27"
+    },
+    {
+        "title": "Path context augmented statement and network for learning programs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10098-y",
+        "volume": "27"
+    },
+    {
+        "title": "Learning how to search: generating effective test cases through adaptive fitness function selection.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10048-8",
+        "volume": "27"
+    },
+    {
+        "title": "Modeling Performance of Microservices Systems with Growth Theory.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10088-0",
+        "volume": "27"
+    },
+    {
+        "title": "A comparative study and analysis of developer communications on Slack and Gitter﻿.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10095-1",
+        "volume": "27"
+    },
+    {
+        "title": "Propagating frugal user feedback through closeness of code dependencies to improve IR-based traceability recovery.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10091-5",
+        "volume": "27"
+    },
+    {
+        "title": "Problems with SZZ and features: An empirical study of the state of practice of defect prediction data collection.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10092-4",
+        "volume": "27"
+    },
+    {
+        "title": "Analysing app reviews for software engineering: a systematic literature review.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10065-7",
+        "volume": "27"
+    },
+    {
+        "title": "Uniform and scalable sampling of highly configurable systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10102-5",
+        "volume": "27"
+    },
+    {
+        "title": "Smoke testing for machine learning: simple tests to discover severe bugs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10073-7",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of the effectiveness of IR-based bug localization for large-scale industrial projects.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10082-6",
+        "volume": "27"
+    },
+    {
+        "title": "Mining Python fix patterns via analyzing fine-grained source code changes.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10087-1",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study on self-admitted technical debt in Dockerfiles.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10081-7",
+        "volume": "27"
+    },
+    {
+        "title": "Predicting the objective and priority of issue reports in software repositories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10085-3",
+        "volume": "27"
+    },
+    {
+        "title": "Analysis of a many-objective optimization approach for identifying microservices from legacy systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10049-7",
+        "volume": "27"
+    },
+    {
+        "title": "Practitioner's view of the success factors for software outsourcing partnership formation: an empirical exploration.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10044-y",
+        "volume": "27"
+    },
+    {
+        "title": "TraceSim: An Alignment Method for Computing Stack Trace Similarity.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10070-w",
+        "volume": "27"
+    },
+    {
+        "title": "Reuse and maintenance practices among divergent forks in three software ecosystems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10078-2",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study on release notes patterns of popular apps in the Google Play Store.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10086-2",
+        "volume": "27"
+    },
+    {
+        "title": "A teamwork effectiveness model for agile software development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10115-0",
+        "volume": "27"
+    },
+    {
+        "title": "Correction to: Uniform and scalable sampling of highly configurable systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10141-6",
+        "volume": "27"
+    },
+    {
+        "title": "Correction to: Analysing app reviews for software engineering: a systematic literature review.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10135-4",
+        "volume": "27"
+    },
+    {
+        "title": "Why secret detection tools are not enough: It's not just about false positives - An industrial case study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10109-y",
+        "volume": "27"
+    },
+    {
+        "title": "Revisiting process versus product metrics: a large scale analysis.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10068-4",
+        "volume": "27"
+    },
+    {
+        "title": "Breaking bad? Semantic versioning and impact of breaking changes in Maven Central.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10052-y",
+        "volume": "27"
+    },
+    {
+        "title": "The reproducibility of programming-related issues in Stack Overflow questions.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10113-2",
+        "volume": "27"
+    },
+    {
+        "title": "Can pre-trained code embeddings improve model performance? Revisiting the use of code embeddings in software engineering tasks.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10118-5",
+        "volume": "27"
+    },
+    {
+        "title": "On the adequacy of static analysis warnings with respect to code smell prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10126-5",
+        "volume": "27"
+    },
+    {
+        "title": "Revisiting the building of past snapshots - a replication and reproduction study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10117-6",
+        "volume": "27"
+    },
+    {
+        "title": "Systematic literature review on software quality for AI-based software.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10105-2",
+        "volume": "27"
+    },
+    {
+        "title": "TCTracer: Establishing test-to-code traceability links using dynamic and static techniques.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10079-1",
+        "volume": "27"
+    },
+    {
+        "title": "Incremental software product line verification - A performance analysis with dead variable code.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10090-6",
+        "volume": "27"
+    },
+    {
+        "title": "Crowdsmelling: A preliminary study on using collective knowledge in code smells detection.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10110-5",
+        "volume": "27"
+    },
+    {
+        "title": "Software system comparison with semantic source code embeddings.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10122-9",
+        "volume": "27"
+    },
+    {
+        "title": "From anecdote to evidence: the relationship between personality and need for cognition of developers.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10106-1",
+        "volume": "27"
+    },
+    {
+        "title": "Effects of variability in models: a family of experiments.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10112-3",
+        "volume": "27"
+    },
+    {
+        "title": "AndroEvolve: automated Android API update with data flow analysis and variable denormalization.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10096-0",
+        "volume": "27"
+    },
+    {
+        "title": "Exploring Performance Assurance Practices and Challenges in Agile Software Development: An Ethnographic Study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10069-3",
+        "volume": "27"
+    },
+    {
+        "title": "Visualizing the customization endeavor in product-based-evolving software product lines: a case of action design research.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10101-6",
+        "volume": "27"
+    },
+    {
+        "title": "Will you come back to contribute? Investigating the inactivity of OSS core developers in GitHub.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10012-6",
+        "volume": "27"
+    },
+    {
+        "title": "Analyzing developer contributions using artifact traceability graphs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10129-2",
+        "volume": "27"
+    },
+    {
+        "title": "The effects of continuous integration on software development: a systematic literature review.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10114-1",
+        "volume": "27"
+    },
+    {
+        "title": "Search-based fairness testing for regression-based machine learning systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10116-7",
+        "volume": "27"
+    },
+    {
+        "title": "DebtFree: minimizing labeling cost in self-admitted technical debt identification using semi-supervised learning.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10121-w",
+        "volume": "27"
+    },
+    {
+        "title": "Tracking bad updates in mobile apps: a search-based approach.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10125-6",
+        "volume": "27"
+    },
+    {
+        "title": "Towards a recipe for language decomposition: quality assessment of language product lines.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10074-6",
+        "volume": "27"
+    },
+    {
+        "title": "Studying logging practice in test code.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10139-0",
+        "volume": "27"
+    },
+    {
+        "title": "Clones in deep learning code: what, where, and why?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10099-x",
+        "volume": "27"
+    },
+    {
+        "title": "Open-source software product line extraction processes: the ArgoUML-SPL and Phaser cases.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10104-3",
+        "volume": "27"
+    },
+    {
+        "title": "On the evolution and impact of architectural smells - an industrial case study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10132-7",
+        "volume": "27"
+    },
+    {
+        "title": "PRINS: scalable model inference for component-based system logs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10111-4",
+        "volume": "27"
+    },
+    {
+        "title": "A comparative study of application-level caching recommendations at the method level.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10089-z",
+        "volume": "27"
+    },
+    {
+        "title": "What happens in my code reviews? An investigation on automatically classifying review changes.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10075-5",
+        "volume": "27"
+    },
+    {
+        "title": "Characterizing usages, updates and risks of third-party libraries in Java projects.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10131-8",
+        "volume": "27"
+    },
+    {
+        "title": "A unified multi-task learning model for AST-level and token-level code completion.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10140-7",
+        "volume": "27"
+    },
+    {
+        "title": "Revisiting reopened bugs in open source software systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10133-6",
+        "volume": "27"
+    },
+    {
+        "title": "SoftNER: Mining knowledge graphs from cloud incidents.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10159-w",
+        "volume": "27"
+    },
+    {
+        "title": "Sampling in software engineering research: a critical review and guidelines.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10072-8",
+        "volume": "27"
+    },
+    {
+        "title": "On the Effectiveness of Bisection in Performance Regression Localization.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10152-3",
+        "volume": "27"
+    },
+    {
+        "title": "Developer-centric test amplification.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10094-2",
+        "volume": "27"
+    },
+    {
+        "title": "A comprehensive study of code-removal patches in automated program repair.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10100-7",
+        "volume": "27"
+    },
+    {
+        "title": "Take a deep breath: Benefits of neuroplasticity practices for software developers and computer workers in a family of experiments.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10148-z",
+        "volume": "27"
+    },
+    {
+        "title": "Do explicit review strategies improve code review performance? Towards understanding the role of cognitive load.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10123-8",
+        "volume": "27"
+    },
+    {
+        "title": "A conceptual model for unifying variability in space and time: Rationale, validation, and illustrative applications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10097-z",
+        "volume": "27"
+    },
+    {
+        "title": "Präzi: from package-based to call-based dependency networks.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10071-9",
+        "volume": "27"
+    },
+    {
+        "title": "Practitioners' best practices to Adopt, Use or Abandon Model-based Testing with Graphical models for Software-intensive Systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10145-2",
+        "volume": "27"
+    },
+    {
+        "title": "Fluently specifying taint-flow queries with fluentTQL.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10165-y",
+        "volume": "27"
+    },
+    {
+        "title": "SeSG: a search string generator for Secondary Studies with hybrid search strategies using text mining.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10084-4",
+        "volume": "27"
+    },
+    {
+        "title": "A comprehensive overview of software product management challenges.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10134-5",
+        "volume": "27"
+    },
+    {
+        "title": "On the impact of security vulnerabilities in the npm and RubyGems dependency networks.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10154-1",
+        "volume": "27"
+    },
+    {
+        "title": "Quality gatekeepers: investigating the effects of code review bots on pull request activities.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10130-9",
+        "volume": "27"
+    },
+    {
+        "title": "Newcomer OSS-Candidates: Characterizing Contributions of Novice Developers to GitHub.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10163-0",
+        "volume": "27"
+    },
+    {
+        "title": "Generation of refactoring algorithms by grammatical evolution.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10151-4",
+        "volume": "27"
+    },
+    {
+        "title": "Works for Me! Cannot Reproduce - A Large Scale Empirical Study of Non-reproducible Bugs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10153-2",
+        "volume": "27"
+    },
+    {
+        "title": "Evolving software system families in space and time with feature revisions.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10108-z",
+        "volume": "27"
+    },
+    {
+        "title": "How do Android developers improve non-functional properties of software?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10137-2",
+        "volume": "27"
+    },
+    {
+        "title": "On the use of commit-relevant mutants.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10138-1",
+        "volume": "27"
+    },
+    {
+        "title": "How and why we end up with complex methods: a multi-language study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10144-3",
+        "volume": "27"
+    },
+    {
+        "title": "Multi-language design smells: a backstage perspective.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10161-2",
+        "volume": "27"
+    },
+    {
+        "title": "A qualitative study of developers' discussions of their problems and joys during the early COVID-19 months.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10156-z",
+        "volume": "27"
+    },
+    {
+        "title": "Defect prediction using deep learning with Network Portrait Divergence for software evolution.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10147-0",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of data constraint implementations in Java.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10175-w",
+        "volume": "27"
+    },
+    {
+        "title": "A mixed-methods analysis of micro-collaborative coding practices in OpenStack.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10167-w",
+        "volume": "27"
+    },
+    {
+        "title": "Agile software development one year into the COVID-19 pandemic.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10176-9",
+        "volume": "27"
+    },
+    {
+        "title": "Predicting health indicators for open source projects (using hyperparameter optimization).",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10171-0",
+        "volume": "27"
+    },
+    {
+        "title": "Considerations and Pitfalls for Reducing Threats to the Validity of Controlled Experiments on Code Comprehension.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10160-3",
+        "volume": "27"
+    },
+    {
+        "title": "Handling uncertainty in SBSE: a possibilistic evolutionary approach for code smells detection.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10142-5",
+        "volume": "27"
+    },
+    {
+        "title": "A fine-grained data set and analysis of tangling in bug fixing commits.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10083-5",
+        "volume": "27"
+    },
+    {
+        "title": "Pull request latency explained: an empirical overview.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10143-4",
+        "volume": "27"
+    },
+    {
+        "title": "Code smells detection via modern code review: a study of the OpenStack and Qt communities.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10178-7",
+        "volume": "27"
+    },
+    {
+        "title": "Small-Amp: Test amplification in a dynamically typed language.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10169-8",
+        "volume": "27"
+    },
+    {
+        "title": "CsmithEdge: more effective compiler testing by handling undefined behaviour less conservatively.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10146-1",
+        "volume": "27"
+    },
+    {
+        "title": "FIXME: synchronize with database! An empirical study of data access self-admitted technical debt.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10119-4",
+        "volume": "27"
+    },
+    {
+        "title": "Identifying self-admitted technical debt in issue tracking systems using machine learning.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10128-3",
+        "volume": "27"
+    },
+    {
+        "title": "Mutation testing in the wild: findings from GitHub.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10177-8",
+        "volume": "27"
+    },
+    {
+        "title": "Cost-effective learning-based strategies for test case prioritization in continuous integration of highly-configurable software.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10093-3",
+        "volume": "27"
+    },
+    {
+        "title": "Upstream bug management in Linux distributions.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10173-y",
+        "volume": "27"
+    },
+    {
+        "title": "Development effort estimation in free/open source software from activity in version control systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10166-x",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of issue-link algorithms: which issue-link algorithms should we use?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10120-x",
+        "volume": "27"
+    },
+    {
+        "title": "Predicting sensitive information leakage in IoT applications using flows-aware machine learning approach.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10157-y",
+        "volume": "27"
+    },
+    {
+        "title": "Testing research software: a survey.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10184-9",
+        "volume": "27"
+    },
+    {
+        "title": "Self-Admitted Technical Debt and comments' polarity: an empirical study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10183-w",
+        "volume": "27"
+    },
+    {
+        "title": "GBGallery : A benchmark and framework for game testing.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10158-x",
+        "volume": "27"
+    },
+    {
+        "title": "Correction to: Can Offline Testing of Deep Neural Networks Replace Their Online Testing?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10172-z",
+        "volume": "27"
+    },
+    {
+        "title": "Optimal priority assignment for real-time systems: a coevolution-based approach.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10170-1",
+        "volume": "27"
+    },
+    {
+        "title": "A configurable method for benchmarking scalability of cloud-native applications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10162-1",
+        "volume": "27"
+    },
+    {
+        "title": "On the preferences of quality indicators for multi-objective search algorithms in search-based software engineering.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10127-4",
+        "volume": "27"
+    },
+    {
+        "title": "The making of accessible Android applications: an empirical study on the state of the practice.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10182-x",
+        "volume": "27"
+    },
+    {
+        "title": "Understanding and supporting the design systems practice.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10181-y",
+        "volume": "27"
+    },
+    {
+        "title": "Real world projects, real faults: evaluating spectrum based fault localization techniques on Python projects.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10189-4",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of question discussions on Stack Overflow.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10180-z",
+        "volume": "27"
+    },
+    {
+        "title": "Styler: learning formatting conventions to repair Checkstyle violations.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-021-10107-0",
+        "volume": "27"
+    },
+    {
+        "title": "Using contextual knowledge in interactive fault localization.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10190-x",
+        "volume": "27"
+    },
+    {
+        "title": "SSPCatcher: Learning to catch security patches.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10168-9",
+        "volume": "27"
+    },
+    {
+        "title": "On effort-aware metrics for defect prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10186-7",
+        "volume": "27"
+    },
+    {
+        "title": "The sense of logging in the Linux kernel.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10136-3",
+        "volume": "27"
+    },
+    {
+        "title": "Do I really need all this work to find vulnerabilities?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10179-6",
+        "volume": "27"
+    },
+    {
+        "title": "A Hybrid Distributed EA Approach for Energy Optimisation on Smartphones.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10188-5",
+        "volume": "27"
+    },
+    {
+        "title": "Story points changes in agile iterative development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10192-9",
+        "volume": "27"
+    },
+    {
+        "title": "Towards cost-benefit evaluation for continuous software engineering activities.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10191-w",
+        "volume": "27"
+    },
+    {
+        "title": "Revisiting the debate: Are code metrics useful for measuring maintenance effort?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10193-8",
+        "volume": "27"
+    },
+    {
+        "title": "Advantages and disadvantages of (dedicated) model transformation languages.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10194-7",
+        "volume": "27"
+    },
+    {
+        "title": "Static detection of equivalent mutants in real-time model-based mutation testing.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10149-y",
+        "volume": "27"
+    },
+    {
+        "title": "Stubbifier: debloating dynamic server-side JavaScript applications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10195-6",
+        "volume": "27"
+    },
+    {
+        "title": "FENSE: A feature-based ensemble modeling approach to cross-project just-in-time defect prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10185-8",
+        "volume": "27"
+    },
+    {
+        "title": "On the documentation of self-admitted technical debt in issues.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10203-9",
+        "volume": "27"
+    },
+    {
+        "title": "The role of bug report evolution in reliable fixing estimation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10213-7",
+        "volume": "27"
+    },
+    {
+        "title": "How Scrum adds value to achieving software quality?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10208-4",
+        "volume": "27"
+    },
+    {
+        "title": "Intensifying the search-based optimization of product line architectures with crossover operators.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10198-3",
+        "volume": "27"
+    },
+    {
+        "title": "One-off events? An empirical study of hackathon code creation and reuse.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10201-x",
+        "volume": "27"
+    },
+    {
+        "title": "Deja Vu: semantics-aware recording and replay of high-speed eye tracking and interaction data to support cognitive studies of software engineering tasks - methodology and analyses.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10209-3",
+        "volume": "27"
+    },
+    {
+        "title": "Learning from what we know: How to perform vulnerability prediction using noisy historical data.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10197-4",
+        "volume": "27"
+    },
+    {
+        "title": "Test smells 20 years later: detectability, validity, and reliability.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10207-5",
+        "volume": "27"
+    },
+    {
+        "title": "SPVF: security property assisted vulnerability fixing via attention-based models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10216-4",
+        "volume": "27"
+    },
+    {
+        "title": "On the usage and development of deep learning compilers: an empirical study on TVM.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10221-7",
+        "volume": "27"
+    },
+    {
+        "title": "The human experience of comprehending source code in virtual reality.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10196-5",
+        "volume": "27"
+    },
+    {
+        "title": "Developing research questions in conversation with the literature: operationalization & tool support.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10204-8",
+        "volume": "27"
+    },
+    {
+        "title": "Sources of software development task friction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10187-6",
+        "volume": "27"
+    },
+    {
+        "title": "Extracting enhanced artificial intelligence model metadata from software repositories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10206-6",
+        "volume": "27"
+    },
+    {
+        "title": "The evolution of the code during review: an investigation on review changes.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10205-7",
+        "volume": "27"
+    },
+    {
+        "title": "FindICI: Using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10215-5",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical study of Android behavioural code smells detection.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10212-8",
+        "volume": "27"
+    },
+    {
+        "title": "An empirical evaluation of a novel domain-specific language - modelling vehicle routing problems with Athos.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10210-w",
+        "volume": "27"
+    },
+    {
+        "title": "Using Screenshot Attachments in Issue Reports for Triaging.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10228-0",
+        "volume": "27"
+    },
+    {
+        "title": "Exploring the relationship between performance metrics and cost saving potential of defect prediction models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10224-4",
+        "volume": "27"
+    },
+    {
+        "title": "Motivating members' involvement to effectually conduct collaborative software process tailoring.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10225-3",
+        "volume": "27"
+    },
+    {
+        "title": "TestEvoViz: visualizing genetically-based test coverage evolution.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10220-8",
+        "volume": "27"
+    },
+    {
+        "title": "Comparing ϕ and the F-measure as performance metrics for software-related classifications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10199-2",
+        "volume": "27"
+    },
+    {
+        "title": "Modeling function-level interactions for file-level bug localization.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10237-z",
+        "volume": "27"
+    },
+    {
+        "title": "Static test flakiness prediction: How Far Can We Go?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10227-1",
+        "volume": "27"
+    },
+    {
+        "title": "C2M: a maturity model for the evaluation of communication in distributed software development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10211-9",
+        "volume": "27"
+    },
+    {
+        "title": "A machine and deep learning analysis among SonarQube rules, product, and process metrics for fault prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10164-z",
+        "volume": "27"
+    },
+    {
+        "title": "A controlled experiment of different code representations for learning-based program repair.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10223-5",
+        "volume": "27"
+    },
+    {
+        "title": "StateAFL: Greybox fuzzing for stateful network servers.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10233-3",
+        "volume": "27"
+    },
+    {
+        "title": "Basic block coverage for search-based unit testing and crash reproduction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10155-0",
+        "volume": "27"
+    },
+    {
+        "title": "DiverGet: a Search-Based Software Testing approach for Deep Neural Network Quantization assessment.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10202-w",
+        "volume": "27"
+    },
+    {
+        "title": "Pitfalls and guidelines for using time-based Git data.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10200-y",
+        "volume": "27"
+    },
+    {
+        "title": "Developers' perception matters: machine learning to detect developer-sensitive smells.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10234-2",
+        "volume": "27"
+    },
+    {
+        "title": "A large scale analysis of mHealth app user reviews.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10222-6",
+        "volume": "27"
+    },
+    {
+        "title": "SmartFast: an accurate and robust formal analysis tool for Ethereum smart contracts.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10218-2",
+        "volume": "27"
+    },
+    {
+        "title": "A large-scale empirical study of commit message generation: models, datasets and evaluation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10219-1",
+        "volume": "27"
+    }
+]

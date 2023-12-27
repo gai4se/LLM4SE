@@ -1,0 +1,1290 @@
+[
+    {
+        "title": "EDITORIAL: Announcing Six TOSEM Issues Per Year.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583569",
+        "volume": "32"
+    },
+    {
+        "title": "Consent Verification Monitoring.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3490754",
+        "volume": "32"
+    },
+    {
+        "title": "Coverage-directed Differential Testing of X.509 Certificate Validation in SSL/TLS Implementations.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3510416",
+        "volume": "32"
+    },
+    {
+        "title": "Preference-wise Testing of Android Apps via Test Amplification.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3511804",
+        "volume": "32"
+    },
+    {
+        "title": "The Weights Can Be Harmful: Pareto Search versus Weighted Search in Multi-objective Search-based Software Engineering.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3514233",
+        "volume": "32"
+    },
+    {
+        "title": "Fold2Vec: Towards a Statement-Based Representation of Code for Code Comprehension.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3514232",
+        "volume": "32"
+    },
+    {
+        "title": "Scanner++: Enhanced Vulnerability Detection of Web Applications with Attack Intent Synchronization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3517036",
+        "volume": "32"
+    },
+    {
+        "title": "Bash in the Wild: Language Usage, Code Smells, and Bugs.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3517193",
+        "volume": "32"
+    },
+    {
+        "title": "Semantics Foundation for Cyber-physical Systems Using Higher-order UTP.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3517192",
+        "volume": "32"
+    },
+    {
+        "title": "Parametric Timed Pattern Matching.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3517194",
+        "volume": "32"
+    },
+    {
+        "title": "There's no Such Thing as a Free Lunch: Lessons Learned from Exploring the Overhead Introduced by the Greenkeeper Dependency Bot in Npm.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3522587",
+        "volume": "32"
+    },
+    {
+        "title": "ActivFORMS: A Formally Founded Model-based Approach to Engineer Self-adaptive Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3522585",
+        "volume": "32"
+    },
+    {
+        "title": "Combatting Energy Issues for Mobile Applications.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3527851",
+        "volume": "32"
+    },
+    {
+        "title": "Mutation Testing in Evolving Systems: Studying the Relevance of Mutants to Code Evolution.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3530786",
+        "volume": "32"
+    },
+    {
+        "title": "On Wasted Contributions: Understanding the Dynamics of Contributor-Abandoned Pull Requests-A Mixed-Methods Study of 10 Large Open-Source Projects.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3530785",
+        "volume": "32"
+    },
+    {
+        "title": "Microservice Security Metrics for Secure Communication, Identity Management, and Observability.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3532183",
+        "volume": "32"
+    },
+    {
+        "title": "Some Seeds Are Strong: Seeding Strategies for Search-based Test Case Selection.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3532182",
+        "volume": "32"
+    },
+    {
+        "title": "Automated Identification of Uniqueness in JUnit Tests.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3533313",
+        "volume": "32"
+    },
+    {
+        "title": "The Co-evolution of the WordPress Platform and Its Plugins.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3533700",
+        "volume": "32"
+    },
+    {
+        "title": "Feedback-Directed Metamorphic Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3533314",
+        "volume": "32"
+    },
+    {
+        "title": "A Taxonomy of Information Attributes for Test Case Prioritisation: Applicability, Machine Learning.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3511805",
+        "volume": "32"
+    },
+    {
+        "title": "LiDetector: License Incompatibility Detection for Open Source Software.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3518994",
+        "volume": "32"
+    },
+    {
+        "title": "Code Structure-Guided Transformer for Source Code Summarization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3522674",
+        "volume": "32"
+    },
+    {
+        "title": "APIRO: A Framework for Automated Security Tools API Recommendation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3512768",
+        "volume": "32"
+    },
+    {
+        "title": "An In-depth Study of Java Deserialization Remote-Code Execution Exploits and Vulnerabilities.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3554732",
+        "volume": "32"
+    },
+    {
+        "title": "TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3560263",
+        "volume": "32"
+    },
+    {
+        "title": "Defining a Knowledge Graph Development Process Through a Systematic Review.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3522586",
+        "volume": "32"
+    },
+    {
+        "title": "Single and Multi-objective Test Cases Prioritization for Self-driving Cars in Virtual Environments.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3533818",
+        "volume": "32"
+    },
+    {
+        "title": "Graded Refinement, Retrenchment, and Simulation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3534116",
+        "volume": "32"
+    },
+    {
+        "title": "On the Significance of Category Prediction for Code-Comment Synchronization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3534117",
+        "volume": "32"
+    },
+    {
+        "title": "Dealing with Belief Uncertainty in Domain Models.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542947",
+        "volume": "32"
+    },
+    {
+        "title": "Aide-mémoire: Improving a Project's Collective Memory via Pull Request-Issue Links.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542937",
+        "volume": "32"
+    },
+    {
+        "title": "iBiR: Bug-report-driven Fault Injection.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542946",
+        "volume": "32"
+    },
+    {
+        "title": "deGraphCS: Embedding Variable-based Flow Graph for Neural Code Search.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546066",
+        "volume": "32"
+    },
+    {
+        "title": "Nudge: Accelerating Overdue Pull Requests toward Completion.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3544791",
+        "volume": "32"
+    },
+    {
+        "title": "Toward More Efficient Statistical Debugging with Abstraction Refinement.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3544790",
+        "volume": "32"
+    },
+    {
+        "title": "Estimating Probabilistic Safe WCET Ranges of Real-Time Systems at Design Stages.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546941",
+        "volume": "32"
+    },
+    {
+        "title": "Coverage-Based Debloating for Java Bytecode.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546948",
+        "volume": "32"
+    },
+    {
+        "title": "DIRE and its Data: Neural Decompiled Variable Renamings with Respect to Software Class.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546946",
+        "volume": "32"
+    },
+    {
+        "title": "A Characterization Study of Merge Conflicts in Java Projects.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546944",
+        "volume": "32"
+    },
+    {
+        "title": "Hippodrome: Data Race Repair Using Static Analysis Summaries.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546942",
+        "volume": "32"
+    },
+    {
+        "title": "Evaluating Surprise Adequacy for Deep Learning System Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546947",
+        "volume": "32"
+    },
+    {
+        "title": "Assessing the Alignment between the Information Needs of Developers and the Documentation of Programming Languages: A Case Study on Rust.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546945",
+        "volume": "32"
+    },
+    {
+        "title": "On Proving the Correctness of Refactoring Class Diagrams of MDE Metamodels.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3549541",
+        "volume": "32"
+    },
+    {
+        "title": "Suboptimal Comments in Java Projects: From Independent Comment Changes to Commenting Practices.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546949",
+        "volume": "32"
+    },
+    {
+        "title": "HINNPerf: Hierarchical Interaction Neural Network for Performance Prediction of Configurable Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3528100",
+        "volume": "32"
+    },
+    {
+        "title": "A Machine Learning Approach for Automated Filling of Categorical Fields in Data Entry Forms.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3533021",
+        "volume": "32"
+    },
+    {
+        "title": "Towards Learning Generalizable Code Embeddings Using Task-agnostic Graph Convolutional Networks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542944",
+        "volume": "32"
+    },
+    {
+        "title": "Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3544792",
+        "volume": "32"
+    },
+    {
+        "title": "Demystifying Hidden Sensitive Operations in Android Apps.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3574158",
+        "volume": "32"
+    },
+    {
+        "title": "Testing, Validation, and Verification of Robotic and Autonomous Systems: A Systematic Review.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542945",
+        "volume": "32"
+    },
+    {
+        "title": "Dissecting American Fuzzy Lop: A FuzzBench Evaluation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580596",
+        "volume": "32"
+    },
+    {
+        "title": "Fuzzing Configurations of Program Options.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580597",
+        "volume": "32"
+    },
+    {
+        "title": "Dissecting American Fuzzy Lop - A FuzzBench Evaluation - RCR Report.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580600",
+        "volume": "32"
+    },
+    {
+        "title": "Fuzzing Configurations of Program Options - RCR Report.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580601",
+        "volume": "32"
+    },
+    {
+        "title": "Patching Locking Bugs Statically with Crayons.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3548684",
+        "volume": "32"
+    },
+    {
+        "title": "Storage State Analysis and Extraction of Ethereum Blockchain Smart Contracts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3548683",
+        "volume": "32"
+    },
+    {
+        "title": "Parameter Coverage for Testing of Autonomous Driving Systems under Uncertainty.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3550270",
+        "volume": "32"
+    },
+    {
+        "title": "Is My Transaction Done Yet? An Empirical Study of Transaction Processing Times in the Ethereum Blockchain Platform.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3549542",
+        "volume": "32"
+    },
+    {
+        "title": "SLR: From Saltzer and Schroeder to 2021...47 Years of Research on the Development and Validation of Security API Recommendations.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3561383",
+        "volume": "32"
+    },
+    {
+        "title": "Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3560264",
+        "volume": "32"
+    },
+    {
+        "title": "Precise Quantitative Analysis of Binarized Neural Networks: A BDD-based Approach.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3563212",
+        "volume": "32"
+    },
+    {
+        "title": "How the Quality of Maintenance Tasks is Affected by Criteria for Selecting Engineers for Collaboration.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3561384",
+        "volume": "32"
+    },
+    {
+        "title": "Security Responses in Software Development.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3563211",
+        "volume": "32"
+    },
+    {
+        "title": "Seeing the Whole Elephant: Systematically Understanding and Uncovering Evaluation Biases in Automated Program Repair.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3561382",
+        "volume": "32"
+    },
+    {
+        "title": "Anchor: Fast and Precise Value-flow Analysis for Containers via Memory Orientation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3565800",
+        "volume": "32"
+    },
+    {
+        "title": "Automated Identification and Qualitative Characterization of Safety Concerns Reported in UAV Software Platforms.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3564821",
+        "volume": "32"
+    },
+    {
+        "title": "Do Performance Aspirations Matter for Guiding Software Configuration Tuning? An Empirical Investigation under Dual Performance Objectives.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571853",
+        "volume": "32"
+    },
+    {
+        "title": "What Is the Intended Usage Context of This Model? An Exploratory Study of Pre-Trained Models on Various Model Repositories.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569934",
+        "volume": "32"
+    },
+    {
+        "title": "Simulating Software Evolution to Evaluate the Reliability of Early Decision-making among Design Alternatives toward Maintainability.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569931",
+        "volume": "32"
+    },
+    {
+        "title": "Route: Roads Not Taken in UI Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571851",
+        "volume": "32"
+    },
+    {
+        "title": "Exploring Better Black-Box Test Case Prioritization via Log Analysis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569932",
+        "volume": "32"
+    },
+    {
+        "title": "Continuous Integration and Delivery Practices for Cyber-Physical Systems: An Interview-Based Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571854",
+        "volume": "32"
+    },
+    {
+        "title": "A Theory of Scrum Team Effectiveness.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571849",
+        "volume": "32"
+    },
+    {
+        "title": "Similarity-based Web Element Localization for Robust Test Automation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571855",
+        "volume": "32"
+    },
+    {
+        "title": "Blindspots in Python and Java APIs Result in Vulnerable Code.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571850",
+        "volume": "32"
+    },
+    {
+        "title": "Refactoring in Computational Notebooks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576036",
+        "volume": "32"
+    },
+    {
+        "title": "Influential Global and Local Contexts Guided Trace Representation for Fault Localization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576043",
+        "volume": "32"
+    },
+    {
+        "title": "Black-box Safety Analysis and Retraining of DNNs based on Feature Extraction and Clustering.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3550271",
+        "volume": "32"
+    },
+    {
+        "title": "I Know What You Are Searching for: Code Snippet Recommendation from Stack Overflow Posts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3550150",
+        "volume": "32"
+    },
+    {
+        "title": "Input Distribution Coverage: Measuring Feature Interaction Adequacy in Neural Network Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576040",
+        "volume": "32"
+    },
+    {
+        "title": "SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-flow Analysis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3542948",
+        "volume": "32"
+    },
+    {
+        "title": "Making Sense of the Unknown: How Managers Make Cyber Security Decisions.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3548682",
+        "volume": "32"
+    },
+    {
+        "title": "DeltaDroid: Dynamic Delivery Testing in Android.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3563213",
+        "volume": "32"
+    },
+    {
+        "title": "Arachne: Search-Based Repair of Deep Neural Networks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3563210",
+        "volume": "32"
+    },
+    {
+        "title": "Hierarchical and Hybrid Organizational Structures in Open-source Software Projects: A Longitudinal Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569949",
+        "volume": "32"
+    },
+    {
+        "title": "1-to-1 or 1-to-n? Investigating the Effect of Function Inlining on Binary Similarity Analysis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3561385",
+        "volume": "32"
+    },
+    {
+        "title": "Video Game Bad Smells: What They Are and How Developers Perceive Them.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3563214",
+        "volume": "32"
+    },
+    {
+        "title": "DAISY: Dynamic-Analysis-Induced Source Discovery for Sensitive Data.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569936",
+        "volume": "32"
+    },
+    {
+        "title": "sem2vec: Semantics-aware Assembly Tracelet Embedding.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569933",
+        "volume": "32"
+    },
+    {
+        "title": "On the Discoverability of npm Vulnerabilities in Node.js Projects.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571848",
+        "volume": "32"
+    },
+    {
+        "title": "The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576039",
+        "volume": "32"
+    },
+    {
+        "title": "HybridCISave: A Combined Build and Test Selection Approach in Continuous Integration.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576038",
+        "volume": "32"
+    },
+    {
+        "title": "I Depended on You and You Broke Me: An Empirical Study of Manifesting Breaking Changes in Client Packages.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576037",
+        "volume": "32"
+    },
+    {
+        "title": "Uncertainty-Aware Robustness Assessment of Industrial Elevator Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576041",
+        "volume": "32"
+    },
+    {
+        "title": "Reliable Fix Patterns Inferred from Static Checkers for Automated Program Repair.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579637",
+        "volume": "32"
+    },
+    {
+        "title": "Duplicate Bug Report Detection: How Far Are We?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3576042",
+        "volume": "32"
+    },
+    {
+        "title": "Client-Specific Upgrade Compatibility Checking via Knowledge-Guided Discovery.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582569",
+        "volume": "32"
+    },
+    {
+        "title": "Security Misconfigurations in Open Source Kubernetes Manifests: An Empirical Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579639",
+        "volume": "32"
+    },
+    {
+        "title": "Katana: Dual Slicing Based Context for Learning Bug Fixes.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579640",
+        "volume": "32"
+    },
+    {
+        "title": "IFDS-based Context Debloating for Object-Sensitive Pointer Analysis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579641",
+        "volume": "32"
+    },
+    {
+        "title": "Code-line-level Bugginess Identification: How Far have We Come, and How Far have We Yet to Go?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582572",
+        "volume": "32"
+    },
+    {
+        "title": "Structured Theorem for Quantum Programs and its Applications.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3587154",
+        "volume": "32"
+    },
+    {
+        "title": "Simulator-based Explanation and Debugging of Hazard-triggering Events in DNN-based Safety-critical Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3569935",
+        "volume": "32"
+    },
+    {
+        "title": "Testing Feedforward Neural Networks Training Programs.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3529318",
+        "volume": "32"
+    },
+    {
+        "title": "A Comprehensive Empirical Study of Bias Mitigation Methods for Machine Learning Classifiers.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583561",
+        "volume": "32"
+    },
+    {
+        "title": "Modern Code Reviews - Survey of Literature and Practice.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585004",
+        "volume": "32"
+    },
+    {
+        "title": "The Influence of Human Aspects on Requirements Engineering-related Activities: Software Practitioners' Perspective.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3546943",
+        "volume": "32"
+    },
+    {
+        "title": "Retrieving API Knowledge from Tutorials and Stack Overflow Based on Natural Language Queries.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3565799",
+        "volume": "32"
+    },
+    {
+        "title": "Open Source License Inconsistencies on GitHub.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571852",
+        "volume": "32"
+    },
+    {
+        "title": "Challenges of Working from Home in Software Development During Covid-19 Lockdowns.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579636",
+        "volume": "32"
+    },
+    {
+        "title": "Extraction of Phrase-based Concepts in Vulnerability Descriptions through Unsupervised Labeling.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579638",
+        "volume": "32"
+    },
+    {
+        "title": "Digital Twin-based Anomaly Detection with Curriculum Learning in Cyber-physical Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582571",
+        "volume": "32"
+    },
+    {
+        "title": "Estimating Software Functional Size via Machine Learning.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582575",
+        "volume": "32"
+    },
+    {
+        "title": "Toward Interpretable Graph Tensor Convolution Neural Network for Code Semantics Embedding.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582574",
+        "volume": "32"
+    },
+    {
+        "title": "Assessing the Early Bird Heuristic (for Predicting Project Quality).",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583565",
+        "volume": "32"
+    },
+    {
+        "title": "Actor-Driven Decomposition of Microservices through Multi-level Scalability Assessment.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583563",
+        "volume": "32"
+    },
+    {
+        "title": "Automated Identification of Toxic Code Reviews Using ToxiCR.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583562",
+        "volume": "32"
+    },
+    {
+        "title": "FaaSLight: General Application-level Cold-start Latency Optimization for Function-as-a-Service in Serverless Computing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585007",
+        "volume": "32"
+    },
+    {
+        "title": "What's (Not) Working in Programmer User Studies?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3587157",
+        "volume": "32"
+    },
+    {
+        "title": "SEAL: Integrating Program Analysis and Repository Mining.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585008",
+        "volume": "32"
+    },
+    {
+        "title": "White-Box Fuzzing RPC-Based APIs with EvoMaster: An Industrial Case Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585009",
+        "volume": "32"
+    },
+    {
+        "title": "A Hypothesis Testing-based Framework for Software Cross-modal Retrieval in Heterogeneous Semantic Spaces.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3591868",
+        "volume": "32"
+    },
+    {
+        "title": "A Survey on Automated Driving System Testing: Landscapes and Trends.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579642",
+        "volume": "32"
+    },
+    {
+        "title": "QuoTe: Quality-oriented Testing for Deep Learning Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582573",
+        "volume": "32"
+    },
+    {
+        "title": "A Comparative Study on Method Comment and Inline Comment.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3582570",
+        "volume": "32"
+    },
+    {
+        "title": "COMET: Coverage-guided Model Generation For Deep Learning Library Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583566",
+        "volume": "32"
+    },
+    {
+        "title": "Finding Deviated Behaviors of the Compressed DNN Models for Image Classifications.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3583564",
+        "volume": "32"
+    },
+    {
+        "title": "ArchRepair: Block-Level Architecture-Oriented Repairing for Deep Neural Networks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585005",
+        "volume": "32"
+    },
+    {
+        "title": "Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3571847",
+        "volume": "32"
+    },
+    {
+        "title": "Rise of the Planet of Serverless Computing: A Systematic Review.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3579643",
+        "volume": "32"
+    },
+    {
+        "title": "DatAFLow: Toward a Data-Flow-Guided Fuzzer.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3587156",
+        "volume": "32"
+    },
+    {
+        "title": "DatAFLow: Toward a Data-flow-guided Fuzzer.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3587159",
+        "volume": "32"
+    },
+    {
+        "title": "Fair Enough: Searching for Sufficient Measures of Fairness.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3585006",
+        "volume": "32"
+    },
+    {
+        "title": "Toward Understanding Deep Learning Framework Bugs.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3587155",
+        "volume": "32"
+    },
+    {
+        "title": "UniLoc: Unified Fault Localization of Continuous Integration Failures.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3593799",
+        "volume": "32"
+    },
+    {
+        "title": "TestSGD: Interpretable Testing of Neural Networks against Subtle Group Discrimination.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3591869",
+        "volume": "32"
+    },
+    {
+        "title": "Automatic Core-Developer Identification on GitHub: A Validation Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3593803",
+        "volume": "32"
+    },
+    {
+        "title": "JavaScript SBST Heuristics to Enable Effective Fuzzing of NodeJS Web APIs.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3593801",
+        "volume": "32"
+    },
+    {
+        "title": "XCoS: Explainable Code Search Based on Query Scoping and Knowledge Graph.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3593800",
+        "volume": "32"
+    },
+    {
+        "title": "Predicting the Change Impact of Resolving Defects by Leveraging the Topics of Issue Reports in Open Source Software Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3593802",
+        "volume": "32"
+    },
+    {
+        "title": "What Quality Aspects Influence the Adoption of Docker Images?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3603111",
+        "volume": "32"
+    },
+    {
+        "title": "CodeEditor: Learning to Edit Source Code with Pre-trained Models.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597207",
+        "volume": "32"
+    },
+    {
+        "title": "Open Problems in Fuzzing RESTful APIs: A Comparison of Tools.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597205",
+        "volume": "32"
+    },
+    {
+        "title": "Incorporating Signal Awareness in Source Code Modeling: An Application to Vulnerability Detection.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597202",
+        "volume": "32"
+    },
+    {
+        "title": "An Empirical Study on GitHub Pull Requests' Reactions.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597208",
+        "volume": "32"
+    },
+    {
+        "title": "Semantic-Enriched Code Knowledge Graph to Reveal Unknowns in Smart Contract Code Reuse.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597206",
+        "volume": "32"
+    },
+    {
+        "title": "An Accurate Identifier Renaming Prediction and Suggestion Approach.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3603109",
+        "volume": "32"
+    },
+    {
+        "title": "Dependency Update Strategies and Package Characteristics.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3603110",
+        "volume": "32"
+    },
+    {
+        "title": "DeepPatch: Maintaining Deep Learning Model Programs to Retain Standard Accuracy with Substantial Robustness Improvement.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3604609",
+        "volume": "32"
+    },
+    {
+        "title": "Optimization Techniques for Model Checking Leads-to Properties in a Stratified Way.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3604610",
+        "volume": "32"
+    },
+    {
+        "title": "Revisiting the Identification of the Co-evolution of Production and Test Code.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3607183",
+        "volume": "32"
+    },
+    {
+        "title": "Exploring the Impact of Code Clones on Deep Learning Software.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3607181",
+        "volume": "32"
+    },
+    {
+        "title": "PatchCensor: Patch Robustness Certification for Transformers via Exhaustive Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3591870",
+        "volume": "32"
+    },
+    {
+        "title": "Tiny, Always-on, and Fragile: Bias Propagation through Design Choices in On-device Machine Learning Workflows.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3591867",
+        "volume": "32"
+    },
+    {
+        "title": "Rise of Distributed Deep Learning Training in the Big Model Era: From a Software Engineering Perspective.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597204",
+        "volume": "32"
+    },
+    {
+        "title": "Pre-implementation Method Name Prediction for Object-oriented Programming.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3597203",
+        "volume": "32"
+    },
+    {
+        "title": "Towards Practical Binary Code Similarity Detection: Vulnerability Verification via Patch Semantic Analysis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3604608",
+        "volume": "32"
+    },
+    {
+        "title": "A Systematic Review of Automated Query Reformulations in Source Code Search.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3607179",
+        "volume": "32"
+    },
+    {
+        "title": "NSFuzz: Towards Efficient and State-Aware Network Service Fuzzing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580598",
+        "volume": "32"
+    },
+    {
+        "title": "NSFuzz: Towards Efficient and State-Aware Network Service Fuzzing - RCR Report.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2023,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3580599",
+        "volume": "32"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "title": "On the Monitoring of Decentralized Specifications: Semantics, Properties, Analysis, and Simulation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3355181",
+        "volume": "29"
+    },
+    {
+        "title": "Many-Objective Test Suite Generation for Software Product Lines.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3361146",
+        "volume": "29"
+    },
+    {
+        "title": "How C++ Templates Are Used for Generic Programming: An Empirical Study on 50 Open Source Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3356579",
+        "volume": "29"
+    },
+    {
+        "title": "Automatically Generating SystemC Code from HCSP Formal Models.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3360002",
+        "volume": "29"
+    },
+    {
+        "title": "Toward Better Evolutionary Program Repair: An Integrated Approach.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3360004",
+        "volume": "29"
+    },
+    {
+        "title": "Is Static Analysis Able to Identify Unnecessary Source Code?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3368267",
+        "volume": "29"
+    },
+    {
+        "title": "DESEN: Specification of Sociotechnical Systems via Patterns of Regulation and Control.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3365664",
+        "volume": "29"
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3383775",
+        "volume": "29"
+    },
+    {
+        "title": "Assessing and Improving Malware Detection Sustainability through App Evolution Studies.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3371924",
+        "volume": "29"
+    },
+    {
+        "title": "Visualizing Distributed System Executions.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3375633",
+        "volume": "29"
+    },
+    {
+        "title": "Quality Indicators in Search-based Software Engineering: An Empirical Evaluation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3375636",
+        "volume": "29"
+    },
+    {
+        "title": "Practical Constraint Solving for Generating System Test Data.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3381032",
+        "volume": "29"
+    },
+    {
+        "title": "A Defect Estimator for Source Code: Linking Defect Reports with Programming Constructs Usage Metrics.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3384517",
+        "volume": "29"
+    },
+    {
+        "title": "Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3385187",
+        "volume": "29"
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3402931",
+        "volume": "29"
+    },
+    {
+        "title": "KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3385897",
+        "volume": "29"
+    },
+    {
+        "title": "Computing Alignments of Well-Formed Process Models using Local Search.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3394056",
+        "volume": "29"
+    },
+    {
+        "title": "Unveiling Elite Developers' Activities in Open Source Projects.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3387111",
+        "volume": "29"
+    },
+    {
+        "title": "Monotone Precision and Recall Measures for Comparing Executions and Specifications of Dynamic Systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3387909",
+        "volume": "29"
+    },
+    {
+        "title": "Testing Relative to Usage Scope: Revisiting Software Coverage Criteria.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3389126",
+        "volume": "29"
+    },
+    {
+        "title": "Wireframe-based UI Design Search through Image Autoencoder.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3391613",
+        "volume": "29"
+    },
+    {
+        "title": "Multi-objective Integer Programming Approaches for Solving the Multi-criteria Test-suite Minimization Problem: Towards Sound and Complete Solutions of a Particular Search-based Software-engineering Problem.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3392031",
+        "volume": "29"
+    },
+    {
+        "title": "psc2code: Denoising Code Extraction from Programming Screencasts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3392093",
+        "volume": "29"
+    },
+    {
+        "title": "Handling SQL Databases in Automated System Test Generation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3391533",
+        "volume": "29"
+    },
+    {
+        "title": "Fine-grained Code Coverage Measurement in Automated Black-box Android Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3395042",
+        "volume": "29"
+    },
+    {
+        "title": "iSENSE2.0: Improving Completion-aware Crowdtesting Management with Duplicate Tagger and Sanity Checker.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3394602",
+        "volume": "29"
+    },
+    {
+        "title": "Measuring Task Conflict and Person Conflict in Software Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3395029",
+        "volume": "29"
+    },
+    {
+        "title": "Generating Question Titles for Stack Overflow from Mined Code Snippets.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3401026",
+        "volume": "29"
+    },
+    {
+        "title": "Smart Contract Repair.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3402450",
+        "volume": "29"
+    },
+    {
+        "title": "Using Relative Lines of Code to Guide Automated Test Generation for Python.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3408896",
+        "volume": "29"
+    },
+    {
+        "title": "Why Developers Refactor Source Code: A Mining-based Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3408302",
+        "volume": "29"
+    },
+    {
+        "title": "Practical Accuracy Estimation for Efficient Deep Neural Network Testing.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3394112",
+        "volume": "29"
+    },
+    {
+        "title": "Modular Tree Network for Source Code Representation Learning.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3409331",
+        "volume": "29"
+    }
+]

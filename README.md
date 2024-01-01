@@ -161,6 +161,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2023 | [A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/pdf/2305.03803.pdf)  |
 | 2023 | [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396) |
 | 2023 | [A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends](https://arxiv.org/abs/2311.10372) |
 | 2023 | [Large Language Models for Software Engineering: Survey and Open Problems](https://arxiv.org/abs/2310.03533) |

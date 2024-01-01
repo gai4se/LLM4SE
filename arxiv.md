@@ -1,4 +1,4 @@
-## Updated on 2023.12.31
+## Updated on 2024.01.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -50,6 +50,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Identifying and Mitigating the Security Risks of Generative AI | [2308.14840](http://arxiv.org/abs/2308.14840) | None | 2023-12-29 |
 | Hot or Cold? Adaptive Temperature Sampling for Code Generation with   Large Language Models | [2309.02772](http://arxiv.org/abs/2309.02772) | https://github.com/lj2lijia/adapt | 2023-12-28 |
 | AskIt: Unified Programming Interface for Programming with Large Language   Models | [2308.15645](http://arxiv.org/abs/2308.15645) | https://github.com/katsumiok/askit-artifact | 2023-12-27 |
 | Instruction Fusion: Advancing Prompt Evolution through Hybridization | [2312.15692](http://arxiv.org/abs/2312.15692) | None | 2023-12-27 |
@@ -71,7 +72,7 @@
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-12-15 |
 | A Review of Repository Level Prompting for LLMs | [2312.10101](http://arxiv.org/abs/2312.10101) | None | 2023-12-15 |
 | Entity-Augmented Code Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2023-12-14 |
-| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | None | 2023-12-14 |
+| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
 | Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
@@ -80,14 +81,13 @@
 | L2MAC: Large Language Model Automatic Computer for Unbounded Code   Generation | [2310.02003](http://arxiv.org/abs/2310.02003) | None | 2023-12-11 |
 | VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | https://github.com/nvlabs/verilog-eval | 2023-12-10 |
 | Chain-of-Thought in Neural Code Generation: From and For Lightweight   Language Models | [2312.05562](http://arxiv.org/abs/2312.05562) | https://github.com/ntdxyg/cotton | 2023-12-09 |
-| KEN: Kernel Extensions using Natural Language | [2312.05531](http://arxiv.org/abs/2312.05531) | https://github.com/eunomia-bpf/ken | 2023-12-09 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-29 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | None | 2023-12-25 |
-| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
 | Can Large Language Models Identify And Reason About Security   Vulnerabilities? Not Yet | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2023-12-19 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
@@ -172,6 +172,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-29 |
+| The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-29 |
 | Revisiting the Reliability of Psychological Scales on Large Language   Models | [2305.19926](http://arxiv.org/abs/2305.19926) | https://github.com/cuhk-arise/llmpersonality | 2023-12-28 |
 | Leveraging High-Level Synthesis and Large Language Models to Generate,   Simulate, and Deploy a Uniform Random Number Generator Hardware Design | [2311.03489](http://arxiv.org/abs/2311.03489) | https://github.com/jamestimothymeech/rng | 2023-12-26 |
 | MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL | [2312.11242](http://arxiv.org/abs/2312.11242) | https://github.com/wbbeyourself/mac-sql | 2023-12-26 |
@@ -188,7 +190,6 @@
 | A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-21 |
 | Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
 | Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2023-12-21 |
-| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-21 |
 | Text2Analysis: A Benchmark of Table Question Answering with Advanced   Data Analysis and Unclear Queries | [2312.13671](http://arxiv.org/abs/2312.13671) | None | 2023-12-21 |
 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | [2312.07488](http://arxiv.org/abs/2312.07488) | https://github.com/opendilab/lmdrive | 2023-12-21 |
 | Illuminating the Black Box: A Psychometric Investigation into the   Multifaceted Nature of Large Language Models | [2312.14202](http://arxiv.org/abs/2312.14202) | None | 2023-12-21 |
@@ -198,7 +199,6 @@
 | In Generative AI we Trust: Can Chatbots Effectively Verify Political   Information? | [2312.13096](http://arxiv.org/abs/2312.13096) | None | 2023-12-20 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Separating form and meaning: Using self-consistency to quantify task   understanding across multiple senses | [2305.11662](http://arxiv.org/abs/2305.11662) | https://github.com/xeniaohmer/multisense_consistency | 2023-12-20 |
-| The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-20 |
 | RealGen: Retrieval Augmented Generation for Controllable Traffic   Scenarios | [2312.13303](http://arxiv.org/abs/2312.13303) | None | 2023-12-19 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2023-12-19 |
 | Large Language Models in Medical Term Classification and Unexpected   Misalignment Between Response and Reasoning | [2312.14184](http://arxiv.org/abs/2312.14184) | None | 2023-12-19 |

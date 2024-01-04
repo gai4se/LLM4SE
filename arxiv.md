@@ -50,6 +50,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | None | 2024-01-03 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-02 |
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
 | Astraios: Parameter-Efficient Instruction Tuning Code Large Language   Models | [2401.00788](http://arxiv.org/abs/2401.00788) | https://github.com/bigcode-project/astraios | 2024-01-01 |
@@ -80,7 +81,6 @@
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
 | Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
-| DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial   Natural Language Instructions | [2312.04730](http://arxiv.org/abs/2312.04730) | None | 2023-12-12 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -173,10 +173,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Fairness Certification for Natural Language Processing and Large   Language Models | [2401.01262](http://arxiv.org/abs/2401.01262) | None | 2024-01-02 |
+| Economics Arena for Large Language Models | [2401.01735](http://arxiv.org/abs/2401.01735) | None | 2024-01-03 |
+| Understanding the Effects of RLHF on LLM Generalisation and Diversity | [2310.06452](http://arxiv.org/abs/2310.06452) | None | 2024-01-03 |
+| Fairness Certification for Natural Language Processing and Large   Language Models | [2401.01262](http://arxiv.org/abs/2401.01262) | None | 2024-01-03 |
+| PLLaMa: An Open-source Large Language Model for Plant Science | [2401.01600](http://arxiv.org/abs/2401.01600) | None | 2024-01-03 |
+| Self-Assessment Tests are Unreliable Measures of LLM Personality | [2309.08163](http://arxiv.org/abs/2309.08163) | None | 2024-01-02 |
 | Experimenting a New Programming Practice with LLMs | [2401.01062](http://arxiv.org/abs/2401.01062) | None | 2024-01-02 |
 | LLaMA Beyond English: An Empirical Study on Language Capability Transfer | [2401.01055](http://arxiv.org/abs/2401.01055) | None | 2024-01-02 |
 | Detection and Defense Against Prominent Attacks on Preconditioned   LLM-Integrated Virtual Assistants | [2401.00994](http://arxiv.org/abs/2401.00994) | None | 2024-01-02 |
+| ViCrop: Perceiving Small Visual Details in Zero-shot Visual Question   Answering with Multimodal Large Language Models | [2310.16033](http://arxiv.org/abs/2310.16033) | https://github.com/saccharomycetes/vicrop | 2024-01-01 |
 | The Earth is Flat? Unveiling Factual Errors in Large Language Models | [2401.00761](http://arxiv.org/abs/2401.00761) | None | 2024-01-01 |
 | A & B == B & A: Triggering Logical Reasoning Failures in Large Language   Models | [2401.00757](http://arxiv.org/abs/2401.00757) | None | 2024-01-01 |
 | Aurora:Activating Chinese chat capability for Mixtral-8x7B sparse   Mixture-of-Experts through Instruction-Tuning | [2312.14557](http://arxiv.org/abs/2312.14557) | https://github.com/WangRongsheng/Aurora | 2024-01-01 |
@@ -199,11 +204,6 @@
 | Multimodal Machine Learning Combining Facial Images and Clinical Texts   Improves Diagnosis of Rare Genetic Diseases | [2312.15320](http://arxiv.org/abs/2312.15320) | None | 2023-12-23 |
 | An Explainable AI Approach to Large Language Model Assisted Causal Model   Auditing and Development | [2312.16211](http://arxiv.org/abs/2312.16211) | None | 2023-12-23 |
 | SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-23 |
-| Theory of Hallucinations based on Equivariance | [2312.14504](http://arxiv.org/abs/2312.14504) | None | 2023-12-22 |
-| Evolving Large Language Model Assistant with Long-Term Conditional   Memory | [2312.17257](http://arxiv.org/abs/2312.17257) | None | 2023-12-22 |
-| AppAgent: Multimodal Agents as Smartphone Users | [2312.13771](http://arxiv.org/abs/2312.13771) | None | 2023-12-22 |
-| A Case Study on Test Case Construction with Large Language Models:   Unveiling Practical Insights and Challenges | [2312.12598](http://arxiv.org/abs/2312.12598) | None | 2023-12-21 |
-| Diversifying Knowledge Enhancement of Biomedical Language Models using   Adapter Modules and Knowledge Graphs | [2312.13881](http://arxiv.org/abs/2312.13881) | None | 2023-12-21 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

@@ -50,6 +50,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-04 |
 | De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | None | 2024-01-03 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-02 |
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
@@ -65,7 +66,7 @@
 | LLM-Powered Hierarchical Language Agent for Real-time Human-AI   Coordination | [2312.15224](http://arxiv.org/abs/2312.15224) | None | 2023-12-23 |
 | Coarse-Tuning Models of Code with Reinforcement Learning Feedback | [2305.18341](http://arxiv.org/abs/2305.18341) | None | 2023-12-23 |
 | CodeScholar: Growing Idiomatic Code Examples | [2312.15157](http://arxiv.org/abs/2312.15157) | https://github.com/tart-proj/codescholar | 2023-12-23 |
-| Turbulence: Systematically and Automatically Testing Instruction-Tuned   Large Language Models for Code | [2312.14856](http://arxiv.org/abs/2312.14856) | None | 2023-12-22 |
+| Turbulence: Systematically and Automatically Testing Instruction-Tuned   Large Language Models for Code | [2312.14856](http://arxiv.org/abs/2312.14856) | https://github.com/shahinhonarvar/turbulence-benchmark | 2023-12-22 |
 | Capture the Flag: Uncovering Data Insights with Large Language Models | [2312.13876](http://arxiv.org/abs/2312.13876) | None | 2023-12-21 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2023-12-20 |
 | Opportunities and Challenges of Applying Large Language Models in   Building Energy Efficiency and Decarbonization Studies: An Exploratory   Overview | [2312.11701](http://arxiv.org/abs/2312.11701) | None | 2023-12-18 |
@@ -80,7 +81,6 @@
 | RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
 | Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
-| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2023-12-13 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -173,6 +173,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| One Shot Learning as Instruction Data Prospector for Large Language   Models | [2312.10302](http://arxiv.org/abs/2312.10302) | https://github.com/pldlgb/nuggets | 2024-01-04 |
+| Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using   EmotionBench | [2308.03656](http://arxiv.org/abs/2308.03656) | https://github.com/cuhk-arise/emotionbench | 2024-01-04 |
+| Theory of Hallucinations based on Equivariance | [2312.14504](http://arxiv.org/abs/2312.14504) | None | 2024-01-04 |
+| Text2MDT: Extracting Medical Decision Trees from Medical Texts | [2401.02034](http://arxiv.org/abs/2401.02034) | None | 2024-01-04 |
 | Economics Arena for Large Language Models | [2401.01735](http://arxiv.org/abs/2401.01735) | None | 2024-01-03 |
 | Understanding the Effects of RLHF on LLM Generalisation and Diversity | [2310.06452](http://arxiv.org/abs/2310.06452) | None | 2024-01-03 |
 | Fairness Certification for Natural Language Processing and Large   Language Models | [2401.01262](http://arxiv.org/abs/2401.01262) | None | 2024-01-03 |
@@ -200,10 +204,6 @@
 | Knowledge Distillation of LLM for Education | [2312.15842](http://arxiv.org/abs/2312.15842) | None | 2023-12-26 |
 | ManipLLM: Embodied Multimodal Large Language Model for Object-Centric   Robotic Manipulation | [2312.16217](http://arxiv.org/abs/2312.16217) | None | 2023-12-24 |
 | ChatGPT and post-test probability | [2311.12188](http://arxiv.org/abs/2311.12188) | None | 2023-12-23 |
-| Coarse-Tuning Models of Code with Reinforcement Learning Feedback | [2305.18341](http://arxiv.org/abs/2305.18341) | None | 2023-12-23 |
-| Multimodal Machine Learning Combining Facial Images and Clinical Texts   Improves Diagnosis of Rare Genetic Diseases | [2312.15320](http://arxiv.org/abs/2312.15320) | None | 2023-12-23 |
-| An Explainable AI Approach to Large Language Model Assisted Causal Model   Auditing and Development | [2312.16211](http://arxiv.org/abs/2312.16211) | None | 2023-12-23 |
-| SECap: Speech Emotion Captioning with Large Language Model | [2312.10381](http://arxiv.org/abs/2312.10381) | https://github.com/thuhcsi/secap | 2023-12-23 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

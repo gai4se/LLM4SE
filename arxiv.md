@@ -1,4 +1,4 @@
-## Updated on 2024.01.05
+## Updated on 2024.01.06
 <details>
   <summary>Table of Contents</summary>
   <ol>

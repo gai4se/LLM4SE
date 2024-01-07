@@ -51,7 +51,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-04 |
-| De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | None | 2024-01-03 |
+| De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-01-03 |
 | Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-02 |
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
 | Astraios: Parameter-Efficient Instruction Tuning Code Large Language   Models | [2401.00788](http://arxiv.org/abs/2401.00788) | https://github.com/bigcode-project/astraios | 2024-01-01 |
@@ -180,7 +180,7 @@
 | Economics Arena for Large Language Models | [2401.01735](http://arxiv.org/abs/2401.01735) | None | 2024-01-03 |
 | Understanding the Effects of RLHF on LLM Generalisation and Diversity | [2310.06452](http://arxiv.org/abs/2310.06452) | None | 2024-01-03 |
 | Fairness Certification for Natural Language Processing and Large   Language Models | [2401.01262](http://arxiv.org/abs/2401.01262) | None | 2024-01-03 |
-| PLLaMa: An Open-source Large Language Model for Plant Science | [2401.01600](http://arxiv.org/abs/2401.01600) | None | 2024-01-03 |
+| PLLaMa: An Open-source Large Language Model for Plant Science | [2401.01600](http://arxiv.org/abs/2401.01600) | https://github.com/xianjun-yang/pllama | 2024-01-03 |
 | Self-Assessment Tests are Unreliable Measures of LLM Personality | [2309.08163](http://arxiv.org/abs/2309.08163) | None | 2024-01-02 |
 | Experimenting a New Programming Practice with LLMs | [2401.01062](http://arxiv.org/abs/2401.01062) | None | 2024-01-02 |
 | LLaMA Beyond English: An Empirical Study on Language Capability Transfer | [2401.01055](http://arxiv.org/abs/2401.01055) | None | 2024-01-02 |

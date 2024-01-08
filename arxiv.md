@@ -1,4 +1,4 @@
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -51,8 +51,8 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-04 |
+| Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-04 |
 | De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-01-03 |
-| Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-02 |
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
 | Astraios: Parameter-Efficient Instruction Tuning Code Large Language   Models | [2401.00788](http://arxiv.org/abs/2401.00788) | https://github.com/bigcode-project/astraios | 2024-01-01 |
 | A & B == B & A: Triggering Logical Reasoning Failures in Large Language   Models | [2401.00757](http://arxiv.org/abs/2401.00757) | None | 2024-01-01 |
@@ -86,6 +86,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Software Testing with Large Language Models: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2024-01-05 |
 | The Right Prompts for the Job: Repair Code-Review Defects with Large   Language Model | [2312.17485](http://arxiv.org/abs/2312.17485) | None | 2023-12-29 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-29 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | None | 2023-12-25 |
@@ -115,7 +116,6 @@
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Spellburst: A Node-based Interface for Exploratory Creative Coding with   Natural Language Prompts | [2308.03921](http://arxiv.org/abs/2308.03921) | None | 2023-08-07 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| Software Testing with Large Language Model: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2023-07-14 |
 | An Exploratory Literature Study on Sharing and Energy Use of Language   Models for Source Code | [2307.02443](http://arxiv.org/abs/2307.02443) | None | 2023-07-05 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>

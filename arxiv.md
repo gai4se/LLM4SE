@@ -50,7 +50,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-04 |
+| Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-05 |
+| Code-Style In-Context Learning for Knowledge-Based Question Answering | [2309.04695](http://arxiv.org/abs/2309.04695) | https://github.com/arthurizijar/kb-coder | 2024-01-05 |
 | Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant | [2311.18450](http://arxiv.org/abs/2311.18450) | None | 2024-01-04 |
 | De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-01-03 |
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
@@ -80,7 +81,6 @@
 | Entity-Augmented Code Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2023-12-14 |
 | RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
-| Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -173,8 +173,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models in Plant Biology | [2401.02789](http://arxiv.org/abs/2401.02789) | None | 2024-01-05 |
+| AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | None | 2024-01-05 |
+| XUAT-Copilot: Multi-Agent Collaborative System for Automated User   Acceptance Testing with Large Language Model | [2401.02705](http://arxiv.org/abs/2401.02705) | None | 2024-01-05 |
+| Software Testing with Large Language Models: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2024-01-05 |
+| Infinite-LLM: Efficient LLM Service for Long Context with DistAttention   and Distributed KVCache | [2401.02669](http://arxiv.org/abs/2401.02669) | None | 2024-01-05 |
 | One Shot Learning as Instruction Data Prospector for Large Language   Models | [2312.10302](http://arxiv.org/abs/2312.10302) | https://github.com/pldlgb/nuggets | 2024-01-04 |
 | Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using   EmotionBench | [2308.03656](http://arxiv.org/abs/2308.03656) | https://github.com/cuhk-arise/emotionbench | 2024-01-04 |
+| Improved Zero-Shot Classification by Adapting VLMs with Text   Descriptions | [2401.02460](http://arxiv.org/abs/2401.02460) | None | 2024-01-04 |
 | Theory of Hallucinations based on Equivariance | [2312.14504](http://arxiv.org/abs/2312.14504) | None | 2024-01-04 |
 | Text2MDT: Extracting Medical Decision Trees from Medical Texts | [2401.02034](http://arxiv.org/abs/2401.02034) | None | 2024-01-04 |
 | Economics Arena for Large Language Models | [2401.01735](http://arxiv.org/abs/2401.01735) | None | 2024-01-03 |
@@ -198,12 +204,6 @@
 | The Earth is Flat because...: Investigating LLMs' Belief towards   Misinformation via Persuasive Conversation | [2312.09085](http://arxiv.org/abs/2312.09085) | None | 2023-12-29 |
 | LLM-based Smart Reply (LSR): Enhancing Collaborative Performance with   ChatGPT-mediated Smart Reply System | [2306.11980](http://arxiv.org/abs/2306.11980) | None | 2023-12-29 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2023-12-29 |
-| Revisiting the Reliability of Psychological Scales on Large Language   Models | [2305.19926](http://arxiv.org/abs/2305.19926) | https://github.com/cuhk-arise/llmpersonality | 2023-12-28 |
-| Leveraging High-Level Synthesis and Large Language Models to Generate,   Simulate, and Deploy a Uniform Random Number Generator Hardware Design | [2311.03489](http://arxiv.org/abs/2311.03489) | https://github.com/jamestimothymeech/rng | 2023-12-26 |
-| MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL | [2312.11242](http://arxiv.org/abs/2312.11242) | https://github.com/wbbeyourself/mac-sql | 2023-12-26 |
-| Knowledge Distillation of LLM for Education | [2312.15842](http://arxiv.org/abs/2312.15842) | None | 2023-12-26 |
-| ManipLLM: Embodied Multimodal Large Language Model for Object-Centric   Robotic Manipulation | [2312.16217](http://arxiv.org/abs/2312.16217) | None | 2023-12-24 |
-| ChatGPT and post-test probability | [2311.12188](http://arxiv.org/abs/2311.12188) | None | 2023-12-23 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

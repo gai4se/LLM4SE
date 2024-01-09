@@ -1,4 +1,4 @@
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +57,6 @@
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-01 |
 | Astraios: Parameter-Efficient Instruction Tuning Code Large Language   Models | [2401.00788](http://arxiv.org/abs/2401.00788) | https://github.com/bigcode-project/astraios | 2024-01-01 |
 | A & B == B & A: Triggering Logical Reasoning Failures in Large Language   Models | [2401.00757](http://arxiv.org/abs/2401.00757) | None | 2024-01-01 |
-| Identifying and Mitigating the Security Risks of Generative AI | [2308.14840](http://arxiv.org/abs/2308.14840) | None | 2023-12-29 |
 | Hot or Cold? Adaptive Temperature Sampling for Code Generation with   Large Language Models | [2309.02772](http://arxiv.org/abs/2309.02772) | https://github.com/lj2lijia/adapt | 2023-12-28 |
 | AskIt: Unified Programming Interface for Programming with Large Language   Models | [2308.15645](http://arxiv.org/abs/2308.15645) | https://github.com/katsumiok/askit-artifact | 2023-12-27 |
 | Instruction Fusion: Advancing Prompt Evolution through Hybridization | [2312.15692](http://arxiv.org/abs/2312.15692) | None | 2023-12-27 |
@@ -74,13 +73,14 @@
 | When Do Program-of-Thoughts Work for Reasoning? | [2308.15452](http://arxiv.org/abs/2308.15452) | https://github.com/zjunlp/easyinstruct | 2023-12-18 |
 | YUAN 2.0: A Large Language Model with Localized Filtering-based   Attention | [2311.15786](http://arxiv.org/abs/2311.15786) | https://github.com/ieit-yuan/yuan-2.0 | 2023-12-18 |
 | ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric   Strategy for Diverse Generative Tasks | [2312.08583](http://arxiv.org/abs/2312.08583) | https://github.com/microsoft/DeepSpeed | 2023-12-18 |
-| Traces of Memorisation in Large Language Models for Code | [2312.11658](http://arxiv.org/abs/2312.11658) | https://github.com/aise-tudelft/llm4code-extraction | 2023-12-18 |
 | StarVector: Generating Scalable Vector Graphics Code from Images | [2312.11556](http://arxiv.org/abs/2312.11556) | None | 2023-12-17 |
 | SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code   Translation | [2310.15539](http://arxiv.org/abs/2310.15539) | https://github.com/sade-adrien/stelocoder | 2023-12-15 |
 | A Review of Repository Level Prompting for LLMs | [2312.10101](http://arxiv.org/abs/2312.10101) | None | 2023-12-15 |
 | Entity-Augmented Code Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2023-12-14 |
 | RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2023-12-14 |
 | An Invitation to Deep Reinforcement Learning | [2312.08365](http://arxiv.org/abs/2312.08365) | None | 2023-12-13 |
+| Assessing GPT4-V on Structured Reasoning Tasks | [2312.11524](http://arxiv.org/abs/2312.11524) | None | 2023-12-13 |
+| DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial   Natural Language Instructions | [2312.04730](http://arxiv.org/abs/2312.04730) | None | 2023-12-12 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

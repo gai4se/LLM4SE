@@ -50,9 +50,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-11 |
 | Leveraging Print Debugging to Improve Code Generation in Large Language   Models | [2401.05319](http://arxiv.org/abs/2401.05319) | None | 2024-01-10 |
 | SLaDe: A Portable Small Language Model Decompiler for Optimized Assembly | [2305.12520](http://arxiv.org/abs/2305.12520) | None | 2024-01-10 |
-| DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-09 |
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | None | 2024-01-09 |
 | Bias Testing and Mitigation in LLM-based Code Generation | [2309.14345](http://arxiv.org/abs/2309.14345) | None | 2024-01-09 |
 | LLM-Powered Hierarchical Language Agent for Real-time Human-AI   Coordination | [2312.15224](http://arxiv.org/abs/2312.15224) | https://github.com/HosnLS/Hierarchical-Language-Agent | 2024-01-09 |
@@ -173,6 +173,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-11 |
 | Theory of Mind abilities of Large Language Models in Human-Robot   Interaction : An Illusion? | [2401.05302](http://arxiv.org/abs/2401.05302) | None | 2024-01-10 |
 | I am a Strange Dataset: Metalinguistic Tests for Language Models | [2401.05300](http://arxiv.org/abs/2401.05300) | https://github.com/tristanthrush/i-am-a-strange-dataset | 2024-01-10 |
 | Code Review Automation: Strengths and Weaknesses of the State of the Art | [2401.05136](http://arxiv.org/abs/2401.05136) | None | 2024-01-10 |
@@ -180,7 +181,6 @@
 | XUAT-Copilot: Multi-Agent Collaborative System for Automated User   Acceptance Testing with Large Language Model | [2401.02705](http://arxiv.org/abs/2401.02705) | None | 2024-01-10 |
 | Evaluating large language models' ability to understand metaphor and   sarcasm using a screening test for Asperger syndrome | [2309.10744](http://arxiv.org/abs/2309.10744) | https://github.com/hiromu/llm-msst | 2024-01-10 |
 | Can AI Write Classical Chinese Poetry like Humans? An Empirical Study   Inspired by Turing Test | [2401.04952](http://arxiv.org/abs/2401.04952) | None | 2024-01-10 |
-| DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-09 |
 | Risk Assessment and Statistical Significance in the Age of Foundation   Models | [2310.07132](http://arxiv.org/abs/2310.07132) | None | 2024-01-09 |
 | TransportationGames: Benchmarking Transportation Knowledge of   (Multimodal) Large Language Models | [2401.04471](http://arxiv.org/abs/2401.04471) | None | 2024-01-09 |
 | Bias Testing and Mitigation in LLM-based Code Generation | [2309.14345](http://arxiv.org/abs/2309.14345) | None | 2024-01-09 |

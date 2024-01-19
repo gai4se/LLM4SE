@@ -51,6 +51,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | https://github.com/martin-wey/peft-llm-code | 2024-01-18 |
+| Evolutionary Computation in the Era of Large Language Model: Survey and   Roadmap | [2401.10034](http://arxiv.org/abs/2401.10034) | None | 2024-01-18 |
+| Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2024-01-18 |
+| INTERVENOR: Prompt the Coding Ability of Large Language Models with the   Interactive Chain of Repairing | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2024-01-18 |
+| When Neural Code Completion Models Size up the Situation: Attaining   Cheaper and Faster Completion through Dynamic Model Inference | [2401.09964](http://arxiv.org/abs/2401.09964) | https://github.com/v587su/sec | 2024-01-18 |
 | RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2024-01-17 |
 | JumpCoder: Go Beyond Autoregressive Coder via Online Modification | [2401.07870](http://arxiv.org/abs/2401.07870) | https://github.com/keytoyze/jumpcoder | 2024-01-15 |
 | Traces of Memorisation in Large Language Models for Code | [2312.11658](http://arxiv.org/abs/2312.11658) | https://github.com/aise-tudelft/llm4code-extraction | 2024-01-15 |
@@ -77,11 +82,6 @@
 | If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-08 |
 | Boldly Going Where No Benchmark Has Gone Before: Exposing Bias and   Shortcomings in Code Generation Evaluation | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-01-08 |
 | TeleChat Technical Report | [2401.03804](http://arxiv.org/abs/2401.03804) | None | 2024-01-08 |
-| A Survey of Large Language Models for Code: Evolution, Benchmarking, and   Future Trends | [2311.10372](http://arxiv.org/abs/2311.10372) | None | 2024-01-08 |
-| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
-| De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-01-08 |
-| Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for   Spatial Tasks | [2401.02404](http://arxiv.org/abs/2401.02404) | None | 2024-01-05 |
-| Code-Style In-Context Learning for Knowledge-Based Question Answering | [2309.04695](http://arxiv.org/abs/2309.04695) | https://github.com/arthurizijar/kb-coder | 2024-01-05 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -174,17 +174,19 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on   Data-to-Text Generation | [2401.10186](http://arxiv.org/abs/2401.10186) | None | 2024-01-18 |
+| Contrastive Preference Optimization: Pushing the Boundaries of LLM   Performance in Machine Translation | [2401.08417](http://arxiv.org/abs/2401.08417) | https://github.com/fe1ixxu/alma | 2024-01-18 |
+| SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction   Tuning with Large Language Model | [2401.09712](http://arxiv.org/abs/2401.09712) | https://github.com/zhanyang-nwpu/skyeyegpt | 2024-01-18 |
 | Theory of Mind abilities of Large Language Models in Human-Robot   Interaction : An Illusion? | [2401.05302](http://arxiv.org/abs/2401.05302) | None | 2024-01-17 |
 | Astronomical Knowledge Entity Extraction in Astrophysics Journal   Articles via Large Language Models | [2310.17892](http://arxiv.org/abs/2310.17892) | None | 2024-01-17 |
 | Canvil: Designerly Adaptation for LLM-Powered User Experiences | [2401.09051](http://arxiv.org/abs/2401.09051) | None | 2024-01-17 |
 | LLMs for Relational Reasoning: How Far are We? | [2401.09042](http://arxiv.org/abs/2401.09042) | None | 2024-01-17 |
-| DeLF: Designing Learning Environments with Foundation Models | [2401.08936](http://arxiv.org/abs/2401.08936) | None | 2024-01-17 |
+| DeLF: Designing Learning Environments with Foundation Models | [2401.08936](http://arxiv.org/abs/2401.08936) | https://github.com/aidaafshar/delf | 2024-01-17 |
 | UniPredict: Large Language Models are Universal Tabular Classifiers | [2310.03266](http://arxiv.org/abs/2310.03266) | None | 2024-01-16 |
 | SpecGen: Automated Generation of Formal Program Specifications via Large   Language Models | [2401.08807](http://arxiv.org/abs/2401.08807) | None | 2024-01-16 |
 | Segment Anything Model Can Not Segment Anything: Assessing AI Foundation   Model's Generalizability in Permafrost Mapping | [2401.08787](http://arxiv.org/abs/2401.08787) | None | 2024-01-16 |
 | Large Language Model Displays Emergent Ability to Interpret Novel   Literary Metaphors | [2308.01497](http://arxiv.org/abs/2308.01497) | None | 2024-01-16 |
 | Charting New Territories: Exploring the Geographic and Geospatial   Capabilities of Multimodal LLMs | [2311.14656](http://arxiv.org/abs/2311.14656) | https://github.com/jonathan-roberts1/charting-new-territories | 2024-01-16 |
-| Contrastive Preference Optimization: Pushing the Boundaries of LLM   Performance in Machine Translation | [2401.08417](http://arxiv.org/abs/2401.08417) | https://github.com/fe1ixxu/alma | 2024-01-16 |
 | DAPT: A Dual Attention Framework for Parameter-Efficient Continual   Learning of Large Language Models | [2401.08295](http://arxiv.org/abs/2401.08295) | None | 2024-01-16 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2024-01-16 |
 | LLMs for Test Input Generation for Semantic Caches | [2401.08138](http://arxiv.org/abs/2401.08138) | None | 2024-01-16 |
@@ -202,9 +204,7 @@
 | Open Models, Closed Minds? On Agents Capabilities in Mimicking Human   Personalities through Open Large Language Models | [2401.07115](http://arxiv.org/abs/2401.07115) | None | 2024-01-13 |
 | CHAMP: A Competition-level Dataset for Fine-Grained Analyses of LLMs'   Mathematical Reasoning Capabilities | [2401.06961](http://arxiv.org/abs/2401.06961) | None | 2024-01-13 |
 | Mind Your Format: Towards Consistent Evaluation of In-Context Learning   Improvements | [2401.06766](http://arxiv.org/abs/2401.06766) | None | 2024-01-12 |
-| Can AI Be as Creative as Humans? | [2401.01623](http://arxiv.org/abs/2401.01623) | None | 2024-01-12 |
 | TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion | [2401.06580](http://arxiv.org/abs/2401.06580) | https://github.com/jetbrains-research/testspark | 2024-01-12 |
-| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

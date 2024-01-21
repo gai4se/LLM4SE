@@ -1,4 +1,4 @@
-## Updated on 2024.01.20
+## Updated on 2024.01.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,14 +74,14 @@
 | DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-11 |
 | CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model | [2310.06266](http://arxiv.org/abs/2310.06266) | None | 2024-01-10 |
 | Leveraging Print Debugging to Improve Code Generation in Large Language   Models | [2401.05319](http://arxiv.org/abs/2401.05319) | None | 2024-01-10 |
-| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
-| De-Hallucinator: Iterative Grounding for LLM-Based Code Completion | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-01-08 |
-| Identifying and Mitigating the Security Risks of Generative AI | [2308.14840](http://arxiv.org/abs/2308.14840) | None | 2023-12-29 |
-| Coarse-Tuning Models of Code with Reinforcement Learning Feedback | [2305.18341](http://arxiv.org/abs/2305.18341) | None | 2023-12-23 |
-| CodeScholar: Growing Idiomatic Code Examples | [2312.15157](http://arxiv.org/abs/2312.15157) | https://github.com/tart-proj/codescholar | 2023-12-23 |
-| A Review of Repository Level Prompting for LLMs | [2312.10101](http://arxiv.org/abs/2312.10101) | None | 2023-12-15 |
-| VerilogEval: Evaluating Large Language Models for Verilog Code   Generation | [2309.07544](http://arxiv.org/abs/2309.07544) | https://github.com/nvlabs/verilog-eval | 2023-12-10 |
-| KEN: Kernel Extensions using Natural Language | [2312.05531](http://arxiv.org/abs/2312.05531) | https://github.com/eunomia-bpf/ken | 2023-12-09 |
+| SLaDe: A Portable Small Language Model Decompiler for Optimized Assembly | [2305.12520](http://arxiv.org/abs/2305.12520) | None | 2024-01-10 |
+| Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | None | 2024-01-09 |
+| Bias Testing and Mitigation in LLM-based Code Generation | [2309.14345](http://arxiv.org/abs/2309.14345) | None | 2024-01-09 |
+| LLM-Powered Hierarchical Language Agent for Real-time Human-AI   Coordination | [2312.15224](http://arxiv.org/abs/2312.15224) | https://github.com/HosnLS/Hierarchical-Language-Agent | 2024-01-09 |
+| LLM4PLC: Harnessing Large Language Models for Verifiable Programming of   PLCs in Industrial Control Systems | [2401.05443](http://arxiv.org/abs/2401.05443) | None | 2024-01-08 |
+| If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-08 |
+| Boldly Going Where No Benchmark Has Gone Before: Exposing Bias and   Shortcomings in Code Generation Evaluation | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-01-08 |
+| TeleChat Technical Report | [2401.03804](http://arxiv.org/abs/2401.03804) | None | 2024-01-08 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

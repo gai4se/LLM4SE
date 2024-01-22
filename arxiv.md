@@ -51,7 +51,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Interactions with Prompt Problems: A New Way to Teach Programming with   Large Language Models | [2401.10759](http://arxiv.org/abs/2401.10759) | None | 2024-01-19 |
+| How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2024-01-19 |
+| Knowledge Fusion of Large Language Models | [2401.10491](http://arxiv.org/abs/2401.10491) | None | 2024-01-19 |
 | INTERVENOR: Prompt the Coding Ability of Large Language Models with the   Interactive Chain of Repairing | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2024-01-19 |
+| Using LLM such as ChatGPT for Designing and Implementing a RISC   Processor: Execution,Challenges and Limitations | [2401.10364](http://arxiv.org/abs/2401.10364) | None | 2024-01-18 |
+| LangProp: A code optimization framework using Language Models applied to   driving | [2401.10314](http://arxiv.org/abs/2401.10314) | https://github.com/shuishida/langprop | 2024-01-18 |
 | Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | https://github.com/martin-wey/peft-llm-code | 2024-01-18 |
 | Evolutionary Computation in the Era of Large Language Model: Survey and   Roadmap | [2401.10034](http://arxiv.org/abs/2401.10034) | None | 2024-01-18 |
 | Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning | [2305.13971](http://arxiv.org/abs/2305.13971) | https://github.com/epfl-dlab/gcd | 2024-01-18 |
@@ -77,11 +82,6 @@
 | SLaDe: A Portable Small Language Model Decompiler for Optimized Assembly | [2305.12520](http://arxiv.org/abs/2305.12520) | None | 2024-01-10 |
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | None | 2024-01-09 |
 | Bias Testing and Mitigation in LLM-based Code Generation | [2309.14345](http://arxiv.org/abs/2309.14345) | None | 2024-01-09 |
-| LLM-Powered Hierarchical Language Agent for Real-time Human-AI   Coordination | [2312.15224](http://arxiv.org/abs/2312.15224) | https://github.com/HosnLS/Hierarchical-Language-Agent | 2024-01-09 |
-| LLM4PLC: Harnessing Large Language Models for Verifiable Programming of   PLCs in Industrial Control Systems | [2401.05443](http://arxiv.org/abs/2401.05443) | None | 2024-01-08 |
-| If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code   Empowers Large Language Models to Serve as Intelligent Agents | [2401.00812](http://arxiv.org/abs/2401.00812) | None | 2024-01-08 |
-| Boldly Going Where No Benchmark Has Gone Before: Exposing Bias and   Shortcomings in Code Generation Evaluation | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-01-08 |
-| TeleChat Technical Report | [2401.03804](http://arxiv.org/abs/2401.03804) | None | 2024-01-08 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -174,6 +174,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Using LLMs to discover emerging coded antisemitic hate-speech emergence   in extremist social media | [2401.10841](http://arxiv.org/abs/2401.10841) | None | 2024-01-19 |
+| Interactions with Prompt Problems: A New Way to Teach Programming with   Large Language Models | [2401.10759](http://arxiv.org/abs/2401.10759) | None | 2024-01-19 |
 | Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on   Data-to-Text Generation | [2401.10186](http://arxiv.org/abs/2401.10186) | None | 2024-01-18 |
 | Contrastive Preference Optimization: Pushing the Boundaries of LLM   Performance in Machine Translation | [2401.08417](http://arxiv.org/abs/2401.08417) | https://github.com/fe1ixxu/alma | 2024-01-18 |
 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction   Tuning with Large Language Model | [2401.09712](http://arxiv.org/abs/2401.09712) | https://github.com/zhanyang-nwpu/skyeyegpt | 2024-01-18 |
@@ -202,8 +204,6 @@
 | CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems   for Real-World Repo-level Coding Challenges | [2401.07339](http://arxiv.org/abs/2401.07339) | None | 2024-01-14 |
 | CXR-LLAVA: a multimodal large language model for interpreting chest   X-ray images | [2310.18341](http://arxiv.org/abs/2310.18341) | https://github.com/ecofri/cxr_llava | 2024-01-14 |
 | Open Models, Closed Minds? On Agents Capabilities in Mimicking Human   Personalities through Open Large Language Models | [2401.07115](http://arxiv.org/abs/2401.07115) | None | 2024-01-13 |
-| CHAMP: A Competition-level Dataset for Fine-Grained Analyses of LLMs'   Mathematical Reasoning Capabilities | [2401.06961](http://arxiv.org/abs/2401.06961) | None | 2024-01-13 |
-| Mind Your Format: Towards Consistent Evaluation of In-Context Learning   Improvements | [2401.06766](http://arxiv.org/abs/2401.06766) | None | 2024-01-12 |
 | TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion | [2401.06580](http://arxiv.org/abs/2401.06580) | https://github.com/jetbrains-research/testspark | 2024-01-12 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
@@ -236,9 +236,4 @@
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
-| LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |
-| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
-| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
-| ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |
-| CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
 

@@ -1,4 +1,4 @@
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,7 +55,7 @@
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2024-01-19 |
 | Knowledge Fusion of Large Language Models | [2401.10491](http://arxiv.org/abs/2401.10491) | None | 2024-01-19 |
 | INTERVENOR: Prompt the Coding Ability of Large Language Models with the   Interactive Chain of Repairing | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2024-01-19 |
-| Using LLM such as ChatGPT for Designing and Implementing a RISC   Processor: Execution,Challenges and Limitations | [2401.10364](http://arxiv.org/abs/2401.10364) | None | 2024-01-18 |
+| Using LLM such as ChatGPT for Designing and Implementing a RISC   Processor: Execution,Challenges and Limitations | [2401.10364](http://arxiv.org/abs/2401.10364) | https://github.com/Shadeeb-Hossain/LLM-for-RISC/blob/main/RISC_LLM.rar | 2024-01-18 |
 | LangProp: A code optimization framework using Language Models applied to   driving | [2401.10314](http://arxiv.org/abs/2401.10314) | https://github.com/shuishida/langprop | 2024-01-18 |
 | Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation   with Large Language Models | [2308.10462](http://arxiv.org/abs/2308.10462) | https://github.com/martin-wey/peft-llm-code | 2024-01-18 |
 | Evolutionary Computation in the Era of Large Language Model: Survey and   Roadmap | [2401.10034](http://arxiv.org/abs/2401.10034) | None | 2024-01-18 |
@@ -236,4 +236,9 @@
 | Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
+| LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |
+| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
+| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
+| ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |
+| CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
 

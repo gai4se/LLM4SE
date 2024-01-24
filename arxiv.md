@@ -36,25 +36,21 @@
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
 | An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
 | Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
-| SoTaNa: The Open-Source Software Development Assistant | [2308.13416](http://arxiv.org/abs/2308.13416) | https://github.com/deepsoftwareanalytics/sotana | 2023-08-25 |
-| Benchmarking Causal Study to Interpret Large Language Models for Source   Code | [2308.12415](http://arxiv.org/abs/2308.12415) | None | 2023-08-23 |
-| Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2023-08-14 |
-| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
-| Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
 | Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
-| Automatic Code Summarization via ChatGPT: How Far Are We? | [2305.12865](http://arxiv.org/abs/2305.12865) | None | 2023-05-22 |
-| ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for   Programming Languages | [2212.06742](http://arxiv.org/abs/2212.06742) | https://github.com/PaddlePaddle/PaddleNLP | 2023-05-19 |
 | The Stack: 3 TB of permissively licensed source code | [2211.15533](http://arxiv.org/abs/2211.15533) | None | 2022-11-20 |
-| Few-shot training LLMs for project-specific code-summarization | [2207.04237](http://arxiv.org/abs/2207.04237) | None | 2022-09-08 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluation of large language models for assessing code maintainability | [2401.12714](http://arxiv.org/abs/2401.12714) | None | 2024-01-23 |
+| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-01-23 |
+| AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2024-01-23 |
 | Large Language Models Should Ask Clarifying Questions to Increase   Confidence in Generated Code | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2024-01-22 |
 | Knowledge Fusion of Large Language Models | [2401.10491](http://arxiv.org/abs/2401.10491) | https://github.com/fanqiwan/fusellm | 2024-01-22 |
 | CodeTailor: Personalized Parsons Puzzles are Preferred Over AI-Generated   Solutions to Support Learning | [2401.12125](http://arxiv.org/abs/2401.12125) | None | 2024-01-22 |
 | ICE-Score: Instructing Large Language Models to Evaluate Code | [2304.14317](http://arxiv.org/abs/2304.14317) | https://github.com/terryyz/ice-score | 2024-01-22 |
+| Analyzing the Effectiveness of Large Language Models on Text-to-SQL   Synthesis | [2401.12379](http://arxiv.org/abs/2401.12379) | None | 2024-01-22 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2024-01-21 |
 | Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-01-21 |
 | Visualization Generation with Large Language Models: An Evaluation | [2401.11255](http://arxiv.org/abs/2401.11255) | None | 2024-01-20 |
@@ -78,10 +74,6 @@
 | OOP: Object-Oriented Programming Evaluation Benchmark for Large Language   Models | [2401.06628](http://arxiv.org/abs/2401.06628) | None | 2024-01-12 |
 | Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-01-12 |
 | DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-01-12 |
-| 3D-PreMise: Can Large Language Models Generate 3D Shapes with Sharp   Features and Parametric Control? | [2401.06437](http://arxiv.org/abs/2401.06437) | None | 2024-01-12 |
-| Lightweight reranking for language model generations | [2307.06857](http://arxiv.org/abs/2307.06857) | None | 2024-01-11 |
-| Mutation-based Consistency Testing for Evaluating the Code Understanding   Capability of LLMs | [2401.05940](http://arxiv.org/abs/2401.05940) | None | 2024-01-11 |
-| DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-01-11 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -175,6 +167,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Red Teaming Visual Language Models | [2401.12915](http://arxiv.org/abs/2401.12915) | None | 2024-01-23 |
+| Energy-based Models are Zero-Shot Planners for Compositional Scene   Rearrangement | [2304.14391](http://arxiv.org/abs/2304.14391) | None | 2024-01-23 |
+| Automated Fact-Checking of Climate Change Claims with Large Language   Models | [2401.12566](http://arxiv.org/abs/2401.12566) | None | 2024-01-23 |
+| Assessing and Understanding Creativity in Large Language Models | [2401.12491](http://arxiv.org/abs/2401.12491) | None | 2024-01-23 |
+| AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2024-01-23 |
+| Fine-tuning Large Language Models for Multigenerator, Multidomain, and   Multilingual Machine-Generated Text Detection | [2401.12326](http://arxiv.org/abs/2401.12326) | None | 2024-01-22 |
 | Mind Your Format: Towards Consistent Evaluation of In-Context Learning   Improvements | [2401.06766](http://arxiv.org/abs/2401.06766) | https://github.com/yandex-research/mind-your-format | 2024-01-22 |
 | CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation | [2401.12208](http://arxiv.org/abs/2401.12208) | None | 2024-01-22 |
 | ICE-Score: Instructing Large Language Models to Evaluate Code | [2304.14317](http://arxiv.org/abs/2304.14317) | https://github.com/terryyz/ice-score | 2024-01-22 |
@@ -200,12 +198,6 @@
 | Astronomical Knowledge Entity Extraction in Astrophysics Journal   Articles via Large Language Models | [2310.17892](http://arxiv.org/abs/2310.17892) | None | 2024-01-17 |
 | Canvil: Designerly Adaptation for LLM-Powered User Experiences | [2401.09051](http://arxiv.org/abs/2401.09051) | None | 2024-01-17 |
 | LLMs for Relational Reasoning: How Far are We? | [2401.09042](http://arxiv.org/abs/2401.09042) | None | 2024-01-17 |
-| DeLF: Designing Learning Environments with Foundation Models | [2401.08936](http://arxiv.org/abs/2401.08936) | https://github.com/aidaafshar/delf | 2024-01-17 |
-| UniPredict: Large Language Models are Universal Tabular Classifiers | [2310.03266](http://arxiv.org/abs/2310.03266) | None | 2024-01-16 |
-| SpecGen: Automated Generation of Formal Program Specifications via Large   Language Models | [2401.08807](http://arxiv.org/abs/2401.08807) | None | 2024-01-16 |
-| Segment Anything Model Can Not Segment Anything: Assessing AI Foundation   Model's Generalizability in Permafrost Mapping | [2401.08787](http://arxiv.org/abs/2401.08787) | None | 2024-01-16 |
-| Large Language Model Displays Emergent Ability to Interpret Novel   Literary Metaphors | [2308.01497](http://arxiv.org/abs/2308.01497) | None | 2024-01-16 |
-| Charting New Territories: Exploring the Geographic and Geospatial   Capabilities of Multimodal LLMs | [2311.14656](http://arxiv.org/abs/2311.14656) | https://github.com/jonathan-roberts1/charting-new-territories | 2024-01-16 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

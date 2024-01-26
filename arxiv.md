@@ -18,6 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
 | Using an LLM to Help With Code Understanding | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2024-01-16 |
 | Automatic Semantic Augmentation of Language Model Prompts (for Code   Summarization) | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2024-01-11 |
 | Mutation-based Consistency Testing for Evaluating the Code Understanding   Capability of LLMs | [2401.05940](http://arxiv.org/abs/2401.05940) | None | 2024-01-11 |
@@ -51,6 +52,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Improving Natural Language Capability of Code Large Language Model | [2401.14242](http://arxiv.org/abs/2401.14242) | https://github.com/nl2code/attentioncoder | 2024-01-25 |
+| DeepSeek-Coder: When the Large Language Model Meets Programming -- The   Rise of Code Intelligence | [2401.14196](http://arxiv.org/abs/2401.14196) | None | 2024-01-25 |
+| Copilot Refinement: Addressing Code Smells in Copilot-Generated Python   Code | [2401.14176](http://arxiv.org/abs/2401.14176) | None | 2024-01-25 |
+| Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-01-24 |
+| Synergizing Human Expertise and AI Efficiency with Language Model for   Microscopy Operation and Automated Experiment Design | [2401.13803](http://arxiv.org/abs/2401.13803) | None | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
 | Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-01-24 |
 | Evaluation of large language models for assessing code maintainability | [2401.12714](http://arxiv.org/abs/2401.12714) | None | 2024-01-23 |
 | Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-01-23 |
@@ -76,12 +83,6 @@
 | JumpCoder: Go Beyond Autoregressive Coder via Online Modification | [2401.07870](http://arxiv.org/abs/2401.07870) | https://github.com/keytoyze/jumpcoder | 2024-01-15 |
 | Traces of Memorisation in Large Language Models for Code | [2312.11658](http://arxiv.org/abs/2312.11658) | https://github.com/aise-tudelft/llm4code-extraction | 2024-01-15 |
 | Turbulence: Systematically and Automatically Testing Instruction-Tuned   Large Language Models for Code | [2312.14856](http://arxiv.org/abs/2312.14856) | https://github.com/shahinhonarvar/turbulence-benchmark | 2024-01-14 |
-| CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems   for Real-World Repo-level Coding Challenges | [2401.07339](http://arxiv.org/abs/2401.07339) | None | 2024-01-14 |
-| EHRAgent: Code Empowers Large Language Models for Complex Tabular   Reasoning on Electronic Health Records | [2401.07128](http://arxiv.org/abs/2401.07128) | https://github.com/wshi83/ehragent | 2024-01-13 |
-| Code Security Vulnerability Repair Using Reinforcement Learning with   Large Language Models | [2401.07031](http://arxiv.org/abs/2401.07031) | None | 2024-01-13 |
-| Zero-Shot RTL Code Generation with Attention Sink Augmented Large   Language Models | [2401.08683](http://arxiv.org/abs/2401.08683) | None | 2024-01-12 |
-| OOP: Object-Oriented Programming Evaluation Benchmark for Large Language   Models | [2401.06628](http://arxiv.org/abs/2401.06628) | None | 2024-01-12 |
-| DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-01-12 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -176,6 +177,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis | [2401.13924](http://arxiv.org/abs/2401.13924) | None | 2024-01-25 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
 | Research about the Ability of LLM in the Tamper-Detection Area | [2401.13504](http://arxiv.org/abs/2401.13504) | None | 2024-01-24 |
 | CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert   Judgments For Open-Domain Question Answering | [2401.13170](http://arxiv.org/abs/2401.13170) | https://github.com/zli12321/qa_metrics | 2024-01-24 |
 | Using LLMs to discover emerging coded antisemitic hate-speech in   extremist social media | [2401.10841](http://arxiv.org/abs/2401.10841) | None | 2024-01-23 |
@@ -205,13 +208,12 @@
 | Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on   Data-to-Text Generation | [2401.10186](http://arxiv.org/abs/2401.10186) | None | 2024-01-18 |
 | Contrastive Preference Optimization: Pushing the Boundaries of LLM   Performance in Machine Translation | [2401.08417](http://arxiv.org/abs/2401.08417) | https://github.com/fe1ixxu/alma | 2024-01-18 |
 | SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction   Tuning with Large Language Model | [2401.09712](http://arxiv.org/abs/2401.09712) | https://github.com/zhanyang-nwpu/skyeyegpt | 2024-01-18 |
-| Theory of Mind abilities of Large Language Models in Human-Robot   Interaction : An Illusion? | [2401.05302](http://arxiv.org/abs/2401.05302) | None | 2024-01-17 |
-| Astronomical Knowledge Entity Extraction in Astrophysics Journal   Articles via Large Language Models | [2310.17892](http://arxiv.org/abs/2310.17892) | None | 2024-01-17 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
 | Greening Large Language Models of Code | [2309.04076](http://arxiv.org/abs/2309.04076) | https://github.com/soarsmu/Avatar | 2024-01-12 |
 | Towards Understanding the Capability of Large Language Models on Code   Clone Detection: A Survey | [2308.01191](http://arxiv.org/abs/2308.01191) | None | 2023-08-06 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |

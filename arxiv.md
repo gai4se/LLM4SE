@@ -53,7 +53,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Improving Natural Language Capability of Code Large Language Model | [2401.14242](http://arxiv.org/abs/2401.14242) | https://github.com/nl2code/attentioncoder | 2024-01-25 |
-| DeepSeek-Coder: When the Large Language Model Meets Programming -- The   Rise of Code Intelligence | [2401.14196](http://arxiv.org/abs/2401.14196) | None | 2024-01-25 |
+| DeepSeek-Coder: When the Large Language Model Meets Programming -- The   Rise of Code Intelligence | [2401.14196](http://arxiv.org/abs/2401.14196) | https://github.com/deepseek-ai/DeepSeek-Coder | 2024-01-25 |
 | Copilot Refinement: Addressing Code Smells in Copilot-Generated Python   Code | [2401.14176](http://arxiv.org/abs/2401.14176) | None | 2024-01-25 |
 | Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-01-24 |
 | Synergizing Human Expertise and AI Efficiency with Language Model for   Microscopy Operation and Automated Experiment Design | [2401.13803](http://arxiv.org/abs/2401.13803) | None | 2024-01-24 |

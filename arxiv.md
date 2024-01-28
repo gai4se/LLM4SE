@@ -18,7 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Using an LLM to Help With Code Understanding | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2024-01-16 |
 | Automatic Semantic Augmentation of Language Model Prompts (for Code   Summarization) | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2024-01-11 |
 | Mutation-based Consistency Testing for Evaluating the Code Understanding   Capability of LLMs | [2401.05940](http://arxiv.org/abs/2401.05940) | None | 2024-01-11 |
@@ -57,7 +57,7 @@
 | Copilot Refinement: Addressing Code Smells in Copilot-Generated Python   Code | [2401.14176](http://arxiv.org/abs/2401.14176) | None | 2024-01-25 |
 | Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-01-24 |
 | Synergizing Human Expertise and AI Efficiency with Language Model for   Microscopy Operation and Automated Experiment Design | [2401.13803](http://arxiv.org/abs/2401.13803) | None | 2024-01-24 |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-01-24 |
 | Evaluation of large language models for assessing code maintainability | [2401.12714](http://arxiv.org/abs/2401.12714) | None | 2024-01-23 |
 | Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-01-23 |
@@ -178,7 +178,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis | [2401.13924](http://arxiv.org/abs/2401.13924) | None | 2024-01-25 |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Research about the Ability of LLM in the Tamper-Detection Area | [2401.13504](http://arxiv.org/abs/2401.13504) | None | 2024-01-24 |
 | CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert   Judgments For Open-Domain Question Answering | [2401.13170](http://arxiv.org/abs/2401.13170) | https://github.com/zli12321/qa_metrics | 2024-01-24 |
 | Using LLMs to discover emerging coded antisemitic hate-speech in   extremist social media | [2401.10841](http://arxiv.org/abs/2401.10841) | None | 2024-01-23 |
@@ -213,7 +213,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | None | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Greening Large Language Models of Code | [2309.04076](http://arxiv.org/abs/2309.04076) | https://github.com/soarsmu/Avatar | 2024-01-12 |
 | Towards Understanding the Capability of Large Language Models on Code   Clone Detection: A Survey | [2308.01191](http://arxiv.org/abs/2308.01191) | None | 2023-08-06 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |

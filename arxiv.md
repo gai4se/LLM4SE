@@ -1,4 +1,4 @@
-## Updated on 2024.01.29
+## Updated on 2024.01.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-27 |
 | Using an LLM to Help With Code Understanding | [2307.08177](http://arxiv.org/abs/2307.08177) | None | 2024-01-16 |
 | Automatic Semantic Augmentation of Language Model Prompts (for Code   Summarization) | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2024-01-11 |
 | Mutation-based Consistency Testing for Evaluating the Code Understanding   Capability of LLMs | [2401.05940](http://arxiv.org/abs/2401.05940) | None | 2024-01-11 |
@@ -52,20 +52,20 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-27 |
+| CodeTailor: Personalized Parsons Puzzles are Preferred Over AI-Generated   Solutions to Support Learning | [2401.12125](http://arxiv.org/abs/2401.12125) | None | 2024-01-27 |
 | DeepSeek-Coder: When the Large Language Model Meets Programming -- The   Rise of Code Intelligence | [2401.14196](http://arxiv.org/abs/2401.14196) | https://github.com/deepseek-ai/DeepSeek-Coder | 2024-01-26 |
 | DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | https://github.com/seketeam/deveval | 2024-01-26 |
 | Improving Natural Language Capability of Code Large Language Model | [2401.14242](http://arxiv.org/abs/2401.14242) | https://github.com/nl2code/attentioncoder | 2024-01-25 |
 | Copilot Refinement: Addressing Code Smells in Copilot-Generated Python   Code | [2401.14176](http://arxiv.org/abs/2401.14176) | None | 2024-01-25 |
 | Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-01-24 |
 | Synergizing Human Expertise and AI Efficiency with Language Model for   Microscopy Operation and Automated Experiment Design | [2401.13803](http://arxiv.org/abs/2401.13803) | None | 2024-01-24 |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-01-24 |
 | Evaluation of large language models for assessing code maintainability | [2401.12714](http://arxiv.org/abs/2401.12714) | None | 2024-01-23 |
 | Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-01-23 |
 | AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and   Optimisation | [2312.13010](http://arxiv.org/abs/2312.13010) | None | 2024-01-23 |
 | Large Language Models Should Ask Clarifying Questions to Increase   Confidence in Generated Code | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2024-01-22 |
 | Knowledge Fusion of Large Language Models | [2401.10491](http://arxiv.org/abs/2401.10491) | https://github.com/fanqiwan/fusellm | 2024-01-22 |
-| CodeTailor: Personalized Parsons Puzzles are Preferred Over AI-Generated   Solutions to Support Learning | [2401.12125](http://arxiv.org/abs/2401.12125) | None | 2024-01-22 |
 | ICE-Score: Instructing Large Language Models to Evaluate Code | [2304.14317](http://arxiv.org/abs/2304.14317) | https://github.com/terryyz/ice-score | 2024-01-22 |
 | Analyzing the Effectiveness of Large Language Models on Text-to-SQL   Synthesis | [2401.12379](http://arxiv.org/abs/2401.12379) | https://github.com/cuplv/text-to-sql-wizardcoder | 2024-01-22 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2024-01-21 |
@@ -177,13 +177,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-27 |
 | ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal,   Causal, and Discourse Relations | [2304.14827](http://arxiv.org/abs/2304.14827) | None | 2024-01-26 |
 | Under the Surface: Tracking the Artifactuality of LLM-Generated Data | [2401.14698](http://arxiv.org/abs/2401.14698) | None | 2024-01-26 |
 | An Empirical Investigation of Domain Adaptation Ability for Chinese   Spelling Check Models | [2401.14630](http://arxiv.org/abs/2401.14630) | None | 2024-01-26 |
 | Query of CC: Unearthing Large Scale Domain-Specific Knowledge from   Public Corpora | [2401.14624](http://arxiv.org/abs/2401.14624) | None | 2024-01-26 |
 | Relative Value Biases in Large Language Models | [2401.14530](http://arxiv.org/abs/2401.14530) | None | 2024-01-25 |
 | ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis | [2401.13924](http://arxiv.org/abs/2401.13924) | None | 2024-01-25 |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
 | Research about the Ability of LLM in the Tamper-Detection Area | [2401.13504](http://arxiv.org/abs/2401.13504) | None | 2024-01-24 |
 | CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert   Judgments For Open-Domain Question Answering | [2401.13170](http://arxiv.org/abs/2401.13170) | https://github.com/zli12321/qa_metrics | 2024-01-24 |
 | Using LLMs to discover emerging coded antisemitic hate-speech in   extremist social media | [2401.10841](http://arxiv.org/abs/2401.10841) | None | 2024-01-23 |
@@ -213,7 +213,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-24 |
+| Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-27 |
 | Greening Large Language Models of Code | [2309.04076](http://arxiv.org/abs/2309.04076) | https://github.com/soarsmu/Avatar | 2024-01-12 |
 | Towards Understanding the Capability of Large Language Models on Code   Clone Detection: A Survey | [2308.01191](http://arxiv.org/abs/2308.01191) | None | 2023-08-06 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |

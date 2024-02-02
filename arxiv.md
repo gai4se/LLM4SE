@@ -52,7 +52,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-01-31 |
+| Ocassionally Secure: A Comparative Analysis of Code Generation   Assistants | [2402.00689](http://arxiv.org/abs/2402.00689) | None | 2024-02-01 |
+| Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
 | Code Security Vulnerability Repair Using Reinforcement Learning with   Large Language Models | [2401.07031](http://arxiv.org/abs/2401.07031) | None | 2024-01-30 |
 | Novel Preprocessing Technique for Data Embedding in Engineering Code   Generation Using Large Language Model | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2024-01-30 |
 | Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | https://github.com/ChuyueSun/Clover | 2024-01-30 |
@@ -82,7 +83,6 @@
 | Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-01-21 |
 | Visualization Generation with Large Language Models: An Evaluation | [2401.11255](http://arxiv.org/abs/2401.11255) | None | 2024-01-20 |
 | Interactions with Prompt Problems: A New Way to Teach Programming with   Large Language Models | [2401.10759](http://arxiv.org/abs/2401.10759) | None | 2024-01-19 |
-| How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | None | 2024-01-19 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -141,6 +141,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Effective Bug Detection in Graph Database Engines: An LLM-based Approach | [2402.00292](http://arxiv.org/abs/2402.00292) | None | 2024-02-01 |
 | Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | None | 2024-01-30 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-01-29 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2024-01-28 |
@@ -171,16 +172,25 @@
 | ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 | Augmenting Greybox Fuzzing with Generative AI | [2306.06782](http://arxiv.org/abs/2306.06782) | None | 2023-06-11 |
 | Analysis of ChatGPT on Source Code | [2306.00597](http://arxiv.org/abs/2306.00597) | None | 2023-06-06 |
-| LmPa: Improving Decompilation by Synergy of Large Language Model and   Program Analysis | [2306.02546](http://arxiv.org/abs/2306.02546) | None | 2023-06-05 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-01 |
 | Enhancing Translation Validation of Compiler Transformations with Large   Language Models | [2401.16797](http://arxiv.org/abs/2401.16797) | None | 2024-02-01 |
+| Evaluating Large Language Models for Generalization and Robustness via   Data Compression | [2402.00861](http://arxiv.org/abs/2402.00861) | None | 2024-02-01 |
 | Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
+| An Exam-based Evaluation Approach Beyond Traditional Relevance Judgments | [2402.00309](http://arxiv.org/abs/2402.00309) | None | 2024-02-01 |
+| Effective Bug Detection in Graph Database Engines: An LLM-based Approach | [2402.00292](http://arxiv.org/abs/2402.00292) | None | 2024-02-01 |
+| Zero-shot Generative Large Language Models for Systematic Review   Screening Automation | [2401.06320](http://arxiv.org/abs/2401.06320) | None | 2024-02-01 |
+| Towards AI-Assisted Synthesis of Verified Dafny Methods | [2402.00247](http://arxiv.org/abs/2402.00247) | None | 2024-02-01 |
+| Exploring the limits of decoder-only models trained on public speech   recognition corpora | [2402.00235](http://arxiv.org/abs/2402.00235) | None | 2024-01-31 |
+| Multimodal Clinical Pseudo-notes for Emergency Department Prediction   Tasks using Multiple Embedding Model for EHR (MEME) | [2402.00160](http://arxiv.org/abs/2402.00160) | https://github.com/Simonlee711/MEME | 2024-01-31 |
 | Do Language Models Exhibit the Same Cognitive Biases in Problem Solving   as Human Learners? | [2401.18070](http://arxiv.org/abs/2401.18070) | None | 2024-01-31 |
+| Code-Aware Prompting: A study of Coverage Guided Test Generation in   Regression Setting using LLM | [2402.00097](http://arxiv.org/abs/2402.00097) | None | 2024-01-31 |
 | Probing Language Models' Gesture Understanding for Enhanced Human-AI   Interaction | [2401.17858](http://arxiv.org/abs/2401.17858) | None | 2024-01-31 |
+| ChIRAAG: ChatGPT Informed Rapid and Automated Assertion Generation | [2402.00093](http://arxiv.org/abs/2402.00093) | None | 2024-01-31 |
 | Generative AI to Generate Test Data Generators | [2401.17626](http://arxiv.org/abs/2401.17626) | None | 2024-01-31 |
 | Interactive Navigation in Environments with Traversable Obstacles Using   Large Language and Vision-Language Models | [2310.08873](http://arxiv.org/abs/2310.08873) | None | 2024-01-31 |
 | MAPLE: Mobile App Prediction Leveraging Large Language Model Embeddings | [2309.08648](http://arxiv.org/abs/2309.08648) | None | 2024-01-31 |
@@ -189,7 +199,8 @@
 | GRASP: A novel benchmark for evaluating language GRounding And Situated   Physics understanding in multimodal language models | [2311.09048](http://arxiv.org/abs/2311.09048) | None | 2024-01-30 |
 | Customizing Language Model Responses with Contrastive In-Context   Learning | [2401.17390](http://arxiv.org/abs/2401.17390) | None | 2024-01-30 |
 | Transfer Learning for Text Diffusion Models | [2401.17181](http://arxiv.org/abs/2401.17181) | None | 2024-01-30 |
-| Conditional and Modal Reasoning in Large Language Models | [2401.17169](http://arxiv.org/abs/2401.17169) | None | 2024-01-30 |
+| Conditional and Modal Reasoning in Large Language Models | [2401.17169](http://arxiv.org/abs/2401.17169) | https://github.com/wesholliday/llm-logic | 2024-01-30 |
+| GPT4Battery: An LLM-driven Framework for Adaptive State of Health   Estimation of Raw Li-ion Batteries | [2402.00068](http://arxiv.org/abs/2402.00068) | None | 2024-01-30 |
 | Towards Generating Executable Metamorphic Relations Using Large Language   Models | [2401.17019](http://arxiv.org/abs/2401.17019) | None | 2024-01-30 |
 | Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-30 |
 | Under the Surface: Tracking the Artifactuality of LLM-Generated Data | [2401.14698](http://arxiv.org/abs/2401.14698) | None | 2024-01-30 |
@@ -197,17 +208,6 @@
 | Leveraging Large Language Models to Improve REST API Testing | [2312.00894](http://arxiv.org/abs/2312.00894) | None | 2024-01-30 |
 | FlakyFix: Using Large Language Models for Predicting Flaky Test Fix   Categories and Test Code Repair | [2307.00012](http://arxiv.org/abs/2307.00012) | None | 2024-01-29 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-01-29 |
-| Probabilistic Abduction for Visual Abstract Reasoning via Learning Rules   in Vector-symbolic Architectures | [2401.16024](http://arxiv.org/abs/2401.16024) | https://github.com/ibm/learn-vector-symbolic-architectures-rule-formulations | 2024-01-29 |
-| Establishing Vocabulary Tests as a Benchmark for Evaluating Large   Language Models | [2310.14703](http://arxiv.org/abs/2310.14703) | https://github.com/wordsgpt/llm_vocabulary_evaluation | 2024-01-29 |
-| Mitigating Hallucinations and Off-target Machine Translation with   Source-Contrastive and Language-Contrastive Decoding | [2309.07098](http://arxiv.org/abs/2309.07098) | https://github.com/zurichnlp/contradecode | 2024-01-29 |
-| An Open Source Data Contamination Report for Large Language Models | [2310.17589](http://arxiv.org/abs/2310.17589) | https://github.com/liyucheng09/contamination_detector | 2024-01-29 |
-| ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal,   Causal, and Discourse Relations | [2304.14827](http://arxiv.org/abs/2304.14827) | None | 2024-01-26 |
-| Large Language Model Guided Knowledge Distillation for Time Series   Anomaly Detection | [2401.15123](http://arxiv.org/abs/2401.15123) | None | 2024-01-26 |
-| An Empirical Investigation of Domain Adaptation Ability for Chinese   Spelling Check Models | [2401.14630](http://arxiv.org/abs/2401.14630) | None | 2024-01-26 |
-| Query of CC: Unearthing Large Scale Domain-Specific Knowledge from   Public Corpora | [2401.14624](http://arxiv.org/abs/2401.14624) | None | 2024-01-26 |
-| Relative Value Biases in Large Language Models | [2401.14530](http://arxiv.org/abs/2401.14530) | None | 2024-01-25 |
-| ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis | [2401.13924](http://arxiv.org/abs/2401.13924) | None | 2024-01-25 |
-| Research about the Ability of LLM in the Tamper-Detection Area | [2401.13504](http://arxiv.org/abs/2401.13504) | None | 2024-01-24 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

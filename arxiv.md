@@ -1,4 +1,4 @@
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -177,13 +177,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Enhancing Translation Validation of Compiler Transformations with Large   Language Models | [2401.16797](http://arxiv.org/abs/2401.16797) | None | 2024-02-01 |
+| Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
 | Do Language Models Exhibit the Same Cognitive Biases in Problem Solving   as Human Learners? | [2401.18070](http://arxiv.org/abs/2401.18070) | None | 2024-01-31 |
 | Probing Language Models' Gesture Understanding for Enhanced Human-AI   Interaction | [2401.17858](http://arxiv.org/abs/2401.17858) | None | 2024-01-31 |
 | Generative AI to Generate Test Data Generators | [2401.17626](http://arxiv.org/abs/2401.17626) | None | 2024-01-31 |
 | Interactive Navigation in Environments with Traversable Obstacles Using   Large Language and Vision-Language Models | [2310.08873](http://arxiv.org/abs/2310.08873) | None | 2024-01-31 |
 | MAPLE: Mobile App Prediction Leveraging Large Language Model Embeddings | [2309.08648](http://arxiv.org/abs/2309.08648) | None | 2024-01-31 |
-| Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-01-31 |
-| Enhancing Compiler Transformation Robustness with Large Language Models | [2401.16797](http://arxiv.org/abs/2401.16797) | None | 2024-01-30 |
 | Efficient Tool Use with Chain-of-Abstraction Reasoning | [2401.17464](http://arxiv.org/abs/2401.17464) | None | 2024-01-30 |
 | A Preliminary Study on Using Large Language Models in Software   Pentesting | [2401.17459](http://arxiv.org/abs/2401.17459) | None | 2024-01-30 |
 | GRASP: A novel benchmark for evaluating language GRounding And Situated   Physics understanding in multimodal language models | [2311.09048](http://arxiv.org/abs/2311.09048) | None | 2024-01-30 |

@@ -52,6 +52,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | https://github.com/theoxo/self-repair | 2024-02-02 |
+| CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
+| StepCoder: Improve Code Generation with Reinforcement Learning from   Compiler Feedback | [2402.01391](http://arxiv.org/abs/2402.01391) | None | 2024-02-02 |
+| Neuron Patching: Neuron-level Model Editing on Code Generation and LLMs | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2024-02-02 |
+| A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-02-02 |
 | Ocassionally Secure: A Comparative Analysis of Code Generation   Assistants | [2402.00689](http://arxiv.org/abs/2402.00689) | None | 2024-02-01 |
 | Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
 | Code Security Vulnerability Repair Using Reinforcement Learning with   Large Language Models | [2401.07031](http://arxiv.org/abs/2401.07031) | None | 2024-01-30 |
@@ -78,11 +83,6 @@
 | Large Language Models Should Ask Clarifying Questions to Increase   Confidence in Generated Code | [2308.13507](http://arxiv.org/abs/2308.13507) | None | 2024-01-22 |
 | Knowledge Fusion of Large Language Models | [2401.10491](http://arxiv.org/abs/2401.10491) | https://github.com/fanqiwan/fusellm | 2024-01-22 |
 | ICE-Score: Instructing Large Language Models to Evaluate Code | [2304.14317](http://arxiv.org/abs/2304.14317) | https://github.com/terryyz/ice-score | 2024-01-22 |
-| Analyzing the Effectiveness of Large Language Models on Text-to-SQL   Synthesis | [2401.12379](http://arxiv.org/abs/2401.12379) | https://github.com/cuplv/text-to-sql-wizardcoder | 2024-01-22 |
-| GenSim: Generating Robotic Simulation Tasks via Large Language Models | [2310.01361](http://arxiv.org/abs/2310.01361) | https://github.com/liruiw/gensim | 2024-01-21 |
-| Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-01-21 |
-| Visualization Generation with Large Language Models: An Evaluation | [2401.11255](http://arxiv.org/abs/2401.11255) | None | 2024-01-20 |
-| Interactions with Prompt Problems: A New Way to Teach Programming with   Large Language Models | [2401.10759](http://arxiv.org/abs/2401.10759) | None | 2024-01-19 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -177,8 +177,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
+| StepCoder: Improve Code Generation with Reinforcement Learning from   Compiler Feedback | [2402.01391](http://arxiv.org/abs/2402.01391) | None | 2024-02-02 |
+| Contrastive Preference Optimization: Pushing the Boundaries of LLM   Performance in Machine Translation | [2401.08417](http://arxiv.org/abs/2401.08417) | https://github.com/fe1ixxu/alma | 2024-02-02 |
+| A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-02-02 |
 | Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-01 |
 | Enhancing Translation Validation of Compiler Transformations with Large   Language Models | [2401.16797](http://arxiv.org/abs/2401.16797) | None | 2024-02-01 |
+| VizAbility: Enhancing Chart Accessibility with LLM-based Conversational   Interaction | [2310.09611](http://arxiv.org/abs/2310.09611) | None | 2024-02-01 |
 | Evaluating Large Language Models for Generalization and Robustness via   Data Compression | [2402.00861](http://arxiv.org/abs/2402.00861) | None | 2024-02-01 |
 | Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
 | An Exam-based Evaluation Approach Beyond Traditional Relevance Judgments | [2402.00309](http://arxiv.org/abs/2402.00309) | None | 2024-02-01 |
@@ -203,11 +208,6 @@
 | GPT4Battery: An LLM-driven Framework for Adaptive State of Health   Estimation of Raw Li-ion Batteries | [2402.00068](http://arxiv.org/abs/2402.00068) | None | 2024-01-30 |
 | Towards Generating Executable Metamorphic Relations Using Large Language   Models | [2401.17019](http://arxiv.org/abs/2401.17019) | None | 2024-01-30 |
 | Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-30 |
-| Under the Surface: Tracking the Artifactuality of LLM-Generated Data | [2401.14698](http://arxiv.org/abs/2401.14698) | None | 2024-01-30 |
-| Automatically Testing Functional Properties of Code Translation Models | [2309.12813](http://arxiv.org/abs/2309.12813) | https://github.com/rigorous-software-engineering/nomos | 2024-01-30 |
-| Leveraging Large Language Models to Improve REST API Testing | [2312.00894](http://arxiv.org/abs/2312.00894) | None | 2024-01-30 |
-| FlakyFix: Using Large Language Models for Predicting Flaky Test Fix   Categories and Test Code Repair | [2307.00012](http://arxiv.org/abs/2307.00012) | None | 2024-01-29 |
-| LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-01-29 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -235,6 +235,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
+| GPT-3.5 for Code Review Automation: How Do Few-Shot Learning, Prompt   Design, and Model Fine-Tuning Impact Their Performance? | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-02-01 |
 | The role of library versions in Developer-ChatGPT conversations | [2401.16340](http://arxiv.org/abs/2401.16340) | None | 2024-01-29 |
 | Security Code Review by LLMs: A Deep Dive into Responses | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-01-29 |
 | Code Review Automation: Strengths and Weaknesses of the State of the Art | [2401.05136](http://arxiv.org/abs/2401.05136) | https://github.com/codereviewautomationsota/code_review_automation_sota | 2024-01-10 |

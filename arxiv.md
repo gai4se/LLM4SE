@@ -18,7 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Automated Smart Contract Summarization via LLMs | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-02-07 |
+| Automated Smart Contract Summarization via LLMs | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-02-08 |
 | CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | https://github.com/weixiangyan/codescope | 2024-02-06 |
 | DocChecker: Bootstrapping Code Large Language Model for Detecting and   Resolving Code-Comment Inconsistencies | [2306.06347](http://arxiv.org/abs/2306.06347) | https://github.com/fsoft-ai4code/docchecker | 2024-02-03 |
 | Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-30 |
@@ -143,12 +143,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ReposVul: A Repository-Level High-Quality Vulnerability Dataset | [2401.13169](http://arxiv.org/abs/2401.13169) | None | 2024-02-08 |
 | Effective Bug Detection in Graph Database Engines: An LLM-based Approach | [2402.00292](http://arxiv.org/abs/2402.00292) | None | 2024-02-01 |
 | Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | None | 2024-01-30 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-01-29 |
 | Language Models are Better Bug Detector Through Code-Pair Classification | [2311.07957](http://arxiv.org/abs/2311.07957) | https://github.com/kamel773/code_pair_classification | 2024-01-28 |
 | A Survey on Large Language Model (LLM) Security and Privacy: The Good,   the Bad, and the Ugly | [2312.02003](http://arxiv.org/abs/2312.02003) | None | 2024-01-26 |
-| A Repository-Level Dataset For Detecting, Classifying and Repairing   Software Vulnerabilities | [2401.13169](http://arxiv.org/abs/2401.13169) | None | 2024-01-24 |
 | LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models | [2401.11108](http://arxiv.org/abs/2401.11108) | None | 2024-01-20 |
 | LLbezpeky: Leveraging Large Language Models for Vulnerability Detection | [2401.01269](http://arxiv.org/abs/2401.01269) | None | 2024-01-02 |
 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2023-12-25 |
@@ -179,7 +179,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| The Impact of AI Tool on Engineering at ANZ Bank An Emperical Study on   GitHub Copilot within Coporate Environment | [2402.05636](http://arxiv.org/abs/2402.05636) | None | 2024-02-08 |
 | Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-07 |
+| Are LLMs Ready for Real-World Materials Discovery? | [2402.05200](http://arxiv.org/abs/2402.05200) | None | 2024-02-07 |
 | Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | None | 2024-02-07 |
 | You Can REST Now: Automated Specification Inference and Black-Box   Testing of RESTful APIs with Large Language Models | [2402.05102](http://arxiv.org/abs/2402.05102) | None | 2024-02-07 |
 | Can Generative Agents Predict Emotion? | [2402.04232](http://arxiv.org/abs/2402.04232) | None | 2024-02-07 |
@@ -191,10 +193,12 @@
 | SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection   with Multimodal Large Language Models | [2402.04178](http://arxiv.org/abs/2402.04178) | https://github.com/laiyingxin2/shield | 2024-02-06 |
 | Measuring Implicit Bias in Explicitly Unbiased Large Language Models | [2402.04105](http://arxiv.org/abs/2402.04105) | None | 2024-02-06 |
 | Understanding the Effect of Noise in LLM Training Data with Algorithmic   Chains of Thought | [2402.04004](http://arxiv.org/abs/2402.04004) | None | 2024-02-06 |
+| LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to   256K | [2402.05136](http://arxiv.org/abs/2402.05136) | None | 2024-02-06 |
 | RevOrder: A Novel Method for Enhanced Arithmetic in Language Models | [2402.03822](http://arxiv.org/abs/2402.03822) | None | 2024-02-06 |
 | States as Strings as Strategies: Steering Language Models with   Game-Theoretic Solvers | [2402.01704](http://arxiv.org/abs/2402.01704) | https://github.com/google-deepmind/open_spiel | 2024-02-06 |
 | A Paradigm Shift in Machine Translation: Boosting Translation   Performance of Large Language Models | [2309.11674](http://arxiv.org/abs/2309.11674) | https://github.com/fe1ixxu/alma | 2024-02-06 |
 | QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large   Language Model | [2402.03755](http://arxiv.org/abs/2402.03755) | None | 2024-02-06 |
+| Personalized Language Modeling from Personalized Human Feedback | [2402.05133](http://arxiv.org/abs/2402.05133) | None | 2024-02-06 |
 | CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | https://github.com/weixiangyan/codescope | 2024-02-06 |
 | Neural networks for abstraction and reasoning: Towards broad   generalization in machines | [2402.03507](http://arxiv.org/abs/2402.03507) | https://github.com/mxbi/arckit | 2024-02-05 |
 | GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models | [2402.03299](http://arxiv.org/abs/2402.03299) | None | 2024-02-05 |
@@ -203,13 +207,9 @@
 | DoGE: Domain Reweighting with Generalization Estimation | [2310.15393](http://arxiv.org/abs/2310.15393) | None | 2024-02-05 |
 | Enhancing the Stability of LLM-based Speech Generation Systems through   Self-Supervised Representations | [2402.03407](http://arxiv.org/abs/2402.03407) | None | 2024-02-05 |
 | StepCoder: Improve Code Generation with Reinforcement Learning from   Compiler Feedback | [2402.01391](http://arxiv.org/abs/2402.01391) | https://github.com/ablustrund/apps_plus | 2024-02-05 |
+| Enhancing Textbook Question Answering Task with Large Language Models   and Retrieval Augmented Generation | [2402.05128](http://arxiv.org/abs/2402.05128) | None | 2024-02-05 |
 | An energy-based comparative analysis of common approaches to text   classification in the Legal domain | [2311.01256](http://arxiv.org/abs/2311.01256) | None | 2024-02-05 |
-| LLM Agents in Interaction: Measuring Personality Consistency and   Linguistic Alignment in Interacting Populations of Large Language Models | [2402.02896](http://arxiv.org/abs/2402.02896) | https://github.com/ivarfresh/interaction_llms | 2024-02-05 |
-| Predicting Machine Translation Performance on Low-Resource Languages:   The Role of Domain Similarity | [2402.02633](http://arxiv.org/abs/2402.02633) | None | 2024-02-04 |
 | UniTSyn: A Large-Scale Dataset Capable of Enhancing the Prowess of Large   Language Models for Program Testing | [2402.03396](http://arxiv.org/abs/2402.03396) | None | 2024-02-04 |
-| Enhancing Robustness in Biomedical NLI Models: A Probing Approach for   Clinical Trials | [2402.02558](http://arxiv.org/abs/2402.02558) | None | 2024-02-04 |
-| Integration of cognitive tasks into artificial general intelligence test   for large models | [2402.02547](http://arxiv.org/abs/2402.02547) | None | 2024-02-04 |
-| Enhancing Translation Validation of Compiler Transformations with Large   Language Models | [2401.16797](http://arxiv.org/abs/2401.16797) | None | 2024-02-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

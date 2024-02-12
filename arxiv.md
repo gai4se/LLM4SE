@@ -1,4 +1,4 @@
-## Updated on 2024.02.11
+## Updated on 2024.02.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +57,7 @@
 | LMs: Understanding Code Syntax and Semantics for Code Analysis | [2305.12138](http://arxiv.org/abs/2305.12138) | None | 2024-02-07 |
 | Instruction Fusion: Advancing Prompt Evolution through Hybridization | [2312.15692](http://arxiv.org/abs/2312.15692) | None | 2024-02-07 |
 | Evolutionary Computation in the Era of Large Language Model: Survey and   Roadmap | [2401.10034](http://arxiv.org/abs/2401.10034) | None | 2024-02-07 |
-| Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | None | 2024-02-07 |
+| Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | https://github.com/ejmichaud/neural-verification | 2024-02-07 |
 | CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay | [2402.04858](http://arxiv.org/abs/2402.04858) | None | 2024-02-07 |
 | Assured LLM-Based Software Engineering | [2402.04380](http://arxiv.org/abs/2402.04380) | None | 2024-02-06 |
 | Hierarchical Large Language Models in Cloud Edge End Architecture for   Heterogeneous Robot Cluster Control | [2402.03703](http://arxiv.org/abs/2402.03703) | None | 2024-02-06 |
@@ -179,10 +179,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Understanding the Effect of Noise in LLM Training Data with Algorithmic   Chains of Thought | [2402.04004](http://arxiv.org/abs/2402.04004) | None | 2024-02-09 |
 | The Impact of AI Tool on Engineering at ANZ Bank An Emperical Study on   GitHub Copilot within Coporate Environment | [2402.05636](http://arxiv.org/abs/2402.05636) | None | 2024-02-08 |
 | Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-07 |
 | Are LLMs Ready for Real-World Materials Discovery? | [2402.05200](http://arxiv.org/abs/2402.05200) | None | 2024-02-07 |
-| Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | None | 2024-02-07 |
+| Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | https://github.com/ejmichaud/neural-verification | 2024-02-07 |
 | You Can REST Now: Automated Specification Inference and Black-Box   Testing of RESTful APIs with Large Language Models | [2402.05102](http://arxiv.org/abs/2402.05102) | None | 2024-02-07 |
 | Can Generative Agents Predict Emotion? | [2402.04232](http://arxiv.org/abs/2402.04232) | None | 2024-02-07 |
 | Leveraging LLMs for Unsupervised Dense Retriever Ranking | [2402.04853](http://arxiv.org/abs/2402.04853) | None | 2024-02-07 |
@@ -192,7 +193,6 @@
 | Explaining Autonomy: Enhancing Human-Robot Interaction through   Explanation Generation with Large Language Models | [2402.04206](http://arxiv.org/abs/2402.04206) | None | 2024-02-06 |
 | SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection   with Multimodal Large Language Models | [2402.04178](http://arxiv.org/abs/2402.04178) | https://github.com/laiyingxin2/shield | 2024-02-06 |
 | Measuring Implicit Bias in Explicitly Unbiased Large Language Models | [2402.04105](http://arxiv.org/abs/2402.04105) | None | 2024-02-06 |
-| Understanding the Effect of Noise in LLM Training Data with Algorithmic   Chains of Thought | [2402.04004](http://arxiv.org/abs/2402.04004) | None | 2024-02-06 |
 | LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to   256K | [2402.05136](http://arxiv.org/abs/2402.05136) | None | 2024-02-06 |
 | RevOrder: A Novel Method for Enhanced Arithmetic in Language Models | [2402.03822](http://arxiv.org/abs/2402.03822) | None | 2024-02-06 |
 | States as Strings as Strategies: Steering Language Models with   Game-Theoretic Solvers | [2402.01704](http://arxiv.org/abs/2402.01704) | https://github.com/google-deepmind/open_spiel | 2024-02-06 |

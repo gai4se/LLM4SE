@@ -1,4 +1,4 @@
-## Updated on 2024.02.13
+## Updated on 2024.02.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,6 +57,7 @@
 | GRILLBot In Practice: Lessons and Tradeoffs Deploying Large Language   Models for Adaptable Conversational Task Assistants | [2402.07647](http://arxiv.org/abs/2402.07647) | None | 2024-02-12 |
 | Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | None | 2024-02-12 |
 | Game Agent Driven by Free-Form Text Command: Using LLM-based Code   Generation and Behavior Branch | [2402.07442](http://arxiv.org/abs/2402.07442) | None | 2024-02-12 |
+| LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-02-12 |
 | V-STaR: Training Verifiers for Self-Taught Reasoners | [2402.06457](http://arxiv.org/abs/2402.06457) | None | 2024-02-09 |
 | Entropy-Regularized Token-Level Policy Optimization for Large Language   Models | [2402.06700](http://arxiv.org/abs/2402.06700) | None | 2024-02-09 |
 | AST-T5: Structure-Aware Pretraining for Code Generation and   Understanding | [2401.03003](http://arxiv.org/abs/2401.03003) | https://github.com/gonglinyuan/ast_t5 | 2024-02-09 |
@@ -84,7 +85,6 @@
 | Ocassionally Secure: A Comparative Analysis of Code Generation   Assistants | [2402.00689](http://arxiv.org/abs/2402.00689) | None | 2024-02-01 |
 | Knowledge-Aware Code Generation with Large Language Models | [2401.15940](http://arxiv.org/abs/2401.15940) | https://github.com/codegeneration3/karecoder | 2024-02-01 |
 | Code Security Vulnerability Repair Using Reinforcement Learning with   Large Language Models | [2401.07031](http://arxiv.org/abs/2401.07031) | None | 2024-01-30 |
-| Novel Preprocessing Technique for Data Embedding in Engineering Code   Generation Using Large Language Model | [2311.16267](http://arxiv.org/abs/2311.16267) | None | 2024-01-30 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

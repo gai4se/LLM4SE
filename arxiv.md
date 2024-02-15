@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DolphCoder: Echo-Locating Code Large Language Models with Diverse and   Multi-Objective Instruction Tuning | [2402.09136](http://arxiv.org/abs/2402.09136) | None | 2024-02-14 |
+| SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | None | 2024-02-14 |
+| DevGPT: Studying Developer-ChatGPT Conversations | [2309.03914](http://arxiv.org/abs/2309.03914) | https://github.com/NAIST-SE/DevGPT | 2024-02-14 |
 | LMs: Understanding Code Syntax and Semantics for Code Analysis | [2305.12138](http://arxiv.org/abs/2305.12138) | None | 2024-02-13 |
 | Investigating the Impact of Data Contamination of Large Language Models   in Text-to-SQL Translation | [2402.08100](http://arxiv.org/abs/2402.08100) | None | 2024-02-12 |
 | Grounding Data Science Code Generation with Input-Output Specifications | [2402.08073](http://arxiv.org/abs/2402.08073) | None | 2024-02-12 |
@@ -82,9 +85,6 @@
 | Break the Sequential Dependency of LLM Inference Using Lookahead   Decoding | [2402.02057](http://arxiv.org/abs/2402.02057) | https://github.com/hao-ai-lab/lookaheaddecoding | 2024-02-03 |
 | Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | https://github.com/theoxo/self-repair | 2024-02-02 |
 | CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
-| Neuron Patching: Neuron-level Model Editing on Code Generation and LLMs | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2024-02-02 |
-| A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-02-02 |
-| Ocassionally Secure: A Comparative Analysis of Code Generation   Assistants | [2402.00689](http://arxiv.org/abs/2402.00689) | None | 2024-02-01 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -180,6 +180,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-14 |
+| AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe   Approach | [2402.09334](http://arxiv.org/abs/2402.09334) | None | 2024-02-14 |
+| Enhancing Textbook Question Answering Task with Large Language Models   and Retrieval Augmented Generation | [2402.05128](http://arxiv.org/abs/2402.05128) | None | 2024-02-14 |
+| L3GO: Language Agents with Chain-of-3D-Thoughts for Generating   Unconventional Objects | [2402.09052](http://arxiv.org/abs/2402.09052) | None | 2024-02-14 |
+| Using Counterfactual Tasks to Evaluate the Generality of Analogical   Reasoning in Large Language Models | [2402.08955](http://arxiv.org/abs/2402.08955) | None | 2024-02-14 |
 | The Last JITAI? The Unreasonable Effectiveness of Large Language Models   in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity   in a Prospective Cardiac Rehabilitation Setting | [2402.08658](http://arxiv.org/abs/2402.08658) | None | 2024-02-13 |
 | AlpaGasus: Training A Better Alpaca with Fewer Data | [2307.08701](http://arxiv.org/abs/2307.08701) | https://github.com/gpt4life/alpagasus | 2024-02-13 |
 | Test-Time Backdoor Attacks on Multimodal Large Language Models | [2402.08577](http://arxiv.org/abs/2402.08577) | https://github.com/sail-sg/anydoor | 2024-02-13 |
@@ -190,7 +195,6 @@
 | Towards Faithful and Robust LLM Specialists for Evidence-Based   Question-Answering | [2402.08277](http://arxiv.org/abs/2402.08277) | None | 2024-02-13 |
 | Simulating Human Strategic Behavior: Comparing Single and Multi-agent   LLMs | [2402.08189](http://arxiv.org/abs/2402.08189) | None | 2024-02-13 |
 | LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied   Agents | [2402.08178](http://arxiv.org/abs/2402.08178) | https://github.com/lbaa2022/llmtaskplanning | 2024-02-13 |
-| Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-12 |
 | C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | None | 2024-02-12 |
 | Mercury: An Efficiency Benchmark for LLM Code Synthesis | [2402.07844](http://arxiv.org/abs/2402.07844) | None | 2024-02-12 |
 | Large language models can enhance persuasion through linguistic feature   alignment | [2311.16466](http://arxiv.org/abs/2311.16466) | None | 2024-02-12 |
@@ -206,16 +210,13 @@
 | Knowledge Transfer from High-Resource to Low-Resource Programming   Languages for Code LLMs | [2308.09895](http://arxiv.org/abs/2308.09895) | None | 2024-02-10 |
 | On Measuring Faithfulness or Self-consistency of Natural Language   Explanations | [2311.07466](http://arxiv.org/abs/2311.07466) | https://github.com/heidelberg-nlp/cc-shap | 2024-02-10 |
 | On the Out-Of-Distribution Generalization of Multimodal Large Language   Models | [2402.06599](http://arxiv.org/abs/2402.06599) | None | 2024-02-09 |
-| Structured Chemistry Reasoning with Large Language Models | [2311.09656](http://arxiv.org/abs/2311.09656) | None | 2024-02-09 |
-| V-STaR: Training Verifiers for Self-Taught Reasoners | [2402.06457](http://arxiv.org/abs/2402.06457) | None | 2024-02-09 |
-| InternLM-Math: Open Math Large Language Models Toward Verifiable   Reasoning | [2402.06332](http://arxiv.org/abs/2402.06332) | https://github.com/internlm/internlm-math | 2024-02-09 |
-| Understanding the Effect of Noise in LLM Training Data with Algorithmic   Chains of Thought | [2402.04004](http://arxiv.org/abs/2402.04004) | None | 2024-02-09 |
 | Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-07 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Trained Without My Consent: Detecting Code Inclusion In Language Models   Trained on Code | [2402.09299](http://arxiv.org/abs/2402.09299) | None | 2024-02-14 |
 | Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-30 |
 | Greening Large Language Models of Code | [2309.04076](http://arxiv.org/abs/2309.04076) | https://github.com/soarsmu/Avatar | 2024-01-12 |
 | Towards Understanding the Capability of Large Language Models on Code   Clone Detection: A Survey | [2308.01191](http://arxiv.org/abs/2308.01191) | None | 2023-08-06 |

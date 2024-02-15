@@ -1,4 +1,4 @@
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | None | 2024-02-09 |
+| CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-02-09 |
 | Energy Consumption of Automated Program Repair | [2211.12104](http://arxiv.org/abs/2211.12104) | None | 2024-02-05 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2024-01-16 |
 | A Novel Approach for Automatic Program Repair using Round-Trip   Translation with Large Language Models | [2401.07994](http://arxiv.org/abs/2401.07994) | None | 2024-01-15 |
@@ -189,7 +189,7 @@
 | Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning | [2402.08416](http://arxiv.org/abs/2402.08416) | None | 2024-02-13 |
 | Towards Faithful and Robust LLM Specialists for Evidence-Based   Question-Answering | [2402.08277](http://arxiv.org/abs/2402.08277) | None | 2024-02-13 |
 | Simulating Human Strategic Behavior: Comparing Single and Multi-agent   LLMs | [2402.08189](http://arxiv.org/abs/2402.08189) | None | 2024-02-13 |
-| LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied   Agents | [2402.08178](http://arxiv.org/abs/2402.08178) | None | 2024-02-13 |
+| LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied   Agents | [2402.08178](http://arxiv.org/abs/2402.08178) | https://github.com/lbaa2022/llmtaskplanning | 2024-02-13 |
 | Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-12 |
 | C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | None | 2024-02-12 |
 | Mercury: An Efficiency Benchmark for LLM Code Synthesis | [2402.07844](http://arxiv.org/abs/2402.07844) | None | 2024-02-12 |

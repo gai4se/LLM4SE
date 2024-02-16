@@ -54,6 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | None | 2024-02-15 |
+| SLaDe: A Portable Small Language Model Decompiler for Optimized Assembly | [2305.12520](http://arxiv.org/abs/2305.12520) | None | 2024-02-15 |
+| Detecting Phishing Sites Using ChatGPT | [2306.05816](http://arxiv.org/abs/2306.05816) | None | 2024-02-15 |
+| SwissNYF: Tool Grounded LLM Agents for Black Box Setting | [2402.10051](http://arxiv.org/abs/2402.10051) | None | 2024-02-15 |
 | DolphCoder: Echo-Locating Code Large Language Models with Diverse and   Multi-Objective Instruction Tuning | [2402.09136](http://arxiv.org/abs/2402.09136) | None | 2024-02-14 |
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | None | 2024-02-14 |
 | DevGPT: Studying Developer-ChatGPT Conversations | [2309.03914](http://arxiv.org/abs/2309.03914) | https://github.com/NAIST-SE/DevGPT | 2024-02-14 |
@@ -81,10 +85,6 @@
 | Make Every Move Count: LLM-based High-Quality RTL Code Generation Using   MCTS | [2402.03289](http://arxiv.org/abs/2402.03289) | None | 2024-02-05 |
 | StepCoder: Improve Code Generation with Reinforcement Learning from   Compiler Feedback | [2402.01391](http://arxiv.org/abs/2402.01391) | https://github.com/ablustrund/apps_plus | 2024-02-05 |
 | EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty | [2401.15077](http://arxiv.org/abs/2401.15077) | https://github.com/safeailab/eagle | 2024-02-04 |
-| EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | None | 2024-02-03 |
-| Break the Sequential Dependency of LLM Inference Using Lookahead   Decoding | [2402.02057](http://arxiv.org/abs/2402.02057) | https://github.com/hao-ai-lab/lookaheaddecoding | 2024-02-03 |
-| Is Self-Repair a Silver Bullet for Code Generation? | [2306.09896](http://arxiv.org/abs/2306.09896) | https://github.com/theoxo/self-repair | 2024-02-02 |
-| CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -180,6 +180,17 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| BitDelta: Your Fine-Tune May Only Be Worth One Bit | [2402.10193](http://arxiv.org/abs/2402.10193) | https://github.com/FasterDecoding/BitDelta | 2024-02-15 |
+| GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on   Geometry Problem-Solving | [2402.10104](http://arxiv.org/abs/2402.10104) | https://github.com/geoeval/geoeval | 2024-02-15 |
+| MuChin: A Chinese Colloquial Description Benchmark for Evaluating   Language Models in the Field of Music | [2402.09871](http://arxiv.org/abs/2402.09871) | None | 2024-02-15 |
+| Adapting Large Language Models for Document-Level Machine Translation | [2401.06468](http://arxiv.org/abs/2401.06468) | None | 2024-02-15 |
+| PAL: Proxy-Guided Black-Box Attack on Large Language Models | [2402.09674](http://arxiv.org/abs/2402.09674) | https://github.com/chawins/pal | 2024-02-15 |
+| CodeMind: A Framework to Challenge Large Language Models for Code   Reasoning | [2402.09664](http://arxiv.org/abs/2402.09664) | None | 2024-02-15 |
+| Answer is All You Need: Instruction-following Text Embedding via   Answering the Question | [2402.09642](http://arxiv.org/abs/2402.09642) | https://github.com/zhang-yu-wei/inbedder | 2024-02-15 |
+| Embedding Democratic Values into Social Media AIs via Societal Objective   Functions | [2307.13912](http://arxiv.org/abs/2307.13912) | None | 2024-02-15 |
+| Probabilistic Reasoning in Generative Large Language Models | [2402.09614](http://arxiv.org/abs/2402.09614) | None | 2024-02-14 |
+| Emerging Opportunities of Using Large Language Language Models for   Translation Between Drug Molecules and Indications | [2402.09588](http://arxiv.org/abs/2402.09588) | None | 2024-02-14 |
+| LLMs and the Abstraction and Reasoning Corpus: Successes, Failures, and   the Importance of Object-based Representations | [2305.18354](http://arxiv.org/abs/2305.18354) | None | 2024-02-14 |
 | Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-14 |
 | AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe   Approach | [2402.09334](http://arxiv.org/abs/2402.09334) | None | 2024-02-14 |
 | Enhancing Textbook Question Answering Task with Large Language Models   and Retrieval Augmented Generation | [2402.05128](http://arxiv.org/abs/2402.05128) | None | 2024-02-14 |
@@ -199,17 +210,6 @@
 | Mercury: An Efficiency Benchmark for LLM Code Synthesis | [2402.07844](http://arxiv.org/abs/2402.07844) | None | 2024-02-12 |
 | Large language models can enhance persuasion through linguistic feature   alignment | [2311.16466](http://arxiv.org/abs/2311.16466) | None | 2024-02-12 |
 | Secret Collusion Among Generative AI Agents | [2402.07510](http://arxiv.org/abs/2402.07510) | None | 2024-02-12 |
-| Assessing Generalization for Subpopulation Representative Modeling via   In-Context Learning | [2402.07368](http://arxiv.org/abs/2402.07368) | None | 2024-02-12 |
-| TransGPT: Multi-modal Generative Pre-trained Transformer for   Transportation | [2402.07233](http://arxiv.org/abs/2402.07233) | None | 2024-02-11 |
-| pFedLoRA: Model-Heterogeneous Personalized Federated Learning with LoRA   Tuning | [2310.13283](http://arxiv.org/abs/2310.13283) | None | 2024-02-11 |
-| A Benchmark for Multi-modal Foundation Models on Low-level Vision: from   Single Images to Pairs | [2402.07116](http://arxiv.org/abs/2402.07116) | https://github.com/Q-Future/Q-Bench | 2024-02-11 |
-| Does ChatGPT and Whisper Make Humanoid Robots More Relatable? | [2402.07095](http://arxiv.org/abs/2402.07095) | None | 2024-02-11 |
-| Using Large Language Models for Student-Code Guided Test Case Generation   in Computer Science Education | [2402.07081](http://arxiv.org/abs/2402.07081) | https://github.com/umass-ml4ed/test_case_generation | 2024-02-11 |
-| Data Contamination Quiz: A Tool to Detect and Estimate Contamination in   Large Language Models | [2311.06233](http://arxiv.org/abs/2311.06233) | None | 2024-02-10 |
-| Gemini Goes to Med School: Exploring the Capabilities of Multimodal   Large Language Models on Medical Challenge Problems & Hallucinations | [2402.07023](http://arxiv.org/abs/2402.07023) | https://github.com/promptslab/rosettaeval | 2024-02-10 |
-| Knowledge Transfer from High-Resource to Low-Resource Programming   Languages for Code LLMs | [2308.09895](http://arxiv.org/abs/2308.09895) | None | 2024-02-10 |
-| On Measuring Faithfulness or Self-consistency of Natural Language   Explanations | [2311.07466](http://arxiv.org/abs/2311.07466) | https://github.com/heidelberg-nlp/cc-shap | 2024-02-10 |
-| On the Out-Of-Distribution Generalization of Multimodal Large Language   Models | [2402.06599](http://arxiv.org/abs/2402.06599) | None | 2024-02-09 |
 | Large Language Models Based Fuzzing Techniques: A Survey | [2402.00350](http://arxiv.org/abs/2402.00350) | None | 2024-02-07 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
@@ -239,9 +239,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | None | 2024-02-15 |
 | How to Refactor this Code? An Exploratory Study on Developer-ChatGPT   Refactoring Conversations | [2402.06013](http://arxiv.org/abs/2402.06013) | None | 2024-02-08 |
 | Assured LLM-Based Software Engineering | [2402.04380](http://arxiv.org/abs/2402.04380) | None | 2024-02-06 |
-| Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | None | 2024-02-06 |
 | Improving Automated Code Reviews: Learning from Experience | [2402.03777](http://arxiv.org/abs/2402.03777) | None | 2024-02-06 |
 | CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
 | GPT-3.5 for Code Review Automation: How Do Few-Shot Learning, Prompt   Design, and Model Fine-Tuning Impact Their Performance? | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-02-01 |

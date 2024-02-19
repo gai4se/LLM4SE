@@ -1,4 +1,4 @@
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,7 +66,7 @@
 | Grounding Data Science Code Generation with Input-Output Specifications | [2402.08073](http://arxiv.org/abs/2402.08073) | None | 2024-02-12 |
 | LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-02-12 |
 | GRILLBot In Practice: Lessons and Tradeoffs Deploying Large Language   Models for Adaptable Conversational Task Assistants | [2402.07647](http://arxiv.org/abs/2402.07647) | None | 2024-02-12 |
-| Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | None | 2024-02-12 |
+| Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | https://github.com/boutiquelee/acw | 2024-02-12 |
 | Game Agent Driven by Free-Form Text Command: Using LLM-based Code   Generation and Behavior Branch | [2402.07442](http://arxiv.org/abs/2402.07442) | None | 2024-02-12 |
 | V-STaR: Training Verifiers for Self-Taught Reasoners | [2402.06457](http://arxiv.org/abs/2402.06457) | None | 2024-02-09 |
 | Entropy-Regularized Token-Level Policy Optimization for Large Language   Models | [2402.06700](http://arxiv.org/abs/2402.06700) | None | 2024-02-09 |
@@ -185,7 +185,7 @@
 | MuChin: A Chinese Colloquial Description Benchmark for Evaluating   Language Models in the Field of Music | [2402.09871](http://arxiv.org/abs/2402.09871) | None | 2024-02-15 |
 | Adapting Large Language Models for Document-Level Machine Translation | [2401.06468](http://arxiv.org/abs/2401.06468) | None | 2024-02-15 |
 | PAL: Proxy-Guided Black-Box Attack on Large Language Models | [2402.09674](http://arxiv.org/abs/2402.09674) | https://github.com/chawins/pal | 2024-02-15 |
-| CodeMind: A Framework to Challenge Large Language Models for Code   Reasoning | [2402.09664](http://arxiv.org/abs/2402.09664) | None | 2024-02-15 |
+| CodeMind: A Framework to Challenge Large Language Models for Code   Reasoning | [2402.09664](http://arxiv.org/abs/2402.09664) | https://github.com/codemindicml/codemindicml | 2024-02-15 |
 | Answer is All You Need: Instruction-following Text Embedding via   Answering the Question | [2402.09642](http://arxiv.org/abs/2402.09642) | https://github.com/zhang-yu-wei/inbedder | 2024-02-15 |
 | Embedding Democratic Values into Social Media AIs via Societal Objective   Functions | [2307.13912](http://arxiv.org/abs/2307.13912) | None | 2024-02-15 |
 | Probabilistic Reasoning in Generative Large Language Models | [2402.09614](http://arxiv.org/abs/2402.09614) | None | 2024-02-14 |

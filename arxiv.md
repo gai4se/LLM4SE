@@ -1,4 +1,4 @@
-## Updated on 2024.02.19
+## Updated on 2024.02.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -190,6 +190,7 @@
 | SAPT: A Shared Attention Framework for Parameter-Efficient Continual   Learning of Large Language Models | [2401.08295](http://arxiv.org/abs/2401.08295) | None | 2024-02-16 |
 | SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in   Large Language Models | [2311.08370](http://arxiv.org/abs/2311.08370) | None | 2024-02-16 |
 | OpsEval: A Comprehensive IT Operations Benchmark Suite for Large   Language Models | [2310.07637](http://arxiv.org/abs/2310.07637) | None | 2024-02-16 |
+| Emerging Opportunities of Using Large Language Models for Translation   Between Drug Molecules and Indications | [2402.09588](http://arxiv.org/abs/2402.09588) | None | 2024-02-16 |
 | BitDelta: Your Fine-Tune May Only Be Worth One Bit | [2402.10193](http://arxiv.org/abs/2402.10193) | https://github.com/FasterDecoding/BitDelta | 2024-02-15 |
 | GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on   Geometry Problem-Solving | [2402.10104](http://arxiv.org/abs/2402.10104) | https://github.com/geoeval/geoeval | 2024-02-15 |
 | MuChin: A Chinese Colloquial Description Benchmark for Evaluating   Language Models in the Field of Music | [2402.09871](http://arxiv.org/abs/2402.09871) | None | 2024-02-15 |
@@ -198,7 +199,6 @@
 | Answer is All You Need: Instruction-following Text Embedding via   Answering the Question | [2402.09642](http://arxiv.org/abs/2402.09642) | https://github.com/zhang-yu-wei/inbedder | 2024-02-15 |
 | Embedding Democratic Values into Social Media AIs via Societal Objective   Functions | [2307.13912](http://arxiv.org/abs/2307.13912) | None | 2024-02-15 |
 | Probabilistic Reasoning in Generative Large Language Models | [2402.09614](http://arxiv.org/abs/2402.09614) | None | 2024-02-14 |
-| Emerging Opportunities of Using Large Language Language Models for   Translation Between Drug Molecules and Indications | [2402.09588](http://arxiv.org/abs/2402.09588) | None | 2024-02-14 |
 | LLMs and the Abstraction and Reasoning Corpus: Successes, Failures, and   the Importance of Object-based Representations | [2305.18354](http://arxiv.org/abs/2305.18354) | None | 2024-02-14 |
 | Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-14 |
 | AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe   Approach | [2402.09334](http://arxiv.org/abs/2402.09334) | None | 2024-02-14 |

@@ -1,4 +1,4 @@
-## Updated on 2024.02.22
+## Updated on 2024.02.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -191,7 +191,7 @@
 | RITFIS: Robust input testing framework for LLMs-based intelligent   software | [2402.13518](http://arxiv.org/abs/2402.13518) | None | 2024-02-21 |
 | Retrieval-Augmented Data Augmentation for Low-Resource Domain Tasks | [2402.13482](http://arxiv.org/abs/2402.13482) | None | 2024-02-21 |
 | LLM Jailbreak Attack versus Defense Techniques -- A Comprehensive Study | [2402.13457](http://arxiv.org/abs/2402.13457) | None | 2024-02-21 |
-| Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | None | 2024-02-20 |
+| Addressing cognitive bias in medical language models | [2402.08113](http://arxiv.org/abs/2402.08113) | https://github.com/carlwharris/cog-bias-med-llms | 2024-02-20 |
 | EvoGrad: A Dynamic Take on the Winograd Schema Challenge with Human   Adversaries | [2402.13372](http://arxiv.org/abs/2402.13372) | None | 2024-02-20 |
 | A Simple but Effective Approach to Improve Structured Language Model   Output for Information Extraction | [2402.13364](http://arxiv.org/abs/2402.13364) | https://github.com/yinghao-li/gno-ie | 2024-02-20 |
 | CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert   Judgments For Open-Domain Question Answering | [2401.13170](http://arxiv.org/abs/2401.13170) | https://github.com/zli12321/qa_metrics | 2024-02-20 |

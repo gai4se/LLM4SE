@@ -1,4 +1,4 @@
-## Updated on 2024.02.25
+## Updated on 2024.02.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,6 +57,7 @@
 | OpenCodeInterpreter: Integrating Code Generation with Execution and   Refinement | [2402.14658](http://arxiv.org/abs/2402.14658) | None | 2024-02-22 |
 | Dynamics of Instruction Tuning: Each Ability of Large Language Models   Has Its Own Growth Pace | [2310.19651](http://arxiv.org/abs/2310.19651) | https://github.com/chiyusong/dynamics-of-instruction-tuning | 2024-02-22 |
 | Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming | [2402.14261](http://arxiv.org/abs/2402.14261) | None | 2024-02-22 |
+| Improving Code Generation by Training with Natural Language Feedback | [2303.16749](http://arxiv.org/abs/2303.16749) | https://github.com/nyu-mll/ILF-for-code-generation | 2024-02-22 |
 | OOP: Object-Oriented Programming Evaluation Benchmark for Large Language   Models | [2401.06628](http://arxiv.org/abs/2401.06628) | https://github.com/alphadl/oop-eval | 2024-02-21 |
 | Are Human-generated Demonstrations Necessary for In-context Learning? | [2309.14681](http://arxiv.org/abs/2309.14681) | https://github.com/ruili33/sec | 2024-02-21 |
 | Enhancing Large Language Models in Coding Through Multi-Perspective   Self-Consistency | [2309.17272](http://arxiv.org/abs/2309.17272) | None | 2024-02-21 |
@@ -84,7 +85,6 @@
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | None | 2024-02-14 |
 | DevGPT: Studying Developer-ChatGPT Conversations | [2309.03914](http://arxiv.org/abs/2309.03914) | https://github.com/NAIST-SE/DevGPT | 2024-02-14 |
 | LMs: Understanding Code Syntax and Semantics for Code Analysis | [2305.12138](http://arxiv.org/abs/2305.12138) | None | 2024-02-13 |
-| Investigating the Impact of Data Contamination of Large Language Models   in Text-to-SQL Translation | [2402.08100](http://arxiv.org/abs/2402.08100) | None | 2024-02-12 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

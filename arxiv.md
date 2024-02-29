@@ -1,4 +1,4 @@
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -180,7 +180,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | None | 2024-02-27 |
+| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | https://github.com/qizekun/ShapeLLM | 2024-02-27 |
 | Beyond prompt brittleness: Evaluating the reliability and consistency of   political worldviews in LLMs | [2402.17649](http://arxiv.org/abs/2402.17649) | None | 2024-02-27 |
 | LinkNER: Linking Local Named Entity Recognition Models to Large Language   Models using Uncertainty | [2402.10573](http://arxiv.org/abs/2402.10573) | None | 2024-02-27 |
 | CARZero: Cross-Attention Alignment for Radiology Zero-Shot   Classification | [2402.17417](http://arxiv.org/abs/2402.17417) | None | 2024-02-27 |

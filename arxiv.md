@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Compositional API Recommendation for Library-Oriented Code Generation | [2402.19431](http://arxiv.org/abs/2402.19431) | None | 2024-02-29 |
+| StarCoder 2 and The Stack v2: The Next Generation | [2402.19173](http://arxiv.org/abs/2402.19173) | None | 2024-02-29 |
 | Unsupervised Information Refinement Training of Large Language Models   for Retrieval-Augmented Generation | [2402.18150](http://arxiv.org/abs/2402.18150) | https://github.com/xsc1234/info-rag | 2024-02-28 |
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-02-28 |
 | OpenCodeInterpreter: Integrating Code Generation with Execution and   Refinement | [2402.14658](http://arxiv.org/abs/2402.14658) | None | 2024-02-28 |
@@ -83,8 +85,6 @@
 | CRITIC: Large Language Models Can Self-Correct with Tool-Interactive   Critiquing | [2305.11738](http://arxiv.org/abs/2305.11738) | https://github.com/zubingou/llm-agent-web-tools | 2024-02-21 |
 | RoCode: A Dataset for Measuring Code Intelligence from Problem   Definitions in Romanian | [2402.13222](http://arxiv.org/abs/2402.13222) | https://github.com/cosmaadrian/rocode | 2024-02-20 |
 | INTERVENOR: Prompting the Coding Ability of Large Language Models with   the Interactive Chain of Repair | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2024-02-20 |
-| Dynamic Retrieval-Augmented Generation | [2312.08976](http://arxiv.org/abs/2312.08976) | None | 2024-02-20 |
-| RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our   Open-Source Dataset and Lightweight Solution | [2312.08617](http://arxiv.org/abs/2312.08617) | https://github.com/hkust-zhiyao/rtl-coder | 2024-02-20 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -144,8 +144,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | https://github.com/rmusab/vul-llm-finetune | 2024-02-29 |
 | LuaTaint: A Static Taint Analysis System for Web Interface Framework   Vulnerability of IoT Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-02-25 |
-| Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | https://github.com/rmusab/vul-llm-finetune | 2024-02-22 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 | LLbezpeky: Leveraging Large Language Models for Vulnerability Detection | [2401.01269](http://arxiv.org/abs/2401.01269) | None | 2024-02-13 |
 | ReposVul: A Repository-Level High-Quality Vulnerability Dataset | [2401.13169](http://arxiv.org/abs/2401.13169) | https://github.com/eshe0922/reposvul | 2024-02-08 |
@@ -180,6 +180,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Curiosity-driven Red-teaming for Large Language Models | [2402.19464](http://arxiv.org/abs/2402.19464) | https://github.com/improbable-ai/curiosity_redteam | 2024-02-29 |
+| ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL | [2402.19446](http://arxiv.org/abs/2402.19446) | https://github.com/yifeizhou02/archer | 2024-02-29 |
+| Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-02-29 |
+| PlanGPT: Enhancing Urban Planning with Tailored Language Model and   Efficient Retrieval | [2402.19273](http://arxiv.org/abs/2402.19273) | None | 2024-02-29 |
+| GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of   LLMs as Mathematical Problem Solvers | [2402.19255](http://arxiv.org/abs/2402.19255) | https://github.com/qtli/gsm-plus | 2024-02-29 |
+| Evaluating Psychological Safety of Large Language Models | [2212.10529](http://arxiv.org/abs/2212.10529) | None | 2024-02-29 |
+| Learning to Generate Explainable Stock Predictions using Self-Reflective   Large Language Models | [2402.03659](http://arxiv.org/abs/2402.03659) | https://github.com/koa-fin/sep | 2024-02-29 |
+| ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential   Behavior Comprehension in Recommendation | [2308.11131](http://arxiv.org/abs/2308.11131) | https://github.com/lavieenrose365/rella | 2024-02-29 |
+| OrchestraLLM: Efficient Orchestration of Language Models for Dialogue   State Tracking | [2311.09758](http://arxiv.org/abs/2311.09758) | None | 2024-02-28 |
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-02-28 |
 | Have Seen Me Before? Automating Dataset Updates Towards Reliable and   Timely Evaluation | [2402.11894](http://arxiv.org/abs/2402.11894) | None | 2024-02-28 |
 | BitDelta: Your Fine-Tune May Only Be Worth One Bit | [2402.10193](http://arxiv.org/abs/2402.10193) | https://github.com/FasterDecoding/BitDelta | 2024-02-28 |
@@ -201,15 +210,6 @@
 | ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable   Safety Detectors | [2402.16444](http://arxiv.org/abs/2402.16444) | https://github.com/thu-coai/shieldlm | 2024-02-26 |
 | RoCoIns: Enhancing Robustness of Large Language Models through   Code-Style Instructions | [2402.16431](http://arxiv.org/abs/2402.16431) | None | 2024-02-26 |
 | MathGenie: Generating Synthetic Data with Question Back-translation for   Enhancing Mathematical Reasoning of LLMs | [2402.16352](http://arxiv.org/abs/2402.16352) | None | 2024-02-26 |
-| HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination   Tendency of LLMs | [2402.16211](http://arxiv.org/abs/2402.16211) | None | 2024-02-25 |
-| LuaTaint: A Static Taint Analysis System for Web Interface Framework   Vulnerability of IoT Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-02-25 |
-| Art or Artifice? Large Language Models and the False Promise of   Creativity | [2309.14556](http://arxiv.org/abs/2309.14556) | None | 2024-02-25 |
-| Likelihood-based Mitigation of Evaluation Bias in Large Language Models | [2402.15987](http://arxiv.org/abs/2402.15987) | None | 2024-02-25 |
-| LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-02-25 |
-| Generalization or Memorization: Data Contamination and Trustworthy   Evaluation for Large Language Models | [2402.15938](http://arxiv.org/abs/2402.15938) | None | 2024-02-24 |
-| Evaluating the Performance of Large Language Models on GAOKAO Benchmark | [2305.12474](http://arxiv.org/abs/2305.12474) | https://github.com/openlmlab/gaokao-bench | 2024-02-24 |
-| Integrating large language models and active inference to understand eye   movements in reading and dyslexia | [2308.04941](http://arxiv.org/abs/2308.04941) | https://github.com/donnarumma/hai_language | 2024-02-24 |
-| RevOrder: A Novel Method for Enhanced Arithmetic in Language Models | [2402.03822](http://arxiv.org/abs/2402.03822) | None | 2024-02-24 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

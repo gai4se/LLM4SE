@@ -54,7 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-03-05 |
+| DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-03-06 |
+| Generative Explanations for Program Synthesizers | [2403.03429](http://arxiv.org/abs/2403.03429) | None | 2024-03-06 |
 | Entropy-Regularized Token-Level Policy Optimization for Large Language   Models | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-03-05 |
 | CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of   Code and Text | [2403.01784](http://arxiv.org/abs/2403.01784) | None | 2024-03-04 |
 | Improving LLM Code Generation with Grammar Augmentation | [2403.01632](http://arxiv.org/abs/2403.01632) | https://github.com/uiuc-focal-lab/syncode | 2024-03-03 |
@@ -84,7 +85,6 @@
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2024-02-23 |
 | Do Large Code Models Understand Programming Concepts? A Black-box   Approach | [2402.05980](http://arxiv.org/abs/2402.05980) | None | 2024-02-23 |
 | PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-02-23 |
-| Improving Code Generation by Training with Natural Language Feedback | [2303.16749](http://arxiv.org/abs/2303.16749) | https://github.com/nyu-mll/ILF-for-code-generation | 2024-02-22 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -144,6 +144,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | None | 2024-03-06 |
 | Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | https://github.com/rmusab/vul-llm-finetune | 2024-03-01 |
 | LuaTaint: A Static Taint Analysis System for Web Interface Framework   Vulnerability of IoT Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-02-25 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
@@ -174,12 +175,20 @@
 | DIVAS: An LLM-based End-to-End Framework for SoC Security Analysis and   Policy-based Protection | [2308.06932](http://arxiv.org/abs/2308.06932) | None | 2023-08-14 |
 | DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based   Vulnerability Detection | [2304.00409](http://arxiv.org/abs/2304.00409) | https://github.com/wagner-group/diversevul | 2023-08-09 |
 | SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
-| ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation | [2307.00588](http://arxiv.org/abs/2307.00588) | None | 2023-07-02 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | None | 2024-03-06 |
+| Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-03-06 |
+| Emojinize : Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-06 |
+| Evaluating the Elementary Multilingual Capabilities of Large Language   Models with MultiQ | [2403.03814](http://arxiv.org/abs/2403.03814) | None | 2024-03-06 |
+| PPTC-R benchmark: Towards Evaluating the Robustness of Large Language   Models for PowerPoint Task Completion | [2403.03788](http://arxiv.org/abs/2403.03788) | https://github.com/zekaigalaxy/pptcr | 2024-03-06 |
+| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | https://github.com/qizekun/ShapeLLM | 2024-03-06 |
+| A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation | [2403.03496](http://arxiv.org/abs/2403.03496) | None | 2024-03-06 |
+| GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models | [2402.03299](http://arxiv.org/abs/2402.03299) | None | 2024-03-06 |
+| SelectLLM: Can LLMs Select Important Instructions to Annotate? | [2401.16553](http://arxiv.org/abs/2401.16553) | https://github.com/minnesotanlp/select-llm | 2024-03-05 |
 | PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-05 |
 | Word Importance Explains How Prompts Affect Language Model Outputs | [2403.03028](http://arxiv.org/abs/2403.03028) | None | 2024-03-05 |
 | An Empirical Study of LLM-as-a-Judge for LLM Evaluation: Fine-tuned   Judge Models are Task-specific Classifiers | [2403.02839](http://arxiv.org/abs/2403.02839) | None | 2024-03-05 |
@@ -201,15 +210,6 @@
 | C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | https://github.com/kangmintong/c-rag | 2024-03-03 |
 | Enabling Intelligent Interactions between an Agent and an LLM: A   Reinforcement Learning Approach | [2306.03604](http://arxiv.org/abs/2306.03604) | https://github.com/zjlab-ammi/llm4rl | 2024-03-03 |
 | Word Embeddings Revisited: Do LLMs Offer Something New? | [2402.11094](http://arxiv.org/abs/2402.11094) | None | 2024-03-02 |
-| The Case for Animal-Friendly AI | [2403.01199](http://arxiv.org/abs/2403.01199) | None | 2024-03-02 |
-| ParallelPARC: A Scalable Pipeline for Generating Natural-Language   Analogies | [2403.01139](http://arxiv.org/abs/2403.01139) | https://github.com/orensul/parallelparc | 2024-03-02 |
-| AutoAttacker: A Large Language Model Guided System to Implement   Automatic Cyber-attacks | [2403.01038](http://arxiv.org/abs/2403.01038) | None | 2024-03-02 |
-| LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-03-02 |
-| LocalRQA: From Generating Data to Locally Training, Testing, and   Deploying Retrieval-Augmented QA Systems | [2403.00982](http://arxiv.org/abs/2403.00982) | None | 2024-03-01 |
-| AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge   Graph Construction Based on Ontologies-enhanced Large Language Models | [2403.00953](http://arxiv.org/abs/2403.00953) | None | 2024-03-01 |
-| Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents | [2403.00690](http://arxiv.org/abs/2403.00690) | None | 2024-03-01 |
-| CFMatch: Aligning Automated Answer Equivalence Evaluation with Expert   Judgments For Open-Domain Question Answering | [2401.13170](http://arxiv.org/abs/2401.13170) | https://github.com/zli12321/qa_metrics | 2024-03-01 |
-| TempCompass: Do Video LLMs Really Understand Videos? | [2403.00476](http://arxiv.org/abs/2403.00476) | https://github.com/llyx97/tempcompass | 2024-03-01 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

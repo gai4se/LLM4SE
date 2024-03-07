@@ -1,4 +1,4 @@
-## Updated on 2024.03.06
+## Updated on 2024.03.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,25 +66,25 @@
 | Compositional API Recommendation for Library-Oriented Code Generation | [2402.19431](http://arxiv.org/abs/2402.19431) | None | 2024-02-29 |
 | SEED: Customize Large Language Models with Sample-Efficient Adaptation   for Code Generation | [2403.00046](http://arxiv.org/abs/2403.00046) | None | 2024-02-29 |
 | StarCoder 2 and The Stack v2: The Next Generation | [2402.19173](http://arxiv.org/abs/2402.19173) | None | 2024-02-29 |
+| Unsupervised Information Refinement Training of Large Language Models   for Retrieval-Augmented Generation | [2402.18150](http://arxiv.org/abs/2402.18150) | https://github.com/xsc1234/info-rag | 2024-02-28 |
+| Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-02-28 |
+| OpenCodeInterpreter: Integrating Code Generation with Execution and   Refinement | [2402.14658](http://arxiv.org/abs/2402.14658) | None | 2024-02-28 |
 | Constrained Decoding for Code Language Models via Efficient Left and   Right Quotienting of Context-Sensitive Grammars | [2402.17988](http://arxiv.org/abs/2402.17988) | https://github.com/amazon-science/incremental-parsing | 2024-02-28 |
+| Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts   Against Open-source LLMs | [2402.14872](http://arxiv.org/abs/2402.14872) | None | 2024-02-27 |
+| DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | None | 2024-02-27 |
+| Ansible Lightspeed: A Code Generation Service for IT Automation | [2402.17442](http://arxiv.org/abs/2402.17442) | None | 2024-02-27 |
+| HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual   Natural Language Generalization | [2402.16694](http://arxiv.org/abs/2402.16694) | https://github.com/FloatAI/HumanEval-XL | 2024-02-26 |
+| RepoAgent: An LLM-Powered Open-Source Framework for Repository-level   Code Documentation Generation | [2402.16667](http://arxiv.org/abs/2402.16667) | https://github.com/openbmb/repoagent | 2024-02-26 |
 | CodeChameleon: Personalized Encryption Framework for Jailbreaking Large   Language Models | [2402.16717](http://arxiv.org/abs/2402.16717) | None | 2024-02-26 |
+| A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2024-02-25 |
+| RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis | [2402.16117](http://arxiv.org/abs/2402.16117) | None | 2024-02-25 |
+| SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-02-24 |
+| How Do Humans Write Code? Large Models Do It the Same Way Too | [2402.15729](http://arxiv.org/abs/2402.15729) | None | 2024-02-24 |
 | Enforcing Temporal Constraints on Generative Agent Behavior with   Reactive Synthesis | [2402.16905](http://arxiv.org/abs/2402.16905) | None | 2024-02-24 |
+| Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2024-02-23 |
 | Do Large Code Models Understand Programming Concepts? A Black-box   Approach | [2402.05980](http://arxiv.org/abs/2402.05980) | None | 2024-02-23 |
+| PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-02-23 |
 | Improving Code Generation by Training with Natural Language Feedback | [2303.16749](http://arxiv.org/abs/2303.16749) | https://github.com/nyu-mll/ILF-for-code-generation | 2024-02-22 |
-| CRITIC: Large Language Models Can Self-Correct with Tool-Interactive   Critiquing | [2305.11738](http://arxiv.org/abs/2305.11738) | https://github.com/zubingou/llm-agent-web-tools | 2024-02-21 |
-| HumanEval on Latest GPT Models -- 2024 | [2402.14852](http://arxiv.org/abs/2402.14852) | https://github.com/daniel442li/gpt-human-eval | 2024-02-20 |
-| Enhancing LLM-Based Coding Tools through Native Integration of   IDE-Derived Static Context | [2402.03630](http://arxiv.org/abs/2402.03630) | None | 2024-02-19 |
-| SwissNYF: Tool Grounded LLM Agents for Black Box Setting | [2402.10051](http://arxiv.org/abs/2402.10051) | https://github.com/iclr-dummy-user/swissnyf | 2024-02-15 |
-| EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | None | 2024-02-15 |
-| LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-02-12 |
-| Opening the AI black box: program synthesis via mechanistic   interpretability | [2402.05110](http://arxiv.org/abs/2402.05110) | https://github.com/ejmichaud/neural-verification | 2024-02-07 |
-| CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay | [2402.04858](http://arxiv.org/abs/2402.04858) | None | 2024-02-07 |
-| StepCoder: Improve Code Generation with Reinforcement Learning from   Compiler Feedback | [2402.01391](http://arxiv.org/abs/2402.01391) | https://github.com/ablustrund/apps_plus | 2024-02-05 |
-| Break the Sequential Dependency of LLM Inference Using Lookahead   Decoding | [2402.02057](http://arxiv.org/abs/2402.02057) | https://github.com/hao-ai-lab/lookaheaddecoding | 2024-02-03 |
-| ReGAL: Refactoring Programs to Discover Generalizable Abstractions | [2401.16467](http://arxiv.org/abs/2401.16467) | https://github.com/esteng/regal_program_learning | 2024-01-29 |
-| OMPGPT: A Generative Pre-trained Transformer Model for OpenMP | [2401.16445](http://arxiv.org/abs/2401.16445) | None | 2024-01-28 |
-| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-01-23 |
-| Analyzing the Effectiveness of Large Language Models on Text-to-SQL   Synthesis | [2401.12379](http://arxiv.org/abs/2401.12379) | https://github.com/cuplv/text-to-sql-wizardcoder | 2024-01-22 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

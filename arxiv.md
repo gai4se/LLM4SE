@@ -1,4 +1,4 @@
-## Updated on 2024.03.07
+## Updated on 2024.03.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -188,8 +188,8 @@
 | ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | https://github.com/qizekun/ShapeLLM | 2024-03-06 |
 | A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation | [2403.03496](http://arxiv.org/abs/2403.03496) | None | 2024-03-06 |
 | GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models | [2402.03299](http://arxiv.org/abs/2402.03299) | None | 2024-03-06 |
+| PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-06 |
 | SelectLLM: Can LLMs Select Important Instructions to Annotate? | [2401.16553](http://arxiv.org/abs/2401.16553) | https://github.com/minnesotanlp/select-llm | 2024-03-05 |
-| PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-05 |
 | Word Importance Explains How Prompts Affect Language Model Outputs | [2403.03028](http://arxiv.org/abs/2403.03028) | None | 2024-03-05 |
 | An Empirical Study of LLM-as-a-Judge for LLM Evaluation: Fine-tuned   Judge Models are Task-specific Classifiers | [2403.02839](http://arxiv.org/abs/2403.02839) | None | 2024-03-05 |
 | Exploring the Limitations of Large Language Models in Compositional   Relation Reasoning | [2403.02615](http://arxiv.org/abs/2403.02615) | None | 2024-03-05 |

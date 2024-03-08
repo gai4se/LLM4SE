@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ProMoAI: Process Modeling with Generative AI | [2403.04327](http://arxiv.org/abs/2403.04327) | None | 2024-03-07 |
+| AST-T5: Structure-Aware Pretraining for Code Generation and   Understanding | [2401.03003](http://arxiv.org/abs/2401.03003) | https://github.com/gonglinyuan/ast_t5 | 2024-03-07 |
+| Guiding Enumerative Program Synthesis with Large Language Models | [2403.03997](http://arxiv.org/abs/2403.03997) | None | 2024-03-06 |
 | DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-03-06 |
 | Generative Explanations for Program Synthesizers | [2403.03429](http://arxiv.org/abs/2403.03429) | None | 2024-03-06 |
 | Entropy-Regularized Token-Level Policy Optimization for Large Language   Models | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-03-05 |
@@ -82,16 +85,13 @@
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-02-24 |
 | How Do Humans Write Code? Large Models Do It the Same Way Too | [2402.15729](http://arxiv.org/abs/2402.15729) | None | 2024-02-24 |
 | Enforcing Temporal Constraints on Generative Agent Behavior with   Reactive Synthesis | [2402.16905](http://arxiv.org/abs/2402.16905) | None | 2024-02-24 |
-| Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2024-02-23 |
-| Do Large Code Models Understand Programming Concepts? A Black-box   Approach | [2402.05980](http://arxiv.org/abs/2402.05980) | None | 2024-02-23 |
-| PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-02-23 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-05 |
-| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-04 |
 | Software Testing with Large Language Models: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2024-03-04 |
 | When Large Language Models Confront Repository-Level Automatic Program   Repair: How Well They Done? | [2403.00448](http://arxiv.org/abs/2403.00448) | None | 2024-03-01 |
 | InstructCoder: Instruction Tuning Large Language Models for Code Editing | [2310.20329](http://arxiv.org/abs/2310.20329) | https://github.com/qishenghu/CodeInstruct | 2024-02-28 |
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-03-07 |
 | Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
 | Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
@@ -180,15 +181,22 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | None | 2024-03-07 |
+| Emojinize: Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-07 |
+| Sentiment-driven prediction of financial returns: a Bayesian-enhanced   FinBERT approach | [2403.04427](http://arxiv.org/abs/2403.04427) | None | 2024-03-07 |
+| Can LLMs Follow Simple Rules? | [2311.04235](http://arxiv.org/abs/2311.04235) | https://github.com/normster/llm_rules | 2024-03-07 |
+| Online Adaptation of Language Models with a Memory of Amortized Contexts | [2403.04317](http://arxiv.org/abs/2403.04317) | https://github.com/jihoontack/mac | 2024-03-07 |
+| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
+| Modeling User Viewing Flow Using Large Language Models for Article   Recommendation | [2311.07619](http://arxiv.org/abs/2311.07619) | None | 2024-03-07 |
 | Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | None | 2024-03-06 |
+| PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-06 |
+| Enhancing chest X-ray datasets with privacy-preserving large language   models and multi-type annotations: a data-driven approach for improved   classification | [2403.04024](http://arxiv.org/abs/2403.04024) | https://github.com/rsummers11/CADLab | 2024-03-06 |
 | Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-03-06 |
-| Emojinize : Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-06 |
 | Evaluating the Elementary Multilingual Capabilities of Large Language   Models with MultiQ | [2403.03814](http://arxiv.org/abs/2403.03814) | None | 2024-03-06 |
 | PPTC-R benchmark: Towards Evaluating the Robustness of Large Language   Models for PowerPoint Task Completion | [2403.03788](http://arxiv.org/abs/2403.03788) | https://github.com/zekaigalaxy/pptcr | 2024-03-06 |
 | ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | https://github.com/qizekun/ShapeLLM | 2024-03-06 |
 | A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation | [2403.03496](http://arxiv.org/abs/2403.03496) | None | 2024-03-06 |
 | GUARD: Role-playing to Generate Natural-language Jailbreakings to Test   Guideline Adherence of Large Language Models | [2402.03299](http://arxiv.org/abs/2402.03299) | None | 2024-03-06 |
-| PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-06 |
 | SelectLLM: Can LLMs Select Important Instructions to Annotate? | [2401.16553](http://arxiv.org/abs/2401.16553) | https://github.com/minnesotanlp/select-llm | 2024-03-05 |
 | Word Importance Explains How Prompts Affect Language Model Outputs | [2403.03028](http://arxiv.org/abs/2403.03028) | None | 2024-03-05 |
 | An Empirical Study of LLM-as-a-Judge for LLM Evaluation: Fine-tuned   Judge Models are Task-specific Classifiers | [2403.02839](http://arxiv.org/abs/2403.02839) | None | 2024-03-05 |
@@ -203,13 +211,6 @@
 | PHAnToM: Personality Has An Effect on Theory-of-Mind Reasoning in Large   Language Models | [2403.02246](http://arxiv.org/abs/2403.02246) | None | 2024-03-04 |
 | Large Language Model based Long-tail Query Rewriting in Taobao Search | [2311.03758](http://arxiv.org/abs/2311.03758) | None | 2024-03-04 |
 | Automated Generation of Multiple-Choice Cloze Questions for Assessing   English Vocabulary Using GPT-turbo 3.5 | [2403.02078](http://arxiv.org/abs/2403.02078) | None | 2024-03-04 |
-| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-04 |
-| Software Testing with Large Language Models: Survey, Landscape, and   Vision | [2307.07221](http://arxiv.org/abs/2307.07221) | None | 2024-03-04 |
-| Using LLMs for Tabletop Exercises within the Security Domain | [2403.01626](http://arxiv.org/abs/2403.01626) | None | 2024-03-03 |
-| Exploring Multimodal Large Language Models for Radiology Report   Error-checking | [2312.13103](http://arxiv.org/abs/2312.13103) | None | 2024-03-03 |
-| C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | https://github.com/kangmintong/c-rag | 2024-03-03 |
-| Enabling Intelligent Interactions between an Agent and an LLM: A   Reinforcement Learning Approach | [2306.03604](http://arxiv.org/abs/2306.03604) | https://github.com/zjlab-ammi/llm4rl | 2024-03-03 |
-| Word Embeddings Revisited: Do LLMs Offer Something New? | [2402.11094](http://arxiv.org/abs/2402.11094) | None | 2024-03-02 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

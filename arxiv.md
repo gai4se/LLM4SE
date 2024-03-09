@@ -145,7 +145,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | None | 2024-03-06 |
+| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | https://github.com/asmitaj08/fuzzingbusybox_llm | 2024-03-06 |
 | Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | https://github.com/rmusab/vul-llm-finetune | 2024-03-01 |
 | LuaTaint: A Static Taint Analysis System for Web Interface Framework   Vulnerability of IoT Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-02-25 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
@@ -181,14 +181,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | None | 2024-03-07 |
+| KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | https://github.com/adamcoscia/knowledgevis | 2024-03-07 |
 | Emojinize: Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-07 |
 | Sentiment-driven prediction of financial returns: a Bayesian-enhanced   FinBERT approach | [2403.04427](http://arxiv.org/abs/2403.04427) | None | 2024-03-07 |
 | Can LLMs Follow Simple Rules? | [2311.04235](http://arxiv.org/abs/2311.04235) | https://github.com/normster/llm_rules | 2024-03-07 |
 | Online Adaptation of Language Models with a Memory of Amortized Contexts | [2403.04317](http://arxiv.org/abs/2403.04317) | https://github.com/jihoontack/mac | 2024-03-07 |
 | ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
 | Modeling User Viewing Flow Using Large Language Models for Article   Recommendation | [2311.07619](http://arxiv.org/abs/2311.07619) | None | 2024-03-07 |
-| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | None | 2024-03-06 |
+| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | https://github.com/asmitaj08/fuzzingbusybox_llm | 2024-03-06 |
 | PARADISE: Evaluating Implicit Planning Skills of Language Models with   Procedural Warnings and Tips Dataset | [2403.03167](http://arxiv.org/abs/2403.03167) | https://github.com/gglab-ku/paradise | 2024-03-06 |
 | Enhancing chest X-ray datasets with privacy-preserving large language   models and multi-type annotations: a data-driven approach for improved   classification | [2403.04024](http://arxiv.org/abs/2403.04024) | https://github.com/rsummers11/CADLab | 2024-03-06 |
 | Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-03-06 |

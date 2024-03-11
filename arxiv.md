@@ -1,4 +1,4 @@
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -181,10 +181,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can LLMs Follow Simple Rules? | [2311.04235](http://arxiv.org/abs/2311.04235) | https://github.com/normster/llm_rules | 2024-03-08 |
 | KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | https://github.com/adamcoscia/knowledgevis | 2024-03-07 |
 | Emojinize: Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-07 |
 | Sentiment-driven prediction of financial returns: a Bayesian-enhanced   FinBERT approach | [2403.04427](http://arxiv.org/abs/2403.04427) | None | 2024-03-07 |
-| Can LLMs Follow Simple Rules? | [2311.04235](http://arxiv.org/abs/2311.04235) | https://github.com/normster/llm_rules | 2024-03-07 |
 | Online Adaptation of Language Models with a Memory of Amortized Contexts | [2403.04317](http://arxiv.org/abs/2403.04317) | https://github.com/jihoontack/mac | 2024-03-07 |
 | ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
 | Modeling User Viewing Flow Using Large Language Models for Article   Recommendation | [2311.07619](http://arxiv.org/abs/2311.07619) | None | 2024-03-07 |

@@ -54,8 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in   Long-Horizon Generation | [2403.05313](http://arxiv.org/abs/2403.05313) | None | 2024-03-08 |
 | ProMoAI: Process Modeling with Generative AI | [2403.04327](http://arxiv.org/abs/2403.04327) | None | 2024-03-07 |
 | AST-T5: Structure-Aware Pretraining for Code Generation and   Understanding | [2401.03003](http://arxiv.org/abs/2401.03003) | https://github.com/gonglinyuan/ast_t5 | 2024-03-07 |
+| Quantifying Contamination in Evaluating Code Generation Capabilities of   Language Models | [2403.04811](http://arxiv.org/abs/2403.04811) | https://github.com/yale-nlp/code-llm-contamination | 2024-03-06 |
 | Guiding Enumerative Program Synthesis with Large Language Models | [2403.03997](http://arxiv.org/abs/2403.03997) | None | 2024-03-06 |
 | DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-03-06 |
 | Generative Explanations for Program Synthesizers | [2403.03429](http://arxiv.org/abs/2403.03429) | None | 2024-03-06 |
@@ -83,8 +85,6 @@
 | A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis | [2307.12856](http://arxiv.org/abs/2307.12856) | None | 2024-02-25 |
 | RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis | [2402.16117](http://arxiv.org/abs/2402.16117) | None | 2024-02-25 |
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-02-24 |
-| How Do Humans Write Code? Large Models Do It the Same Way Too | [2402.15729](http://arxiv.org/abs/2402.15729) | None | 2024-02-24 |
-| Enforcing Temporal Constraints on Generative Agent Behavior with   Reactive Synthesis | [2402.16905](http://arxiv.org/abs/2402.16905) | None | 2024-02-24 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -182,6 +182,10 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Can LLMs Follow Simple Rules? | [2311.04235](http://arxiv.org/abs/2311.04235) | https://github.com/normster/llm_rules | 2024-03-08 |
+| Art or Artifice? Large Language Models and the False Promise of   Creativity | [2309.14556](http://arxiv.org/abs/2309.14556) | None | 2024-03-08 |
+| Can't Remember Details in Long Documents? You Need Some R&R | [2403.05004](http://arxiv.org/abs/2403.05004) | https://github.com/casetext/r-and-r | 2024-03-08 |
+| SecGPT: An Execution Isolation Architecture for LLM-Based Systems | [2403.04960](http://arxiv.org/abs/2403.04960) | None | 2024-03-08 |
+| Automatic and Universal Prompt Injection Attacks against Large Language   Models | [2403.04957](http://arxiv.org/abs/2403.04957) | https://github.com/sheltonliu-n/universal-prompt-injection | 2024-03-07 |
 | KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | https://github.com/adamcoscia/knowledgevis | 2024-03-07 |
 | Emojinize: Enriching Any Text with Emoji Translations | [2403.03857](http://arxiv.org/abs/2403.03857) | None | 2024-03-07 |
 | Sentiment-driven prediction of financial returns: a Bayesian-enhanced   FinBERT approach | [2403.04427](http://arxiv.org/abs/2403.04427) | None | 2024-03-07 |
@@ -207,10 +211,6 @@
 | LLM-based Smart Reply (LSR): Enhancing Collaborative Performance with   ChatGPT-mediated Smart Reply System | [2306.11980](http://arxiv.org/abs/2306.11980) | None | 2024-03-04 |
 | The Ink Splotch Effect: A Case Study on ChatGPT as a Co-Creative Game   Designer | [2403.02454](http://arxiv.org/abs/2403.02454) | None | 2024-03-04 |
 | Exploring the psychology of LLMs' Moral and Legal Reasoning | [2308.01264](http://arxiv.org/abs/2308.01264) | None | 2024-03-04 |
-| Key-Point-Driven Data Synthesis with its Enhancement on Mathematical   Reasoning | [2403.02333](http://arxiv.org/abs/2403.02333) | None | 2024-03-04 |
-| PHAnToM: Personality Has An Effect on Theory-of-Mind Reasoning in Large   Language Models | [2403.02246](http://arxiv.org/abs/2403.02246) | None | 2024-03-04 |
-| Large Language Model based Long-tail Query Rewriting in Taobao Search | [2311.03758](http://arxiv.org/abs/2311.03758) | None | 2024-03-04 |
-| Automated Generation of Multiple-Choice Cloze Questions for Assessing   English Vocabulary Using GPT-turbo 3.5 | [2403.02078](http://arxiv.org/abs/2403.02078) | None | 2024-03-04 |
 | CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

@@ -584,6 +584,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+|2024  | [Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf) |
 | 2023 | [A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/pdf/2305.03803.pdf)  |
 | 2023 | [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396) |
 | 2023 | [A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends](https://arxiv.org/abs/2311.10372) |
@@ -598,7 +599,6 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year-Id | Title                                                                                                                                                                     | Venue Name |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-|2024-1        |[Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf)      |Arxiv      |
 |2023-33        |[Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests.](https://doi.org/10.1109/TSE.2022.3201209)      |TSE      |
 |2023-32        |[Do Pretrained Language Models Indeed Understand Software Engineering Tasks?](https://doi.org/10.1109/TSE.2023.3308952) |TSE     |
 |2023-31        |[CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.](https://doi.org/10.1109/ICSE48619.2023.00085)  |ICSE   |

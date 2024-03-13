@@ -55,6 +55,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | BizBench: A Quantitative Reasoning Benchmark for Business and Finance | [2311.06602](http://arxiv.org/abs/2311.06602) | None | 2024-03-12 |
+| On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-03-12 |
 | Materials science in the era of large language models: a perspective | [2403.06949](http://arxiv.org/abs/2403.06949) | None | 2024-03-11 |
 | Poisoning Programs by Un-Repairing Code: Security Concerns of   AI-generated Code | [2403.06675](http://arxiv.org/abs/2403.06675) | None | 2024-03-11 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2024-03-11 |
@@ -84,12 +85,12 @@
 | Test-Case-Driven Programming Understanding in Large Language Models for   Better Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-02-28 |
 | OpenCodeInterpreter: Integrating Code Generation with Execution and   Refinement | [2402.14658](http://arxiv.org/abs/2402.14658) | None | 2024-02-28 |
 | Constrained Decoding for Code Language Models via Efficient Left and   Right Quotienting of Context-Sensitive Grammars | [2402.17988](http://arxiv.org/abs/2402.17988) | https://github.com/amazon-science/incremental-parsing | 2024-02-28 |
-| Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts   Against Open-source LLMs | [2402.14872](http://arxiv.org/abs/2402.14872) | None | 2024-02-27 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multi-LLM Collaboration + Data-Centric Innovation = 2x Better   Vulnerability Repair | [2401.15459](http://arxiv.org/abs/2401.15459) | None | 2024-03-12 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-03-11 |
 | ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-05 |
@@ -120,7 +121,6 @@
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in   Code Models | [2310.01166](http://arxiv.org/abs/2310.01166) | None | 2023-10-02 |
 | Frustrated with Code Quality Issues? LLMs can Help! | [2309.12938](http://arxiv.org/abs/2309.12938) | None | 2023-09-22 |
-| CodePlan: Repository-level Coding using LLMs and Planning | [2309.12499](http://arxiv.org/abs/2309.12499) | None | 2023-09-21 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -181,8 +181,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-03-12 |
 | MEND: Meta dEmonstratioN Distillation for Efficient and Effective   In-Context Learning | [2403.06914](http://arxiv.org/abs/2403.06914) | None | 2024-03-12 |
-| CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | None | 2024-03-12 |
+| CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-12 |
+| Towards Graph Foundation Models for Personalization | [2403.07478](http://arxiv.org/abs/2403.07478) | None | 2024-03-12 |
 | Hybrid Human-LLM Corpus Construction and LLM Evaluation for Rare   Linguistic Phenomena | [2403.06965](http://arxiv.org/abs/2403.06965) | None | 2024-03-11 |
 | Exploring Large Language Models and Hierarchical Frameworks for   Classification of Large Unstructured Legal Documents | [2403.06872](http://arxiv.org/abs/2403.06872) | None | 2024-03-11 |
 | Can LLMs Separate Instructions From Data? And What Do We Even Mean By   That? | [2403.06833](http://arxiv.org/abs/2403.06833) | https://github.com/egozverev/shold-it-be-executed-or-processed | 2024-03-11 |
@@ -209,8 +211,6 @@
 | Art or Artifice? Large Language Models and the False Promise of   Creativity | [2309.14556](http://arxiv.org/abs/2309.14556) | None | 2024-03-08 |
 | Can't Remember Details in Long Documents? You Need Some R&R | [2403.05004](http://arxiv.org/abs/2403.05004) | https://github.com/casetext/r-and-r | 2024-03-08 |
 | SecGPT: An Execution Isolation Architecture for LLM-Based Systems | [2403.04960](http://arxiv.org/abs/2403.04960) | https://github.com/llm-platform-security/secgpt | 2024-03-08 |
-| Automatic and Universal Prompt Injection Attacks against Large Language   Models | [2403.04957](http://arxiv.org/abs/2403.04957) | https://github.com/sheltonliu-n/universal-prompt-injection | 2024-03-07 |
-| KnowledgeVIS: Interpreting Language Models by Comparing   Fill-in-the-Blank Prompts | [2403.04758](http://arxiv.org/abs/2403.04758) | https://github.com/adamcoscia/knowledgevis | 2024-03-07 |
 | Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | https://github.com/asmitaj08/fuzzingbusybox_llm | 2024-03-06 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

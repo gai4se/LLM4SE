@@ -54,8 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-14 |
 | LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-14 |
+| CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2024-03-14 |
+| KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-14 |
+| Bugs in Large Language Models Generated Code | [2403.08937](http://arxiv.org/abs/2403.08937) | https://github.com/flowss/bugsinllms | 2024-03-13 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
@@ -83,8 +85,6 @@
 | CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of   Code and Text | [2403.01784](http://arxiv.org/abs/2403.01784) | None | 2024-03-04 |
 | Improving LLM Code Generation with Grammar Augmentation | [2403.01632](http://arxiv.org/abs/2403.01632) | https://github.com/uiuc-focal-lab/syncode | 2024-03-03 |
 | MELA: Multilingual Evaluation of Linguistic Acceptability | [2311.09033](http://arxiv.org/abs/2311.09033) | None | 2024-03-03 |
-| A systematic evaluation of large language models for generating   programming code | [2403.00894](http://arxiv.org/abs/2403.00894) | None | 2024-03-01 |
-| CoPrompt: Supporting Prompt Sharing and Referring in Collaborative   Natural Language Programming | [2310.09235](http://arxiv.org/abs/2310.09235) | None | 2024-03-01 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -181,9 +181,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | None | 2024-03-14 |
 | CacheGen: Fast Context Loading for Language Model Applications via KV   Cache Streaming | [2310.07240](http://arxiv.org/abs/2310.07240) | None | 2024-03-14 |
 | Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-03-14 |
+| Learning New Tasks from a Few Examples with Soft-Label Prototypes | [2210.17437](http://arxiv.org/abs/2210.17437) | https://github.com/avyavkumar/few-shot-learning-notebooks | 2024-03-14 |
+| Executing Natural Language-Described Algorithms with Large Language   Models: An Investigation | [2403.00795](http://arxiv.org/abs/2403.00795) | https://github.com/MrZhengXin/natural_language_program | 2024-03-14 |
+| Plum: Prompt Learning using Metaheuristic | [2311.08364](http://arxiv.org/abs/2311.08364) | https://github.com/research4pan/plum | 2024-03-14 |
+| Unveiling the Generalization Power of Fine-Tuned Large Language Models | [2403.09162](http://arxiv.org/abs/2403.09162) | https://github.com/lhryang/generalization_of_ft-llm | 2024-03-14 |
+| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | None | 2024-03-14 |
+| Large Language Models are Parallel Multilingual Learners | [2403.09073](http://arxiv.org/abs/2403.09073) | None | 2024-03-14 |
+| PAPERCLIP: Associating Astronomical Observations and Natural Language   with Multi-Modal Models | [2403.08851](http://arxiv.org/abs/2403.08851) | https://github.com/smsharma/paperclip-hubble | 2024-03-13 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | Non-discrimination Criteria for Generative Language Models | [2403.08564](http://arxiv.org/abs/2403.08564) | None | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
@@ -205,13 +211,7 @@
 | Elephants Never Forget: Testing Language Models for Memorization of   Tabular Data | [2403.06644](http://arxiv.org/abs/2403.06644) | https://github.com/interpretml/llm-tabular-memorization-checker | 2024-03-11 |
 | Academically intelligent LLMs are not necessarily socially intelligent | [2403.06591](http://arxiv.org/abs/2403.06591) | https://github.com/rossixu/social_intelligence_of_llms | 2024-03-11 |
 | Unraveling the Mystery of Scaling Laws: Part I | [2403.06563](http://arxiv.org/abs/2403.06563) | None | 2024-03-11 |
-| CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2024-03-11 |
-| Unveiling Project-Specific Bias in Neural Code Models | [2201.07381](http://arxiv.org/abs/2201.07381) | None | 2024-03-11 |
-| InstructDET: Diversifying Referring Object Detection with Generalized   Instructions | [2310.05136](http://arxiv.org/abs/2310.05136) | https://github.com/jyfenggogo/instructdet | 2024-03-11 |
-| Effective Large Language Model Adaptation for Improved Grounding and   Citation Generation | [2311.09533](http://arxiv.org/abs/2311.09533) | None | 2024-03-11 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2024-03-10 |
-| Are You Being Tracked? Discover the Power of Zero-Shot Trajectory   Tracing with LLMs! | [2403.06201](http://arxiv.org/abs/2403.06201) | None | 2024-03-10 |
-| Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | https://github.com/asmitaj08/fuzzingbusybox_llm | 2024-03-06 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

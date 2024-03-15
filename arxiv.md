@@ -1,4 +1,4 @@
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-14 |
+| LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-14 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
@@ -61,7 +63,6 @@
 | CleanAgent: Automating Data Standardization with LLM-based Agents | [2403.08291](http://arxiv.org/abs/2403.08291) | https://github.com/sfu-db/CleanAgent | 2024-03-13 |
 | LiveCodeBench: Holistic and Contamination Free Evaluation of Large   Language Models for Code | [2403.07974](http://arxiv.org/abs/2403.07974) | None | 2024-03-12 |
 | BizBench: A Quantitative Reasoning Benchmark for Business and Finance | [2311.06602](http://arxiv.org/abs/2311.06602) | None | 2024-03-12 |
-| KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-12 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-03-12 |
 | Materials science in the era of large language models: a perspective | [2403.06949](http://arxiv.org/abs/2403.06949) | None | 2024-03-11 |
 | Poisoning Programs by Un-Repairing Code: Security Concerns of   AI-generated Code | [2403.06675](http://arxiv.org/abs/2403.06675) | None | 2024-03-11 |
@@ -84,7 +85,6 @@
 | MELA: Multilingual Evaluation of Linguistic Acceptability | [2311.09033](http://arxiv.org/abs/2311.09033) | None | 2024-03-03 |
 | A systematic evaluation of large language models for generating   programming code | [2403.00894](http://arxiv.org/abs/2403.00894) | None | 2024-03-01 |
 | CoPrompt: Supporting Prompt Sharing and Referring in Collaborative   Natural Language Programming | [2310.09235](http://arxiv.org/abs/2310.09235) | None | 2024-03-01 |
-| Semi-Instruct: Bridging Natural-Instruct and Self-Instruct for Code   Large Language Models | [2403.00338](http://arxiv.org/abs/2403.00338) | None | 2024-03-01 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -181,18 +181,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | None | 2024-03-14 |
+| CacheGen: Fast Context Loading for Language Model Applications via KV   Cache Streaming | [2310.07240](http://arxiv.org/abs/2310.07240) | None | 2024-03-14 |
+| Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-03-14 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | Non-discrimination Criteria for Generative Language Models | [2403.08564](http://arxiv.org/abs/2403.08564) | None | 2024-03-13 |
-| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | None | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
 | Open-Vocabulary Video Anomaly Detection | [2311.07042](http://arxiv.org/abs/2311.07042) | None | 2024-03-13 |
 | System for systematic literature review using multiple AI agents:   Concept and an empirical evaluation | [2403.08399](http://arxiv.org/abs/2403.08399) | None | 2024-03-13 |
 | Towards Personalized Evaluation of Large Language Models with An   Anonymous Crowd-Sourcing Platform | [2403.08305](http://arxiv.org/abs/2403.08305) | None | 2024-03-13 |
-| CacheGen: Fast Context Loading for Language Model Applications via KV   Cache Streaming | [2310.07240](http://arxiv.org/abs/2310.07240) | None | 2024-03-13 |
 | Interactive Navigation in Environments with Traversable Obstacles Using   Large Language and Vision-Language Models | [2310.08873](http://arxiv.org/abs/2310.08873) | None | 2024-03-13 |
 | SmartPlay: A Benchmark for LLMs as Intelligent Agents | [2310.01557](http://arxiv.org/abs/2310.01557) | https://github.com/microsoft/smartplay | 2024-03-13 |
 | LiveCodeBench: Holistic and Contamination Free Evaluation of Large   Language Models for Code | [2403.07974](http://arxiv.org/abs/2403.07974) | None | 2024-03-12 |
-| Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-03-12 |
 | MEND: Meta dEmonstratioN Distillation for Efficient and Effective   In-Context Learning | [2403.06914](http://arxiv.org/abs/2403.06914) | None | 2024-03-12 |
 | CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-12 |
 | Towards Graph Foundation Models for Personalization | [2403.07478](http://arxiv.org/abs/2403.07478) | None | 2024-03-12 |

@@ -1,4 +1,4 @@
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,11 +54,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-14 |
+| LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-15 |
+| DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-15 |
 | CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2024-03-14 |
 | KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-14 |
 | Bugs in Large Language Models Generated Code | [2403.08937](http://arxiv.org/abs/2403.08937) | https://github.com/flowss/bugsinllms | 2024-03-13 |
-| DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
 | A Picture Is Worth a Thousand Words: Exploring Diagram and Video-Based   OOP Exercises to Counter LLM Over-Reliance | [2403.08396](http://arxiv.org/abs/2403.08396) | None | 2024-03-13 |
@@ -181,6 +181,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-15 |
+| CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-15 |
 | CacheGen: Fast Context Loading for Language Model Applications via KV   Cache Streaming | [2310.07240](http://arxiv.org/abs/2310.07240) | None | 2024-03-14 |
 | Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-03-14 |
 | Learning New Tasks from a Few Examples with Soft-Label Prototypes | [2210.17437](http://arxiv.org/abs/2210.17437) | https://github.com/avyavkumar/few-shot-learning-notebooks | 2024-03-14 |
@@ -190,7 +192,6 @@
 | Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | None | 2024-03-14 |
 | Large Language Models are Parallel Multilingual Learners | [2403.09073](http://arxiv.org/abs/2403.09073) | https://github.com/takagi97/llms-are-parallel-multilingual-learners | 2024-03-14 |
 | PAPERCLIP: Associating Astronomical Observations and Natural Language   with Multi-Modal Models | [2403.08851](http://arxiv.org/abs/2403.08851) | https://github.com/smsharma/paperclip-hubble | 2024-03-13 |
-| DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | None | 2024-03-13 |
 | Non-discrimination Criteria for Generative Language Models | [2403.08564](http://arxiv.org/abs/2403.08564) | None | 2024-03-13 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
 | Open-Vocabulary Video Anomaly Detection | [2311.07042](http://arxiv.org/abs/2311.07042) | None | 2024-03-13 |
@@ -200,7 +201,6 @@
 | SmartPlay: A Benchmark for LLMs as Intelligent Agents | [2310.01557](http://arxiv.org/abs/2310.01557) | https://github.com/microsoft/smartplay | 2024-03-13 |
 | LiveCodeBench: Holistic and Contamination Free Evaluation of Large   Language Models for Code | [2403.07974](http://arxiv.org/abs/2403.07974) | None | 2024-03-12 |
 | MEND: Meta dEmonstratioN Distillation for Efficient and Effective   In-Context Learning | [2403.06914](http://arxiv.org/abs/2403.06914) | https://github.com/bigheiniu/mend | 2024-03-12 |
-| CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-12 |
 | Towards Graph Foundation Models for Personalization | [2403.07478](http://arxiv.org/abs/2403.07478) | None | 2024-03-12 |
 | Hybrid Human-LLM Corpus Construction and LLM Evaluation for Rare   Linguistic Phenomena | [2403.06965](http://arxiv.org/abs/2403.06965) | None | 2024-03-11 |
 | Exploring Large Language Models and Hierarchical Frameworks for   Classification of Large Unstructured Legal Documents | [2403.06872](http://arxiv.org/abs/2403.06872) | None | 2024-03-11 |

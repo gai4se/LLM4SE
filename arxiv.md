@@ -1,4 +1,4 @@
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling   Capacities of Large Language Models | [2309.13345](http://arxiv.org/abs/2309.13345) | https://github.com/rucaibox/bamboo | 2024-03-17 |
+| RepoHyper: Better Context Retrieval Is All You Need for Repository-Level   Code Completion | [2403.06095](http://arxiv.org/abs/2403.06095) | None | 2024-03-16 |
 | LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-15 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | https://github.com/open-compass/devbench | 2024-03-15 |
 | Grounding Data Science Code Generation with Input-Output Specifications | [2402.08073](http://arxiv.org/abs/2402.08073) | None | 2024-03-15 |
@@ -73,7 +75,6 @@
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2024-03-10 |
 | LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-03-10 |
 | Explaining Code with a Purpose: An Integrated Approach for Developing   Code Comprehension and Prompting Skills | [2403.06050](http://arxiv.org/abs/2403.06050) | None | 2024-03-10 |
-| RepoHyper: Better Context Retrieval Is All You Need for Repository-Level   Code Completion | [2403.06095](http://arxiv.org/abs/2403.06095) | None | 2024-03-10 |
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2024-03-09 |
 | RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in   Long-Horizon Generation | [2403.05313](http://arxiv.org/abs/2403.05313) | None | 2024-03-08 |
 | ProMoAI: Process Modeling with Generative AI | [2403.04327](http://arxiv.org/abs/2403.04327) | None | 2024-03-07 |
@@ -84,7 +85,6 @@
 | Generative Explanations for Program Synthesizers | [2403.03429](http://arxiv.org/abs/2403.03429) | None | 2024-03-06 |
 | Entropy-Regularized Token-Level Policy Optimization for Large Language   Models | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-03-05 |
 | CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of   Code and Text | [2403.01784](http://arxiv.org/abs/2403.01784) | None | 2024-03-04 |
-| Improving LLM Code Generation with Grammar Augmentation | [2403.01632](http://arxiv.org/abs/2403.01632) | https://github.com/uiuc-focal-lab/syncode | 2024-03-03 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

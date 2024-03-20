@@ -1,4 +1,4 @@
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,9 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling   Capacities of Large Language Models | [2309.13345](http://arxiv.org/abs/2309.13345) | https://github.com/rucaibox/bamboo | 2024-03-19 |
 | Linguacodus: A Synergistic Framework for Transformative Code Generation   in Machine Learning Pipelines | [2403.11585](http://arxiv.org/abs/2403.11585) | None | 2024-03-18 |
 | Bugs in Large Language Models Generated Code: An Empirical Study | [2403.08937](http://arxiv.org/abs/2403.08937) | https://github.com/flowss/bugsinllms | 2024-03-18 |
-| BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling   Capacities of Large Language Models | [2309.13345](http://arxiv.org/abs/2309.13345) | https://github.com/rucaibox/bamboo | 2024-03-17 |
+| $\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program   Synthesis | [2310.03173](http://arxiv.org/abs/2310.03173) | None | 2024-03-18 |
 | Can ChatGPT Support Developers? An Empirical Evaluation of Large   Language Models for Code Generation | [2402.11702](http://arxiv.org/abs/2402.11702) | None | 2024-03-16 |
 | RepoHyper: Better Context Retrieval Is All You Need for Repository-Level   Code Completion | [2403.06095](http://arxiv.org/abs/2403.06095) | https://github.com/fsoft-ai4code/repohyper | 2024-03-16 |
 | LILO: Learning Interpretable Libraries by Compressing and Documenting   Code | [2310.19791](http://arxiv.org/abs/2310.19791) | https://github.com/gabegrand/lilo | 2024-03-15 |
@@ -84,7 +85,6 @@
 | Quantifying Contamination in Evaluating Code Generation Capabilities of   Language Models | [2403.04811](http://arxiv.org/abs/2403.04811) | https://github.com/yale-nlp/code-llm-contamination | 2024-03-06 |
 | Guiding Enumerative Program Synthesis with Large Language Models | [2403.03997](http://arxiv.org/abs/2403.03997) | None | 2024-03-06 |
 | DevEval: Evaluating Code Generation in Practical Software Projects | [2401.06401](http://arxiv.org/abs/2401.06401) | None | 2024-03-06 |
-| Generative Explanations for Program Synthesizers | [2403.03429](http://arxiv.org/abs/2403.03429) | None | 2024-03-06 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -182,6 +182,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large Language Models to Generate System-Level Test Programs Targeting   Non-functional Properties | [2403.10086](http://arxiv.org/abs/2403.10086) | None | 2024-03-19 |
 | StyleChat: Learning Recitation-Augmented Memory in LLMs for Stylized   Dialogue Generation | [2403.11439](http://arxiv.org/abs/2403.11439) | None | 2024-03-18 |
 | On the Detectability of ChatGPT Content: Benchmarking, Methodology, and   Evaluation through the Lens of Academic Writing | [2306.05524](http://arxiv.org/abs/2306.05524) | https://github.com/liuzey/CheckGPT | 2024-03-18 |
 | SmartPlay: A Benchmark for LLMs as Intelligent Agents | [2310.01557](http://arxiv.org/abs/2310.01557) | https://github.com/microsoft/smartplay | 2024-03-17 |
@@ -197,7 +198,6 @@
 | Large Language Model-informed ECG Dual Attention Network for Heart   Failure Risk Prediction | [2403.10581](http://arxiv.org/abs/2403.10581) | None | 2024-03-15 |
 | DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | https://github.com/open-compass/devbench | 2024-03-15 |
 | CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-15 |
-| Large Language Models to Generate System-Level Test Programs Targeting   Non-functional Properties | [2403.10086](http://arxiv.org/abs/2403.10086) | None | 2024-03-15 |
 | Kosmos-G: Generating Images in Context with Multimodal Large Language   Models | [2310.02992](http://arxiv.org/abs/2310.02992) | https://github.com/microsoft/unilm/tree/master/kosmos-g | 2024-03-15 |
 | ViTCN: Vision Transformer Contrastive Network For Reasoning | [2403.09962](http://arxiv.org/abs/2403.09962) | None | 2024-03-15 |
 | Reality Bites: Assessing the Realism of Driving Scenarios with Large   Language Models | [2403.09906](http://arxiv.org/abs/2403.09906) | None | 2024-03-14 |

@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CONLINE: Complex Code Generation and Refinement with Online Searching   and Correctness Testing | [2403.13583](http://arxiv.org/abs/2403.13583) | None | 2024-03-20 |
+| Enhancing Code Generation Performance of Smaller Models by Distilling   the Reasoning Ability of LLMs | [2403.13271](http://arxiv.org/abs/2403.13271) | None | 2024-03-20 |
+| A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
 | MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific   Data Visualization | [2402.11453](http://arxiv.org/abs/2402.11453) | https://github.com/thunlp/matplotagent | 2024-03-19 |
 | Enhancing Formal Theorem Proving: A Comprehensive Dataset for Training   AI Models on Coq Code | [2403.12627](http://arxiv.org/abs/2403.12627) | None | 2024-03-19 |
 | BAMBOO: A Comprehensive Benchmark for Evaluating Long Text Modeling   Capacities of Large Language Models | [2309.13345](http://arxiv.org/abs/2309.13345) | https://github.com/rucaibox/bamboo | 2024-03-19 |
@@ -77,20 +80,18 @@
 | Materials science in the era of large language models: a perspective | [2403.06949](http://arxiv.org/abs/2403.06949) | None | 2024-03-11 |
 | Poisoning Programs by Un-Repairing Code: Security Concerns of   AI-generated Code | [2403.06675](http://arxiv.org/abs/2403.06675) | None | 2024-03-11 |
 | CodeApex: A Bilingual Programming Evaluation Benchmark for Large   Language Models | [2309.01940](http://arxiv.org/abs/2309.01940) | https://github.com/apexlab/codeapex | 2024-03-11 |
+| Prompt Selection and Augmentation for Few Examples Code Generation in   Large Language Model and its Application in Robotics Control | [2403.12999](http://arxiv.org/abs/2403.12999) | None | 2024-03-11 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2024-03-10 |
 | LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-03-10 |
 | Explaining Code with a Purpose: An Integrated Approach for Developing   Code Comprehension and Prompting Skills | [2403.06050](http://arxiv.org/abs/2403.06050) | None | 2024-03-10 |
 | Large Language Models as Analogical Reasoners | [2310.01714](http://arxiv.org/abs/2310.01714) | None | 2024-03-09 |
-| RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in   Long-Horizon Generation | [2403.05313](http://arxiv.org/abs/2403.05313) | None | 2024-03-08 |
-| ProMoAI: Process Modeling with Generative AI | [2403.04327](http://arxiv.org/abs/2403.04327) | None | 2024-03-07 |
-| AST-T5: Structure-Aware Pretraining for Code Generation and   Understanding | [2401.03003](http://arxiv.org/abs/2401.03003) | https://github.com/gonglinyuan/ast_t5 | 2024-03-07 |
-| Quantifying Contamination in Evaluating Code Generation Capabilities of   Language Models | [2403.04811](http://arxiv.org/abs/2403.04811) | https://github.com/yale-nlp/code-llm-contamination | 2024-03-06 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
+| A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
 | Multi-LLM Collaboration + Data-Centric Innovation = 2x Better   Vulnerability Repair | [2401.15459](http://arxiv.org/abs/2401.15459) | None | 2024-03-12 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-03-11 |
 | ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
@@ -120,7 +121,6 @@
 | Teaching Large Language Models to Self-Debug | [2304.05128](http://arxiv.org/abs/2304.05128) | None | 2023-10-05 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in   Code Models | [2310.01166](http://arxiv.org/abs/2310.01166) | None | 2023-10-02 |
-| Frustrated with Code Quality Issues? LLMs can Help! | [2309.12938](http://arxiv.org/abs/2309.12938) | None | 2023-09-22 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -182,9 +182,21 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Learning from Models and Data for Visual Grounding | [2403.13804](http://arxiv.org/abs/2403.13804) | None | 2024-03-20 |
+| Having Beer after Prayer? Measuring Cultural Bias in Large Language   Models | [2305.14456](http://arxiv.org/abs/2305.14456) | None | 2024-03-20 |
+| HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models | [2309.02706](http://arxiv.org/abs/2309.02706) | https://github.com/haetae-project/hae-rae-bench | 2024-03-20 |
+| CONLINE: Complex Code Generation and Refinement with Online Searching   and Correctness Testing | [2403.13583](http://arxiv.org/abs/2403.13583) | None | 2024-03-20 |
+| A Large Language Model Enhanced Sequential Recommender for Joint Video   and Comment Recommendation | [2403.13574](http://arxiv.org/abs/2403.13574) | None | 2024-03-20 |
+| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-20 |
+| Adaptive Ensembles of Fine-Tuned Transformers for LLM-Generated Text   Detection | [2403.13335](http://arxiv.org/abs/2403.13335) | None | 2024-03-20 |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
+| Facilitating Pornographic Text Detection for Open-Domain Dialogue   Systems via Knowledge Distillation of Large Language Models | [2403.13250](http://arxiv.org/abs/2403.13250) | None | 2024-03-20 |
+| Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | None | 2024-03-20 |
+| Towards Robots That Know When They Need Help: Affordance-Based   Uncertainty for Large Language Model Planners | [2403.13198](http://arxiv.org/abs/2403.13198) | None | 2024-03-19 |
+| VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal   In-Context Learning | [2403.13164](http://arxiv.org/abs/2403.13164) | None | 2024-03-19 |
 | MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific   Data Visualization | [2402.11453](http://arxiv.org/abs/2402.11453) | https://github.com/thunlp/matplotagent | 2024-03-19 |
 | Towards Multimodal In-Context Learning for Vision & Language Models | [2403.12736](http://arxiv.org/abs/2403.12736) | None | 2024-03-19 |
-| Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs | [2403.11755](http://arxiv.org/abs/2403.11755) | None | 2024-03-19 |
+| Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs | [2403.11755](http://arxiv.org/abs/2403.11755) | https://github.com/jmiemirza/meta-prompting | 2024-03-19 |
 | Pragmatic Competence Evaluation of Large Language Models for Korean | [2403.12675](http://arxiv.org/abs/2403.12675) | None | 2024-03-19 |
 | Establishing Performance Baselines in Fine-Tuning, Retrieval-Augmented   Generation and Soft-Prompting for Non-Specialist LLM Users | [2311.05903](http://arxiv.org/abs/2311.05903) | None | 2024-03-19 |
 | Large Language Models to Generate System-Level Test Programs Targeting   Non-functional Properties | [2403.10086](http://arxiv.org/abs/2403.10086) | None | 2024-03-19 |
@@ -200,18 +212,6 @@
 | SmartPlay: A Benchmark for LLMs as Intelligent Agents | [2310.01557](http://arxiv.org/abs/2310.01557) | https://github.com/microsoft/smartplay | 2024-03-17 |
 | TempCompass: Do Video LLMs Really Understand Videos? | [2403.00476](http://arxiv.org/abs/2403.00476) | https://github.com/llyx97/tempcompass | 2024-03-17 |
 | Beyond Static Evaluation: A Dynamic Approach to Assessing AI Assistants'   API Invocation Capabilities | [2403.11128](http://arxiv.org/abs/2403.11128) | None | 2024-03-17 |
-| Self-Improving for Zero-Shot Named Entity Recognition with Large   Language | [2311.08921](http://arxiv.org/abs/2311.08921) | https://github.com/Emma1066/Self-Improve-Zero-Shot-NER | 2024-03-17 |
-| ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender   Chatbots through an LLM-Augmented Framework | [2403.00781](http://arxiv.org/abs/2403.00781) | None | 2024-03-16 |
-| VLLaVO: Mitigating Visual Gap through LLMs | [2401.03253](http://arxiv.org/abs/2401.03253) | None | 2024-03-16 |
-| A Comprehensive Study of Multimodal Large Language Models for Image   Quality Assessment | [2403.10854](http://arxiv.org/abs/2403.10854) | https://github.com/tianhewu/mllms-for-iqa | 2024-03-16 |
-| Neural Erosion: Emulating Controlled Neurodegeneration and Aging in AI   Systems | [2403.10596](http://arxiv.org/abs/2403.10596) | None | 2024-03-15 |
-| Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
-| ChatGPT as a mapping assistant: A novel method to enrich maps with   generative AI and content derived from street-level photographs | [2306.03204](http://arxiv.org/abs/2306.03204) | None | 2024-03-15 |
-| Large Language Model-informed ECG Dual Attention Network for Heart   Failure Risk Prediction | [2403.10581](http://arxiv.org/abs/2403.10581) | None | 2024-03-15 |
-| DevBench: A Comprehensive Benchmark for Software Development | [2403.08604](http://arxiv.org/abs/2403.08604) | https://github.com/open-compass/devbench | 2024-03-15 |
-| CLIcK: A Benchmark Dataset of Cultural and Linguistic Intelligence in   Korean | [2403.06412](http://arxiv.org/abs/2403.06412) | https://github.com/rladmstn1714/click | 2024-03-15 |
-| Are LLMs Good Cryptic Crossword Solvers? | [2403.12094](http://arxiv.org/abs/2403.12094) | None | 2024-03-15 |
-| Kosmos-G: Generating Images in Context with Multimodal Large Language   Models | [2310.02992](http://arxiv.org/abs/2310.02992) | https://github.com/microsoft/unilm/tree/master/kosmos-g | 2024-03-15 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2024-03-10 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

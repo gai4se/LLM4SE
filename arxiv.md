@@ -205,7 +205,7 @@
 | Facilitating Pornographic Text Detection for Open-Domain Dialogue   Systems via Knowledge Distillation of Large Language Models | [2403.13250](http://arxiv.org/abs/2403.13250) | None | 2024-03-20 |
 | Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-03-20 |
 | Towards Robots That Know When They Need Help: Affordance-Based   Uncertainty for Large Language Model Planners | [2403.13198](http://arxiv.org/abs/2403.13198) | None | 2024-03-19 |
-| VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal   In-Context Learning | [2403.13164](http://arxiv.org/abs/2403.13164) | None | 2024-03-19 |
+| VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal   In-Context Learning | [2403.13164](http://arxiv.org/abs/2403.13164) | https://github.com/ys-zong/vl-icl | 2024-03-19 |
 | MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific   Data Visualization | [2402.11453](http://arxiv.org/abs/2402.11453) | https://github.com/thunlp/matplotagent | 2024-03-19 |
 | Towards Multimodal In-Context Learning for Vision & Language Models | [2403.12736](http://arxiv.org/abs/2403.12736) | None | 2024-03-19 |
 | Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs | [2403.11755](http://arxiv.org/abs/2403.11755) | https://github.com/jmiemirza/meta-prompting | 2024-03-19 |

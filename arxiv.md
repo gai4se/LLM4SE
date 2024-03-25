@@ -1,4 +1,4 @@
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -193,13 +193,13 @@
 | Empowering Personalized Learning through a Conversation-based Tutoring   System with Student Modeling | [2403.14071](http://arxiv.org/abs/2403.14071) | None | 2024-03-21 |
 | Self-Improving for Zero-Shot Named Entity Recognition with Large   Language Models | [2311.08921](http://arxiv.org/abs/2311.08921) | https://github.com/Emma1066/Self-Improve-Zero-Shot-NER | 2024-03-21 |
 | Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language   Models' Alignment | [2308.05374](http://arxiv.org/abs/2308.05374) | https://github.com/kevinyaobytedance/llm_eval | 2024-03-21 |
+| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-21 |
 | AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language   Models | [2310.04451](http://arxiv.org/abs/2310.04451) | https://github.com/sheltonliu-n/autodan | 2024-03-20 |
 | Learning from Models and Data for Visual Grounding | [2403.13804](http://arxiv.org/abs/2403.13804) | None | 2024-03-20 |
 | Having Beer after Prayer? Measuring Cultural Bias in Large Language   Models | [2305.14456](http://arxiv.org/abs/2305.14456) | None | 2024-03-20 |
 | HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models | [2309.02706](http://arxiv.org/abs/2309.02706) | https://github.com/haetae-project/hae-rae-bench | 2024-03-20 |
 | CONLINE: Complex Code Generation and Refinement with Online Searching   and Correctness Testing | [2403.13583](http://arxiv.org/abs/2403.13583) | None | 2024-03-20 |
 | A Large Language Model Enhanced Sequential Recommender for Joint Video   and Comment Recommendation | [2403.13574](http://arxiv.org/abs/2403.13574) | None | 2024-03-20 |
-| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-20 |
 | Adaptive Ensembles of Fine-Tuned Transformers for LLM-Generated Text   Detection | [2403.13335](http://arxiv.org/abs/2403.13335) | None | 2024-03-20 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
 | Facilitating Pornographic Text Detection for Open-Domain Dialogue   Systems via Knowledge Distillation of Large Language Models | [2403.13250](http://arxiv.org/abs/2403.13250) | None | 2024-03-20 |

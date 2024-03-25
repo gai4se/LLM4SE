@@ -182,6 +182,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CoLLEGe: Concept Embedding Generation for Large Language Models | [2403.15362](http://arxiv.org/abs/2403.15362) | None | 2024-03-22 |
+| Self-Guard: Empower the LLM to Safeguard Itself | [2310.15851](http://arxiv.org/abs/2310.15851) | None | 2024-03-22 |
+| MasonTigers at SemEval-2024 Task 9: Solving Puzzles with an Ensemble of   Chain-of-Thoughts | [2403.14982](http://arxiv.org/abs/2403.14982) | None | 2024-03-22 |
+| Comprehensive Evaluation and Insights into the Use of Large Language   Models in the Automation of Behavior-Driven Development Acceptance Test   Formulation | [2403.14965](http://arxiv.org/abs/2403.14965) | None | 2024-03-22 |
+| NL2TL: Transforming Natural Languages to Temporal Logics using Large   Language Models | [2305.07766](http://arxiv.org/abs/2305.07766) | https://github.com/yongchao98/nl2tl | 2024-03-22 |
+| AutoRE: Document-Level Relation Extraction with Large Language Models | [2403.14888](http://arxiv.org/abs/2403.14888) | None | 2024-03-21 |
+| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-21 |
+| The opportunities and risks of large language models in mental health | [2403.14814](http://arxiv.org/abs/2403.14814) | None | 2024-03-21 |
 | MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual   Math Problems? | [2403.14624](http://arxiv.org/abs/2403.14624) | None | 2024-03-21 |
 | Large Language Models for Multi-Choice Question Classification of   Medical Subjects | [2403.14582](http://arxiv.org/abs/2403.14582) | None | 2024-03-21 |
 | Unraveling the Mystery of Scaling Laws: Part I | [2403.06563](http://arxiv.org/abs/2403.06563) | None | 2024-03-21 |
@@ -193,7 +201,6 @@
 | Empowering Personalized Learning through a Conversation-based Tutoring   System with Student Modeling | [2403.14071](http://arxiv.org/abs/2403.14071) | None | 2024-03-21 |
 | Self-Improving for Zero-Shot Named Entity Recognition with Large   Language Models | [2311.08921](http://arxiv.org/abs/2311.08921) | https://github.com/Emma1066/Self-Improve-Zero-Shot-NER | 2024-03-21 |
 | Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language   Models' Alignment | [2308.05374](http://arxiv.org/abs/2308.05374) | https://github.com/kevinyaobytedance/llm_eval | 2024-03-21 |
-| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-21 |
 | AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language   Models | [2310.04451](http://arxiv.org/abs/2310.04451) | https://github.com/sheltonliu-n/autodan | 2024-03-20 |
 | Learning from Models and Data for Visual Grounding | [2403.13804](http://arxiv.org/abs/2403.13804) | None | 2024-03-20 |
 | Having Beer after Prayer? Measuring Cultural Bias in Large Language   Models | [2305.14456](http://arxiv.org/abs/2305.14456) | None | 2024-03-20 |
@@ -205,13 +212,6 @@
 | Facilitating Pornographic Text Detection for Open-Domain Dialogue   Systems via Knowledge Distillation of Large Language Models | [2403.13250](http://arxiv.org/abs/2403.13250) | None | 2024-03-20 |
 | Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-03-20 |
 | Towards Robots That Know When They Need Help: Affordance-Based   Uncertainty for Large Language Model Planners | [2403.13198](http://arxiv.org/abs/2403.13198) | None | 2024-03-19 |
-| VL-ICL Bench: The Devil in the Details of Benchmarking Multimodal   In-Context Learning | [2403.13164](http://arxiv.org/abs/2403.13164) | https://github.com/ys-zong/vl-icl | 2024-03-19 |
-| MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific   Data Visualization | [2402.11453](http://arxiv.org/abs/2402.11453) | https://github.com/thunlp/matplotagent | 2024-03-19 |
-| Towards Multimodal In-Context Learning for Vision & Language Models | [2403.12736](http://arxiv.org/abs/2403.12736) | None | 2024-03-19 |
-| Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs | [2403.11755](http://arxiv.org/abs/2403.11755) | https://github.com/jmiemirza/meta-prompting | 2024-03-19 |
-| Pragmatic Competence Evaluation of Large Language Models for Korean | [2403.12675](http://arxiv.org/abs/2403.12675) | None | 2024-03-19 |
-| Establishing Performance Baselines in Fine-Tuning, Retrieval-Augmented   Generation and Soft-Prompting for Non-Specialist LLM Users | [2311.05903](http://arxiv.org/abs/2311.05903) | None | 2024-03-19 |
-| Large Language Models to Generate System-Level Test Programs Targeting   Non-functional Properties | [2403.10086](http://arxiv.org/abs/2403.10086) | None | 2024-03-19 |
 | LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation | [2310.04963](http://arxiv.org/abs/2310.04963) | None | 2024-03-10 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

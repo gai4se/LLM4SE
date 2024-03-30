@@ -1,4 +1,4 @@
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -93,7 +93,7 @@
 | Code Comparison Tuning for Code Large Language Models | [2403.19121](http://arxiv.org/abs/2403.19121) | None | 2024-03-28 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-03-28 |
 | RepairAgent: An Autonomous, LLM-Based Agent for Program Repair | [2403.17134](http://arxiv.org/abs/2403.17134) | None | 2024-03-25 |
-| ChatDBG: An AI-Powered Debugging Assistant | [2403.16354](http://arxiv.org/abs/2403.16354) | None | 2024-03-25 |
+| ChatDBG: An AI-Powered Debugging Assistant | [2403.16354](http://arxiv.org/abs/2403.16354) | https://github.com/plasma-umass/chatdbg | 2024-03-25 |
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-03-24 |
 | PatchZero: Zero-Shot Automatic Patch Correctness Assessment | [2303.00202](http://arxiv.org/abs/2303.00202) | None | 2024-03-22 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
@@ -149,7 +149,7 @@
 | --- | --- | --- | --- |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2024-03-28 |
 | SCALE: Constructing Structured Natural Language Comment Trees for   Software Vulnerability Detection | [2403.19096](http://arxiv.org/abs/2403.19096) | None | 2024-03-28 |
-| FoC: Figure out the Cryptographic Functions in Stripped Binaries with   LLMs | [2403.18403](http://arxiv.org/abs/2403.18403) | None | 2024-03-27 |
+| FoC: Figure out the Cryptographic Functions in Stripped Binaries with   LLMs | [2403.18403](http://arxiv.org/abs/2403.18403) | https://github.com/ch3nye/foc | 2024-03-27 |
 | A Comprehensive Study of the Capabilities of Large Language Models for   Vulnerability Detection | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2024-03-25 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | None | 2024-03-21 |
 | A Survey on Large Language Model (LLM) Security and Privacy: The Good,   the Bad, and the Ugly | [2312.02003](http://arxiv.org/abs/2312.02003) | None | 2024-03-20 |
@@ -205,7 +205,7 @@
 | Large Language Model for Multi-objective Evolutionary Optimization | [2310.12541](http://arxiv.org/abs/2310.12541) | https://github.com/FeiLiu36/LLM4MOEA | 2024-03-26 |
 | Towards a Zero-Data, Controllable, Adaptive Dialog System | [2403.17582](http://arxiv.org/abs/2403.17582) | None | 2024-03-26 |
 | RuBia: A Russian Language Bias Detection Dataset | [2403.17553](http://arxiv.org/abs/2403.17553) | None | 2024-03-26 |
-| Naive Bayes-based Context Extension for Large Language Models | [2403.17552](http://arxiv.org/abs/2403.17552) | None | 2024-03-26 |
+| Naive Bayes-based Context Extension for Large Language Models | [2403.17552](http://arxiv.org/abs/2403.17552) | https://github.com/amurtadha/nbce-master | 2024-03-26 |
 | Can Large Language Models Discern Evidence for Scientific Hypotheses?   Case Studies in the Social Sciences | [2309.06578](http://arxiv.org/abs/2309.06578) | https://github.com/sai90000/scientifichypothesisevidencing | 2024-03-26 |
 | InternLM2 Technical Report | [2403.17297](http://arxiv.org/abs/2403.17297) | None | 2024-03-26 |
 | Context-Aware Meta-Learning | [2310.10971](http://arxiv.org/abs/2310.10971) | https://github.com/cfifty/CAML | 2024-03-25 |

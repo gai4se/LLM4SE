@@ -109,18 +109,18 @@
 | CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-02-09 |
 | Energy Consumption of Automated Program Repair | [2211.12104](http://arxiv.org/abs/2211.12104) | None | 2024-02-05 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2024-01-16 |
+| A Novel Approach for Automatic Program Repair using Round-Trip   Translation with Large Language Models | [2401.07994](http://arxiv.org/abs/2401.07994) | None | 2024-01-15 |
+| PyTy: Repairing Static Type Errors in Python | [2401.06619](http://arxiv.org/abs/2401.06619) | https://github.com/sola-st/pyty | 2024-01-12 |
+| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
 | Enhanced Automated Code Vulnerability Repair using Large Language Models | [2401.03741](http://arxiv.org/abs/2401.03741) | None | 2024-01-08 |
+| The Right Prompts for the Job: Repair Code-Review Defects with Large   Language Model | [2312.17485](http://arxiv.org/abs/2312.17485) | None | 2023-12-29 |
 | Can Large Language Models Identify And Reason About Security   Vulnerabilities? Not Yet | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2023-12-19 |
+| Nova$^+$: Generative Language Models for Binaries | [2311.13721](http://arxiv.org/abs/2311.13721) | None | 2023-11-27 |
+| Copiloting the Copilots: Fusing Large Language Models with Completion   Engines for Automated Program Repair | [2309.00608](http://arxiv.org/abs/2309.00608) | https://github.com/ise-uiuc/Repilot | 2023-11-08 |
 | On the Concerns of Developers When Using GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2023-11-02 |
+| ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
 | End-to-End Software Construction using ChatGPT: An Experience Report | [2310.14843](http://arxiv.org/abs/2310.14843) | https://github.com/mauricioms/results-generated-with-chatgpt | 2023-10-23 |
-| ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
-| A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
-| CodePlan: Repository-level Coding using LLMs and Planning | [2309.12499](http://arxiv.org/abs/2309.12499) | None | 2023-09-21 |
-| GrACE: Generation using Associated Code Edits | [2305.14129](http://arxiv.org/abs/2305.14129) | None | 2023-09-20 |
-| Multilingual Code Co-Evolution Using Large Language Models | [2307.14991](http://arxiv.org/abs/2307.14991) | https://github.com/engineeringsoftware/codeditor | 2023-09-11 |
-| STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic   Bug Fixing | [2308.14460](http://arxiv.org/abs/2308.14460) | None | 2023-08-28 |
-| What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
-| Spellburst: A Node-based Interface for Exploratory Creative Coding with   Natural Language Prompts | [2308.03921](http://arxiv.org/abs/2308.03921) | None | 2023-08-07 |
+| Enhancing Genetic Improvement Mutations Using Large Language Models | [2310.19813](http://arxiv.org/abs/2310.19813) | None | 2023-10-18 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -183,7 +183,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GlitchBench: Can large multimodal models detect video game glitches? | [2312.05291](http://arxiv.org/abs/2312.05291) | None | 2024-03-29 |
+| Using LLMs to Model the Beliefs and Preferences of Targeted Populations | [2403.20252](http://arxiv.org/abs/2403.20252) | None | 2024-03-29 |
+| DialogBench: Evaluating LLMs as Human-like Dialogue Systems | [2311.01677](http://arxiv.org/abs/2311.01677) | None | 2024-03-29 |
+| The Impact of Prompts on Zero-Shot Detection of AI-Generated Text | [2403.20127](http://arxiv.org/abs/2403.20127) | https://github.com/kaito25atugich/detector | 2024-03-29 |
 | PEMA: An Offsite-Tunable Plug-in External Memory Adaptation for Language   Models | [2311.08590](http://arxiv.org/abs/2311.08590) | https://github.com/agwabom/pema | 2024-03-29 |
+| Conversational Financial Information Retrieval Model (ConFIRM) | [2310.13001](http://arxiv.org/abs/2310.13001) | https://github.com/williamgazeley/confirm | 2024-03-29 |
+| Towards a Robust Retrieval-Based Summarization System | [2403.19889](http://arxiv.org/abs/2403.19889) | https://github.com/ncsulsj/robust_sumsystem | 2024-03-29 |
+| Target Span Detection for Implicit Harmful Content | [2403.19836](http://arxiv.org/abs/2403.19836) | None | 2024-03-28 |
 | CoderUJB: An Executable and Unified Java Benchmark for Practical   Programming Scenarios | [2403.19287](http://arxiv.org/abs/2403.19287) | None | 2024-03-28 |
 | Ungrammatical-syntax-based In-context Example Selection for Grammatical   Error Correction | [2403.19283](http://arxiv.org/abs/2403.19283) | None | 2024-03-28 |
 | Dual-Personalizing Adapter for Federated Foundation Models | [2403.19211](http://arxiv.org/abs/2403.19211) | None | 2024-03-28 |
@@ -206,13 +213,6 @@
 | Towards a Zero-Data, Controllable, Adaptive Dialog System | [2403.17582](http://arxiv.org/abs/2403.17582) | None | 2024-03-26 |
 | RuBia: A Russian Language Bias Detection Dataset | [2403.17553](http://arxiv.org/abs/2403.17553) | None | 2024-03-26 |
 | Naive Bayes-based Context Extension for Large Language Models | [2403.17552](http://arxiv.org/abs/2403.17552) | https://github.com/amurtadha/nbce-master | 2024-03-26 |
-| Can Large Language Models Discern Evidence for Scientific Hypotheses?   Case Studies in the Social Sciences | [2309.06578](http://arxiv.org/abs/2309.06578) | https://github.com/sai90000/scientifichypothesisevidencing | 2024-03-26 |
-| InternLM2 Technical Report | [2403.17297](http://arxiv.org/abs/2403.17297) | None | 2024-03-26 |
-| Context-Aware Meta-Learning | [2310.10971](http://arxiv.org/abs/2310.10971) | https://github.com/cfifty/CAML | 2024-03-25 |
-| Extracting Social Support and Social Isolation Information from Clinical   Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language   Model | [2403.17199](http://arxiv.org/abs/2403.17199) | None | 2024-03-25 |
-| Attribute First, then Generate: Locally-attributable Grounded Text   Generation | [2403.17104](http://arxiv.org/abs/2403.17104) | None | 2024-03-25 |
-| GOLF: Goal-Oriented Long-term liFe tasks supported by human-AI   collaboration | [2403.17089](http://arxiv.org/abs/2403.17089) | None | 2024-03-25 |
-| Semantic Ranking for Automated Adversarial Technique Annotation in   Security Text | [2403.17068](http://arxiv.org/abs/2403.17068) | None | 2024-03-25 |
 | Comprehensive Evaluation and Insights into the Use of Large Language   Models in the Automation of Behavior-Driven Development Acceptance Test   Formulation | [2403.14965](http://arxiv.org/abs/2403.14965) | None | 2024-03-22 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

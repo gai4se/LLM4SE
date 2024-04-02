@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-04-01 |
+| ComplexityNet: Increasing LLM Inference Efficiency by Learning Task   Complexity | [2312.11511](http://arxiv.org/abs/2312.11511) | None | 2024-03-30 |
 | CoderUJB: An Executable and Unified Java Benchmark for Practical   Programming Scenarios | [2403.19287](http://arxiv.org/abs/2403.19287) | None | 2024-03-28 |
 | HiRoPE: Length Extrapolation for Code Models | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-03-28 |
 | Prompt Risk Control: A Rigorous Framework for Responsible Deployment of   Large Language Models | [2311.13628](http://arxiv.org/abs/2311.13628) | https://github.com/thomaspzollo/prompt_risk | 2024-03-27 |
@@ -83,8 +85,6 @@
 | Grounding Data Science Code Generation with Input-Output Specifications | [2402.08073](http://arxiv.org/abs/2402.08073) | None | 2024-03-15 |
 | CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules | [2310.08992](http://arxiv.org/abs/2310.08992) | https://github.com/SalesforceAIResearch/CodeChain | 2024-03-14 |
 | KnowCoder: Coding Structured Knowledge into LLMs for Universal   Information Extraction | [2403.07969](http://arxiv.org/abs/2403.07969) | None | 2024-03-14 |
-| DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-03-13 |
-| Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -147,6 +147,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2024-04-01 |
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2024-03-28 |
 | SCALE: Constructing Structured Natural Language Comment Trees for   Software Vulnerability Detection | [2403.19096](http://arxiv.org/abs/2403.19096) | None | 2024-03-28 |
 | FoC: Figure out the Cryptographic Functions in Stripped Binaries with   LLMs | [2403.18403](http://arxiv.org/abs/2403.18403) | https://github.com/ch3nye/foc | 2024-03-27 |
@@ -172,7 +173,6 @@
 | Large Language Model-Powered Smart Contract Vulnerability Detection: New   Perspectives | [2310.01152](http://arxiv.org/abs/2310.01152) | https://github.com/git-disl/gptlens | 2023-10-16 |
 | Static Code Analysis in the AI Era: An In-depth Exploration of the   Concept, Function, and Potential of Intelligent Code Analysis Agents | [2310.08837](http://arxiv.org/abs/2310.08837) | None | 2023-10-13 |
 | Harnessing the Power of LLM to Support Binary Taint Analysis | [2310.08275](http://arxiv.org/abs/2310.08275) | None | 2023-10-12 |
-| Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2023-10-10 |
 | Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability   Detection | [2212.08108](http://arxiv.org/abs/2212.08108) | https://github.com/ISU-PAAL/DeepDFA | 2023-10-01 |
 | When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2023-09-14 |
 | Method-Level Bug Severity Prediction using Source Code Metrics and LLMs | [2309.03044](http://arxiv.org/abs/2309.03044) | https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction | 2023-09-06 |
@@ -183,6 +183,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SPADE: Synthesizing Data Quality Assertions for Large Language Model   Pipelines | [2401.03038](http://arxiv.org/abs/2401.03038) | https://github.com/shreyashankar/spade-experiments | 2024-03-31 |
+| SQL-PaLM: Improved Large Language Model Adaptation for Text-to-SQL   (extended) | [2306.00739](http://arxiv.org/abs/2306.00739) | None | 2024-03-30 |
+| ParallelPARC: A Scalable Pipeline for Generating Natural-Language   Analogies | [2403.01139](http://arxiv.org/abs/2403.01139) | https://github.com/orensul/parallelparc | 2024-03-30 |
+| Incentivizing News Consumption on Social Media Platforms Using Large   Language Models and Realistic Bot Accounts | [2403.13362](http://arxiv.org/abs/2403.13362) | None | 2024-03-30 |
 | GlitchBench: Can large multimodal models detect video game glitches? | [2312.05291](http://arxiv.org/abs/2312.05291) | None | 2024-03-29 |
 | Using LLMs to Model the Beliefs and Preferences of Targeted Populations | [2403.20252](http://arxiv.org/abs/2403.20252) | None | 2024-03-29 |
 | DialogBench: Evaluating LLMs as Human-like Dialogue Systems | [2311.01677](http://arxiv.org/abs/2311.01677) | None | 2024-03-29 |
@@ -209,10 +213,6 @@
 | ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on   Historical American Newspaper Pages | [2403.17859](http://arxiv.org/abs/2403.17859) | https://github.com/datascienceuibk/chroniclingamericaqa | 2024-03-26 |
 | Verbing Weirds Language (Models): Evaluation of English Zero-Derivation   in Five LLMs | [2403.17856](http://arxiv.org/abs/2403.17856) | None | 2024-03-26 |
 | TWOLAR: a TWO-step LLM-Augmented distillation method for passage   Reranking | [2403.17759](http://arxiv.org/abs/2403.17759) | https://github.com/dundalia/twolar | 2024-03-26 |
-| Large Language Model for Multi-objective Evolutionary Optimization | [2310.12541](http://arxiv.org/abs/2310.12541) | https://github.com/FeiLiu36/LLM4MOEA | 2024-03-26 |
-| Towards a Zero-Data, Controllable, Adaptive Dialog System | [2403.17582](http://arxiv.org/abs/2403.17582) | None | 2024-03-26 |
-| RuBia: A Russian Language Bias Detection Dataset | [2403.17553](http://arxiv.org/abs/2403.17553) | None | 2024-03-26 |
-| Naive Bayes-based Context Extension for Large Language Models | [2403.17552](http://arxiv.org/abs/2403.17552) | https://github.com/amurtadha/nbce-master | 2024-03-26 |
 | Comprehensive Evaluation and Insights into the Use of Large Language   Models in the Automation of Behavior-Driven Development Acceptance Test   Formulation | [2403.14965](http://arxiv.org/abs/2403.14965) | None | 2024-03-22 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

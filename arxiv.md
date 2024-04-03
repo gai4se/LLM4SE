@@ -1,4 +1,4 @@
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,7 +40,6 @@
 | REAL: Resilience and Adaptation using Large Language Models on   Autonomous Aerial Robots | [2311.01403](http://arxiv.org/abs/2311.01403) | None | 2023-11-02 |
 | The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
 | Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
-| Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using   LLMs | [2310.09668](http://arxiv.org/abs/2310.09668) | None | 2023-10-14 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2023-10-13 |
 | An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
 | Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
@@ -49,11 +48,13 @@
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2023-08-14 |
 | What Makes Good In-context Demonstrations for Code Intelligence Tasks   with LLMs? | [2304.07575](http://arxiv.org/abs/2304.07575) | https://github.com/shuzhenggao/icl4code | 2023-08-08 |
 | Natural Language Generation and Understanding of Big Code for   AI-Assisted Programming: A Review | [2307.02503](http://arxiv.org/abs/2307.02503) | None | 2023-07-04 |
+| Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Iterative Refinement of Project-Level Code Context for Precise Code   Generation with Compiler Feedback | [2403.16792](http://arxiv.org/abs/2403.16792) | None | 2024-04-02 |
 | Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-04-01 |
 | ComplexityNet: Increasing LLM Inference Efficiency by Learning Task   Complexity | [2312.11511](http://arxiv.org/abs/2312.11511) | None | 2024-03-30 |
 | CoderUJB: An Executable and Unified Java Benchmark for Practical   Programming Scenarios | [2403.19287](http://arxiv.org/abs/2403.19287) | None | 2024-03-28 |
@@ -62,7 +63,6 @@
 | MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution | [2403.17927](http://arxiv.org/abs/2403.17927) | None | 2024-03-26 |
 | PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large   Language Models | [2403.17411](http://arxiv.org/abs/2403.17411) | https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression | 2024-03-26 |
 | A Comprehensive Study of the Capabilities of Large Language Models for   Vulnerability Detection | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2024-03-25 |
-| Iterative Refinement of Project-Level Code Context for Precise Code   Generation with Compiler Feedback | [2403.16792](http://arxiv.org/abs/2403.16792) | None | 2024-03-25 |
 | Synapse: Learning Preferential Concepts from Visual Demonstrations | [2403.16689](http://arxiv.org/abs/2403.16689) | None | 2024-03-25 |
 | Is Watermarking LLM-Generated Code Robust? | [2403.17983](http://arxiv.org/abs/2403.17983) | None | 2024-03-24 |
 | HumanEval-XL: A Multilingual Code Generation Benchmark for Cross-lingual   Natural Language Generalization | [2402.16694](http://arxiv.org/abs/2402.16694) | https://github.com/FloatAI/HumanEval-XL | 2024-03-24 |

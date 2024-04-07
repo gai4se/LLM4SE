@@ -599,6 +599,9 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year-Id | Title                                                                                                                                                                     | Venue Name |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+|2024-03        |[Re(gEx\|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks](https://joannacss.github.io/preprints/icse_nier24-preprint.pdf)      |ICSE-NIER      |
+|2024-02        |[Understanding Regular Expression Denial of Service (ReDoS): Insights from LLM-Generated Regexes and Developer Forums.](https://github.com/s2e-lab/redos-study)      |ICPC      |
+|2024-01        |[Using Large Language Models to Generate JUnit Tests: An Empirical Study.](https://s2e-lab.github.io/preprints/ease24-preprint.pdf)      |EASE      |
 |2023-33        |[Flakify: A Black-Box, Language Model-Based Predictor for Flaky Tests.](https://doi.org/10.1109/TSE.2022.3201209)      |TSE      |
 |2023-32        |[Do Pretrained Language Models Indeed Understand Software Engineering Tasks?](https://doi.org/10.1109/TSE.2023.3308952) |TSE     |
 |2023-31        |[CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.](https://doi.org/10.1109/ICSE48619.2023.00085)  |ICSE   |

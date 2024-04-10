@@ -1,4 +1,4 @@
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | None | 2024-04-08 |
+| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | None | 2024-04-09 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-08 |
 | Large Language Model for Vulnerability Detection and Repair: Literature   Review and the Road Ahead | [2404.02525](http://arxiv.org/abs/2404.02525) | None | 2024-04-06 |
 | CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |
@@ -184,7 +184,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | None | 2024-04-08 |
+| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | None | 2024-04-09 |
+| LLMs in the Heart of Differential Testing: A Case Study on a Medical   Rule Engine | [2404.03664](http://arxiv.org/abs/2404.03664) | None | 2024-04-09 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-08 |
 | Investigation of the effectiveness of applying ChatGPT in Dialogic   Teaching Using Electroencephalography | [2403.16687](http://arxiv.org/abs/2403.16687) | None | 2024-04-08 |
 | Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with   Large Language Models | [2404.05291](http://arxiv.org/abs/2404.05291) | None | 2024-04-08 |
@@ -214,7 +215,6 @@
 | Towards a Fully Interpretable and More Scalable RSA Model for Metaphor   Understanding | [2404.02983](http://arxiv.org/abs/2404.02983) | None | 2024-04-03 |
 | The RealHumanEval: Evaluating Large Language Models' Abilities to   Support Programmers | [2404.02806](http://arxiv.org/abs/2404.02806) | https://github.com/clinicalml/realhumaneval | 2024-04-03 |
 | Automatic Prompt Selection for Large Language Models | [2404.02717](http://arxiv.org/abs/2404.02717) | None | 2024-04-03 |
-| Code-Aware Prompting: A study of Coverage Guided Test Generation in   Regression Setting using LLM | [2402.00097](http://arxiv.org/abs/2402.00097) | None | 2024-04-02 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

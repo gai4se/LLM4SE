@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Comments as Natural Logic Pivots: Improve Code Generation via Comment   Perspective | [2404.07549](http://arxiv.org/abs/2404.07549) | https://github.com/pppa2019/mango | 2024-04-11 |
+| BISCUIT: Scaffolding LLM-Generated Code with Ephemeral UIs in   Computational Notebooks | [2404.07387](http://arxiv.org/abs/2404.07387) | None | 2024-04-10 |
 | In-context Learning Generalizes, But Not Always Robustly: The Case of   Syntax | [2311.07811](http://arxiv.org/abs/2311.07811) | https://github.com/aaronmueller/syntax-icl | 2024-04-10 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | https://github.com/umair-nasir14/llmatic | 2024-04-10 |
 | Perplexed: Understanding When Large Language Models are Confused | [2404.06634](http://arxiv.org/abs/2404.06634) | None | 2024-04-09 |
@@ -83,8 +85,6 @@
 | Syntactic Robustness for LLM-based Code Generation | [2404.01535](http://arxiv.org/abs/2404.01535) | None | 2024-04-01 |
 | Chat Modeling: Natural Language-based Procedural Modeling of Biological   Structures without Training | [2404.01063](http://arxiv.org/abs/2404.01063) | None | 2024-04-01 |
 | Large Language Model Evaluation Via Multi AI Agents: Preliminary results | [2404.01023](http://arxiv.org/abs/2404.01023) | None | 2024-04-01 |
-| Exploring and Evaluating Hallucinations in LLM-Powered Code Generation | [2404.00971](http://arxiv.org/abs/2404.00971) | None | 2024-04-01 |
-| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-04-01 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -184,6 +184,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| High-Dimension Human Value Representation in Large Language Models | [2404.07900](http://arxiv.org/abs/2404.07900) | None | 2024-04-11 |
+| Nostra Domina at EvaLatin 2024: Improving Latin Polarity Detection   through Data Augmentation | [2404.07792](http://arxiv.org/abs/2404.07792) | https://github.com/mythologos/evalatin2024-nostradomina | 2024-04-11 |
+| Automatic Generation and Evaluation of Reading Comprehension Test Items   with Large Language Models | [2404.07720](http://arxiv.org/abs/2404.07720) | None | 2024-04-11 |
+| CLUE: A Clinical Language Understanding Evaluation for LLMs | [2404.04067](http://arxiv.org/abs/2404.04067) | None | 2024-04-11 |
+| Neural Fault Injection: Generating Software Faults from Natural Language | [2404.07491](http://arxiv.org/abs/2404.07491) | None | 2024-04-11 |
+| Training With "Paraphrasing the Original Text'' Improves Long-Context   Performance | [2312.11193](http://arxiv.org/abs/2312.11193) | None | 2024-04-11 |
+| "We Need Structured Output": Towards User-centered Constraints on Large   Language Model Output | [2404.07362](http://arxiv.org/abs/2404.07362) | None | 2024-04-10 |
 | A Mathematical Theory for Learning Semantic Languages by Abstract   Learners | [2404.07009](http://arxiv.org/abs/2404.07009) | None | 2024-04-10 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | https://github.com/umair-nasir14/llmatic | 2024-04-10 |
 | Advancing Real-time Pandemic Forecasting Using Large Language Models: A   COVID-19 Case Study | [2404.06962](http://arxiv.org/abs/2404.06962) | https://github.com/miemieyanga/pandemicllm | 2024-04-10 |
@@ -207,13 +214,6 @@
 | Enhancing LLM-based Test Generation for Hard-to-Cover Branches via   Program Analysis | [2404.04966](http://arxiv.org/abs/2404.04966) | None | 2024-04-07 |
 | X-VARS: Introducing Explainability in Football Refereeing with   Multi-Modal Large Language Model | [2404.06332](http://arxiv.org/abs/2404.06332) | None | 2024-04-07 |
 | Low-Resource Machine Translation through Retrieval-Augmented LLM   Prompting: A Study on the Mambai Language | [2404.04809](http://arxiv.org/abs/2404.04809) | https://github.com/raphaelmerx/mambai | 2024-04-07 |
-| Challenges Faced by Large Language Models in Solving Multi-Agent   Flocking | [2404.04752](http://arxiv.org/abs/2404.04752) | None | 2024-04-06 |
-| Inferring the Phylogeny of Large Language Models and Predicting their   Performances in Benchmarks | [2404.04671](http://arxiv.org/abs/2404.04671) | None | 2024-04-06 |
-| Multilingual Pretraining and Instruction Tuning Improve Cross-Lingual   Knowledge Alignment, But Only Shallowly | [2404.04659](http://arxiv.org/abs/2404.04659) | https://github.com/rivergao/clika | 2024-04-06 |
-| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-04-06 |
-| IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe   Biomedical Natural Language Inference for Clinical Trials | [2404.04510](http://arxiv.org/abs/2404.04510) | https://github.com/exploration-lab/iitk-semeval-2024-task-2-clinical-nli | 2024-04-06 |
-| Increased LLM Vulnerabilities from Fine-tuning and Quantization | [2404.04392](http://arxiv.org/abs/2404.04392) | None | 2024-04-05 |
-| Prompt Public Large Language Models to Synthesize Data for Private   On-device Applications | [2404.04360](http://arxiv.org/abs/2404.04360) | None | 2024-04-05 |
 | Code-Aware Prompting: A study of Coverage Guided Test Generation in   Regression Setting using LLM | [2402.00097](http://arxiv.org/abs/2402.00097) | None | 2024-04-02 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

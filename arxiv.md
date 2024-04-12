@@ -1,4 +1,4 @@
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -186,7 +186,7 @@
 | --- | --- | --- | --- |
 | A Mathematical Theory for Learning Semantic Languages by Abstract   Learners | [2404.07009](http://arxiv.org/abs/2404.07009) | None | 2024-04-10 |
 | LLMatic: Neural Architecture Search via Large Language Models and   Quality Diversity Optimization | [2306.01102](http://arxiv.org/abs/2306.01102) | https://github.com/umair-nasir14/llmatic | 2024-04-10 |
-| Advancing Real-time Pandemic Forecasting Using Large Language Models: A   COVID-19 Case Study | [2404.06962](http://arxiv.org/abs/2404.06962) | None | 2024-04-10 |
+| Advancing Real-time Pandemic Forecasting Using Large Language Models: A   COVID-19 Case Study | [2404.06962](http://arxiv.org/abs/2404.06962) | https://github.com/miemieyanga/pandemicllm | 2024-04-10 |
 | Improving the Generalization of Segmentation Foundation Model under   Distribution Shift via Weakly Supervised Adaptation | [2312.03502](http://arxiv.org/abs/2312.03502) | https://github.com/zhang-haojie/wesam | 2024-04-10 |
 | Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks | [2404.06480](http://arxiv.org/abs/2404.06480) | https://github.com/open-compass/ada-leval | 2024-04-10 |
 | Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian   Language? | [2404.06644](http://arxiv.org/abs/2404.06644) | None | 2024-04-09 |

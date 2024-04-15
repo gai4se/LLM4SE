@@ -67,7 +67,7 @@
 | Neural Code Generation Enhancement via Functional Overlap Reranking | [2311.03366](http://arxiv.org/abs/2311.03366) | https://github.com/fsoft-ai4code/srank-coderanker | 2024-04-08 |
 | Synergy of Large Language Model and Model Driven Engineering for   Automated Development of Centralized Vehicular Systems | [2404.05508](http://arxiv.org/abs/2404.05508) | None | 2024-04-08 |
 | Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with   Large Language Models | [2404.05291](http://arxiv.org/abs/2404.05291) | None | 2024-04-08 |
-| Xiwu: A Basis Flexible and Learnable LLM for High Energy Physics | [2404.08001](http://arxiv.org/abs/2404.08001) | None | 2024-04-08 |
+| Xiwu: A Basis Flexible and Learnable LLM for High Energy Physics | [2404.08001](http://arxiv.org/abs/2404.08001) | https://github.com/zhangzhengde0225/Xiwu | 2024-04-08 |
 | Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-04-07 |
 | DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-04-06 |
 | CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |

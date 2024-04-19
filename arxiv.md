@@ -1,4 +1,4 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,7 +58,7 @@
 | Predicting Emergent Abilities with Infinite Resolution Evaluation | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2024-04-17 |
 | From Image to UML: First Results of Image Based UML Diagram Generation   Using LLMs | [2404.11376](http://arxiv.org/abs/2404.11376) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| A Dataset for Large Language Model-Driven AI Accelerator Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | None | 2024-04-16 |
+| A Dataset for Large Language Model-Driven AI Accelerator Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | https://github.com/acadlab/sa-ds | 2024-04-16 |
 | Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [2404.10719](http://arxiv.org/abs/2404.10719) | None | 2024-04-16 |
 | Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | https://github.com/boutiquelee/acw | 2024-04-16 |
 | Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-04-16 |
@@ -90,9 +90,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-04-18 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| An Empirical Evaluation of Pre-trained Large Language Models for   Repairing Declarative Formal Specifications | [2404.11050](http://arxiv.org/abs/2404.11050) | None | 2024-04-17 |
+| An Empirical Evaluation of Pre-trained Large Language Models for   Repairing Declarative Formal Specifications | [2404.11050](http://arxiv.org/abs/2404.11050) | https://github.com/mohannadcse/alloyspecrepair | 2024-04-17 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
 | Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
 | LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities   (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2024-04-13 |
@@ -116,7 +117,6 @@
 | InstructCoder: Instruction Tuning Large Language Models for Code Editing | [2310.20329](http://arxiv.org/abs/2310.20329) | https://github.com/qishenghu/CodeInstruct | 2024-02-28 |
 | DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language   Models | [2402.13291](http://arxiv.org/abs/2402.13291) | None | 2024-02-23 |
 | Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming | [2402.14261](http://arxiv.org/abs/2402.14261) | None | 2024-02-22 |
-| CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-02-09 |
 | Energy Consumption of Automated Program Repair | [2211.12104](http://arxiv.org/abs/2211.12104) | None | 2024-02-05 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2024-01-16 |
 | A Novel Approach for Automatic Program Repair using Round-Trip   Translation with Large Language Models | [2401.07994](http://arxiv.org/abs/2401.07994) | None | 2024-01-15 |
@@ -186,23 +186,23 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can LLMs perform structured graph reasoning? | [2402.01805](http://arxiv.org/abs/2402.01805) | https://github.com/palaashagrawal/llmgraphtraversal | 2024-04-18 |
 | Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization | [2404.11531](http://arxiv.org/abs/2404.11531) | None | 2024-04-17 |
 | Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large   Language Model | [2310.09089](http://arxiv.org/abs/2310.09089) | https://github.com/williamliujl/Qilin-Med | 2024-04-17 |
 | GOLF: Goal-Oriented Long-term liFe tasks supported by human-AI   collaboration | [2403.17089](http://arxiv.org/abs/2403.17089) | None | 2024-04-17 |
 | From Image to UML: First Results of Image Based UML Diagram Generation   Using LLMs | [2404.11376](http://arxiv.org/abs/2404.11376) | None | 2024-04-17 |
 | The Impact of AI Tool on Engineering at ANZ Bank An Empirical Study on   GitHub Copilot within Corporate Environment | [2402.05636](http://arxiv.org/abs/2402.05636) | None | 2024-04-17 |
 | A Preference-driven Paradigm for Enhanced Translation with Large   Language Models | [2404.11288](http://arxiv.org/abs/2404.11288) | None | 2024-04-17 |
-| Can LLMs perform structured graph reasoning? | [2402.01805](http://arxiv.org/abs/2402.01805) | None | 2024-04-17 |
 | In-Context Learning State Vector with Inner and Momentum Optimization | [2404.11225](http://arxiv.org/abs/2404.11225) | https://github.com/hitsz-tmg/icl-state-vector | 2024-04-17 |
 | Low-Cost Language Models: Survey and Performance Evaluation on Python   Code Generation | [2404.11160](http://arxiv.org/abs/2404.11160) | None | 2024-04-17 |
 | Can Large Language Models Infer Causation from Correlation? | [2306.05836](http://arxiv.org/abs/2306.05836) | https://github.com/causalnlp/corr2cause | 2024-04-17 |
-| Scaling Down to Scale Up: A Cost-Benefit Analysis of Replacing OpenAI's   LLM with Open Source SLMs in Production | [2312.14972](http://arxiv.org/abs/2312.14972) | None | 2024-04-16 |
+| Scaling Down to Scale Up: A Cost-Benefit Analysis of Replacing OpenAI's   LLM with Open Source SLMs in Production | [2312.14972](http://arxiv.org/abs/2312.14972) | https://github.com/jaseci-labs/slam | 2024-04-16 |
 | Large Language Models as Generalizable Policies for Embodied Tasks | [2310.17722](http://arxiv.org/abs/2310.17722) | None | 2024-04-16 |
 | Automating REST API Postman Test Cases Using LLM | [2404.10678](http://arxiv.org/abs/2404.10678) | None | 2024-04-16 |
 | WebArena: A Realistic Web Environment for Building Autonomous Agents | [2307.13854](http://arxiv.org/abs/2307.13854) | https://github.com/web-arena-x/webarena | 2024-04-16 |
 | When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical   Paradigm | [2404.10500](http://arxiv.org/abs/2404.10500) | None | 2024-04-16 |
 | Emerging Platforms Meet Emerging LLMs: A Year-Long Journey of Top-Down   Development | [2404.09151](http://arxiv.org/abs/2404.09151) | None | 2024-04-16 |
-| Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | None | 2024-04-16 |
+| Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | https://github.com/hbin0701/Self-Explore | 2024-04-16 |
 | Exact and Efficient Unlearning for Large Language Model-based   Recommendation | [2404.10327](http://arxiv.org/abs/2404.10327) | None | 2024-04-16 |
 | LLM-Powered Test Case Generation for Detecting Tricky Bugs | [2404.10304](http://arxiv.org/abs/2404.10304) | None | 2024-04-16 |
 | Evaluating Large Language Models at Evaluating Instruction Following | [2310.07641](http://arxiv.org/abs/2310.07641) | https://github.com/princeton-nlp/llmbar | 2024-04-16 |
@@ -213,7 +213,7 @@
 | LLM-based Test-driven Interactive Code Generation: User Study and   Empirical Evaluation | [2404.10100](http://arxiv.org/abs/2404.10100) | None | 2024-04-15 |
 | A novel approach to measuring the scope of patent claims based on   probabilities obtained from (large) language models | [2309.10003](http://arxiv.org/abs/2309.10003) | None | 2024-04-15 |
 | What If the TV Was Off? Examining Counterfactual Reasoning Abilities of   Multi-modal Language Models | [2310.06627](http://arxiv.org/abs/2310.06627) | https://github.com/letian2003/c-vqa | 2024-04-15 |
-| LLMorpheus: Mutation Testing using Large Language Models | [2404.09952](http://arxiv.org/abs/2404.09952) | None | 2024-04-15 |
+| LLMorpheus: Mutation Testing using Large Language Models | [2404.09952](http://arxiv.org/abs/2404.09952) | https://github.com/githubnext/llmorpheus | 2024-04-15 |
 | AI-Driven Statutory Reasoning via Software Engineering Methods | [2404.09868](http://arxiv.org/abs/2404.09868) | None | 2024-04-15 |
 | Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity,   Bias and Propensity for Hallucinations | [2404.09785](http://arxiv.org/abs/2404.09785) | https://github.com/innodatalabs/innodata-llm-safety | 2024-04-15 |
 | Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-04-14 |

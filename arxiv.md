@@ -186,7 +186,16 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal   Large Language Models against Jailbreak Attacks | [2404.03027](http://arxiv.org/abs/2404.03027) | None | 2024-04-18 |
+| FedEval-LLM: Federated Evaluation of Large Language Models on Downstream   Tasks with Collective Wisdom | [2404.12273](http://arxiv.org/abs/2404.12273) | None | 2024-04-18 |
+| DeepLocalization: Using change point detection for Temporal Action   Localization | [2404.12258](http://arxiv.org/abs/2404.12258) | None | 2024-04-18 |
+| Stance Detection on Social Media with Fine-Tuned Large Language Models | [2404.12171](http://arxiv.org/abs/2404.12171) | None | 2024-04-18 |
+| From Form(s) to Meaning: Probing the Semantic Depths of Language Models   Using Multisense Consistency | [2404.12145](http://arxiv.org/abs/2404.12145) | https://github.com/facebookresearch/multisense_consistency | 2024-04-18 |
 | Can LLMs perform structured graph reasoning? | [2402.01805](http://arxiv.org/abs/2402.01805) | https://github.com/palaashagrawal/llmgraphtraversal | 2024-04-18 |
+| SelectLLM: Can LLMs Select Important Instructions to Annotate? | [2401.16553](http://arxiv.org/abs/2401.16553) | https://github.com/minnesotanlp/select-llm | 2024-04-18 |
+| Automated Social Science: Language Models as Scientist and Subjects | [2404.11794](http://arxiv.org/abs/2404.11794) | None | 2024-04-17 |
+| Missed Connections: Lateral Thinking Puzzles for Large Language Models | [2404.11730](http://arxiv.org/abs/2404.11730) | None | 2024-04-17 |
+| How often are errors in natural language reasoning due to paraphrastic   variability? | [2404.11717](http://arxiv.org/abs/2404.11717) | None | 2024-04-17 |
 | Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization | [2404.11531](http://arxiv.org/abs/2404.11531) | None | 2024-04-17 |
 | Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large   Language Model | [2310.09089](http://arxiv.org/abs/2310.09089) | https://github.com/williamliujl/Qilin-Med | 2024-04-17 |
 | GOLF: Goal-Oriented Long-term liFe tasks supported by human-AI   collaboration | [2403.17089](http://arxiv.org/abs/2403.17089) | None | 2024-04-17 |
@@ -207,15 +216,6 @@
 | LLM-Powered Test Case Generation for Detecting Tricky Bugs | [2404.10304](http://arxiv.org/abs/2404.10304) | None | 2024-04-16 |
 | Evaluating Large Language Models at Evaluating Instruction Following | [2310.07641](http://arxiv.org/abs/2310.07641) | https://github.com/princeton-nlp/llmbar | 2024-04-16 |
 | How faithful are RAG models? Quantifying the tug-of-war between RAG and   LLMs' internal prior | [2404.10198](http://arxiv.org/abs/2404.10198) | None | 2024-04-16 |
-| Can Large Language Models Automatically Score Proficiency of Written   Essays? | [2403.06149](http://arxiv.org/abs/2403.06149) | https://github.com/watheq9/aes-with-llms | 2024-04-16 |
-| Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think"   Step-by-Step | [2306.14050](http://arxiv.org/abs/2306.14050) | https://github.com/liunian-harold-li/scotd | 2024-04-15 |
-| Computational Sentence-level Metrics Predicting Human Sentence   Comprehension | [2403.15822](http://arxiv.org/abs/2403.15822) | None | 2024-04-15 |
-| LLM-based Test-driven Interactive Code Generation: User Study and   Empirical Evaluation | [2404.10100](http://arxiv.org/abs/2404.10100) | None | 2024-04-15 |
-| A novel approach to measuring the scope of patent claims based on   probabilities obtained from (large) language models | [2309.10003](http://arxiv.org/abs/2309.10003) | None | 2024-04-15 |
-| What If the TV Was Off? Examining Counterfactual Reasoning Abilities of   Multi-modal Language Models | [2310.06627](http://arxiv.org/abs/2310.06627) | https://github.com/letian2003/c-vqa | 2024-04-15 |
-| LLMorpheus: Mutation Testing using Large Language Models | [2404.09952](http://arxiv.org/abs/2404.09952) | https://github.com/githubnext/llmorpheus | 2024-04-15 |
-| AI-Driven Statutory Reasoning via Software Engineering Methods | [2404.09868](http://arxiv.org/abs/2404.09868) | None | 2024-04-15 |
-| Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity,   Bias and Propensity for Hallucinations | [2404.09785](http://arxiv.org/abs/2404.09785) | https://github.com/innodatalabs/innodata-llm-safety | 2024-04-15 |
 | Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-04-14 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

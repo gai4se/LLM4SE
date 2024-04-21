@@ -1,4 +1,4 @@
-## Updated on 2024.04.20
+## Updated on 2024.04.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,13 +40,15 @@
 | A Prompt Learning Framework for Source Code Summarization | [2312.16066](http://arxiv.org/abs/2312.16066) | https://github.com/wssun/promptcs | 2023-12-26 |
 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2023-12-25 |
 | Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large   Language Models | [2312.09601](http://arxiv.org/abs/2312.09601) | https://github.com/xinjin95/binsum | 2023-12-15 |
+| Exploring Distributional Shifts in Large Language Models for Code   Analysis | [2303.09128](http://arxiv.org/abs/2303.09128) | None | 2023-12-05 |
+| Transfer Attacks and Defenses for Large Language Models on Coding Tasks | [2311.13445](http://arxiv.org/abs/2311.13445) | None | 2023-11-22 |
 | xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code   Understanding, Generation, Translation and Retrieval | [2303.03004](http://arxiv.org/abs/2303.03004) | https://github.com/ntunlp/xCodeEval | 2023-11-06 |
 | REAL: Resilience and Adaptation using Large Language Models on   Autonomous Aerial Robots | [2311.01403](http://arxiv.org/abs/2311.01403) | None | 2023-11-02 |
+| The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
 | Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
 | Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using   LLMs | [2310.09668](http://arxiv.org/abs/2310.09668) | None | 2023-10-14 |
+| An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
 | Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
-| Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
-| The Stack: 3 TB of permissively licensed source code | [2211.15533](http://arxiv.org/abs/2211.15533) | None | 2022-11-20 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 

@@ -90,6 +90,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | None | 2024-04-19 |
+| Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-19 |
 | CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-04-18 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
@@ -119,13 +121,12 @@
 | Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming | [2402.14261](http://arxiv.org/abs/2402.14261) | None | 2024-02-22 |
 | Energy Consumption of Automated Program Repair | [2211.12104](http://arxiv.org/abs/2211.12104) | None | 2024-02-05 |
 | Lost in Translation: A Study of Bugs Introduced by Large Language Models   while Translating Code | [2308.03109](http://arxiv.org/abs/2308.03109) | https://github.com/intelligent-cat-lab/pltranslationempirical | 2024-01-16 |
-| A Novel Approach for Automatic Program Repair using Round-Trip   Translation with Large Language Models | [2401.07994](http://arxiv.org/abs/2401.07994) | None | 2024-01-15 |
-| PyTy: Repairing Static Type Errors in Python | [2401.06619](http://arxiv.org/abs/2401.06619) | https://github.com/sola-st/pyty | 2024-01-12 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | None | 2024-04-19 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
@@ -186,6 +187,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Unified Scene Representation and Reconstruction for 3D Large Language   Models | [2404.13044](http://arxiv.org/abs/2404.13044) | None | 2024-04-19 |
+| How Does the Textual Information Affect the Retrieval of Multimodal   In-Context Learning? | [2404.12866](http://arxiv.org/abs/2404.12866) | None | 2024-04-19 |
+| Generating Test Scenarios from NL Requirements using Retrieval-Augmented   LLMs: An Industrial Study | [2404.12772](http://arxiv.org/abs/2404.12772) | None | 2024-04-19 |
+| Beyond Human Norms: Unveiling Unique Values of Large Language Models   through Interdisciplinary Approaches | [2404.12744](http://arxiv.org/abs/2404.12744) | None | 2024-04-19 |
+| Large Language Model Supply Chain: A Research Agenda | [2404.12736](http://arxiv.org/abs/2404.12736) | None | 2024-04-19 |
+| Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for   Text-to-SQL | [2404.12560](http://arxiv.org/abs/2404.12560) | https://github.com/mercatorhq/dubo-sql | 2024-04-19 |
 | JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal   Large Language Models against Jailbreak Attacks | [2404.03027](http://arxiv.org/abs/2404.03027) | None | 2024-04-18 |
 | FedEval-LLM: Federated Evaluation of Large Language Models on Downstream   Tasks with Collective Wisdom | [2404.12273](http://arxiv.org/abs/2404.12273) | None | 2024-04-18 |
 | DeepLocalization: Using change point detection for Temporal Action   Localization | [2404.12258](http://arxiv.org/abs/2404.12258) | None | 2024-04-18 |
@@ -210,13 +217,7 @@
 | Automating REST API Postman Test Cases Using LLM | [2404.10678](http://arxiv.org/abs/2404.10678) | None | 2024-04-16 |
 | WebArena: A Realistic Web Environment for Building Autonomous Agents | [2307.13854](http://arxiv.org/abs/2307.13854) | https://github.com/web-arena-x/webarena | 2024-04-16 |
 | When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical   Paradigm | [2404.10500](http://arxiv.org/abs/2404.10500) | None | 2024-04-16 |
-| Emerging Platforms Meet Emerging LLMs: A Year-Long Journey of Top-Down   Development | [2404.09151](http://arxiv.org/abs/2404.09151) | None | 2024-04-16 |
-| Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | https://github.com/hbin0701/Self-Explore | 2024-04-16 |
-| Exact and Efficient Unlearning for Large Language Model-based   Recommendation | [2404.10327](http://arxiv.org/abs/2404.10327) | None | 2024-04-16 |
 | LLM-Powered Test Case Generation for Detecting Tricky Bugs | [2404.10304](http://arxiv.org/abs/2404.10304) | None | 2024-04-16 |
-| Evaluating Large Language Models at Evaluating Instruction Following | [2310.07641](http://arxiv.org/abs/2310.07641) | https://github.com/princeton-nlp/llmbar | 2024-04-16 |
-| How faithful are RAG models? Quantifying the tug-of-war between RAG and   LLMs' internal prior | [2404.10198](http://arxiv.org/abs/2404.10198) | None | 2024-04-16 |
-| Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-04-14 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

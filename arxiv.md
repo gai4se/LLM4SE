@@ -1,4 +1,4 @@
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,12 +54,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [2404.10719](http://arxiv.org/abs/2404.10719) | None | 2024-04-21 |
 | ML-Bench: Evaluating Large Language Models for Code Generation in   Repository-Level Machine Learning Tasks | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-04-17 |
 | Predicting Emergent Abilities with Infinite Resolution Evaluation | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2024-04-17 |
 | From Image to UML: First Results of Image Based UML Diagram Generation   Using LLMs | [2404.11376](http://arxiv.org/abs/2404.11376) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | A Dataset for Large Language Model-Driven AI Accelerator Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | https://github.com/acadlab/sa-ds | 2024-04-16 |
-| Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [2404.10719](http://arxiv.org/abs/2404.10719) | None | 2024-04-16 |
 | Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | https://github.com/boutiquelee/acw | 2024-04-16 |
 | Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-04-16 |
 | Quality Assessment of Prompts Used in Code Generation | [2404.10155](http://arxiv.org/abs/2404.10155) | None | 2024-04-15 |
@@ -90,10 +90,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-22 |
+| Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-04-21 |
+| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-20 |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | None | 2024-04-19 |
-| Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-19 |
 | CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-04-18 |
-| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | An Empirical Evaluation of Pre-trained Large Language Models for   Repairing Declarative Formal Specifications | [2404.11050](http://arxiv.org/abs/2404.11050) | https://github.com/mohannadcse/alloyspecrepair | 2024-04-17 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
@@ -107,7 +108,6 @@
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-03-28 |
 | RepairAgent: An Autonomous, LLM-Based Agent for Program Repair | [2403.17134](http://arxiv.org/abs/2403.17134) | None | 2024-03-25 |
 | ChatDBG: An AI-Powered Debugging Assistant | [2403.16354](http://arxiv.org/abs/2403.16354) | https://github.com/plasma-umass/chatdbg | 2024-03-25 |
-| Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-03-24 |
 | PatchZero: Zero-Shot Automatic Patch Correctness Assessment | [2303.00202](http://arxiv.org/abs/2303.00202) | None | 2024-03-22 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
 | A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
@@ -126,8 +126,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-20 |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | None | 2024-04-19 |
-| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
@@ -151,7 +151,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-17 |
+| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-20 |
 | Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-04-14 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-04-14 |
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | https://github.com/kdegroup/llmvulnerabilitydetection | 2024-04-12 |
@@ -187,6 +187,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Missed Connections: Lateral Thinking Puzzles for Large Language Models | [2404.11730](http://arxiv.org/abs/2404.11730) | None | 2024-04-21 |
 | Unified Scene Representation and Reconstruction for 3D Large Language   Models | [2404.13044](http://arxiv.org/abs/2404.13044) | None | 2024-04-19 |
 | How Does the Textual Information Affect the Retrieval of Multimodal   In-Context Learning? | [2404.12866](http://arxiv.org/abs/2404.12866) | None | 2024-04-19 |
 | Generating Test Scenarios from NL Requirements using Retrieval-Augmented   LLMs: An Industrial Study | [2404.12772](http://arxiv.org/abs/2404.12772) | None | 2024-04-19 |
@@ -201,7 +202,6 @@
 | Can LLMs perform structured graph reasoning? | [2402.01805](http://arxiv.org/abs/2402.01805) | https://github.com/palaashagrawal/llmgraphtraversal | 2024-04-18 |
 | SelectLLM: Can LLMs Select Important Instructions to Annotate? | [2401.16553](http://arxiv.org/abs/2401.16553) | https://github.com/minnesotanlp/select-llm | 2024-04-18 |
 | Automated Social Science: Language Models as Scientist and Subjects | [2404.11794](http://arxiv.org/abs/2404.11794) | None | 2024-04-17 |
-| Missed Connections: Lateral Thinking Puzzles for Large Language Models | [2404.11730](http://arxiv.org/abs/2404.11730) | None | 2024-04-17 |
 | How often are errors in natural language reasoning due to paraphrastic   variability? | [2404.11717](http://arxiv.org/abs/2404.11717) | None | 2024-04-17 |
 | Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization | [2404.11531](http://arxiv.org/abs/2404.11531) | None | 2024-04-17 |
 | Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large   Language Model | [2310.09089](http://arxiv.org/abs/2310.09089) | https://github.com/williamliujl/Qilin-Med | 2024-04-17 |

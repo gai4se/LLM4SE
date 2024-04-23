@@ -54,7 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Does Your Neural Code Completion Model Use My Code? A Membership   Inference Approach | [2404.14296](http://arxiv.org/abs/2404.14296) | None | 2024-04-22 |
 | Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study | [2404.10719](http://arxiv.org/abs/2404.10719) | None | 2024-04-21 |
+| Large Language Models as Test Case Generators: Performance Evaluation   and Enhancement | [2404.13340](http://arxiv.org/abs/2404.13340) | None | 2024-04-20 |
 | ML-Bench: Evaluating Large Language Models for Code Generation in   Repository-Level Machine Learning Tasks | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-04-17 |
 | Predicting Emergent Abilities with Infinite Resolution Evaluation | [2310.03262](http://arxiv.org/abs/2310.03262) | None | 2024-04-17 |
 | From Image to UML: First Results of Image Based UML Diagram Generation   Using LLMs | [2404.11376](http://arxiv.org/abs/2404.11376) | None | 2024-04-17 |
@@ -83,8 +85,6 @@
 | Synergy of Large Language Model and Model Driven Engineering for   Automated Development of Centralized Vehicular Systems | [2404.05508](http://arxiv.org/abs/2404.05508) | None | 2024-04-08 |
 | Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with   Large Language Models | [2404.05291](http://arxiv.org/abs/2404.05291) | None | 2024-04-08 |
 | Xiwu: A Basis Flexible and Learnable LLM for High Energy Physics | [2404.08001](http://arxiv.org/abs/2404.08001) | https://github.com/zhangzhengde0225/Xiwu | 2024-04-08 |
-| Exploring Safety Generalization Challenges of Large Language Models via   Code | [2403.07865](http://arxiv.org/abs/2403.07865) | None | 2024-04-07 |
-| DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-04-06 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -187,7 +187,19 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigation of the effectiveness of applying ChatGPT in Dialogic   Teaching Using Electroencephalography | [2403.16687](http://arxiv.org/abs/2403.16687) | None | 2024-04-22 |
+| An Artificial Neuron for Enhanced Problem Solving in Large Language   Models | [2404.14222](http://arxiv.org/abs/2404.14222) | None | 2024-04-22 |
+| Zero-shot cross-lingual transfer in instruction tuning of large language   models | [2402.14778](http://arxiv.org/abs/2402.14778) | None | 2024-04-22 |
+| How Well Can LLMs Echo Us? Evaluating AI Chatbots' Role-Play Ability   with ECHO | [2404.13957](http://arxiv.org/abs/2404.13957) | None | 2024-04-22 |
+| Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by   Simulating Documents in the Wild via Low-level Perturbations | [2404.13948](http://arxiv.org/abs/2404.13948) | None | 2024-04-22 |
+| Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems   Through the Lens of Image Mutation | [2404.13945](http://arxiv.org/abs/2404.13945) | None | 2024-04-22 |
 | Missed Connections: Lateral Thinking Puzzles for Large Language Models | [2404.11730](http://arxiv.org/abs/2404.11730) | None | 2024-04-21 |
+| NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on   Negotiation Surrounding | [2404.13627](http://arxiv.org/abs/2404.13627) | None | 2024-04-21 |
+| Test-Time Training on Graphs with Large Language Models (LLMs) | [2404.13571](http://arxiv.org/abs/2404.13571) | None | 2024-04-21 |
+| Intrusion Detection at Scale with the Assistance of a Command-line   Language Model | [2404.13402](http://arxiv.org/abs/2404.13402) | None | 2024-04-20 |
+| Large Language Models as Test Case Generators: Performance Evaluation   and Enhancement | [2404.13340](http://arxiv.org/abs/2404.13340) | None | 2024-04-20 |
+| PiCO: Peer Review in LLMs based on the Consistency Optimization | [2402.01830](http://arxiv.org/abs/2402.01830) | https://github.com/PKU-YuanGroup/Peer-review-in-LLMs | 2024-04-20 |
+| CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large   Language Models | [2404.13161](http://arxiv.org/abs/2404.13161) | None | 2024-04-19 |
 | Unified Scene Representation and Reconstruction for 3D Large Language   Models | [2404.13044](http://arxiv.org/abs/2404.13044) | None | 2024-04-19 |
 | How Does the Textual Information Affect the Retrieval of Multimodal   In-Context Learning? | [2404.12866](http://arxiv.org/abs/2404.12866) | None | 2024-04-19 |
 | Generating Test Scenarios from NL Requirements using Retrieval-Augmented   LLMs: An Industrial Study | [2404.12772](http://arxiv.org/abs/2404.12772) | None | 2024-04-19 |
@@ -205,18 +217,6 @@
 | How often are errors in natural language reasoning due to paraphrastic   variability? | [2404.11717](http://arxiv.org/abs/2404.11717) | None | 2024-04-17 |
 | Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization | [2404.11531](http://arxiv.org/abs/2404.11531) | None | 2024-04-17 |
 | Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large   Language Model | [2310.09089](http://arxiv.org/abs/2310.09089) | https://github.com/williamliujl/Qilin-Med | 2024-04-17 |
-| GOLF: Goal-Oriented Long-term liFe tasks supported by human-AI   collaboration | [2403.17089](http://arxiv.org/abs/2403.17089) | None | 2024-04-17 |
-| From Image to UML: First Results of Image Based UML Diagram Generation   Using LLMs | [2404.11376](http://arxiv.org/abs/2404.11376) | None | 2024-04-17 |
-| The Impact of AI Tool on Engineering at ANZ Bank An Empirical Study on   GitHub Copilot within Corporate Environment | [2402.05636](http://arxiv.org/abs/2402.05636) | None | 2024-04-17 |
-| A Preference-driven Paradigm for Enhanced Translation with Large   Language Models | [2404.11288](http://arxiv.org/abs/2404.11288) | None | 2024-04-17 |
-| In-Context Learning State Vector with Inner and Momentum Optimization | [2404.11225](http://arxiv.org/abs/2404.11225) | https://github.com/hitsz-tmg/icl-state-vector | 2024-04-17 |
-| Low-Cost Language Models: Survey and Performance Evaluation on Python   Code Generation | [2404.11160](http://arxiv.org/abs/2404.11160) | None | 2024-04-17 |
-| Can Large Language Models Infer Causation from Correlation? | [2306.05836](http://arxiv.org/abs/2306.05836) | https://github.com/causalnlp/corr2cause | 2024-04-17 |
-| Scaling Down to Scale Up: A Cost-Benefit Analysis of Replacing OpenAI's   LLM with Open Source SLMs in Production | [2312.14972](http://arxiv.org/abs/2312.14972) | https://github.com/jaseci-labs/slam | 2024-04-16 |
-| Large Language Models as Generalizable Policies for Embodied Tasks | [2310.17722](http://arxiv.org/abs/2310.17722) | None | 2024-04-16 |
-| Automating REST API Postman Test Cases Using LLM | [2404.10678](http://arxiv.org/abs/2404.10678) | None | 2024-04-16 |
-| WebArena: A Realistic Web Environment for Building Autonomous Agents | [2307.13854](http://arxiv.org/abs/2307.13854) | https://github.com/web-arena-x/webarena | 2024-04-16 |
-| When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical   Paradigm | [2404.10500](http://arxiv.org/abs/2404.10500) | None | 2024-04-16 |
 | LLM-Powered Test Case Generation for Detecting Tricky Bugs | [2404.10304](http://arxiv.org/abs/2404.10304) | None | 2024-04-16 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

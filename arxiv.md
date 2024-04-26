@@ -1,4 +1,4 @@
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -129,7 +129,6 @@
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-04-20 |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | None | 2024-04-19 |
-| A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
 | Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
@@ -188,7 +187,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for   Implicit Attribute Value Extraction | [2404.15592](http://arxiv.org/abs/2404.15592) | None | 2024-04-24 |
+| ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for   Implicit Attribute Value Extraction | [2404.15592](http://arxiv.org/abs/2404.15592) | https://github.com/HenryPengZou/ImplicitAVE | 2024-04-24 |
 | Isolating Compiler Bugs by Generating Effective Witness Programs with   Large Language Models | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2024-04-23 |
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
 | Pillars of Grammatical Error Correction: Comprehensive Inspection Of   Contemporary Approaches In The Era of Large Language Models | [2404.14914](http://arxiv.org/abs/2404.14914) | https://github.com/grammarly/pillars-of-gec | 2024-04-23 |

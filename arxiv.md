@@ -1,4 +1,4 @@
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,6 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
 | NExT: Teaching Large Language Models to Reason about Code Execution | [2404.14662](http://arxiv.org/abs/2404.14662) | None | 2024-04-23 |
 | Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-22 |
@@ -120,7 +121,6 @@
 | When Large Language Models Confront Repository-Level Automatic Program   Repair: How Well They Done? | [2403.00448](http://arxiv.org/abs/2403.00448) | None | 2024-03-01 |
 | InstructCoder: Instruction Tuning Large Language Models for Code Editing | [2310.20329](http://arxiv.org/abs/2310.20329) | https://github.com/qishenghu/CodeInstruct | 2024-02-28 |
 | DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language   Models | [2402.13291](http://arxiv.org/abs/2402.13291) | None | 2024-02-23 |
-| Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming | [2402.14261](http://arxiv.org/abs/2402.14261) | None | 2024-02-22 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

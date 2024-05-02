@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeHalu: Code Hallucinations in LLMs Driven by Execution-based   Verification | [2405.00253](http://arxiv.org/abs/2405.00253) | None | 2024-04-30 |
+| Aptly: Making Mobile Apps from Natural Language | [2405.00229](http://arxiv.org/abs/2405.00229) | None | 2024-04-30 |
+| Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-04-30 |
 | Linguacodus: A Synergistic Framework for Transformative Code Generation   in Machine Learning Pipelines | [2403.11585](http://arxiv.org/abs/2403.11585) | None | 2024-04-30 |
 | Exploring Multi-Lingual Bias of Large Code Models in Code Generation | [2404.19368](http://arxiv.org/abs/2404.19368) | None | 2024-04-30 |
 | ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2024-04-30 |
@@ -82,9 +85,6 @@
 | Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-04-16 |
 | Quality Assessment of Prompts Used in Code Generation | [2404.10155](http://arxiv.org/abs/2404.10155) | None | 2024-04-15 |
 | LLM-based Test-driven Interactive Code Generation: User Study and   Empirical Evaluation | [2404.10100](http://arxiv.org/abs/2404.10100) | None | 2024-04-15 |
-| Neuron-level LLM Patching for Code Generation | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2024-04-15 |
-| No Need to Lift a Finger Anymore? Assessing the Quality of Code   Generation by ChatGPT | [2308.04838](http://arxiv.org/abs/2308.04838) | None | 2024-04-13 |
-| Is Next Token Prediction Sufficient for GPT? Exploration on Code Logic   Comprehension | [2404.08885](http://arxiv.org/abs/2404.08885) | None | 2024-04-13 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -189,6 +189,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Inferring State Machine from the Protocol Implementation via Large   Langeuage Model | [2405.00393](http://arxiv.org/abs/2405.00393) | None | 2024-05-01 |
+| HalluVault: A Novel Logic Programming-aided Metamorphic Testing   Framework for Detecting Fact-Conflicting Hallucinations in Large Language   Models | [2405.00648](http://arxiv.org/abs/2405.00648) | None | 2024-05-01 |
+| "I'm Not Sure, But...": Examining the Impact of Large Language Models'   Uncertainty Expression on User Reliance and Trust | [2405.00623](http://arxiv.org/abs/2405.00623) | None | 2024-05-01 |
+| Are Models Biased on Text without Gender-related Language? | [2405.00588](http://arxiv.org/abs/2405.00588) | https://github.com/ucinlp/unstereo-eval | 2024-05-01 |
+| The Pyramid of Captions | [2405.00485](http://arxiv.org/abs/2405.00485) | None | 2024-05-01 |
+| Response: Emergent analogical reasoning in large language models | [2308.16118](http://arxiv.org/abs/2308.16118) | https://github.com/hodeld/emergent_analogies_llm_fork | 2024-05-01 |
+| CodeHalu: Code Hallucinations in LLMs Driven by Execution-based   Verification | [2405.00253](http://arxiv.org/abs/2405.00253) | None | 2024-04-30 |
+| VizAbility: Enhancing Chart Accessibility with LLM-based Conversational   Interaction | [2310.09611](http://arxiv.org/abs/2310.09611) | None | 2024-04-30 |
 | A Framework for Leveraging Human Computation Gaming to Enhance Knowledge   Graphs for Accuracy Critical Generative AI Applications | [2404.19729](http://arxiv.org/abs/2404.19729) | None | 2024-04-30 |
 | PANGeA: Procedural Artificial Narrative using Generative AI for   Turn-Based Video Games | [2404.19721](http://arxiv.org/abs/2404.19721) | None | 2024-04-30 |
 | On Training a Neural Network to Explain Binaries | [2404.19631](http://arxiv.org/abs/2404.19631) | None | 2024-04-30 |
@@ -212,14 +220,6 @@
 | Ruffle&Riley: Insights from Designing and Evaluating a Large Language   Model-Based Conversational Tutoring System | [2404.17460](http://arxiv.org/abs/2404.17460) | None | 2024-04-26 |
 | CodeBenchGen: Creating Scalable Execution-based Code Generation   Benchmarks | [2404.00566](http://arxiv.org/abs/2404.00566) | https://github.com/veronicium/codebenchgen | 2024-04-26 |
 | Kosmos-G: Generating Images in Context with Multimodal Large Language   Models | [2310.02992](http://arxiv.org/abs/2310.02992) | https://github.com/microsoft/unilm/tree/master/kosmos-g | 2024-04-26 |
-| When Fuzzing Meets LLMs: Challenges and Opportunities | [2404.16297](http://arxiv.org/abs/2404.16297) | None | 2024-04-25 |
-| Examining the robustness of LLM evaluation to the distributional   assumptions of benchmarks | [2404.16966](http://arxiv.org/abs/2404.16966) | None | 2024-04-25 |
-| Cooperate or Collapse: Emergence of Sustainability Behaviors in a   Society of LLM Agents | [2404.16698](http://arxiv.org/abs/2404.16698) | None | 2024-04-25 |
-| Evolutionary Large Language Models for Hardware Security: A Comparative   Survey | [2404.16651](http://arxiv.org/abs/2404.16651) | None | 2024-04-25 |
-| Evolve Cost-aware Acquisition Functions Using Large Language Models | [2404.16906](http://arxiv.org/abs/2404.16906) | None | 2024-04-25 |
-| Automated Social Science: Language Models as Scientist and Subjects | [2404.11794](http://arxiv.org/abs/2404.11794) | None | 2024-04-25 |
-| Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled   Spatial Ontologies | [2312.11713](http://arxiv.org/abs/2312.11713) | None | 2024-04-24 |
-| Large Language Models can Learn Rules | [2310.07064](http://arxiv.org/abs/2310.07064) | None | 2024-04-24 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

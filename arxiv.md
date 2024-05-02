@@ -1,4 +1,4 @@
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,13 +40,15 @@
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
 | A Prompt Learning Framework for Source Code Summarization | [2312.16066](http://arxiv.org/abs/2312.16066) | https://github.com/wssun/promptcs | 2023-12-26 |
 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2023-12-25 |
+| Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large   Language Models | [2312.09601](http://arxiv.org/abs/2312.09601) | https://github.com/xinjin95/binsum | 2023-12-15 |
+| Exploring Distributional Shifts in Large Language Models for Code   Analysis | [2303.09128](http://arxiv.org/abs/2303.09128) | None | 2023-12-05 |
+| Transfer Attacks and Defenses for Large Language Models on Coding Tasks | [2311.13445](http://arxiv.org/abs/2311.13445) | None | 2023-11-22 |
 | xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code   Understanding, Generation, Translation and Retrieval | [2303.03004](http://arxiv.org/abs/2303.03004) | https://github.com/ntunlp/xCodeEval | 2023-11-06 |
 | REAL: Resilience and Adaptation using Large Language Models on   Autonomous Aerial Robots | [2311.01403](http://arxiv.org/abs/2311.01403) | None | 2023-11-02 |
+| The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
 | Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
 | Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using   LLMs | [2310.09668](http://arxiv.org/abs/2310.09668) | None | 2023-10-14 |
-| Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
-| Large Language Models are Few-Shot Summarizers: Multi-Intent Comment   Generation via In-Context Learning | [2304.11384](http://arxiv.org/abs/2304.11384) | https://github.com/gmy2013/llm_comment_generation | 2023-06-14 |
-| The Stack: 3 TB of permissively licensed source code | [2211.15533](http://arxiv.org/abs/2211.15533) | None | 2022-11-20 |
+| An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
@@ -247,6 +249,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-01 |
 | AI-powered Code Review with LLMs: Early Results | [2404.18496](http://arxiv.org/abs/2404.18496) | None | 2024-04-29 |
 | An empirical study on code review activity prediction in practice | [2404.10703](http://arxiv.org/abs/2404.10703) | None | 2024-04-16 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-04-14 |
@@ -257,7 +260,6 @@
 | Assured LLM-Based Software Engineering | [2402.04380](http://arxiv.org/abs/2402.04380) | None | 2024-02-06 |
 | Improving Automated Code Reviews: Learning from Experience | [2402.03777](http://arxiv.org/abs/2402.03777) | None | 2024-02-06 |
 | CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
-| GPT-3.5 for Code Review Automation: How Do Few-Shot Learning, Prompt   Design, and Model Fine-Tuning Impact Their Performance? | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-02-01 |
 | The role of library versions in Developer-ChatGPT conversations | [2401.16340](http://arxiv.org/abs/2401.16340) | None | 2024-01-29 |
 | Security Code Review by LLMs: A Deep Dive into Responses | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-01-29 |
 | Code Review Automation: Strengths and Weaknesses of the State of the Art | [2401.05136](http://arxiv.org/abs/2401.05136) | https://github.com/codereviewautomationsota/code_review_automation_sota | 2024-01-10 |

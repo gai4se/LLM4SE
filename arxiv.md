@@ -1,4 +1,4 @@
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-05-02 |
 | CodeHalu: Code Hallucinations in LLMs Driven by Execution-based   Verification | [2405.00253](http://arxiv.org/abs/2405.00253) | None | 2024-04-30 |
 | Aptly: Making Mobile Apps from Natural Language | [2405.00229](http://arxiv.org/abs/2405.00229) | None | 2024-04-30 |
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-04-30 |
@@ -82,7 +83,6 @@
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | A Dataset for Large Language Model-Driven AI Accelerator Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | https://github.com/acadlab/sa-ds | 2024-04-16 |
 | Resilient Watermarking for LLM-Generated Codes | [2402.07518](http://arxiv.org/abs/2402.07518) | https://github.com/boutiquelee/acw | 2024-04-16 |
-| Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-04-16 |
 | Quality Assessment of Prompts Used in Code Generation | [2404.10155](http://arxiv.org/abs/2404.10155) | None | 2024-04-15 |
 | LLM-based Test-driven Interactive Code Generation: User Study and   Empirical Evaluation | [2404.10100](http://arxiv.org/abs/2404.10100) | None | 2024-04-15 |
 
@@ -249,7 +249,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-01 |
+| Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-02 |
+| A Case Study of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2024-05-01 |
 | AI-powered Code Review with LLMs: Early Results | [2404.18496](http://arxiv.org/abs/2404.18496) | None | 2024-04-29 |
 | An empirical study on code review activity prediction in practice | [2404.10703](http://arxiv.org/abs/2404.10703) | None | 2024-04-16 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-04-14 |
@@ -268,7 +269,6 @@
 | Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |
-| The Effectiveness of Large Language Models (ChatGPT and CodeBERT) for   Security-Oriented Code Analysis | [2307.12488](http://arxiv.org/abs/2307.12488) | https://github.com/moirai7/chatgptforsourcecode | 2023-08-29 |
 | Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
 | ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |
 | CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |

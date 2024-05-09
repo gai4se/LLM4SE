@@ -1,4 +1,4 @@
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,7 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Unveiling Disparities in Web Task Handling Between Human and Web Agent | [2405.04497](http://arxiv.org/abs/2405.04497) | None | 2024-05-07 |
+| Unveiling Disparities in Web Task Handling Between Human and Web Agent | [2405.04497](http://arxiv.org/abs/2405.04497) | None | 2024-05-08 |
+| CodeBenchGen: Creating Scalable Execution-based Code Generation   Benchmarks | [2404.00566](http://arxiv.org/abs/2404.00566) | https://github.com/veronicium/codebenchgen | 2024-05-08 |
 | Granite Code Models: A Family of Open Foundation Models for Code   Intelligence | [2405.04324](http://arxiv.org/abs/2405.04324) | https://github.com/ibm-granite/granite-code-models | 2024-05-07 |
 | Sketch Then Generate: Providing Incremental User Feedback and Guiding   LLM Code Generation through Language-Oriented Code Sketches | [2405.03998](http://arxiv.org/abs/2405.03998) | None | 2024-05-07 |
 | Codexity: Secure AI-assisted Code Generation | [2405.03927](http://arxiv.org/abs/2405.03927) | None | 2024-05-07 |
@@ -81,7 +82,6 @@
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | On the Limitations of Embedding Based Methods for Measuring Functional   Correctness for Code Generation | [2405.01580](http://arxiv.org/abs/2405.01580) | None | 2024-04-26 |
 | "ChatGPT Is Here to Help, Not to Replace Anybody" -- An Evaluation of   Students' Opinions On Integrating ChatGPT In CS Courses | [2404.17443](http://arxiv.org/abs/2404.17443) | None | 2024-04-26 |
-| CodeBenchGen: Creating Scalable Execution-based Code Generation   Benchmarks | [2404.00566](http://arxiv.org/abs/2404.00566) | https://github.com/veronicium/codebenchgen | 2024-04-26 |
 | PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-04-26 |
 | Digital ASIC Design with Ongoing LLMs: Strategies and Prospects | [2405.02329](http://arxiv.org/abs/2405.02329) | None | 2024-04-25 |
 | CleanAgent: Automating Data Standardization with LLM-based Agents | [2403.08291](http://arxiv.org/abs/2403.08291) | https://github.com/sfu-db/CleanAgent | 2024-04-25 |
@@ -189,11 +189,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Method for Parsing and Vectorization of Semi-structured Data used in   Retrieval Augmented Generation | [2405.03989](http://arxiv.org/abs/2405.03989) | None | 2024-05-08 |
 | NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and   Natural User Prompts | [2405.04520](http://arxiv.org/abs/2405.04520) | None | 2024-05-07 |
 | xLSTM: Extended Long Short-Term Memory | [2405.04517](http://arxiv.org/abs/2405.04517) | None | 2024-05-07 |
 | D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities   of Large Language Models | [2405.04170](http://arxiv.org/abs/2405.04170) | None | 2024-05-07 |
 | ChatUniTest: A Framework for LLM-Based Test Generation | [2305.04764](http://arxiv.org/abs/2305.04764) | https://github.com/ZJU-ACES-ISE/ChatUniTest | 2024-05-07 |
-| A Method for Parsing and Vectorization of Semi-structured Data used in   Retrieval Augmented Generation | [2405.03989](http://arxiv.org/abs/2405.03989) | None | 2024-05-07 |
 | Knowledge Adaptation from Large Language Model to Recommendation for   Practical Industrial Application | [2405.03988](http://arxiv.org/abs/2405.03988) | None | 2024-05-07 |
 | In Situ AI Prototyping: Infusing Multimodal Prompts into Mobile Settings   with MobileMaker | [2405.03806](http://arxiv.org/abs/2405.03806) | None | 2024-05-06 |
 | Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | https://github.com/hbin0701/Self-Explore | 2024-05-06 |

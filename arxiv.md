@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-05-09 |
 | Isolating Compiler Bugs by Generating Effective Witness Programs with   Large Language Models | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2024-05-08 |
 | Unveiling Disparities in Web Task Handling Between Human and Web Agent | [2405.04497](http://arxiv.org/abs/2405.04497) | None | 2024-05-08 |
 | CodeBenchGen: Creating Scalable Execution-based Code Generation   Benchmarks | [2404.00566](http://arxiv.org/abs/2404.00566) | https://github.com/veronicium/codebenchgen | 2024-05-08 |
@@ -84,12 +85,13 @@
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | On the Limitations of Embedding Based Methods for Measuring Functional   Correctness for Code Generation | [2405.01580](http://arxiv.org/abs/2405.01580) | None | 2024-04-26 |
 | "ChatGPT Is Here to Help, Not to Replace Anybody" -- An Evaluation of   Students' Opinions On Integrating ChatGPT In CS Courses | [2404.17443](http://arxiv.org/abs/2404.17443) | None | 2024-04-26 |
-| PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM | [2401.03855](http://arxiv.org/abs/2401.03855) | None | 2024-04-26 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Automated Program Repair: Emerging trends pose and expose problems for   benchmarks | [2405.05455](http://arxiv.org/abs/2405.05455) | None | 2024-05-08 |
+| Benchmarking Educational Program Repair | [2405.05347](http://arxiv.org/abs/2405.05347) | https://github.com/koutchemecharles/gaied_nips23 | 2024-05-08 |
 | NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair | [2405.04994](http://arxiv.org/abs/2405.04994) | None | 2024-05-08 |
 | Automatic Programming: Large Language Models and Beyond | [2405.02213](http://arxiv.org/abs/2405.02213) | None | 2024-05-03 |
 | A Systematic Literature Review on Large Language Models for Automated   Program Repair | [2405.01466](http://arxiv.org/abs/2405.01466) | https://github.com/isenglab/awesomellm4apr | 2024-05-02 |
@@ -119,8 +121,6 @@
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
 | A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
 | Multi-LLM Collaboration + Data-Centric Innovation = 2x Better   Vulnerability Repair | [2401.15459](http://arxiv.org/abs/2401.15459) | None | 2024-03-12 |
-| RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-03-11 |
-| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -189,11 +189,25 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning | [2405.05824](http://arxiv.org/abs/2405.05824) | None | 2024-05-09 |
+| Large Language Model-Aided Evolutionary Search for Constrained   Multiobjective Optimization | [2405.05767](http://arxiv.org/abs/2405.05767) | None | 2024-05-09 |
+| Can large language models understand uncommon meanings of common words? | [2405.05741](http://arxiv.org/abs/2405.05741) | None | 2024-05-09 |
+| GPT-4 passes most of the 297 written Polish Board Certification   Examinations | [2405.01589](http://arxiv.org/abs/2405.01589) | None | 2024-05-09 |
+| An Automatic Prompt Generation System for Tabular Data Tasks | [2405.05618](http://arxiv.org/abs/2405.05618) | None | 2024-05-09 |
+| Can We Use Large Language Models to Fill Relevance Judgment Holes? | [2405.05600](http://arxiv.org/abs/2405.05600) | None | 2024-05-09 |
+| Investigating Interaction Modes and User Agency in Human-LLM   Collaboration for Domain-Specific Data Analysis | [2405.05548](http://arxiv.org/abs/2405.05548) | None | 2024-05-09 |
+| Boosting Large Language Models with Continual Learning for Aspect-based   Sentiment Analysis | [2405.05496](http://arxiv.org/abs/2405.05496) | None | 2024-05-09 |
+| REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific   Sentences using Public and Proprietary LLMs | [2405.02228](http://arxiv.org/abs/2405.02228) | None | 2024-05-09 |
+| Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals | [2405.05466](http://arxiv.org/abs/2405.05466) | None | 2024-05-08 |
+| Large Language Model Enhanced Machine Learning Estimators for   Classification | [2405.05445](http://arxiv.org/abs/2405.05445) | None | 2024-05-08 |
+| Information Extraction from Historical Well Records Using A Large   Language Model | [2405.05438](http://arxiv.org/abs/2405.05438) | None | 2024-05-08 |
+| Customization Assistant for Text-to-image Generation | [2312.03045](http://arxiv.org/abs/2312.03045) | None | 2024-05-08 |
 | Cultural Alignment in Large Language Models: An Explanatory Analysis   Based on Hofstede's Cultural Dimensions | [2309.12342](http://arxiv.org/abs/2309.12342) | https://github.com/reemim/hofstedes_cat | 2024-05-08 |
 | Concerns on Bias in Large Language Models when Creating Synthetic   Personae | [2405.05080](http://arxiv.org/abs/2405.05080) | None | 2024-05-08 |
 | Isolating Compiler Bugs by Generating Effective Witness Programs with   Large Language Models | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2024-05-08 |
 | A Method for Parsing and Vectorization of Semi-structured Data used in   Retrieval Augmented Generation | [2405.03989](http://arxiv.org/abs/2405.03989) | https://github.com/linancn/tiangong-ai-unstructure | 2024-05-08 |
 | CodeBenchGen: Creating Scalable Execution-based Code Generation   Benchmarks | [2404.00566](http://arxiv.org/abs/2404.00566) | https://github.com/veronicium/codebenchgen | 2024-05-08 |
+| Generative AI as a metacognitive agent: A comparative mixed-method study   with human participants on ICF-mimicking exam performance | [2405.05285](http://arxiv.org/abs/2405.05285) | None | 2024-05-07 |
 | Understanding the Capabilities and Limitations of Large Language Models   for Cultural Commonsense | [2405.04655](http://arxiv.org/abs/2405.04655) | https://github.com/MichiganNLP/LLM_cultural_commonsense | 2024-05-07 |
 | NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and   Natural User Prompts | [2405.04520](http://arxiv.org/abs/2405.04520) | None | 2024-05-07 |
 | xLSTM: Extended Long Short-Term Memory | [2405.04517](http://arxiv.org/abs/2405.04517) | None | 2024-05-07 |
@@ -205,20 +219,6 @@
 | Gaussian Stochastic Weight Averaging for Bayesian Low-Rank Adaptation of   Large Language Models | [2405.03425](http://arxiv.org/abs/2405.03425) | None | 2024-05-06 |
 | MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language   Models in the Context of the Pediatric Hypertension Guideline | [2405.03359](http://arxiv.org/abs/2405.03359) | https://github.com/yaseen28/meddoc-bot | 2024-05-06 |
 | Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-05-06 |
-| Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets | [2405.02132](http://arxiv.org/abs/2405.02132) | None | 2024-05-06 |
-| Large Language Models Synergize with Automated Machine Learning | [2405.03727](http://arxiv.org/abs/2405.03727) | None | 2024-05-06 |
-| Zero-Shot ECG Classification with Multimodal Learning and Test-time   Clinical Knowledge Enhancement | [2403.06659](http://arxiv.org/abs/2403.06659) | None | 2024-05-06 |
-| Oracle-Checker Scheme for Evaluating a Generative Large Language Model | [2405.03170](http://arxiv.org/abs/2405.03170) | None | 2024-05-06 |
-| FairMonitor: A Dual-framework for Detecting Stereotypes and Biases in   Large Language Models | [2405.03098](http://arxiv.org/abs/2405.03098) | None | 2024-05-06 |
-| MedAdapter: Efficient Test-Time Adaptation of Large Language Models   towards Medical Reasoning | [2405.03000](http://arxiv.org/abs/2405.03000) | None | 2024-05-05 |
-| How do LLMs Support Deep Learning Testing? A Comprehensive Study Through   the Lens of Image Mutation | [2404.13945](http://arxiv.org/abs/2404.13945) | None | 2024-05-05 |
-| R-Tuning: Instructing Large Language Models to Say `I Don't Know' | [2311.09677](http://arxiv.org/abs/2311.09677) | https://github.com/shizhediao/r-tuning | 2024-05-05 |
-| Unveiling the Potential of Sentiment: Can Large Language Models Predict   Chinese Stock Price Movements? | [2306.14222](http://arxiv.org/abs/2306.14222) | None | 2024-05-04 |
-| TREC iKAT 2023: A Test Collection for Evaluating Conversational and   Interactive Knowledge Assistants | [2405.02637](http://arxiv.org/abs/2405.02637) | https://github.com/irlabamsterdam/iKAT | 2024-05-04 |
-| PropertyGPT: LLM-driven Formal Verification of Smart Contracts through   Retrieval-Augmented Property Generation | [2405.02580](http://arxiv.org/abs/2405.02580) | None | 2024-05-04 |
-| Mothman at SemEval-2024 Task 9: An Iterative System for Chain-of-Thought   Prompt Optimization | [2405.02517](http://arxiv.org/abs/2405.02517) | None | 2024-05-03 |
-| What is Sentiment Meant to Mean to Language Models? | [2405.02454](http://arxiv.org/abs/2405.02454) | None | 2024-05-03 |
-| ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis   Testing | [2309.09128](http://arxiv.org/abs/2309.09128) | https://github.com/ianarawjo/ChainForge | 2024-05-03 |
 | Inferring State Machine from the Protocol Implementation via Large   Langeuage Model | [2405.00393](http://arxiv.org/abs/2405.00393) | https://github.com/s1awwhy/protocolgpt | 2024-05-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

@@ -581,6 +581,7 @@ The collection is actively updated with the help of an internal literature searc
 | Year | Name                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
 | 2024  | [HumanEval+](https://evalplus.github.io/leaderboard.html) |
+| 2024  | [SWE-Bench](https://www.swebench.com) |
 
 ## Paper List
 

@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Program Synthesis using Inductive Logic Programming for the Abstraction   and Reasoning Corpus | [2405.06399](http://arxiv.org/abs/2405.06399) | None | 2024-05-10 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-05-09 |
 | Contextual API Completion for Unseen Repositories Using LLMs | [2405.04600](http://arxiv.org/abs/2405.04600) | None | 2024-05-09 |
 | Isolating Compiler Bugs by Generating Effective Witness Programs with   Large Language Models | [2307.00593](http://arxiv.org/abs/2307.00593) | https://github.com/haoxintu/LLM4CBI | 2024-05-08 |
@@ -84,7 +85,6 @@
 | Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular   RAG Applications | [2405.01585](http://arxiv.org/abs/2405.01585) | None | 2024-04-28 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | On the Limitations of Embedding Based Methods for Measuring Functional   Correctness for Code Generation | [2405.01580](http://arxiv.org/abs/2405.01580) | None | 2024-04-26 |
-| "ChatGPT Is Here to Help, Not to Replace Anybody" -- An Evaluation of   Students' Opinions On Integrating ChatGPT In CS Courses | [2404.17443](http://arxiv.org/abs/2404.17443) | None | 2024-04-26 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -189,6 +189,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on   Historical American Newspaper Pages | [2403.17859](http://arxiv.org/abs/2403.17859) | https://github.com/datascienceuibk/chroniclingamericaqa | 2024-05-10 |
+| Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large   Language Models | [2404.02936](http://arxiv.org/abs/2404.02936) | None | 2024-05-10 |
+| LLM Discussion: Enhancing the Creativity of Large Language Models via   Discussion Framework and Role-Play | [2405.06373](http://arxiv.org/abs/2405.06373) | None | 2024-05-10 |
+| Beyond Human Norms: Unveiling Unique Values of Large Language Models   through Interdisciplinary Approaches | [2404.12744](http://arxiv.org/abs/2404.12744) | None | 2024-05-10 |
+| On the Evaluation of Machine-Generated Reports | [2405.00982](http://arxiv.org/abs/2405.00982) | None | 2024-05-10 |
+| Large Language Models Show Human-like Social Desirability Biases in   Survey Responses | [2405.06058](http://arxiv.org/abs/2405.06058) | None | 2024-05-09 |
+| Binary Hypothesis Testing for Softmax Models and Leverage Score Models | [2405.06003](http://arxiv.org/abs/2405.06003) | None | 2024-05-09 |
 | Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning | [2405.05824](http://arxiv.org/abs/2405.05824) | https://github.com/temalykov/robots_can_feel | 2024-05-09 |
 | Large Language Model-Aided Evolutionary Search for Constrained   Multiobjective Optimization | [2405.05767](http://arxiv.org/abs/2405.05767) | None | 2024-05-09 |
 | Can large language models understand uncommon meanings of common words? | [2405.05741](http://arxiv.org/abs/2405.05741) | None | 2024-05-09 |
@@ -213,13 +220,6 @@
 | xLSTM: Extended Long Short-Term Memory | [2405.04517](http://arxiv.org/abs/2405.04517) | None | 2024-05-07 |
 | D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities   of Large Language Models | [2405.04170](http://arxiv.org/abs/2405.04170) | https://github.com/duygua/semeval2024_nli4ct | 2024-05-07 |
 | ChatUniTest: A Framework for LLM-Based Test Generation | [2305.04764](http://arxiv.org/abs/2305.04764) | https://github.com/ZJU-ACES-ISE/ChatUniTest | 2024-05-07 |
-| Knowledge Adaptation from Large Language Model to Recommendation for   Practical Industrial Application | [2405.03988](http://arxiv.org/abs/2405.03988) | None | 2024-05-07 |
-| In Situ AI Prototyping: Infusing Multimodal Prompts into Mobile Settings   with MobileMaker | [2405.03806](http://arxiv.org/abs/2405.03806) | None | 2024-05-06 |
-| Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | https://github.com/hbin0701/Self-Explore | 2024-05-06 |
-| Gaussian Stochastic Weight Averaging for Bayesian Low-Rank Adaptation of   Large Language Models | [2405.03425](http://arxiv.org/abs/2405.03425) | None | 2024-05-06 |
-| MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language   Models in the Context of the Pediatric Hypertension Guideline | [2405.03359](http://arxiv.org/abs/2405.03359) | https://github.com/yaseen28/meddoc-bot | 2024-05-06 |
-| Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival   Human Crowd Accuracy | [2402.19379](http://arxiv.org/abs/2402.19379) | None | 2024-05-06 |
-| Inferring State Machine from the Protocol Implementation via Large   Langeuage Model | [2405.00393](http://arxiv.org/abs/2405.00393) | https://github.com/s1awwhy/protocolgpt | 2024-05-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

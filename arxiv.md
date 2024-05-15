@@ -1,4 +1,4 @@
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | None | 2024-05-14 |
 | OMPGPT: A Generative Pre-trained Transformer Model for OpenMP | [2401.16445](http://arxiv.org/abs/2401.16445) | None | 2024-05-13 |
 | MuMath-Code: Combining Tool-Use Large Language Models with   Multi-perspective Data Augmentation for Mathematical Reasoning | [2405.07551](http://arxiv.org/abs/2405.07551) | None | 2024-05-13 |
 | Prompt-based Code Completion via Multi-Retrieval Augmented Generation | [2405.07530](http://arxiv.org/abs/2405.07530) | None | 2024-05-13 |
@@ -84,7 +85,6 @@
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-04-30 |
 | Linguacodus: A Synergistic Framework for Transformative Code Generation   in Machine Learning Pipelines | [2403.11585](http://arxiv.org/abs/2403.11585) | None | 2024-04-30 |
 | Exploring Multi-Lingual Bias of Large Code Models in Code Generation | [2404.19368](http://arxiv.org/abs/2404.19368) | None | 2024-04-30 |
-| ComPile: A Large IR Dataset from Production Sources | [2309.15432](http://arxiv.org/abs/2309.15432) | None | 2024-04-30 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -189,6 +189,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Towards a Path Dependent Account of Category Fluency | [2405.06714](http://arxiv.org/abs/2405.06714) | None | 2024-05-14 |
 | AgentClinic: a multimodal agent benchmark to evaluate AI in simulated   clinical environments | [2405.07960](http://arxiv.org/abs/2405.07960) | None | 2024-05-13 |
 | Synthetic Test Collections for Retrieval Evaluation | [2405.07767](http://arxiv.org/abs/2405.07767) | None | 2024-05-13 |
 | Do Large Language Models Solve ARC Visual Analogies Like People Do? | [2403.09734](http://arxiv.org/abs/2403.09734) | None | 2024-05-13 |
@@ -204,7 +205,6 @@
 | Beyond Human Norms: Unveiling Unique Values of Large Language Models   through Interdisciplinary Approaches | [2404.12744](http://arxiv.org/abs/2404.12744) | None | 2024-05-10 |
 | On the Evaluation of Machine-Generated Reports | [2405.00982](http://arxiv.org/abs/2405.00982) | None | 2024-05-10 |
 | Large Language Models Show Human-like Social Desirability Biases in   Survey Responses | [2405.06058](http://arxiv.org/abs/2405.06058) | None | 2024-05-09 |
-| Towards a path dependent account of category fluency | [2405.06714](http://arxiv.org/abs/2405.06714) | None | 2024-05-09 |
 | Binary Hypothesis Testing for Softmax Models and Leverage Score Models | [2405.06003](http://arxiv.org/abs/2405.06003) | None | 2024-05-09 |
 | Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning | [2405.05824](http://arxiv.org/abs/2405.05824) | https://github.com/temalykov/robots_can_feel | 2024-05-09 |
 | Large Language Model-Aided Evolutionary Search for Constrained   Multiobjective Optimization | [2405.05767](http://arxiv.org/abs/2405.05767) | None | 2024-05-09 |

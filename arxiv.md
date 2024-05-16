@@ -54,8 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | https://github.com/parallelcodefoundry/ParEval | 2024-05-14 |
 | Contextual API Completion for Unseen Repositories Using LLMs | [2405.04600](http://arxiv.org/abs/2405.04600) | None | 2024-05-14 |
+| Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | https://github.com/parallelcodefoundry/ParEval | 2024-05-14 |
 | Toward Automated Programming for Robotic Assembly Using ChatGPT | [2405.08216](http://arxiv.org/abs/2405.08216) | None | 2024-05-13 |
 | OMPGPT: A Generative Pre-trained Transformer Model for OpenMP | [2401.16445](http://arxiv.org/abs/2401.16445) | None | 2024-05-13 |
 | MuMath-Code: Combining Tool-Use Large Language Models with   Multi-perspective Data Augmentation for Mathematical Reasoning | [2405.07551](http://arxiv.org/abs/2405.07551) | None | 2024-05-13 |
@@ -153,6 +153,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Transfer Learning in Pre-Trained Large Language Models for Malware   Detection Based on System Calls | [2405.09318](http://arxiv.org/abs/2405.09318) | None | 2024-05-15 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | Large Language Models for Cyber Security: A Systematic Literature Review | [2405.04760](http://arxiv.org/abs/2405.04760) | None | 2024-05-09 |
 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2024-05-06 |
@@ -183,12 +184,13 @@
 | How Far Have We Gone in Vulnerability Detection Using Large Language   Models | [2311.12420](http://arxiv.org/abs/2311.12420) | https://github.com/hustcw/vulbench | 2023-12-22 |
 | LLM-based Resource-Oriented Intention Inference for Static Resource Leak   Detection | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2023-12-22 |
 | SkipAnalyzer: A Tool for Static Code Analysis with Large Language Models | [2310.18532](http://arxiv.org/abs/2310.18532) | None | 2023-12-18 |
-| Exploring the Limits of ChatGPT in Software Security Applications | [2312.05275](http://arxiv.org/abs/2312.05275) | None | 2023-12-08 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| "I'm Not Sure, But...": Examining the Impact of Large Language Models'   Uncertainty Expression on User Reliance and Trust | [2405.00623](http://arxiv.org/abs/2405.00623) | None | 2024-05-15 |
+| MileBench: Benchmarking MLLMs in Long Context | [2404.18532](http://arxiv.org/abs/2404.18532) | None | 2024-05-15 |
 | ParallelPARC: A Scalable Pipeline for Generating Natural-Language   Analogies | [2403.01139](http://arxiv.org/abs/2403.01139) | https://github.com/orensul/parallelparc | 2024-05-14 |
 | Challenges and Opportunities in Text Generation Explainability | [2405.08468](http://arxiv.org/abs/2405.08468) | None | 2024-05-14 |
 | SpeechVerse: A Large-scale Generalizable Audio Language Model | [2405.08295](http://arxiv.org/abs/2405.08295) | None | 2024-05-14 |
@@ -217,8 +219,6 @@
 | GPT-4 passes most of the 297 written Polish Board Certification   Examinations | [2405.01589](http://arxiv.org/abs/2405.01589) | None | 2024-05-09 |
 | Hypothesis Testing Prompting Improves Deductive Reasoning in Large   Language Models | [2405.06707](http://arxiv.org/abs/2405.06707) | None | 2024-05-09 |
 | An Automatic Prompt Generation System for Tabular Data Tasks | [2405.05618](http://arxiv.org/abs/2405.05618) | None | 2024-05-09 |
-| Can We Use Large Language Models to Fill Relevance Judgment Holes? | [2405.05600](http://arxiv.org/abs/2405.05600) | None | 2024-05-09 |
-| Investigating Interaction Modes and User Agency in Human-LLM   Collaboration for Domain-Specific Data Analysis | [2405.05548](http://arxiv.org/abs/2405.05548) | None | 2024-05-09 |
 | ChatUniTest: A Framework for LLM-Based Test Generation | [2305.04764](http://arxiv.org/abs/2305.04764) | https://github.com/ZJU-ACES-ISE/ChatUniTest | 2024-05-07 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
@@ -249,6 +249,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| PrAIoritize: Automated Early Prediction and Prioritization of   Vulnerabilities in Smart Contracts | [2308.11082](http://arxiv.org/abs/2308.11082) | None | 2024-05-15 |
 | An Empirical Study on Code Review Activity Prediction and Its Impact in   Practice | [2404.10703](http://arxiv.org/abs/2404.10703) | None | 2024-05-13 |
 | Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-02 |
 | AI-powered Code Review with LLMs: Early Results | [2404.18496](http://arxiv.org/abs/2404.18496) | None | 2024-04-29 |

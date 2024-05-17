@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Systematic Evaluation of Large Language Models for Natural Language   Generation Tasks | [2405.10251](http://arxiv.org/abs/2405.10251) | None | 2024-05-16 |
+| IntelliExplain: Enhancing Interactive Code Generation through Natural   Language Explanations for Non-Professional Programmers | [2405.10250](http://arxiv.org/abs/2405.10250) | None | 2024-05-16 |
 | Contextual API Completion for Unseen Repositories Using LLMs | [2405.04600](http://arxiv.org/abs/2405.04600) | None | 2024-05-14 |
 | Can Large Language Models Write Parallel Code? | [2401.12554](http://arxiv.org/abs/2401.12554) | https://github.com/parallelcodefoundry/ParEval | 2024-05-14 |
 | Toward Automated Programming for Robotic Assembly Using ChatGPT | [2405.08216](http://arxiv.org/abs/2405.08216) | None | 2024-05-13 |
@@ -83,8 +85,6 @@
 | Fewer Truncations Improve Language Modeling | [2404.10830](http://arxiv.org/abs/2404.10830) | None | 2024-05-02 |
 | CodeHalu: Code Hallucinations in LLMs Driven by Execution-based   Verification | [2405.00253](http://arxiv.org/abs/2405.00253) | None | 2024-04-30 |
 | Aptly: Making Mobile Apps from Natural Language | [2405.00229](http://arxiv.org/abs/2405.00229) | None | 2024-04-30 |
-| Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-04-30 |
-| Linguacodus: A Synergistic Framework for Transformative Code Generation   in Machine Learning Pipelines | [2403.11585](http://arxiv.org/abs/2403.11585) | None | 2024-04-30 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -189,6 +189,17 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Keep It Private: Unsupervised Privatization of Online Text | [2405.10260](http://arxiv.org/abs/2405.10260) | https://github.com/csbao/kip-privatization | 2024-05-16 |
+| StyloAI: Distinguishing AI-Generated Content with Stylometric Analysis | [2405.10129](http://arxiv.org/abs/2405.10129) | None | 2024-05-16 |
+| Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of   Language Models with Fine-grained Rewards | [2404.10346](http://arxiv.org/abs/2404.10346) | https://github.com/hbin0701/Self-Explore | 2024-05-16 |
+| Generalization or Memorization: Data Contamination and Trustworthy   Evaluation for Large Language Models | [2402.15938](http://arxiv.org/abs/2402.15938) | https://github.com/yihongdong/cdd-ted4llms | 2024-05-16 |
+| Listen Again and Choose the Right Answer: A New Paradigm for Automatic   Speech Recognition with Large Language Models | [2405.10025](http://arxiv.org/abs/2405.10025) | None | 2024-05-16 |
+| FlashBack:Efficient Retrieval-Augmented Language Modeling for Long   Context Inference | [2405.04065](http://arxiv.org/abs/2405.04065) | None | 2024-05-16 |
+| Leveraging Large Language Models for Automated Web-Form-Test Generation:   An Empirical Study | [2405.09965](http://arxiv.org/abs/2405.09965) | None | 2024-05-16 |
+| Enhancing Small Medical Learners with Privacy-preserving Contextual   Prompting | [2305.12723](http://arxiv.org/abs/2305.12723) | https://github.com/xzhang97666/privacyboost-slm | 2024-05-16 |
+| Many-Shot In-Context Learning in Multimodal Foundation Models | [2405.09798](http://arxiv.org/abs/2405.09798) | https://github.com/stanfordmlgroup/ManyICL | 2024-05-16 |
+| A Mathematical Theory for Learning Semantic Languages by Abstract   Learners | [2404.07009](http://arxiv.org/abs/2404.07009) | None | 2024-05-15 |
+| Elements of World Knowledge (EWOK): A cognition-inspired framework for   evaluating basic world knowledge in language models | [2405.09605](http://arxiv.org/abs/2405.09605) | None | 2024-05-15 |
 | "I'm Not Sure, But...": Examining the Impact of Large Language Models'   Uncertainty Expression on User Reliance and Trust | [2405.00623](http://arxiv.org/abs/2405.00623) | None | 2024-05-15 |
 | MileBench: Benchmarking MLLMs in Long Context | [2404.18532](http://arxiv.org/abs/2404.18532) | None | 2024-05-15 |
 | ParallelPARC: A Scalable Pipeline for Generating Natural-Language   Analogies | [2403.01139](http://arxiv.org/abs/2403.01139) | https://github.com/orensul/parallelparc | 2024-05-14 |
@@ -208,17 +219,6 @@
 | Will the Real Linda Please Stand up...to Large Language Models?   Examining the Representativeness Heuristic in LLMs | [2404.01461](http://arxiv.org/abs/2404.01461) | None | 2024-05-11 |
 | Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals | [2405.05466](http://arxiv.org/abs/2405.05466) | None | 2024-05-11 |
 | ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on   Historical American Newspaper Pages | [2403.17859](http://arxiv.org/abs/2403.17859) | https://github.com/datascienceuibk/chroniclingamericaqa | 2024-05-10 |
-| Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large   Language Models | [2404.02936](http://arxiv.org/abs/2404.02936) | None | 2024-05-10 |
-| Beyond Human Norms: Unveiling Unique Values of Large Language Models   through Interdisciplinary Approaches | [2404.12744](http://arxiv.org/abs/2404.12744) | None | 2024-05-10 |
-| On the Evaluation of Machine-Generated Reports | [2405.00982](http://arxiv.org/abs/2405.00982) | None | 2024-05-10 |
-| Large Language Models Show Human-like Social Desirability Biases in   Survey Responses | [2405.06058](http://arxiv.org/abs/2405.06058) | None | 2024-05-09 |
-| Binary Hypothesis Testing for Softmax Models and Leverage Score Models | [2405.06003](http://arxiv.org/abs/2405.06003) | None | 2024-05-09 |
-| Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning | [2405.05824](http://arxiv.org/abs/2405.05824) | https://github.com/temalykov/robots_can_feel | 2024-05-09 |
-| Large Language Model-Aided Evolutionary Search for Constrained   Multiobjective Optimization | [2405.05767](http://arxiv.org/abs/2405.05767) | None | 2024-05-09 |
-| Can large language models understand uncommon meanings of common words? | [2405.05741](http://arxiv.org/abs/2405.05741) | None | 2024-05-09 |
-| GPT-4 passes most of the 297 written Polish Board Certification   Examinations | [2405.01589](http://arxiv.org/abs/2405.01589) | None | 2024-05-09 |
-| Hypothesis Testing Prompting Improves Deductive Reasoning in Large   Language Models | [2405.06707](http://arxiv.org/abs/2405.06707) | None | 2024-05-09 |
-| An Automatic Prompt Generation System for Tabular Data Tasks | [2405.05618](http://arxiv.org/abs/2405.05618) | None | 2024-05-09 |
 | ChatUniTest: A Framework for LLM-Based Test Generation | [2305.04764](http://arxiv.org/abs/2305.04764) | https://github.com/ZJU-ACES-ISE/ChatUniTest | 2024-05-07 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

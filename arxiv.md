@@ -1,4 +1,4 @@
-## Updated on 2024.05.18
+## Updated on 2024.05.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -207,10 +207,10 @@
 | SpeechVerse: A Large-scale Generalizable Audio Language Model | [2405.08295](http://arxiv.org/abs/2405.08295) | None | 2024-05-14 |
 | Towards a Path Dependent Account of Category Fluency | [2405.06714](http://arxiv.org/abs/2405.06714) | https://github.com/davidheineman/category-fluency | 2024-05-14 |
 | Customizing Large Language Models for Business Context: Framework and   Experiments | [2312.10225](http://arxiv.org/abs/2312.10225) | None | 2024-05-14 |
-| Many-Shot Regurgitation (MSR) Prompting | [2405.08134](http://arxiv.org/abs/2405.08134) | https://github.com/luffycodes/Many-Shot-Regurgitation-MIA | 2024-05-13 |
+| Many-Shot Regurgitation (MSR) Prompting | [2405.08134](http://arxiv.org/abs/2405.08134) | None | 2024-05-13 |
 | AgentClinic: a multimodal agent benchmark to evaluate AI in simulated   clinical environments | [2405.07960](http://arxiv.org/abs/2405.07960) | None | 2024-05-13 |
 | Synthetic Test Collections for Retrieval Evaluation | [2405.07767](http://arxiv.org/abs/2405.07767) | None | 2024-05-13 |
-| Do Large Language Models Solve ARC Visual Analogies Like People Do? | [2403.09734](http://arxiv.org/abs/2403.09734) | None | 2024-05-13 |
+| Do Large Language Models Solve ARC Visual Analogies Like People Do? | [2403.09734](http://arxiv.org/abs/2403.09734) | https://github.com/cstevenson-uva/kidsarc | 2024-05-13 |
 | DoLLM: How Large Language Models Understanding Network Flow Data to   Detect Carpet Bombing DDoS | [2405.07638](http://arxiv.org/abs/2405.07638) | None | 2024-05-13 |
 | LLM Discussion: Enhancing the Creativity of Large Language Models via   Discussion Framework and Role-Play | [2405.06373](http://arxiv.org/abs/2405.06373) | None | 2024-05-13 |
 | Can Language Models Explain Their Own Classification Behavior? | [2405.07436](http://arxiv.org/abs/2405.07436) | https://github.com/danesherbs/articulate-rules | 2024-05-13 |

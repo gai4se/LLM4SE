@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -109,6 +109,7 @@
 | Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
 | LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities   (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2024-04-13 |
 | The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-04-09 |
+| Large Language Model for Vulnerability Detection and Repair: Literature   Review and the Road Ahead | [2404.02525](http://arxiv.org/abs/2404.02525) | None | 2024-04-06 |
 | CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |
 | Peer-aided Repairer: Empowering Large Language Models to Repair Advanced   Student Assignments | [2404.01754](http://arxiv.org/abs/2404.01754) | None | 2024-04-02 |
 | Code Comparison Tuning for Code Large Language Models | [2403.19121](http://arxiv.org/abs/2403.19121) | None | 2024-03-28 |
@@ -119,8 +120,7 @@
 | PatchZero: Zero-Shot Automatic Patch Correctness Assessment | [2303.00202](http://arxiv.org/abs/2303.00202) | None | 2024-03-22 |
 | Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
 | A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
-| RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-03-11 |
-| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
+| Multi-LLM Collaboration + Data-Centric Innovation = 2x Better   Vulnerability Repair | [2401.15459](http://arxiv.org/abs/2401.15459) | None | 2024-03-12 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -131,15 +131,29 @@
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-04-19 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
+| Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
+| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
+| Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
+| AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2024-03-25 |
+| Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
+| Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-03-07 |
+| Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
 | Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
+| ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
+| AI-enhanced Auto-correction of Programming Exercises: How Effective is   GPT-3.5? | [2311.10737](http://arxiv.org/abs/2311.10737) | None | 2023-10-24 |
+| Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
+| A Preliminary Evaluation of LLM-Based Fault Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2023-08-26 |
+| SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
+| Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
 | Transfer Learning in Pre-Trained Large Language Models for Malware   Detection Based on System Calls | [2405.09318](http://arxiv.org/abs/2405.09318) | None | 2024-05-15 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | Large Language Models for Cyber Security: A Systematic Literature Review | [2405.04760](http://arxiv.org/abs/2405.04760) | None | 2024-05-09 |
@@ -149,7 +163,6 @@
 | Evolutionary Large Language Models for Hardware Security: A Comparative   Survey | [2404.16651](http://arxiv.org/abs/2404.16651) | None | 2024-04-25 |
 | When Fuzzing Meets LLMs: Challenges and Opportunities | [2404.16297](http://arxiv.org/abs/2404.16297) | None | 2024-04-25 |
 | Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-04-14 |
-| Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-04-14 |
 | Prompt-Enhanced Software Vulnerability Detection Using ChatGPT | [2308.12697](http://arxiv.org/abs/2308.12697) | https://github.com/kdegroup/llmvulnerabilitydetection | 2024-04-12 |
 | Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language   Models | [2310.00322](http://arxiv.org/abs/2310.00322) | None | 2024-04-06 |
 | Large Language Model for Vulnerability Detection and Repair: Literature   Review and the Road Ahead | [2404.02525](http://arxiv.org/abs/2404.02525) | None | 2024-04-06 |
@@ -176,6 +189,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test   Generation | [2305.04207](http://arxiv.org/abs/2305.04207) | None | 2024-05-19 |
 | Counting-Stars: A Multi-evidence, Position-aware, and Scalable Benchmark   for Evaluating Long-Context Large Language Models | [2403.11802](http://arxiv.org/abs/2403.11802) | https://github.com/nick7nlp/counting-stars | 2024-05-17 |
 | GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on   Geometry Problem-Solving | [2402.10104](http://arxiv.org/abs/2402.10104) | https://github.com/geoeval/geoeval | 2024-05-17 |
 | A Hard Nut to Crack: Idiom Detection with Conversational Large Language   Models | [2405.10579](http://arxiv.org/abs/2405.10579) | None | 2024-05-17 |
@@ -206,7 +220,6 @@
 | AgentClinic: a multimodal agent benchmark to evaluate AI in simulated   clinical environments | [2405.07960](http://arxiv.org/abs/2405.07960) | None | 2024-05-13 |
 | Synthetic Test Collections for Retrieval Evaluation | [2405.07767](http://arxiv.org/abs/2405.07767) | None | 2024-05-13 |
 | Do Large Language Models Solve ARC Visual Analogies Like People Do? | [2403.09734](http://arxiv.org/abs/2403.09734) | https://github.com/cstevenson-uva/kidsarc | 2024-05-13 |
-| ChatUniTest: A Framework for LLM-Based Test Generation | [2305.04764](http://arxiv.org/abs/2305.04764) | https://github.com/ZJU-ACES-ISE/ChatUniTest | 2024-05-07 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -236,11 +249,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
 | PrAIoritize: Automated Early Prediction and Prioritization of   Vulnerabilities in Smart Contracts | [2308.11082](http://arxiv.org/abs/2308.11082) | None | 2024-05-15 |
 | An Empirical Study on Code Review Activity Prediction and Its Impact in   Practice | [2404.10703](http://arxiv.org/abs/2404.10703) | None | 2024-05-13 |
 | Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-02 |
 | AI-powered Code Review with LLMs: Early Results | [2404.18496](http://arxiv.org/abs/2404.18496) | None | 2024-04-29 |
-| Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-04-14 |
 | When LLM-based Code Generation Meets the Software Development Process | [2403.15852](http://arxiv.org/abs/2403.15852) | None | 2024-03-23 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
 | CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | None | 2024-02-15 |

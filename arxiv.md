@@ -1,4 +1,4 @@
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,6 +189,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| MBIAS: Mitigating Bias in Large Language Models While Retaining Context | [2405.11290](http://arxiv.org/abs/2405.11290) | None | 2024-05-22 |
 | Towards Translating Real-World Code with LLMs: A Study of Translating to   Rust | [2405.11514](http://arxiv.org/abs/2405.11514) | None | 2024-05-21 |
 | Safe and Responsible Large Language Model Development | [2404.01399](http://arxiv.org/abs/2404.01399) | https://github.com/shainarazavi/safe-responsible-llm | 2024-05-21 |
 | Test Oracle Automation in the era of LLMs | [2405.12766](http://arxiv.org/abs/2405.12766) | None | 2024-05-21 |
@@ -216,7 +217,6 @@
 | Can Public LLMs be used for Self-Diagnosis of Medical Conditions ? | [2405.11407](http://arxiv.org/abs/2405.11407) | None | 2024-05-18 |
 | MapCoder: Multi-Agent Code Generation for Competitive Problem Solving | [2405.11403](http://arxiv.org/abs/2405.11403) | https://github.com/md-ashraful-pramanik/mapcoder | 2024-05-18 |
 | LLM Discussion: Enhancing the Creativity of Large Language Models via   Discussion Framework and Role-Play | [2405.06373](http://arxiv.org/abs/2405.06373) | None | 2024-05-18 |
-| MBIAS: Mitigating Bias in Large Language Models While Retaining Context | [2405.11290](http://arxiv.org/abs/2405.11290) | None | 2024-05-18 |
 | EnviroExam: Benchmarking Environmental Science Knowledge of Large   Language Models | [2405.11265](http://arxiv.org/abs/2405.11265) | None | 2024-05-18 |
 | Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large   Language Models for Trauma Assessments | [2405.11178](http://arxiv.org/abs/2405.11178) | None | 2024-05-18 |
 | FlashBack:Efficient Retrieval-Augmented Language Modeling for Long   Context Inference | [2405.04065](http://arxiv.org/abs/2405.04065) | None | 2024-05-16 |

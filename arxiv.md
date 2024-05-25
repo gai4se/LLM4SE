@@ -1,4 +1,4 @@
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -213,7 +213,7 @@
 | LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling   Vulnerabilities and Limitations | [2404.14459](http://arxiv.org/abs/2404.14459) | https://github.com/beckyntosh/chatphp | 2024-05-21 |
 | Generative AI and Large Language Models for Cyber Security: All Insights   You Need | [2405.12750](http://arxiv.org/abs/2405.12750) | None | 2024-05-21 |
 | How do languages influence each other? Studying cross-lingual data   sharing during LM fine-tuning | [2305.13286](http://arxiv.org/abs/2305.13286) | None | 2024-05-21 |
-| Towards Faithful and Robust LLM Specialists for Evidence-Based   Question-Answering | [2402.08277](http://arxiv.org/abs/2402.08277) | None | 2024-05-21 |
+| Towards Faithful and Robust LLM Specialists for Evidence-Based   Question-Answering | [2402.08277](http://arxiv.org/abs/2402.08277) | https://github.com/EdisonNi-hku/Robust_Evidence_Based_QA | 2024-05-21 |
 | Fight Fire with Fire: How Much Can We Trust ChatGPT on Source   Code-Related Tasks? | [2405.12641](http://arxiv.org/abs/2405.12641) | None | 2024-05-21 |
 | DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing   Outcomes from Sensor Data and Expert Knowledge | [2405.12541](http://arxiv.org/abs/2405.12541) | None | 2024-05-21 |
 | DOLLmC: DevOps for Large Language model Customization | [2405.11581](http://arxiv.org/abs/2405.11581) | None | 2024-05-21 |

@@ -1,4 +1,4 @@
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,10 +189,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Generating Exceptional Behavior Tests with Reasoning Augmented Large   Language Models | [2405.14619](http://arxiv.org/abs/2405.14619) | None | 2024-05-24 |
+| ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based   Evaluation | [2405.14125](http://arxiv.org/abs/2405.14125) | None | 2024-05-24 |
 | Large language models can be zero-shot anomaly detectors for time   series? | [2405.14755](http://arxiv.org/abs/2405.14755) | None | 2024-05-23 |
 | Measuring Implicit Bias in Explicitly Unbiased Large Language Models | [2402.04105](http://arxiv.org/abs/2402.04105) | https://github.com/baixuechunzi/llm-implicit-bias | 2024-05-23 |
 | Implicit In-context Learning | [2405.14660](http://arxiv.org/abs/2405.14660) | None | 2024-05-23 |
-| Generating Exceptional Behavior Tests with Reasoning Augmented Large   Language Models | [2405.14619](http://arxiv.org/abs/2405.14619) | None | 2024-05-23 |
 | Impact of Non-Standard Unicode Characters on Security and Comprehension   in Large Language Models | [2405.14490](http://arxiv.org/abs/2405.14490) | https://github.com/raidedcluster/non-standard_unicode_jailbreaks | 2024-05-23 |
 | Explainable Few-shot Knowledge Tracing | [2405.14391](http://arxiv.org/abs/2405.14391) | None | 2024-05-23 |
 | CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive   Tensor Optimization | [2405.14377](http://arxiv.org/abs/2405.14377) | None | 2024-05-23 |
@@ -200,7 +201,6 @@
 | xFinder: Robust and Pinpoint Answer Extraction for Large Language Models | [2405.11874](http://arxiv.org/abs/2405.11874) | https://github.com/iaar-shanghai/xfinder | 2024-05-23 |
 | S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety   Evaluation of Large Language Models | [2405.14191](http://arxiv.org/abs/2405.14191) | None | 2024-05-23 |
 | Leveraging LLMs for Unsupervised Dense Retriever Ranking | [2402.04853](http://arxiv.org/abs/2402.04853) | https://github.com/ielab/larmor | 2024-05-23 |
-| ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based   Evaluation | [2405.14125](http://arxiv.org/abs/2405.14125) | None | 2024-05-23 |
 | ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for   Autonomous Vehicles | [2405.14062](http://arxiv.org/abs/2405.14062) | None | 2024-05-22 |
 | Just rephrase it! Uncertainty estimation in closed-source language   models via multiple rephrased queries | [2405.13907](http://arxiv.org/abs/2405.13907) | None | 2024-05-22 |
 | Mining Action Rules for Defect Reduction Planning | [2405.13740](http://arxiv.org/abs/2405.13740) | None | 2024-05-22 |

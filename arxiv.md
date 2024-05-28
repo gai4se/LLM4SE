@@ -1,4 +1,4 @@
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,6 +189,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety   Evaluation of Large Language Models | [2405.14191](http://arxiv.org/abs/2405.14191) | None | 2024-05-27 |
+| Explainable Few-shot Knowledge Tracing | [2405.14391](http://arxiv.org/abs/2405.14391) | None | 2024-05-26 |
 | Class Machine Unlearning for Complex Data via Concepts Inference and   Data Poisoning | [2405.15662](http://arxiv.org/abs/2405.15662) | None | 2024-05-24 |
 | Harnessing Large Language Models for Software Vulnerability Detection: A   Comprehensive Benchmarking Study | [2405.15614](http://arxiv.org/abs/2405.15614) | None | 2024-05-24 |
 | Generating Exceptional Behavior Tests with Reasoning Augmented Large   Language Models | [2405.14619](http://arxiv.org/abs/2405.14619) | None | 2024-05-24 |
@@ -207,11 +209,9 @@
 | Measuring Implicit Bias in Explicitly Unbiased Large Language Models | [2402.04105](http://arxiv.org/abs/2402.04105) | https://github.com/baixuechunzi/llm-implicit-bias | 2024-05-23 |
 | Implicit In-context Learning | [2405.14660](http://arxiv.org/abs/2405.14660) | None | 2024-05-23 |
 | Impact of Non-Standard Unicode Characters on Security and Comprehension   in Large Language Models | [2405.14490](http://arxiv.org/abs/2405.14490) | https://github.com/raidedcluster/non-standard_unicode_jailbreaks | 2024-05-23 |
-| Explainable Few-shot Knowledge Tracing | [2405.14391](http://arxiv.org/abs/2405.14391) | None | 2024-05-23 |
 | CoMERA: Computing- and Memory-Efficient Training via Rank-Adaptive   Tensor Optimization | [2405.14377](http://arxiv.org/abs/2405.14377) | None | 2024-05-23 |
 | DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale   Synthetic Data | [2405.14333](http://arxiv.org/abs/2405.14333) | None | 2024-05-23 |
 | xFinder: Robust and Pinpoint Answer Extraction for Large Language Models | [2405.11874](http://arxiv.org/abs/2405.11874) | https://github.com/iaar-shanghai/xfinder | 2024-05-23 |
-| S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety   Evaluation of Large Language Models | [2405.14191](http://arxiv.org/abs/2405.14191) | None | 2024-05-23 |
 | Leveraging LLMs for Unsupervised Dense Retriever Ranking | [2402.04853](http://arxiv.org/abs/2402.04853) | https://github.com/ielab/larmor | 2024-05-23 |
 | AutoCoder: Enhancing Code Large Language Model with   \textsc{AIEV-Instruct} | [2405.14906](http://arxiv.org/abs/2405.14906) | None | 2024-05-23 |
 | ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for   Autonomous Vehicles | [2405.14062](http://arxiv.org/abs/2405.14062) | None | 2024-05-22 |

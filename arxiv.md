@@ -1,4 +1,4 @@
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +57,7 @@
 | Assessing Economic Viability: A Comparative Analysis of Total Cost of   Ownership for Domain-Adapted Large Language Models versus State-of-the-art   Counterparts in Chip Design Coding Assistance | [2404.08850](http://arxiv.org/abs/2404.08850) | None | 2024-05-28 |
 | Exploiting LLM Quantization | [2405.18137](http://arxiv.org/abs/2405.18137) | None | 2024-05-28 |
 | DS-Agent: Automated Data Science by Empowering Large Language Models   with Case-Based Reasoning | [2402.17453](http://arxiv.org/abs/2402.17453) | https://github.com/guosyjlu/ds-agent | 2024-05-28 |
-| RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design   Projects | [2405.17378](http://arxiv.org/abs/2405.17378) | None | 2024-05-27 |
+| RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design   Projects | [2405.17378](http://arxiv.org/abs/2405.17378) | https://github.com/AUCOHL/RTL-Repo | 2024-05-27 |
 | LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2024-05-27 |
 | Guiding Enumerative Program Synthesis with Large Language Models | [2403.03997](http://arxiv.org/abs/2403.03997) | None | 2024-05-27 |
 | REX: Designing User-centered Repair and Explanations to Address Robot   Failures | [2405.16710](http://arxiv.org/abs/2405.16710) | None | 2024-05-26 |
@@ -138,12 +138,15 @@
 | Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
 | Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-03-07 |
 | Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
+| Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
 | AI-enhanced Auto-correction of Programming Exercises: How Effective is   GPT-3.5? | [2311.10737](http://arxiv.org/abs/2311.10737) | None | 2023-10-24 |
 | Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
+| Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | A Preliminary Evaluation of LLM-Based Fault Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2023-08-26 |
 | SecureFalcon: The Next Cyber Reasoning System for Cyber Security | [2307.06616](http://arxiv.org/abs/2307.06616) | None | 2023-07-13 |
+| Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
 | Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>

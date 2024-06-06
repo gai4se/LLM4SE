@@ -1,4 +1,4 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,6 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Code Comparison Tuning for Code Large Language Models | [2403.19121](http://arxiv.org/abs/2403.19121) | None | 2024-06-05 |
 | SemCoder: Training Code Language Models with Comprehensive Semantics | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-06-03 |
 | Mining Action Rules for Defect Reduction Planning | [2405.13740](http://arxiv.org/abs/2405.13740) | None | 2024-05-22 |
 | Test Oracle Automation in the era of LLMs | [2405.12766](http://arxiv.org/abs/2405.12766) | None | 2024-05-21 |
@@ -116,7 +117,6 @@
 | Large Language Model for Vulnerability Detection and Repair: Literature   Review and the Road Ahead | [2404.02525](http://arxiv.org/abs/2404.02525) | None | 2024-04-06 |
 | CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |
 | Peer-aided Repairer: Empowering Large Language Models to Repair Advanced   Student Assignments | [2404.01754](http://arxiv.org/abs/2404.01754) | None | 2024-04-02 |
-| Code Comparison Tuning for Code Large Language Models | [2403.19121](http://arxiv.org/abs/2403.19121) | None | 2024-03-28 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-03-28 |
 | Untangling Knots: Leveraging LLM for Error Resolution in Computational   Notebooks | [2405.01559](http://arxiv.org/abs/2405.01559) | None | 2024-03-26 |
 | RepairAgent: An Autonomous, LLM-Based Agent for Program Repair | [2403.17134](http://arxiv.org/abs/2403.17134) | None | 2024-03-25 |
@@ -188,9 +188,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Learning to grok: Emergence of in-context learning and skill composition   in modular arithmetic tasks | [2406.02550](http://arxiv.org/abs/2406.02550) | None | 2024-06-04 |
+| Learning to grok: Emergence of in-context learning and skill composition   in modular arithmetic tasks | [2406.02550](http://arxiv.org/abs/2406.02550) | https://github.com/ablghtianyi/ICL_Modular_Arithmetic | 2024-06-04 |
 | Unlocking Efficiency in Large Language Model Inference: A Comprehensive   Survey of Speculative Decoding | [2401.07851](http://arxiv.org/abs/2401.07851) | https://github.com/hemingkx/speculativedecodingpapers | 2024-06-04 |
-| Multiple Choice Questions and Large Languages Models: A Case Study with   Fictional Medical Data | [2406.02394](http://arxiv.org/abs/2406.02394) | None | 2024-06-04 |
+| Multiple Choice Questions and Large Languages Models: A Case Study with   Fictional Medical Data | [2406.02394](http://arxiv.org/abs/2406.02394) | https://github.com/maximegmd/glianorex-gen | 2024-06-04 |
 | NewsBench: A Systematic Evaluation Framework for Assessing Editorial   Capabilities of Large Language Models in Chinese Journalism | [2403.00862](http://arxiv.org/abs/2403.00862) | https://github.com/iaar-shanghai/newsbench | 2024-06-04 |
 | CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the   Generalizability of Large Language Models | [2402.13109](http://arxiv.org/abs/2402.13109) | None | 2024-06-04 |
 | In-Context Unlearning: Language Models as Few Shot Unlearners | [2310.07579](http://arxiv.org/abs/2310.07579) | https://github.com/MartinPawel/In-Context-Unlearning | 2024-06-04 |
@@ -198,7 +198,7 @@
 | Distortions in Judged Spatial Relations in Large Language Models | [2401.04218](http://arxiv.org/abs/2401.04218) | None | 2024-06-04 |
 | Exploring Mathematical Extrapolation of Large Language Models with   Synthetic Data | [2406.02100](http://arxiv.org/abs/2406.02100) | None | 2024-06-04 |
 | I've got the "Answer"! Interpretation of LLMs Hidden States in Question   Answering | [2406.02060](http://arxiv.org/abs/2406.02060) | None | 2024-06-04 |
-| QROA: A Black-Box Query-Response Optimization Attack on LLMs | [2406.02044](http://arxiv.org/abs/2406.02044) | None | 2024-06-04 |
+| QROA: A Black-Box Query-Response Optimization Attack on LLMs | [2406.02044](http://arxiv.org/abs/2406.02044) | https://github.com/qroa/qroa | 2024-06-04 |
 | Efficient Detection of LLM-generated Texts with a Bayesian Surrogate   Model | [2305.16617](http://arxiv.org/abs/2305.16617) | None | 2024-06-04 |
 | LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-06-04 |
 | Iterative Forward Tuning Boosts In-Context Learning in Language Models | [2305.13016](http://arxiv.org/abs/2305.13016) | None | 2024-06-04 |
@@ -250,6 +250,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ChatDev: Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2024-06-05 |
 | AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight   Tuning on Multi-source Data | [2405.19265](http://arxiv.org/abs/2405.19265) | https://github.com/internlm/alchemistcoder | 2024-05-29 |
 | AI-Assisted Assessment of Coding Practices in Modern Code Review | [2405.13565](http://arxiv.org/abs/2405.13565) | None | 2024-05-22 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
@@ -268,7 +269,6 @@
 | Security Code Review by LLMs: A Deep Dive into Responses | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-01-29 |
 | Code Review Automation: Strengths and Weaknesses of the State of the Art | [2401.05136](http://arxiv.org/abs/2401.05136) | https://github.com/codereviewautomationsota/code_review_automation_sota | 2024-01-10 |
 | The Right Prompts for the Job: Repair Code-Review Defects with Large   Language Model | [2312.17485](http://arxiv.org/abs/2312.17485) | None | 2023-12-29 |
-| Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2023-12-19 |
 | Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
 | ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
 | LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |

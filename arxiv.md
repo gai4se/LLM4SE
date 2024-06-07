@@ -1,4 +1,4 @@
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Entropy-Regularized Token-Level Policy Optimization for Language Agent   Reinforcement | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-06-06 |
+| ReGAL: Refactoring Programs to Discover Generalizable Abstractions | [2401.16467](http://arxiv.org/abs/2401.16467) | https://github.com/esteng/regal_program_learning | 2024-06-06 |
 | JumpCoder: Go Beyond Autoregressive Coder via Online Modification | [2401.07870](http://arxiv.org/abs/2401.07870) | https://github.com/keytoyze/jumpcoder | 2024-06-05 |
 | Enhancing Repository-Level Code Generation with Integrated Contextual   Information | [2406.03283](http://arxiv.org/abs/2406.03283) | None | 2024-06-05 |
 | FragRel: Exploiting Fragment-level Relations in the External Memory of   Large Language Models | [2406.03092](http://arxiv.org/abs/2406.03092) | None | 2024-06-05 |
@@ -82,9 +84,7 @@
 | Code Repair with LLMs gives an Exploration-Exploitation Tradeoff | [2405.17503](http://arxiv.org/abs/2405.17503) | None | 2024-05-30 |
 | AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight   Tuning on Multi-source Data | [2405.19265](http://arxiv.org/abs/2405.19265) | https://github.com/internlm/alchemistcoder | 2024-05-29 |
 | Large Language Models for Code Summarization | [2405.19032](http://arxiv.org/abs/2405.19032) | None | 2024-05-29 |
-| Entropy-Regularized Token-Level Policy Optimization for Language Agent   Reinforcement | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-05-29 |
 | Sketch-Plan-Generalize: Continual Few-Shot Learning of Inductively   Generalizable Spatial Concepts | [2404.07774](http://arxiv.org/abs/2404.07774) | None | 2024-05-29 |
-| Evolutionary Computation in the Era of Large Language Model: Survey and   Roadmap | [2401.10034](http://arxiv.org/abs/2401.10034) | https://github.com/wuxingyu-ai/llm4ec | 2024-05-29 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -139,9 +139,14 @@
 | Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-03-07 |
 | Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
 | Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
+| ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
+| AI-enhanced Auto-correction of Programming Exercises: How Effective is   GPT-3.5? | [2311.10737](http://arxiv.org/abs/2311.10737) | None | 2023-10-24 |
+| Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
+| A Preliminary Evaluation of LLM-Based Fault Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2023-08-26 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
+| Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
@@ -183,6 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| In-Context Unlearning: Language Models as Few Shot Unlearners | [2310.07579](http://arxiv.org/abs/2310.07579) | https://github.com/MartinPawel/In-Context-Unlearning | 2024-06-06 |
 | Stealthy Attack on Large Language Model based Recommendation | [2402.14836](http://arxiv.org/abs/2402.14836) | None | 2024-06-05 |
 | Cycles of Thought: Measuring LLM Confidence through Stable Explanations | [2406.03441](http://arxiv.org/abs/2406.03441) | None | 2024-06-05 |
 | Large Language Models Can Infer Psychological Dispositions of Social   Media Users | [2309.08631](http://arxiv.org/abs/2309.08631) | None | 2024-06-05 |
@@ -203,7 +209,6 @@
 | Multiple Choice Questions and Large Languages Models: A Case Study with   Fictional Medical Data | [2406.02394](http://arxiv.org/abs/2406.02394) | https://github.com/maximegmd/glianorex-gen | 2024-06-04 |
 | NewsBench: A Systematic Evaluation Framework for Assessing Editorial   Capabilities of Large Language Models in Chinese Journalism | [2403.00862](http://arxiv.org/abs/2403.00862) | https://github.com/iaar-shanghai/newsbench | 2024-06-04 |
 | CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the   Generalizability of Large Language Models | [2402.13109](http://arxiv.org/abs/2402.13109) | None | 2024-06-04 |
-| In-Context Unlearning: Language Models as Few Shot Unlearners | [2310.07579](http://arxiv.org/abs/2310.07579) | https://github.com/MartinPawel/In-Context-Unlearning | 2024-06-04 |
 | A Framework for Neurosymbolic Robot Action Planning using Large Language   Models | [2303.00438](http://arxiv.org/abs/2303.00438) | https://github.com/alessiocpt/teriyaki | 2024-06-04 |
 | Distortions in Judged Spatial Relations in Large Language Models | [2401.04218](http://arxiv.org/abs/2401.04218) | None | 2024-06-04 |
 | Exploring Mathematical Extrapolation of Large Language Models with   Synthetic Data | [2406.02100](http://arxiv.org/abs/2406.02100) | None | 2024-06-04 |

@@ -1,4 +1,4 @@
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -152,7 +152,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Generalization-Enhanced Code Vulnerability Detection via Multi-Task   Instruction Fine-Tuning | [2406.03718](http://arxiv.org/abs/2406.03718) | None | 2024-06-06 |
+| Generalization-Enhanced Code Vulnerability Detection via Multi-Task   Instruction Fine-Tuning | [2406.03718](http://arxiv.org/abs/2406.03718) | https://github.com/CGCL-codes/VulLLM | 2024-06-06 |
 | Harnessing Large Language Models for Software Vulnerability Detection: A   Comprehensive Benchmarking Study | [2405.15614](http://arxiv.org/abs/2405.15614) | None | 2024-05-24 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
 | Transfer Learning in Pre-Trained Large Language Models for Malware   Detection Based on System Calls | [2405.09318](http://arxiv.org/abs/2405.09318) | None | 2024-05-15 |
@@ -205,7 +205,7 @@
 | RoboCoder: Robotic Learning from Basic Skills to General Tasks with   Large Language Models | [2406.03757](http://arxiv.org/abs/2406.03757) | None | 2024-06-06 |
 | Using Large Language Model for End-to-End Chinese ASR and NER | [2401.11382](http://arxiv.org/abs/2401.11382) | None | 2024-06-06 |
 | Recognizing Everything from All Modalities at Once: Grounded Multimodal   Universal Information Extraction | [2406.03701](http://arxiv.org/abs/2406.03701) | None | 2024-06-06 |
-| Synthetic Programming Elicitation and Repair for Text-to-Code in Very   Low-Resource Programming Languages | [2406.03636](http://arxiv.org/abs/2406.03636) | None | 2024-06-05 |
+| Synthetic Programming Elicitation and Repair for Text-to-Code in Very   Low-Resource Programming Languages | [2406.03636](http://arxiv.org/abs/2406.03636) | https://github.com/FedericoAureliano/eudoxus | 2024-06-05 |
 | Advancing Anomaly Detection: Non-Semantic Financial Data Encoding with   LLMs | [2406.03614](http://arxiv.org/abs/2406.03614) | None | 2024-06-05 |
 | Examining the robustness of LLM evaluation to the distributional   assumptions of benchmarks | [2404.16966](http://arxiv.org/abs/2404.16966) | None | 2024-06-05 |
 | Stealthy Attack on Large Language Model based Recommendation | [2402.14836](http://arxiv.org/abs/2402.14836) | None | 2024-06-05 |
@@ -213,7 +213,7 @@
 | Large Language Models Can Infer Psychological Dispositions of Social   Media Users | [2309.08631](http://arxiv.org/abs/2309.08631) | None | 2024-06-05 |
 | IrokoBench: A New Benchmark for African Languages in the Age of Large   Language Models | [2406.03368](http://arxiv.org/abs/2406.03368) | None | 2024-06-05 |
 | ChatDev: Communicative Agents for Software Development | [2307.07924](http://arxiv.org/abs/2307.07924) | https://github.com/openbmb/chatdev | 2024-06-05 |
-| Missci: Reconstructing Fallacies in Misrepresented Science | [2406.03181](http://arxiv.org/abs/2406.03181) | None | 2024-06-05 |
+| Missci: Reconstructing Fallacies in Misrepresented Science | [2406.03181](http://arxiv.org/abs/2406.03181) | https://github.com/UKPLab/acl2024-missci | 2024-06-05 |
 | Challenging the Validity of Personality Tests for Large Language Models | [2311.05297](http://arxiv.org/abs/2311.05297) | None | 2024-06-05 |
 | Political Compass or Spinning Arrow? Towards More Meaningful Evaluations   for Values and Opinions in Large Language Models | [2402.16786](http://arxiv.org/abs/2402.16786) | https://github.com/paul-rottger/llm-values-pct | 2024-06-05 |
 | How Truncating Weights Improves Reasoning in Language Models | [2406.03068](http://arxiv.org/abs/2406.03068) | None | 2024-06-05 |

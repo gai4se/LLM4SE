@@ -238,13 +238,6 @@
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | https://github.com/alex-haochenli/reco | 2024-06-03 |
 | ACES: Generating Diverse Programming Puzzles with with Autotelic   Generative Models | [2310.10692](http://arxiv.org/abs/2310.10692) | None | 2024-05-29 |
 | Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained   Large Language Models | [2405.11196](http://arxiv.org/abs/2405.11196) | https://github.com/gksajy/slimcode | 2024-05-18 |
-| REINFOREST: Reinforcing Semantic Code Similarity for Cross-Lingual Code   Search Models | [2305.03843](http://arxiv.org/abs/2305.03843) | https://github.com/reinforest-team/reinforest | 2024-04-15 |
-| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
-| GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization   in Programming Language Understanding | [2311.09707](http://arxiv.org/abs/2311.09707) | None | 2023-11-16 |
-| The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
-| Language Models are Universal Embedders | [2310.08232](http://arxiv.org/abs/2310.08232) | https://github.com/izhx/uni-rep | 2023-10-12 |
-| Code Representation Pre-training with Complements from Program   Executions | [2309.09980](http://arxiv.org/abs/2309.09980) | None | 2023-09-04 |
-| Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
 
 <h2 id="Code-Review"> Code Review </h2>
 

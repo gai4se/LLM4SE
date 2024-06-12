@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,7 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Transforming Wearable Data into Health Insights using Large Language   Model Agents | [2406.06464](http://arxiv.org/abs/2406.06464) | None | 2024-06-10 |
+| Transforming Wearable Data into Health Insights using Large Language   Model Agents | [2406.06464](http://arxiv.org/abs/2406.06464) | None | 2024-06-11 |
+| Mercury: A Code Efficiency Benchmark for Code Large Language Models | [2402.07844](http://arxiv.org/abs/2402.07844) | https://github.com/elfsong/mercury | 2024-06-11 |
+| Optimizing Large Language Models for OpenAPI Code Completion | [2405.15729](http://arxiv.org/abs/2405.15729) | https://github.com/BohdanPetryshyn/openapi-completion-benchmark | 2024-06-10 |
 | LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-09 |
 | CodeAttack: Revealing Safety Generalization Challenges of Large Language   Models via Code Completion | [2403.07865](http://arxiv.org/abs/2403.07865) | https://github.com/renqibing/CodeAttack | 2024-06-09 |
 | Experimenting with Multi-Agent Software Development: Towards a Unified   Platform | [2406.05381](http://arxiv.org/abs/2406.05381) | None | 2024-06-08 |
@@ -63,14 +65,14 @@
 | EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | https://github.com/huangd1999/EffiBench | 2024-06-07 |
 | WaveCoder: Widespread And Versatile Enhancement For Code Large Language   Models By Instruction Tuning | [2312.14187](http://arxiv.org/abs/2312.14187) | https://github.com/microsoft/wavecoder | 2024-06-07 |
 | AICoderEval: Improving AI Domain Code Generation of Large Language   Models | [2406.04712](http://arxiv.org/abs/2406.04712) | None | 2024-06-07 |
-| LogiCode: an LLM-Driven Framework for Logical Anomaly Detection | [2406.04687](http://arxiv.org/abs/2406.04687) | None | 2024-06-07 |
+| LogiCode: an LLM-Driven Framework for Logical Anomaly Detection | [2406.04687](http://arxiv.org/abs/2406.04687) | https://github.com/22strongestme/LOCO-Annotations | 2024-06-07 |
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-06-07 |
 | CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | https://github.com/weixiangyan/codescope | 2024-06-07 |
 | LiveCodeBench: Holistic and Contamination Free Evaluation of Large   Language Models for Code | [2403.07974](http://arxiv.org/abs/2403.07974) | None | 2024-06-06 |
 | Entropy-Regularized Token-Level Policy Optimization for Language Agent   Reinforcement | [2402.06700](http://arxiv.org/abs/2402.06700) | https://github.com/morning9393/etpo | 2024-06-06 |
-| Mercury: A Code Efficiency Benchmark for LLM Code Synthesis | [2402.07844](http://arxiv.org/abs/2402.07844) | https://github.com/elfsong/mercury | 2024-06-06 |
 | DebugBench: Evaluating Debugging Capability of Large Language Models | [2401.04621](http://arxiv.org/abs/2401.04621) | https://github.com/thunlp/debugbench | 2024-06-06 |
 | VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code   Generation | [2406.04379](http://arxiv.org/abs/2406.04379) | None | 2024-06-06 |
+| Debug like a Human: A Large Language Model Debugger via Verifying   Runtime Execution Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-06-06 |
 | ReGAL: Refactoring Programs to Discover Generalizable Abstractions | [2401.16467](http://arxiv.org/abs/2401.16467) | https://github.com/esteng/regal_program_learning | 2024-06-06 |
 | JumpCoder: Go Beyond Autoregressive Coder via Online Modification | [2401.07870](http://arxiv.org/abs/2401.07870) | https://github.com/keytoyze/jumpcoder | 2024-06-05 |
 | Enhancing Repository-Level Code Generation with Integrated Contextual   Information | [2406.03283](http://arxiv.org/abs/2406.03283) | None | 2024-06-05 |
@@ -78,13 +80,11 @@
 | Verified Code Transpilation with LLMs | [2406.03003](http://arxiv.org/abs/2406.03003) | None | 2024-06-05 |
 | AutoChip: Automating HDL Generation Using LLM Feedback | [2311.04887](http://arxiv.org/abs/2311.04887) | https://github.com/shailja-thakur/autochip | 2024-06-04 |
 | PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle   Motion Planning | [2406.01587](http://arxiv.org/abs/2406.01587) | None | 2024-06-04 |
-| LDB: A Large Language Model Debugger via Verifying Runtime Execution   Step-by-step | [2402.16906](http://arxiv.org/abs/2402.16906) | https://github.com/floridsleeves/llmdebugger | 2024-06-04 |
 | Chain of Agents: Large Language Models Collaborating on Long-Context   Tasks | [2406.02818](http://arxiv.org/abs/2406.02818) | None | 2024-06-04 |
 | R2C2-Coder: Enhancing and Benchmarking Real-world Repository-level Code   Completion Abilities of Code Large Language Models | [2406.01359](http://arxiv.org/abs/2406.01359) | None | 2024-06-04 |
 | Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | https://github.com/ChuyueSun/Clover | 2024-06-03 |
 | Generate and Pray: Using SALLMS to Evaluate the Security of LLM   Generated Code | [2311.00889](http://arxiv.org/abs/2311.00889) | None | 2024-06-03 |
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | https://github.com/alex-haochenli/reco | 2024-06-03 |
-| SemCoder: Training Code Language Models with Comprehensive Semantics | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-06-03 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -188,12 +188,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Improving Logits-based Detector without Logits from Black-box LLMs | [2406.05232](http://arxiv.org/abs/2406.05232) | None | 2024-06-11 |
 | Towards a Personal Health Large Language Model | [2406.06474](http://arxiv.org/abs/2406.06474) | None | 2024-06-10 |
 | LLM Dataset Inference: Did you train on my dataset? | [2406.06443](http://arxiv.org/abs/2406.06443) | https://github.com/pratyushmaini/llm_dataset_inference | 2024-06-10 |
 | Multivariate Stochastic Dominance via Optimal Transport and Applications   to Models Benchmarking | [2406.06425](http://arxiv.org/abs/2406.06425) | None | 2024-06-10 |
 | Are you still on track!? Catching LLM Task Drift with Activations | [2406.00799](http://arxiv.org/abs/2406.00799) | None | 2024-06-10 |
 | Resonance RoPE: Improving Context Length Generalization of Large   Language Models | [2403.00071](http://arxiv.org/abs/2403.00071) | https://github.com/sheryc/resonance_rope | 2024-06-10 |
-| "I'd Like to Have an Argument, Please": Argumentative Reasoning in Large   Language Models | [2309.16938](http://arxiv.org/abs/2309.16938) | https://github.com/adewynter/argumentation-llms | 2024-06-10 |
+| "I'd Like to Have an Argument, Please": Argumentative Reasoning in Large   Language Models | [2309.16938](http://arxiv.org/abs/2309.16938) | None | 2024-06-10 |
 | Can I understand what I create? Self-Knowledge Evaluation of Large   Language Models | [2406.06140](http://arxiv.org/abs/2406.06140) | None | 2024-06-10 |
 | Enhancing Food Safety in Supply Chains: The Potential Role of Large   Language Models in Preventing Campylobacter Contamination | [2406.06049](http://arxiv.org/abs/2406.06049) | None | 2024-06-10 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | None | 2024-06-10 |
@@ -214,8 +215,7 @@
 | ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain   Readability Assessment | [2305.14463](http://arxiv.org/abs/2305.14463) | https://github.com/tareknaous/readme | 2024-06-08 |
 | Coherent Zero-Shot Visual Instruction Generation | [2406.04337](http://arxiv.org/abs/2406.04337) | None | 2024-06-08 |
 | Experimenting with Multi-Agent Software Development: Towards a Unified   Platform | [2406.05381](http://arxiv.org/abs/2406.05381) | None | 2024-06-08 |
-| MemeGuard: An LLM and VLM-based Framework for Advancing Content   Moderation via Meme Intervention | [2406.05344](http://arxiv.org/abs/2406.05344) | None | 2024-06-08 |
-| Improving Logits-based Detector without Logits from Black-box LLMs | [2406.05232](http://arxiv.org/abs/2406.05232) | None | 2024-06-07 |
+| MemeGuard: An LLM and VLM-based Framework for Advancing Content   Moderation via Meme Intervention | [2406.05344](http://arxiv.org/abs/2406.05344) | https://github.com/Jhaprince/MemeGuard | 2024-06-08 |
 | Towards Generating Executable Metamorphic Relations Using Large Language   Models | [2401.17019](http://arxiv.org/abs/2401.17019) | None | 2024-06-07 |
 | InCharacter: Evaluating Personality Fidelity in Role-Playing Agents   through Psychological Interviews | [2310.17976](http://arxiv.org/abs/2310.17976) | https://github.com/neph0s/incharacter | 2024-06-07 |
 | VerilogReader: LLM-Aided Hardware Test Generation | [2406.04373](http://arxiv.org/abs/2406.04373) | None | 2024-06-03 |

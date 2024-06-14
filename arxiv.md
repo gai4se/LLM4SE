@@ -1,4 +1,4 @@
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,17 +54,17 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Real2Code: Reconstruct Articulated Objects via Code Generation | [2406.08474](http://arxiv.org/abs/2406.08474) | None | 2024-06-12 |
-| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-12 |
+| Real2Code: Reconstruct Articulated Objects via Code Generation | [2406.08474](http://arxiv.org/abs/2406.08474) | None | 2024-06-13 |
+| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-13 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-12 |
 | Unsupervised Information Refinement Training of Large Language Models   for Retrieval-Augmented Generation | [2402.18150](http://arxiv.org/abs/2402.18150) | https://github.com/xsc1234/info-rag | 2024-06-12 |
 | Mercury: A Code Efficiency Benchmark for Code Large Language Models | [2402.07844](http://arxiv.org/abs/2402.07844) | https://github.com/elfsong/mercury | 2024-06-11 |
-| VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | None | 2024-06-11 |
+| VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
 | Test-Driven Development for Code Generation | [2402.13521](http://arxiv.org/abs/2402.13521) | None | 2024-06-11 |
 | Transforming Wearable Data into Health Insights using Large Language   Model Agents | [2406.06464](http://arxiv.org/abs/2406.06464) | None | 2024-06-11 |
 | Entropy-Reinforced Planning with Large Language Models for Drug   Discovery | [2406.07025](http://arxiv.org/abs/2406.07025) | None | 2024-06-11 |
 | Towards more realistic evaluation of LLM-based code generation: an   experimental study and beyond | [2406.06918](http://arxiv.org/abs/2406.06918) | None | 2024-06-11 |
-| Iterative Refinement of Project-Level Code Context for Precise Code   Generation with Compiler Feedback | [2403.16792](http://arxiv.org/abs/2403.16792) | None | 2024-06-11 |
+| Iterative Refinement of Project-Level Code Context for Precise Code   Generation with Compiler Feedback | [2403.16792](http://arxiv.org/abs/2403.16792) | https://github.com/CGCL-codes/naturalcc | 2024-06-11 |
 | Validating LLM-Generated Programs with Metamorphic Prompt Testing | [2406.06864](http://arxiv.org/abs/2406.06864) | None | 2024-06-11 |
 | Guiding LLM Temporal Logic Generation with Explicit Separation of Data   and Control | [2406.07400](http://arxiv.org/abs/2406.07400) | None | 2024-06-11 |
 | McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | None | 2024-06-11 |
+| VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
 | A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on   Automated Program Repair | [2406.05639](http://arxiv.org/abs/2406.05639) | None | 2024-06-09 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-06-07 |
 | On The Importance of Reasoning for Context Retrieval in Repository-Level   Code Editing | [2406.04464](http://arxiv.org/abs/2406.04464) | https://github.com/jetbrains-research/ai-agents-code-editing | 2024-06-06 |
@@ -152,7 +152,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Defining and Detecting Vulnerability in Human Evaluation Guidelines: A   Preliminary Study Towards Reliable NLG Evaluation | [2406.07935](http://arxiv.org/abs/2406.07935) | None | 2024-06-12 |
+| Defining and Detecting Vulnerability in Human Evaluation Guidelines: A   Preliminary Study Towards Reliable NLG Evaluation | [2406.07935](http://arxiv.org/abs/2406.07935) | https://github.com/EnablerRx/GuidelineVulnDetect | 2024-06-12 |
 | VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-11 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
 | M2CVD: Multi-Model Collaboration for Code Vulnerability Detection | [2406.05940](http://arxiv.org/abs/2406.05940) | None | 2024-06-10 |
@@ -188,7 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-12 |
+| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-13 |
 | A Software Engineering Perspective on Testing Large Language Models:   Research, Practice, Tools and Benchmarks | [2406.08216](http://arxiv.org/abs/2406.08216) | None | 2024-06-12 |
 | MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile   LLM Agents | [2406.08184](http://arxiv.org/abs/2406.08184) | None | 2024-06-12 |
 | Can AI Understand Human Personality? -- Comparing Human Experts and AI   Systems at Predicting Personality Correlations | [2406.08170](http://arxiv.org/abs/2406.08170) | None | 2024-06-12 |
@@ -211,7 +211,7 @@
 | Recognizing Everything from All Modalities at Once: Grounded Multimodal   Universal Information Extraction | [2406.03701](http://arxiv.org/abs/2406.03701) | None | 2024-06-11 |
 | Advancing Tool-Augmented Large Language Models: Integrating Insights   from Errors in Inference Trees | [2406.07115](http://arxiv.org/abs/2406.07115) | None | 2024-06-11 |
 | Leveraging Large Language Models for Efficient Failure Analysis in Game   Development | [2406.07084](http://arxiv.org/abs/2406.07084) | None | 2024-06-11 |
-| Visual Transformation Telling | [2305.01928](http://arxiv.org/abs/2305.01928) | None | 2024-06-11 |
+| Visual Transformation Telling | [2305.01928](http://arxiv.org/abs/2305.01928) | https://github.com/hughplay/vtt | 2024-06-11 |
 | AIM: Let Any Multi-modal Large Language Models Embrace Efficient   In-Context Learning | [2406.07588](http://arxiv.org/abs/2406.07588) | None | 2024-06-11 |
 | Paying More Attention to Source Context: Mitigating Unfaithful   Translations from Large Language Model | [2406.07036](http://arxiv.org/abs/2406.07036) | https://github.com/AzureStarz/paying_attention_to_the_source | 2024-06-11 |
 | Entropy-Reinforced Planning with Large Language Models for Drug   Discovery | [2406.07025](http://arxiv.org/abs/2406.07025) | None | 2024-06-11 |

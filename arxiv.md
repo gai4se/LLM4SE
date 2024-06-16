@@ -1,4 +1,4 @@
-## Updated on 2024.06.15
+## Updated on 2024.06.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -77,7 +77,6 @@
 | How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2024-06-10 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
 | LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-09 |
-| CodeAttack: Revealing Safety Generalization Challenges of Large Language   Models via Code Completion | [2403.07865](http://arxiv.org/abs/2403.07865) | https://github.com/renqibing/CodeAttack | 2024-06-09 |
 | Experimenting with Multi-Agent Software Development: Towards a Unified   Platform | [2406.05381](http://arxiv.org/abs/2406.05381) | None | 2024-06-08 |
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-06-07 |
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | https://github.com/ofa-sys/gsm8k-screl | 2024-06-07 |
@@ -85,6 +84,7 @@
 | WaveCoder: Widespread And Versatile Enhancement For Code Large Language   Models By Instruction Tuning | [2312.14187](http://arxiv.org/abs/2312.14187) | https://github.com/microsoft/wavecoder | 2024-06-07 |
 | AICoderEval: Improving AI Domain Code Generation of Large Language   Models | [2406.04712](http://arxiv.org/abs/2406.04712) | None | 2024-06-07 |
 | LogiCode: an LLM-Driven Framework for Logical Anomaly Detection | [2406.04687](http://arxiv.org/abs/2406.04687) | https://github.com/22strongestme/LOCO-Annotations | 2024-06-07 |
+| Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-06-07 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

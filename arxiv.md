@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluating LLM-driven User-Intent Formalization for Verification-Aware   Languages | [2406.09757](http://arxiv.org/abs/2406.09757) | None | 2024-06-14 |
+| How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-06-14 |
 | How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent   for Debugging | [2310.05292](http://arxiv.org/abs/2310.05292) | None | 2024-06-14 |
 | Real2Code: Reconstruct Articulated Objects via Code Generation | [2406.08474](http://arxiv.org/abs/2406.08474) | None | 2024-06-13 |
 | Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-13 |
@@ -83,8 +85,6 @@
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-06-07 |
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | https://github.com/ofa-sys/gsm8k-screl | 2024-06-07 |
 | EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | https://github.com/huangd1999/EffiBench | 2024-06-07 |
-| WaveCoder: Widespread And Versatile Enhancement For Code Large Language   Models By Instruction Tuning | [2312.14187](http://arxiv.org/abs/2312.14187) | https://github.com/microsoft/wavecoder | 2024-06-07 |
-| AICoderEval: Improving AI Domain Code Generation of Large Language   Models | [2406.04712](http://arxiv.org/abs/2406.04712) | None | 2024-06-07 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -153,6 +153,8 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-14 |
+| Towards Effectively Detecting and Explaining Vulnerabilities Using Large   Language Models | [2406.09701](http://arxiv.org/abs/2406.09701) | None | 2024-06-14 |
+| Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-06-14 |
 | Defining and Detecting Vulnerability in Human Evaluation Guidelines: A   Preliminary Study Towards Reliable NLG Evaluation | [2406.07935](http://arxiv.org/abs/2406.07935) | https://github.com/EnablerRx/GuidelineVulnDetect | 2024-06-12 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
 | M2CVD: Multi-Model Collaboration for Code Vulnerability Detection | [2406.05940](http://arxiv.org/abs/2406.05940) | None | 2024-06-10 |
@@ -181,8 +183,6 @@
 | A Survey on Large Language Model (LLM) Security and Privacy: The Good,   the Bad, and the Ugly | [2312.02003](http://arxiv.org/abs/2312.02003) | None | 2024-03-20 |
 | Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug   Unearthing | [2403.03897](http://arxiv.org/abs/2403.03897) | https://github.com/asmitaj08/fuzzingbusybox_llm | 2024-03-06 |
 | Finetuning Large Language Models for Vulnerability Detection | [2401.17010](http://arxiv.org/abs/2401.17010) | https://github.com/rmusab/vul-llm-finetune | 2024-03-01 |
-| LuaTaint: A Static Taint Analysis System for Web Interface Framework   Vulnerability of IoT Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-02-25 |
-| CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement   Learning for LLM-based Mutation | [2402.12222](http://arxiv.org/abs/2402.12222) | None | 2024-02-19 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
@@ -190,6 +190,19 @@
 | --- | --- | --- | --- |
 | Inferring State Machine from the Protocol Implementation via Large   Language Model | [2405.00393](http://arxiv.org/abs/2405.00393) | https://github.com/s1awwhy/protocolgpt | 2024-06-14 |
 | Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-06-14 |
+| Quantifying Variance in Evaluation Benchmarks | [2406.10229](http://arxiv.org/abs/2406.10229) | None | 2024-06-14 |
+| COSMIC: Data Efficient Instruction-tuning For Speech In-Context Learning | [2311.02248](http://arxiv.org/abs/2311.02248) | None | 2024-06-14 |
+| BABILong: Testing the Limits of LLMs with Long Context   Reasoning-in-a-Haystack | [2406.10149](http://arxiv.org/abs/2406.10149) | None | 2024-06-14 |
+| Evaluation of Large Language Models: STEM education and Gender   Stereotypes | [2406.10133](http://arxiv.org/abs/2406.10133) | None | 2024-06-14 |
+| Requirements are All You Need: From Requirements to Code with LLMs | [2406.10101](http://arxiv.org/abs/2406.10101) | None | 2024-06-14 |
+| Generative AI to Generate Test Data Generators | [2401.17626](http://arxiv.org/abs/2401.17626) | https://github.com/assert-kth/lollm | 2024-06-14 |
+| CliBench: Multifaceted Evaluation of Large Language Models in Clinical   Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions | [2406.09923](http://arxiv.org/abs/2406.09923) | https://github.com/clibench/clibench | 2024-06-14 |
+| Knowledge Editing in Language Models via Adapted Direct Preference   Optimization | [2406.09920](http://arxiv.org/abs/2406.09920) | None | 2024-06-14 |
+| An Exploratory Study on Using Large Language Models for Mutation Testing | [2406.09843](http://arxiv.org/abs/2406.09843) | None | 2024-06-14 |
+| GPT-4o: Visual perception performance of multimodal large language   models in piglet activity understanding | [2406.09781](http://arxiv.org/abs/2406.09781) | None | 2024-06-14 |
+| Evaluating LLM-driven User-Intent Formalization for Verification-Aware   Languages | [2406.09757](http://arxiv.org/abs/2406.09757) | None | 2024-06-14 |
+| ControlVAR: Exploring Controllable Visual Autoregressive Modeling | [2406.09750](http://arxiv.org/abs/2406.09750) | None | 2024-06-14 |
+| How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent   for Debugging | [2310.05292](http://arxiv.org/abs/2310.05292) | None | 2024-06-14 |
 | LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing | [2406.07714](http://arxiv.org/abs/2406.07714) | None | 2024-06-13 |
 | Needle In A Video Haystack: A Scalable Synthetic Framework for   Benchmarking Video MLLMs | [2406.09367](http://arxiv.org/abs/2406.09367) | https://github.com/joez17/videoniah | 2024-06-13 |
 | C2HLSC: Can LLMs Bridge the Software-to-Hardware Design Gap? | [2406.09233](http://arxiv.org/abs/2406.09233) | None | 2024-06-13 |
@@ -206,19 +219,6 @@
 | Language Model Council: Benchmarking Foundation Models on Highly   Subjective Tasks by Consensus | [2406.08598](http://arxiv.org/abs/2406.08598) | None | 2024-06-12 |
 | CS-Bench: A Comprehensive Benchmark for Large Language Models towards   Computer Science Mastery | [2406.08587](http://arxiv.org/abs/2406.08587) | https://github.com/csbench/csbench | 2024-06-12 |
 | Tell Me a Story! Narrative-Driven XAI with Large Language Models | [2309.17057](http://arxiv.org/abs/2309.17057) | https://github.com/admantwerp/xaistories | 2024-06-12 |
-| A Software Engineering Perspective on Testing Large Language Models:   Research, Practice, Tools and Benchmarks | [2406.08216](http://arxiv.org/abs/2406.08216) | None | 2024-06-12 |
-| MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile   LLM Agents | [2406.08184](http://arxiv.org/abs/2406.08184) | None | 2024-06-12 |
-| Can AI Understand Human Personality? -- Comparing Human Experts and AI   Systems at Predicting Personality Correlations | [2406.08170](http://arxiv.org/abs/2406.08170) | None | 2024-06-12 |
-| Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio | [2406.08112](http://arxiv.org/abs/2406.08112) | None | 2024-06-12 |
-| A Concept-Based Explainability Framework for Large Multimodal Models | [2406.08074](http://arxiv.org/abs/2406.08074) | None | 2024-06-12 |
-| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-12 |
-| DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis | [2406.07944](http://arxiv.org/abs/2406.07944) | None | 2024-06-12 |
-| Enhancing Pre-Trained Generative Language Models with Question Attended   Span Extraction on Machine Reading Comprehension | [2404.17991](http://arxiv.org/abs/2404.17991) | None | 2024-06-12 |
-| ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large   Language Models | [2406.07831](http://arxiv.org/abs/2406.07831) | None | 2024-06-12 |
-| Are Large Language Models Good Statisticians? | [2406.07815](http://arxiv.org/abs/2406.07815) | https://github.com/derrickzhuyz/statqa | 2024-06-12 |
-| Aligning Large Language Models with Representation Editing: A Control   Perspective | [2406.05954](http://arxiv.org/abs/2406.05954) | None | 2024-06-11 |
-| Out-Of-Context Prompting Boosts Fairness and Robustness in Large   Language Model Predictions | [2406.07685](http://arxiv.org/abs/2406.07685) | None | 2024-06-11 |
-| Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs   Evaluation, Benchmark, and Arena | [2406.07545](http://arxiv.org/abs/2406.07545) | https://github.com/vila-lab/open-llm-leaderboard | 2024-06-11 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

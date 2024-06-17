@@ -1,4 +1,4 @@
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent   for Debugging | [2310.05292](http://arxiv.org/abs/2310.05292) | None | 2024-06-14 |
 | Real2Code: Reconstruct Articulated Objects via Code Generation | [2406.08474](http://arxiv.org/abs/2406.08474) | None | 2024-06-13 |
 | Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-13 |
 | Where Do Large Language Models Fail When Generating Code? | [2406.08731](http://arxiv.org/abs/2406.08731) | None | 2024-06-13 |
@@ -77,14 +78,13 @@
 | How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2024-06-10 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
 | LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-09 |
+| CodeAttack: Revealing Safety Generalization Challenges of Large Language   Models via Code Completion | [2403.07865](http://arxiv.org/abs/2403.07865) | https://github.com/renqibing/CodeAttack | 2024-06-09 |
 | Experimenting with Multi-Agent Software Development: Towards a Unified   Platform | [2406.05381](http://arxiv.org/abs/2406.05381) | None | 2024-06-08 |
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-06-07 |
 | How Abilities in Large Language Models are Affected by Supervised   Fine-tuning Data Composition | [2310.05492](http://arxiv.org/abs/2310.05492) | https://github.com/ofa-sys/gsm8k-screl | 2024-06-07 |
 | EffiBench: Benchmarking the Efficiency of Automatically Generated Code | [2402.02037](http://arxiv.org/abs/2402.02037) | https://github.com/huangd1999/EffiBench | 2024-06-07 |
 | WaveCoder: Widespread And Versatile Enhancement For Code Large Language   Models By Instruction Tuning | [2312.14187](http://arxiv.org/abs/2312.14187) | https://github.com/microsoft/wavecoder | 2024-06-07 |
 | AICoderEval: Improving AI Domain Code Generation of Large Language   Models | [2406.04712](http://arxiv.org/abs/2406.04712) | None | 2024-06-07 |
-| LogiCode: an LLM-Driven Framework for Logical Anomaly Detection | [2406.04687](http://arxiv.org/abs/2406.04687) | https://github.com/22strongestme/LOCO-Annotations | 2024-06-07 |
-| Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-06-07 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -152,8 +152,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-14 |
 | Defining and Detecting Vulnerability in Human Evaluation Guidelines: A   Preliminary Study Towards Reliable NLG Evaluation | [2406.07935](http://arxiv.org/abs/2406.07935) | https://github.com/EnablerRx/GuidelineVulnDetect | 2024-06-12 |
-| VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-11 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
 | M2CVD: Multi-Model Collaboration for Code Vulnerability Detection | [2406.05940](http://arxiv.org/abs/2406.05940) | None | 2024-06-10 |
 | Understanding the Effectiveness of Large Language Models in Detecting   Security Vulnerabilities | [2311.16169](http://arxiv.org/abs/2311.16169) | None | 2024-06-09 |
@@ -188,6 +188,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Inferring State Machine from the Protocol Implementation via Large   Language Model | [2405.00393](http://arxiv.org/abs/2405.00393) | https://github.com/s1awwhy/protocolgpt | 2024-06-14 |
+| Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-06-14 |
+| LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing | [2406.07714](http://arxiv.org/abs/2406.07714) | None | 2024-06-13 |
 | Needle In A Video Haystack: A Scalable Synthetic Framework for   Benchmarking Video MLLMs | [2406.09367](http://arxiv.org/abs/2406.09367) | https://github.com/joez17/videoniah | 2024-06-13 |
 | C2HLSC: Can LLMs Bridge the Software-to-Hardware Design Gap? | [2406.09233](http://arxiv.org/abs/2406.09233) | None | 2024-06-13 |
 | DefAn: Definitive Answer Dataset for LLMs Hallucination Evaluation | [2406.09155](http://arxiv.org/abs/2406.09155) | None | 2024-06-13 |
@@ -213,12 +216,9 @@
 | Enhancing Pre-Trained Generative Language Models with Question Attended   Span Extraction on Machine Reading Comprehension | [2404.17991](http://arxiv.org/abs/2404.17991) | None | 2024-06-12 |
 | ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large   Language Models | [2406.07831](http://arxiv.org/abs/2406.07831) | None | 2024-06-12 |
 | Are Large Language Models Good Statisticians? | [2406.07815](http://arxiv.org/abs/2406.07815) | https://github.com/derrickzhuyz/statqa | 2024-06-12 |
-| LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing | [2406.07714](http://arxiv.org/abs/2406.07714) | None | 2024-06-11 |
 | Aligning Large Language Models with Representation Editing: A Control   Perspective | [2406.05954](http://arxiv.org/abs/2406.05954) | None | 2024-06-11 |
 | Out-Of-Context Prompting Boosts Fairness and Robustness in Large   Language Model Predictions | [2406.07685](http://arxiv.org/abs/2406.07685) | None | 2024-06-11 |
 | Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs   Evaluation, Benchmark, and Arena | [2406.07545](http://arxiv.org/abs/2406.07545) | https://github.com/vila-lab/open-llm-leaderboard | 2024-06-11 |
-| McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
-| Improving Logits-based Detector without Logits from Black-box LLMs | [2406.05232](http://arxiv.org/abs/2406.05232) | None | 2024-06-11 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

@@ -1,4 +1,4 @@
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-16 |
+| How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2024-06-16 |
 | Evaluating LLM-driven User-Intent Formalization for Verification-Aware   Languages | [2406.09757](http://arxiv.org/abs/2406.09757) | None | 2024-06-14 |
 | How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-06-14 |
 | How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent   for Debugging | [2310.05292](http://arxiv.org/abs/2310.05292) | None | 2024-06-14 |
@@ -77,9 +79,7 @@
 | McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
 | Optimizing Large Language Models for OpenAPI Code Completion | [2405.15729](http://arxiv.org/abs/2405.15729) | https://github.com/BohdanPetryshyn/openapi-completion-benchmark | 2024-06-10 |
 | Towards AI-Assisted Synthesis of Verified Dafny Methods | [2402.00247](http://arxiv.org/abs/2402.00247) | https://github.com/mondego/dafny-synthesis | 2024-06-10 |
-| How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2024-06-10 |
 | An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
-| LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-09 |
 | CodeAttack: Revealing Safety Generalization Challenges of Large Language   Models via Code Completion | [2403.07865](http://arxiv.org/abs/2403.07865) | https://github.com/renqibing/CodeAttack | 2024-06-09 |
 | Experimenting with Multi-Agent Software Development: Towards a Unified   Platform | [2406.05381](http://arxiv.org/abs/2406.05381) | None | 2024-06-08 |
 | SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-06-07 |
@@ -251,13 +251,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-06-17 |
 | Security Code Review by Large Language Models | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-06-08 |
 | AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight   Tuning on Multi-source Data | [2405.19265](http://arxiv.org/abs/2405.19265) | https://github.com/internlm/alchemistcoder | 2024-05-29 |
 | AI-Assisted Assessment of Coding Practices in Modern Code Review | [2405.13565](http://arxiv.org/abs/2405.13565) | None | 2024-05-22 |
 | Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
 | PrAIoritize: Automated Early Prediction and Prioritization of   Vulnerabilities in Smart Contracts | [2308.11082](http://arxiv.org/abs/2308.11082) | None | 2024-05-15 |
 | An Empirical Study on Code Review Activity Prediction and Its Impact in   Practice | [2404.10703](http://arxiv.org/abs/2404.10703) | None | 2024-05-13 |
-| Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-05-02 |
 | AI-powered Code Review with LLMs: Early Results | [2404.18496](http://arxiv.org/abs/2404.18496) | None | 2024-04-29 |
 | Automating Patch Set Generation from Code Review Comments Using Large   Language Models | [2406.04346](http://arxiv.org/abs/2406.04346) | None | 2024-04-10 |
 | When LLM-based Code Generation Meets the Software Development Process | [2403.15852](http://arxiv.org/abs/2403.15852) | None | 2024-03-23 |

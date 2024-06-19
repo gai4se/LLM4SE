@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-12 |
+| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-18 |
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2024-06-11 |
 | McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-18 |
 | CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-06-17 |
 | Instruction Fusion: Advancing Prompt Evolution through Hybridization | [2312.15692](http://arxiv.org/abs/2312.15692) | https://github.com/XpastaX/Instruction-Fusion | 2024-06-17 |
 | How Do Humans Write Code? Large Models Do It the Same Way Too | [2402.15729](http://arxiv.org/abs/2402.15729) | https://github.com/seamoke/Human-Think-Language | 2024-06-17 |
@@ -73,7 +74,6 @@
 | INTERVENOR: Prompting the Coding Ability of Large Language Models with   the Interactive Chain of Repair | [2311.09868](http://arxiv.org/abs/2311.09868) | https://github.com/neuir/intervenor | 2024-06-13 |
 | Exploring Fuzzing as Data Augmentation for Neural Test Generation | [2406.08665](http://arxiv.org/abs/2406.08665) | None | 2024-06-12 |
 | CS-Bench: A Comprehensive Benchmark for Large Language Models towards   Computer Science Mastery | [2406.08587](http://arxiv.org/abs/2406.08587) | https://github.com/csbench/csbench | 2024-06-12 |
-| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-12 |
 | We Have a Package for You! A Comprehensive Analysis of Package   Hallucinations by Code Generating LLMs | [2406.10279](http://arxiv.org/abs/2406.10279) | None | 2024-06-12 |
 | Unsupervised Information Refinement Training of Large Language Models   for Retrieval-Augmented Generation | [2402.18150](http://arxiv.org/abs/2402.18150) | https://github.com/xsc1234/info-rag | 2024-06-12 |
 | Mercury: A Code Efficiency Benchmark for Code Large Language Models | [2402.07844](http://arxiv.org/abs/2402.07844) | https://github.com/elfsong/mercury | 2024-06-11 |
@@ -193,7 +193,7 @@
 | Requirements are All You Need: From Requirements to Code with LLMs | [2406.10101](http://arxiv.org/abs/2406.10101) | None | 2024-06-17 |
 | Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack | [2406.11682](http://arxiv.org/abs/2406.11682) | https://github.com/thu-keg/knowledge-to-jailbreak | 2024-06-17 |
 | R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval   Augmented Large Language Models | [2406.11681](http://arxiv.org/abs/2406.11681) | https://github.com/thu-keg/r-eval | 2024-06-17 |
-| TourRank: Utilizing Large Language Models for Documents Ranking with a   Tournament-Inspired Strategy | [2406.11678](http://arxiv.org/abs/2406.11678) | None | 2024-06-17 |
+| TourRank: Utilizing Large Language Models for Documents Ranking with a   Tournament-Inspired Strategy | [2406.11678](http://arxiv.org/abs/2406.11678) | https://github.com/chenyiqun/TourRank | 2024-06-17 |
 | Multi-stage Large Language Model Correction for Speech Recognition | [2310.11532](http://arxiv.org/abs/2310.11532) | None | 2024-06-17 |
 | The Base-Rate Effect on LLM Benchmark Performance: Disambiguating   Test-Taking Strategies from Benchmark Performance | [2406.11634](http://arxiv.org/abs/2406.11634) | None | 2024-06-17 |
 | Do Language Models Exhibit the Same Cognitive Biases in Problem Solving   as Human Learners? | [2401.18070](http://arxiv.org/abs/2401.18070) | https://github.com/eth-lre/solving-biases | 2024-06-17 |
@@ -207,7 +207,7 @@
 | Minimal Self in Humanoid Robot "Alter3" Driven by Large Language Model | [2406.11420](http://arxiv.org/abs/2406.11420) | None | 2024-06-17 |
 | $\texttt{MoE-RBench}$: Towards Building Reliable Language Models with   Sparse Mixture-of-Experts | [2406.11353](http://arxiv.org/abs/2406.11353) | None | 2024-06-17 |
 | Unveiling Assumptions: Exploring the Decisions of AI Chatbots and Human   Testers | [2406.11339](http://arxiv.org/abs/2406.11339) | None | 2024-06-17 |
-| Are Large Language Models True Healthcare Jacks-of-All-Trades?   Benchmarking Across Health Professions Beyond Physician Exams | [2406.11328](http://arxiv.org/abs/2406.11328) | None | 2024-06-17 |
+| Are Large Language Models True Healthcare Jacks-of-All-Trades?   Benchmarking Across Health Professions Beyond Physician Exams | [2406.11328](http://arxiv.org/abs/2406.11328) | https://github.com/zhehengluoK/eval_empec | 2024-06-17 |
 | The Fall of ROME: Understanding the Collapse of LLMs in Model Editing | [2406.11263](http://arxiv.org/abs/2406.11263) | None | 2024-06-17 |
 | Evading AI-Generated Content Detectors using Homoglyphs | [2406.11239](http://arxiv.org/abs/2406.11239) | None | 2024-06-17 |
 | Large Language Models are In-context Teachers for Knowledge Reasoning | [2311.06985](http://arxiv.org/abs/2311.06985) | None | 2024-06-17 |

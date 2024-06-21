@@ -1,4 +1,4 @@
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | None | 2024-06-17 |
+| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-06-17 |
 | VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
 | A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on   Automated Program Repair | [2406.05639](http://arxiv.org/abs/2406.05639) | None | 2024-06-09 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-06-07 |
@@ -152,7 +152,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level   RAG | [2406.11147](http://arxiv.org/abs/2406.11147) | None | 2024-06-17 |
+| Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level   RAG | [2406.11147](http://arxiv.org/abs/2406.11147) | None | 2024-06-19 |
 | Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-06-17 |
 | VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-14 |
 | Towards Effectively Detecting and Explaining Vulnerabilities Using Large   Language Models | [2406.09701](http://arxiv.org/abs/2406.09701) | None | 2024-06-14 |
@@ -188,12 +188,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| White Men Lead, Black Women Help? Benchmarking Language Agency Social   Biases in LLMs | [2404.10508](http://arxiv.org/abs/2404.10508) | None | 2024-06-20 |
+| Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large   Language Models | [2406.12572](http://arxiv.org/abs/2406.12572) | https://github.com/ist-daslab/mathador-lm | 2024-06-19 |
 | Is It Good Data for Multilingual Instruction Tuning or Just Bad   Multilingual Evaluation for Large Language Models? | [2406.12822](http://arxiv.org/abs/2406.12822) | None | 2024-06-18 |
 | UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple   Choice Questions | [2406.12784](http://arxiv.org/abs/2406.12784) | None | 2024-06-18 |
 | Benchmarks and Metrics for Evaluations of Code Generation: A Critical   Review | [2406.12655](http://arxiv.org/abs/2406.12655) | None | 2024-06-18 |
 | ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation | [2406.12635](http://arxiv.org/abs/2406.12635) | None | 2024-06-18 |
 | User Centric Evaluation of Code Generation Tools | [2402.03130](http://arxiv.org/abs/2402.03130) | None | 2024-06-18 |
-| Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large   Language Models | [2406.12572](http://arxiv.org/abs/2406.12572) | https://github.com/ist-daslab/mathador-lm | 2024-06-18 |
 | Authorship Obfuscation in Multilingual Machine-Generated Text Detection | [2401.07867](http://arxiv.org/abs/2401.07867) | None | 2024-06-18 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-18 |
 | Can We Trust Large Language Models Generated Code? A Framework for   In-Context Learning, Security Patterns, and Code Evaluations Across Diverse   LLMs | [2406.12513](http://arxiv.org/abs/2406.12513) | None | 2024-06-18 |
@@ -210,7 +211,6 @@
 | Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large   Language Models | [2402.02207](http://arxiv.org/abs/2402.02207) | https://github.com/ys-zong/vlguard | 2024-06-17 |
 | The Invalsi Benchmarks: measuring Linguistic and Mathematical   understanding of Large Language Models in Italian | [2403.18697](http://arxiv.org/abs/2403.18697) | None | 2024-06-17 |
 | Can LLMs Learn Macroeconomic Narratives from Social Media? | [2406.12109](http://arxiv.org/abs/2406.12109) | None | 2024-06-17 |
-| White Men Lead, Black Women Help? Benchmarking Language Agency Social   Biases in LLMs | [2404.10508](http://arxiv.org/abs/2404.10508) | None | 2024-06-17 |
 | Eliciting Topic Hierarchies from Large Language Models | [2310.19275](http://arxiv.org/abs/2310.19275) | None | 2024-06-17 |
 | Large Scale Transfer Learning for Tabular Data via Language Modeling | [2406.12031](http://arxiv.org/abs/2406.12031) | https://github.com/mlfoundations/tabliblib | 2024-06-17 |
 | Look Further Ahead: Testing the Limits of GPT-4 in Path Planning | [2406.12000](http://arxiv.org/abs/2406.12000) | https://github.com/mohamedaghzal/llms-as-path-planners | 2024-06-17 |

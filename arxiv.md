@@ -1,4 +1,4 @@
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -198,15 +198,15 @@
 | Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely   Sensed Images | [2406.14086](http://arxiv.org/abs/2406.14086) | https://github.com/zhuqinfeng1999/seg-lstm | 2024-06-20 |
 | White Men Lead, Black Women Help? Benchmarking Language Agency Social   Biases in LLMs | [2404.10508](http://arxiv.org/abs/2404.10508) | None | 2024-06-20 |
 | ALERT: A Comprehensive Benchmark for Assessing Large Language Models'   Safety through Red Teaming | [2404.08676](http://arxiv.org/abs/2404.08676) | https://github.com/babelscape/alert | 2024-06-20 |
-| Inference-Time Decontamination: Reusing Leaked Benchmarks for Large   Language Model Evaluation | [2406.13990](http://arxiv.org/abs/2406.13990) | None | 2024-06-20 |
+| Inference-Time Decontamination: Reusing Leaked Benchmarks for Large   Language Model Evaluation | [2406.13990](http://arxiv.org/abs/2406.13990) | https://github.com/8188zq/Inference-Time-Decontamination | 2024-06-20 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
 | Can Low-Rank Knowledge Distillation in LLMs be Useful for   Microelectronic Reasoning? | [2406.13808](http://arxiv.org/abs/2406.13808) | None | 2024-06-19 |
-| Semantic Structure-Mapping in LLM and Human Analogical Reasoning | [2406.13803](http://arxiv.org/abs/2406.13803) | None | 2024-06-19 |
+| Semantic Structure-Mapping in LLM and Human Analogical Reasoning | [2406.13803](http://arxiv.org/abs/2406.13803) | https://github.com/AnonymousReview123/Semantic_Structure_Mapping_Anon | 2024-06-19 |
 | Can LLMs Reason in the Wild with Programs? | [2406.13764](http://arxiv.org/abs/2406.13764) | https://github.com/gblackout/reason-in-the-wild | 2024-06-19 |
 | KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization   in EHR | [2406.00014](http://arxiv.org/abs/2406.00014) | None | 2024-06-19 |
 | Nicer Than Humans: How do Large Language Models Behave in the Prisoner's   Dilemma? | [2406.13605](http://arxiv.org/abs/2406.13605) | None | 2024-06-19 |
 | Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation | [2405.13068](http://arxiv.org/abs/2405.13068) | https://github.com/llm-integrity-guard/jailmine | 2024-06-19 |
-| Enhancing Travel Choice Modeling with Large Language Models: A   Prompt-Learning Approach | [2406.13558](http://arxiv.org/abs/2406.13558) | None | 2024-06-19 |
+| Enhancing Travel Choice Modeling with Large Language Models: A   Prompt-Learning Approach | [2406.13558](http://arxiv.org/abs/2406.13558) | https://github.com/zachtian/LLM_Choice_Modeling | 2024-06-19 |
 | Self-play with Execution Feedback: Improving Instruction-following   Capabilities of Large Language Models | [2406.13542](http://arxiv.org/abs/2406.13542) | https://github.com/QwenLM/AutoIF | 2024-06-19 |
 | Mathador-LM: A Dynamic Benchmark for Mathematical Reasoning on Large   Language Models | [2406.12572](http://arxiv.org/abs/2406.12572) | https://github.com/ist-daslab/mathador-lm | 2024-06-19 |
 | Finding Blind Spots in Evaluator LLMs with Interpretable Checklists | [2406.13439](http://arxiv.org/abs/2406.13439) | None | 2024-06-19 |
@@ -216,7 +216,7 @@
 | Data Contamination Can Cross Language Barriers | [2406.13236](http://arxiv.org/abs/2406.13236) | https://github.com/shangdatalab/deep-contam | 2024-06-19 |
 | SHIELD: Evaluation and Defense Strategies for Copyright Compliance in   LLM Text Generation | [2406.12975](http://arxiv.org/abs/2406.12975) | None | 2024-06-18 |
 | Is It Good Data for Multilingual Instruction Tuning or Just Bad   Multilingual Evaluation for Large Language Models? | [2406.12822](http://arxiv.org/abs/2406.12822) | None | 2024-06-18 |
-| UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple   Choice Questions | [2406.12784](http://arxiv.org/abs/2406.12784) | None | 2024-06-18 |
+| UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple   Choice Questions | [2406.12784](http://arxiv.org/abs/2406.12784) | https://github.com/Cyno2232/UBENCH | 2024-06-18 |
 | Code Agents are State of the Art Software Testers | [2406.12952](http://arxiv.org/abs/2406.12952) | None | 2024-06-18 |
 | Understanding Large Language Model Based Fuzz Driver Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-06-17 |
 

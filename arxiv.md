@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,9 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| FVEL: Interactive Formal Verification Environment with Large Language   Models via Theorem Proving | [2406.14408](http://arxiv.org/abs/2406.14408) | None | 2024-06-21 |
 | The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in   Prompts | [2406.14318](http://arxiv.org/abs/2406.14318) | None | 2024-06-20 |
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | [2406.13948](http://arxiv.org/abs/2406.13948) | None | 2024-06-20 |
-| FVEL: Interactive Formal Verification Environment with Large Language   Models via Theorem Proving | [2406.14408](http://arxiv.org/abs/2406.14408) | None | 2024-06-20 |
 | Prose-to-P4: Leveraging High Level Languages | [2406.13679](http://arxiv.org/abs/2406.13679) | None | 2024-06-19 |
 | VDebugger: Harnessing Execution Feedback for Debugging Visual Programs | [2406.13444](http://arxiv.org/abs/2406.13444) | https://github.com/shirley-wu/vdebugger | 2024-06-19 |
 | De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks   via Iterative Grounding | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-06-19 |
@@ -188,6 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can Low-Rank Knowledge Distillation in LLMs be Useful for   Microelectronic Reasoning? | [2406.13808](http://arxiv.org/abs/2406.13808) | None | 2024-06-21 |
 | Uncovering Latent Memories: Assessing Data Leakage and Memorization   Patterns in Large Language Models | [2406.14549](http://arxiv.org/abs/2406.14549) | None | 2024-06-20 |
 | Improving Expert Radiology Report Summarization by Prompting Large   Language Models with a Layperson Summary | [2406.14500](http://arxiv.org/abs/2406.14500) | None | 2024-06-20 |
 | LLM4CP: Adapting Large Language Models for Channel Prediction | [2406.14440](http://arxiv.org/abs/2406.14440) | None | 2024-06-20 |
@@ -200,7 +201,6 @@
 | ALERT: A Comprehensive Benchmark for Assessing Large Language Models'   Safety through Red Teaming | [2404.08676](http://arxiv.org/abs/2404.08676) | https://github.com/babelscape/alert | 2024-06-20 |
 | Inference-Time Decontamination: Reusing Leaked Benchmarks for Large   Language Model Evaluation | [2406.13990](http://arxiv.org/abs/2406.13990) | https://github.com/8188zq/Inference-Time-Decontamination | 2024-06-20 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
-| Can Low-Rank Knowledge Distillation in LLMs be Useful for   Microelectronic Reasoning? | [2406.13808](http://arxiv.org/abs/2406.13808) | None | 2024-06-19 |
 | Semantic Structure-Mapping in LLM and Human Analogical Reasoning | [2406.13803](http://arxiv.org/abs/2406.13803) | https://github.com/AnonymousReview123/Semantic_Structure_Mapping_Anon | 2024-06-19 |
 | Can LLMs Reason in the Wild with Programs? | [2406.13764](http://arxiv.org/abs/2406.13764) | https://github.com/gblackout/reason-in-the-wild | 2024-06-19 |
 | KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization   in EHR | [2406.00014](http://arxiv.org/abs/2406.00014) | None | 2024-06-19 |

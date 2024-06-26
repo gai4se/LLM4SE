@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| MPCODER: Multi-user Personalized Code Generator with Explicit and   Implicit Style Representation Learning | [2406.17255](http://arxiv.org/abs/2406.17255) | None | 2024-06-25 |
+| BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in   Instruction-tuned Language Models | [2406.17092](http://arxiv.org/abs/2406.17092) | https://github.com/reds-lab/beear | 2024-06-24 |
 | Agent-Driven Automatic Software Improvement | [2406.16739](http://arxiv.org/abs/2406.16739) | None | 2024-06-24 |
 | UniCoder: Scaling Code Large Language Model via Universal Code | [2406.16441](http://arxiv.org/abs/2406.16441) | None | 2024-06-24 |
 | AST-T5: Structure-Aware Pretraining for Code Generation and   Understanding | [2401.03003](http://arxiv.org/abs/2401.03003) | https://github.com/gonglinyuan/ast_t5 | 2024-06-23 |
@@ -83,8 +85,6 @@
 | How Do Humans Write Code? Large Models Do It the Same Way Too | [2402.15729](http://arxiv.org/abs/2402.15729) | https://github.com/seamoke/Human-Think-Language | 2024-06-17 |
 | RePrompt: Planning by Automatic Prompt Engineering for Large Language   Models Agents | [2406.11132](http://arxiv.org/abs/2406.11132) | None | 2024-06-17 |
 | Measuring memorization in RLHF for code completion | [2406.11715](http://arxiv.org/abs/2406.11715) | None | 2024-06-17 |
-| Investigating Video Reasoning Capability of Large Language Models with   Tropes in Movies | [2406.10923](http://arxiv.org/abs/2406.10923) | None | 2024-06-16 |
-| LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical   Reinforcement Learning | [2406.05881](http://arxiv.org/abs/2406.05881) | None | 2024-06-16 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -188,7 +188,23 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Data-Centric Approach To Generate Faithful and High Quality Patient   Summaries with Large Language Models | [2402.15422](http://arxiv.org/abs/2402.15422) | https://github.com/stefanhgm/patient_summaries_with_llms | 2024-06-25 |
+| VarBench: Robust Language Model Benchmarking Through Dynamic Variable   Perturbation | [2406.17681](http://arxiv.org/abs/2406.17681) | None | 2024-06-25 |
+| LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic | [2406.17663](http://arxiv.org/abs/2406.17663) | None | 2024-06-25 |
+| Knowledge Distillation in Automated Annotation: Supervised Text   Classification with LLM-Generated Training Labels | [2406.17633](http://arxiv.org/abs/2406.17633) | None | 2024-06-25 |
+| Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for   Querying and Classifying IoT Threats | [2406.17574](http://arxiv.org/abs/2406.17574) | None | 2024-06-25 |
+| MemServe: Context Caching for Disaggregated LLM Serving with Elastic   Memory Pool | [2406.17565](http://arxiv.org/abs/2406.17565) | None | 2024-06-25 |
+| SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource   Languages | [2406.14425](http://arxiv.org/abs/2406.14425) | None | 2024-06-25 |
+| Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian   Benchmark | [2406.17535](http://arxiv.org/abs/2406.17535) | None | 2024-06-25 |
+| High-Dimension Human Value Representation in Large Language Models | [2404.07900](http://arxiv.org/abs/2404.07900) | https://github.com/hltchkust/univar | 2024-06-25 |
+| Leave No Document Behind: Benchmarking Long-Context LLMs with Extended   Multi-Doc QA | [2406.17419](http://arxiv.org/abs/2406.17419) | https://github.com/mozerwang/loong | 2024-06-25 |
+| DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning   Graph | [2406.17271](http://arxiv.org/abs/2406.17271) | https://github.com/salt-nlp/darg | 2024-06-25 |
+| When Large Language Models Meet Optical Networks: Paving the Way for   Automation | [2405.17441](http://arxiv.org/abs/2405.17441) | None | 2024-06-25 |
+| Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human   Belief Networks | [2406.17232](http://arxiv.org/abs/2406.17232) | None | 2024-06-25 |
 | GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2024-06-24 |
+| LLM-Aided Testbench Generation and Bug Detection for Finite-State   Machines | [2406.17132](http://arxiv.org/abs/2406.17132) | None | 2024-06-24 |
+| MM-SpuBench: Towards Better Understanding of Spurious Biases in   Multimodal LLMs | [2406.17126](http://arxiv.org/abs/2406.17126) | None | 2024-06-24 |
+| Aligner: Efficient Alignment by Learning to Correct | [2402.02416](http://arxiv.org/abs/2402.02416) | None | 2024-06-24 |
 | Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024   Retrieval-Augmented Generation Track | [2406.16828](http://arxiv.org/abs/2406.16828) | None | 2024-06-24 |
 | Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech   Translation System for IWSLT 2024 | [2406.16777](http://arxiv.org/abs/2406.16777) | None | 2024-06-24 |
 | CLUE: A Clinical Language Understanding Evaluation for LLMs | [2404.04067](http://arxiv.org/abs/2404.04067) | https://github.com/tio-ikim/clue | 2024-06-24 |
@@ -202,22 +218,6 @@
 | SafetyBench: Evaluating the Safety of Large Language Models | [2309.07045](http://arxiv.org/abs/2309.07045) | https://github.com/thu-coai/safetybench | 2024-06-24 |
 | ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential   Behavior Comprehension in Recommendation | [2308.11131](http://arxiv.org/abs/2308.11131) | https://github.com/lavieenrose365/rella | 2024-06-24 |
 | Open Models, Closed Minds? On Agents Capabilities in Mimicking Human   Personalities through Open Large Language Models | [2401.07115](http://arxiv.org/abs/2401.07115) | None | 2024-06-23 |
-| GraphEval2000: Benchmarking and Improving Large Language Models on Graph   Datasets | [2406.16176](http://arxiv.org/abs/2406.16176) | None | 2024-06-23 |
-| Inference-Time Decontamination: Reusing Leaked Benchmarks for Large   Language Model Evaluation | [2406.13990](http://arxiv.org/abs/2406.13990) | https://github.com/8188zq/Inference-Time-Decontamination | 2024-06-23 |
-| Revisiting Demonstration Selection Strategies in In-Context Learning | [2401.12087](http://arxiv.org/abs/2401.12087) | https://github.com/romainpkq/revisit_demon_selection_in_icl | 2024-06-23 |
-| AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic   Manipulation | [2406.11548](http://arxiv.org/abs/2406.11548) | None | 2024-06-23 |
-| In-Context Learning with Iterative Demonstration Selection | [2310.09881](http://arxiv.org/abs/2310.09881) | None | 2024-06-23 |
-| Serial Position Effects of Large Language Models | [2406.15981](http://arxiv.org/abs/2406.15981) | None | 2024-06-23 |
-| Effectiveness of ChatGPT in explaining complex medical reports to   patients | [2406.15963](http://arxiv.org/abs/2406.15963) | None | 2024-06-23 |
-| Semantic Entropy Probes: Robust and Cheap Hallucination Detection in   LLMs | [2406.15927](http://arxiv.org/abs/2406.15927) | None | 2024-06-22 |
-| Functional Overlap Reranking for Neural Code Generation | [2311.03366](http://arxiv.org/abs/2311.03366) | https://github.com/fsoft-ai4code/srank-coderanker | 2024-06-22 |
-| BigCodeBench: Benchmarking Code Generation with Diverse Function Calls   and Complex Instructions | [2406.15877](http://arxiv.org/abs/2406.15877) | https://github.com/bigcode-project/bigcodebench | 2024-06-22 |
-| Enhancing Travel Choice Modeling with Large Language Models: A   Prompt-Learning Approach | [2406.13558](http://arxiv.org/abs/2406.13558) | None | 2024-06-22 |
-| LLM-Powered Explanations: Unraveling Recommendations Through Subgraph   Reasoning | [2406.15859](http://arxiv.org/abs/2406.15859) | None | 2024-06-22 |
-| Open-Vocabulary Temporal Action Localization using Multimodal Guidance | [2406.15556](http://arxiv.org/abs/2406.15556) | None | 2024-06-21 |
-| Detecting Synthetic Lyrics with Few-Shot Inference | [2406.15231](http://arxiv.org/abs/2406.15231) | None | 2024-06-21 |
-| Assessing Good, Bad and Ugly Arguments Generated by ChatGPT: a New   Dataset, its Methodology and Associated Tasks | [2406.15130](http://arxiv.org/abs/2406.15130) | https://github.com/c4ai/argpt | 2024-06-21 |
-| SpreadsheetBench: Towards Challenging Real World Spreadsheet   Manipulation | [2406.14991](http://arxiv.org/abs/2406.14991) | None | 2024-06-21 |
 | De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks   via Iterative Grounding | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-06-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

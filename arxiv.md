@@ -1,4 +1,4 @@
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,8 +90,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-06-25 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
-| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-06-17 |
 | VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
 | A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on   Automated Program Repair | [2406.05639](http://arxiv.org/abs/2406.05639) | None | 2024-06-09 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-06-07 |
@@ -188,12 +188,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| VarBench: Robust Language Model Benchmarking Through Dynamic Variable   Perturbation | [2406.17681](http://arxiv.org/abs/2406.17681) | https://github.com/qbetterk/VarBench | 2024-06-26 |
+| MemServe: Context Caching for Disaggregated LLM Serving with Elastic   Memory Pool | [2406.17565](http://arxiv.org/abs/2406.17565) | None | 2024-06-26 |
 | A Data-Centric Approach To Generate Faithful and High Quality Patient   Summaries with Large Language Models | [2402.15422](http://arxiv.org/abs/2402.15422) | https://github.com/stefanhgm/patient_summaries_with_llms | 2024-06-25 |
-| VarBench: Robust Language Model Benchmarking Through Dynamic Variable   Perturbation | [2406.17681](http://arxiv.org/abs/2406.17681) | None | 2024-06-25 |
 | LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic | [2406.17663](http://arxiv.org/abs/2406.17663) | None | 2024-06-25 |
 | Knowledge Distillation in Automated Annotation: Supervised Text   Classification with LLM-Generated Training Labels | [2406.17633](http://arxiv.org/abs/2406.17633) | None | 2024-06-25 |
 | Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for   Querying and Classifying IoT Threats | [2406.17574](http://arxiv.org/abs/2406.17574) | None | 2024-06-25 |
-| MemServe: Context Caching for Disaggregated LLM Serving with Elastic   Memory Pool | [2406.17565](http://arxiv.org/abs/2406.17565) | None | 2024-06-25 |
 | SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource   Languages | [2406.14425](http://arxiv.org/abs/2406.14425) | None | 2024-06-25 |
 | Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian   Benchmark | [2406.17535](http://arxiv.org/abs/2406.17535) | None | 2024-06-25 |
 | High-Dimension Human Value Representation in Large Language Models | [2404.07900](http://arxiv.org/abs/2404.07900) | https://github.com/hltchkust/univar | 2024-06-25 |

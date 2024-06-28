@@ -1,4 +1,4 @@
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,9 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Caught in the Quicksand of Reasoning, Far from AGI Summit: Evaluating   LLMs' Mathematical and Coding Competency through Ontology-guided   Interventions | [2401.09395](http://arxiv.org/abs/2401.09395) | https://github.com/declare-lab/llm_robustness | 2024-06-26 |
-| Hierarchical Context Pruning: Optimizing Real-World Code Completion with   Repository-Level Pretrained Code LLMs | [2406.18294](http://arxiv.org/abs/2406.18294) | https://github.com/hambaobao/hcp-coder | 2024-06-26 |
-| MPCODER: Multi-user Personalized Code Generator with Explicit and   Implicit Style Representation Learning | [2406.17255](http://arxiv.org/abs/2406.17255) | None | 2024-06-25 |
+| Evaluating LLMs' Mathematical and Coding Competency through   Ontology-guided Interventions | [2401.09395](http://arxiv.org/abs/2401.09395) | https://github.com/declare-lab/llm_robustness | 2024-06-27 |
+| VDebugger: Harnessing Execution Feedback for Debugging Visual Programs | [2406.13444](http://arxiv.org/abs/2406.13444) | https://github.com/shirley-wu/vdebugger | 2024-06-27 |
+| Hierarchical Context Pruning: Optimizing Real-World Code Completion with   Repository-Level Pretrained Code LLMs | [2406.18294](http://arxiv.org/abs/2406.18294) | https://github.com/hambaobao/hcp-coder | 2024-06-27 |
+| MPCODER: Multi-user Personalized Code Generator with Explicit and   Implicit Style Representation Learning | [2406.17255](http://arxiv.org/abs/2406.17255) | https://github.com/455849940/MPCoder | 2024-06-25 |
 | BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in   Instruction-tuned Language Models | [2406.17092](http://arxiv.org/abs/2406.17092) | https://github.com/reds-lab/beear | 2024-06-24 |
 | Agent-Driven Automatic Software Improvement | [2406.16739](http://arxiv.org/abs/2406.16739) | None | 2024-06-24 |
 | UniCoder: Scaling Code Large Language Model via Universal Code | [2406.16441](http://arxiv.org/abs/2406.16441) | None | 2024-06-24 |
@@ -64,14 +65,13 @@
 | Functional Overlap Reranking for Neural Code Generation | [2311.03366](http://arxiv.org/abs/2311.03366) | https://github.com/fsoft-ai4code/srank-coderanker | 2024-06-22 |
 | OMPGPT: A Generative Pre-trained Transformer Model for OpenMP | [2401.16445](http://arxiv.org/abs/2401.16445) | None | 2024-06-22 |
 | DistiLRR: Transferring Code Repair for Low-Resource Programming   Languages | [2406.14867](http://arxiv.org/abs/2406.14867) | https://github.com/kylewong288/distilrr | 2024-06-21 |
-| Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks | [2406.15325](http://arxiv.org/abs/2406.15325) | None | 2024-06-21 |
+| Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks | [2406.15325](http://arxiv.org/abs/2406.15325) | https://github.com/hamminghq/bug-in-the-code-stack | 2024-06-21 |
 | FVEL: Interactive Formal Verification Environment with Large Language   Models via Theorem Proving | [2406.14408](http://arxiv.org/abs/2406.14408) | None | 2024-06-21 |
 | Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative   Models | [2406.14712](http://arxiv.org/abs/2406.14712) | None | 2024-06-20 |
 | The Fire Thief Is Also the Keeper: Balancing Usability and Privacy in   Prompts | [2406.14318](http://arxiv.org/abs/2406.14318) | None | 2024-06-20 |
 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models | [2406.13948](http://arxiv.org/abs/2406.13948) | None | 2024-06-20 |
 | Prose-to-P4: Leveraging High Level Languages | [2406.13679](http://arxiv.org/abs/2406.13679) | None | 2024-06-19 |
-| VDebugger: Harnessing Execution Feedback for Debugging Visual Programs | [2406.13444](http://arxiv.org/abs/2406.13444) | https://github.com/shirley-wu/vdebugger | 2024-06-19 |
-| De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks   via Iterative Grounding | [2401.01701](http://arxiv.org/abs/2401.01701) | https://github.com/aryaze/dehallucinator | 2024-06-19 |
+| De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks   via Iterative Grounding | [2401.01701](http://arxiv.org/abs/2401.01701) | None | 2024-06-19 |
 | LongBench: A Bilingual, Multitask Benchmark for Long Context   Understanding | [2308.14508](http://arxiv.org/abs/2308.14508) | https://github.com/thudm/longbench | 2024-06-19 |
 | Code Agents are State of the Art Software Testers | [2406.12952](http://arxiv.org/abs/2406.12952) | None | 2024-06-18 |
 | ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation | [2406.12635](http://arxiv.org/abs/2406.12635) | None | 2024-06-18 |
@@ -169,7 +169,7 @@
 | Transfer Learning in Pre-Trained Large Language Models for Malware   Detection Based on System Calls | [2405.09318](http://arxiv.org/abs/2405.09318) | None | 2024-05-15 |
 | METAREFLECTION: Learning Instructions for Language Agents using Past   Reflections | [2405.13009](http://arxiv.org/abs/2405.13009) | None | 2024-05-13 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
-| Large Language Models for Cyber Security: A Systematic Literature Review | [2405.04760](http://arxiv.org/abs/2405.04760) | None | 2024-05-09 |
+| Large Language Models for Cyber Security: A Systematic Literature Review | [2405.04760](http://arxiv.org/abs/2405.04760) | https://github.com/hiyouga/llama-efficient-tuning | 2024-05-09 |
 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2024-05-06 |
 | DLAP: A Deep Learning Augmented Large Language Model Prompting Framework   for Software Vulnerability Detection | [2405.01202](http://arxiv.org/abs/2405.01202) | https://github.com/yang-yanjing/dlap | 2024-05-02 |
 | Do Neutral Prompts Produce Insecure Code? FormAI-v2 Dataset: Labelling   Vulnerabilities in Code Generated by Large Language Models | [2404.18353](http://arxiv.org/abs/2404.18353) | None | 2024-04-29 |
@@ -188,6 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2024-06-27 |
 | CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal   LLMs | [2406.18521](http://arxiv.org/abs/2406.18521) | None | 2024-06-26 |
 | Mental Modeling of Reinforcement Learning Agents by Language Models | [2406.18505](http://arxiv.org/abs/2406.18505) | None | 2024-06-26 |
 | BigCodeBench: Benchmarking Code Generation with Diverse Function Calls   and Complex Instructions | [2406.15877](http://arxiv.org/abs/2406.15877) | https://github.com/bigcode-project/bigcodebench | 2024-06-26 |
@@ -214,11 +215,10 @@
 | DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning   Graph | [2406.17271](http://arxiv.org/abs/2406.17271) | https://github.com/salt-nlp/darg | 2024-06-25 |
 | When Large Language Models Meet Optical Networks: Paving the Way for   Automation | [2405.17441](http://arxiv.org/abs/2405.17441) | None | 2024-06-25 |
 | Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human   Belief Networks | [2406.17232](http://arxiv.org/abs/2406.17232) | None | 2024-06-25 |
-| GPTFUZZER: Red Teaming Large Language Models with Auto-Generated   Jailbreak Prompts | [2309.10253](http://arxiv.org/abs/2309.10253) | https://github.com/sherdencooper/gptfuzz | 2024-06-24 |
 | LLM-Aided Testbench Generation and Bug Detection for Finite-State   Machines | [2406.17132](http://arxiv.org/abs/2406.17132) | None | 2024-06-24 |
 | MM-SpuBench: Towards Better Understanding of Spurious Biases in   Multimodal LLMs | [2406.17126](http://arxiv.org/abs/2406.17126) | None | 2024-06-24 |
 | Aligner: Efficient Alignment by Learning to Correct | [2402.02416](http://arxiv.org/abs/2402.02416) | None | 2024-06-24 |
-| Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024   Retrieval-Augmented Generation Track | [2406.16828](http://arxiv.org/abs/2406.16828) | None | 2024-06-24 |
+| Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024   Retrieval-Augmented Generation Track | [2406.16828](http://arxiv.org/abs/2406.16828) | https://github.com/castorini/ragnarok | 2024-06-24 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

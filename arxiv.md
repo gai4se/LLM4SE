@@ -1,4 +1,4 @@
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -192,7 +192,7 @@
 | ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos | [2406.19392](http://arxiv.org/abs/2406.19392) | https://github.com/rextime/rextime | 2024-06-27 |
 | Muffin or Chihuahua? Challenging Multimodal Large Language Models with   Multipanel VQA | [2401.15847](http://arxiv.org/abs/2401.15847) | None | 2024-06-27 |
 | Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens   Grounding | [2406.19263](http://arxiv.org/abs/2406.19263) | None | 2024-06-27 |
-| Revealing Fine-Grained Values and Opinions in Large Language Models | [2406.19238](http://arxiv.org/abs/2406.19238) | None | 2024-06-27 |
+| Revealing Fine-Grained Values and Opinions in Large Language Models | [2406.19238](http://arxiv.org/abs/2406.19238) | https://github.com/copenlu/llm-pct-tropes | 2024-06-27 |
 | Seeing Is Believing: Black-Box Membership Inference Attacks Against   Retrieval Augmented Generation | [2406.19234](http://arxiv.org/abs/2406.19234) | None | 2024-06-27 |
 | Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a   supervised-friendly fashion | [2406.19185](http://arxiv.org/abs/2406.19185) | None | 2024-06-27 |
 | Towards Learning Abductive Reasoning using VSA Distributed   Representations | [2406.19121](http://arxiv.org/abs/2406.19121) | https://github.com/ibm/abductive-rule-learner-with-context-awareness | 2024-06-27 |
@@ -204,7 +204,7 @@
 | Jailbreaking LLMs with Arabic Transliteration and Arabizi | [2406.18725](http://arxiv.org/abs/2406.18725) | None | 2024-06-26 |
 | Few-shot Personalization of LLMs with Mis-aligned Responses | [2406.18678](http://arxiv.org/abs/2406.18678) | https://github.com/bbuing9/fermi | 2024-06-26 |
 | RouteLLM: Learning to Route LLMs with Preference Data | [2406.18665](http://arxiv.org/abs/2406.18665) | None | 2024-06-26 |
-| CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal   LLMs | [2406.18521](http://arxiv.org/abs/2406.18521) | None | 2024-06-26 |
+| CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal   LLMs | [2406.18521](http://arxiv.org/abs/2406.18521) | https://github.com/princeton-nlp/CharXiv | 2024-06-26 |
 | Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of   LLMs | [2406.18629](http://arxiv.org/abs/2406.18629) | https://github.com/dvlab-research/step-dpo | 2024-06-26 |
 | Mental Modeling of Reinforcement Learning Agents by Language Models | [2406.18505](http://arxiv.org/abs/2406.18505) | None | 2024-06-26 |
 | BigCodeBench: Benchmarking Code Generation with Diverse Function Calls   and Complex Instructions | [2406.15877](http://arxiv.org/abs/2406.15877) | https://github.com/bigcode-project/bigcodebench | 2024-06-26 |
@@ -252,6 +252,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | None | 2024-06-28 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
 | Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-06-17 |
 | Security Code Review by Large Language Models | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-06-08 |
@@ -264,7 +265,6 @@
 | Automating Patch Set Generation from Code Review Comments Using Large   Language Models | [2406.04346](http://arxiv.org/abs/2406.04346) | None | 2024-04-10 |
 | When LLM-based Code Generation Meets the Software Development Process | [2403.15852](http://arxiv.org/abs/2403.15852) | None | 2024-03-23 |
 | Software Vulnerability and Functionality Assessment using LLMs | [2403.08429](http://arxiv.org/abs/2403.08429) | None | 2024-03-13 |
-| CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | None | 2024-02-15 |
 | How to Refactor this Code? An Exploratory Study on Developer-ChatGPT   Refactoring Conversations | [2402.06013](http://arxiv.org/abs/2402.06013) | None | 2024-02-08 |
 | Assured LLM-Based Software Engineering | [2402.04380](http://arxiv.org/abs/2402.04380) | None | 2024-02-06 |
 | Improving Automated Code Reviews: Learning from Experience | [2402.03777](http://arxiv.org/abs/2402.03777) | None | 2024-02-06 |

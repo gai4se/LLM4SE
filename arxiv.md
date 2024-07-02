@@ -1,4 +1,4 @@
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay | [2402.04858](http://arxiv.org/abs/2402.04858) | https://github.com/Qualcomm-AI-research/codeit | 2024-07-01 |
 | Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework   for Multimodal LLMs | [2406.20098](http://arxiv.org/abs/2406.20098) | https://github.com/mbzuai-llm/web2code | 2024-06-28 |
 | NLPerturbator: Studying the Robustness of Code LLMs to Natural Language   Variations | [2406.19783](http://arxiv.org/abs/2406.19783) | None | 2024-06-28 |
 | GRILLBot In Practice: Lessons and Tradeoffs Deploying Large Language   Models for Adaptable Conversational Task Assistants | [2402.07647](http://arxiv.org/abs/2402.07647) | https://github.com/grill-lab/oat | 2024-06-28 |
@@ -84,7 +85,6 @@
 | LongBench: A Bilingual, Multitask Benchmark for Long Context   Understanding | [2308.14508](http://arxiv.org/abs/2308.14508) | https://github.com/thudm/longbench | 2024-06-19 |
 | Code Agents are State of the Art Software Testers | [2406.12952](http://arxiv.org/abs/2406.12952) | None | 2024-06-18 |
 | ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation | [2406.12635](http://arxiv.org/abs/2406.12635) | None | 2024-06-18 |
-| User Centric Evaluation of Code Generation Tools | [2402.03130](http://arxiv.org/abs/2402.03130) | None | 2024-06-18 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -188,6 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RouteLLM: Learning to Route LLMs with Preference Data | [2406.18665](http://arxiv.org/abs/2406.18665) | None | 2024-07-01 |
 | Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework   for Multimodal LLMs | [2406.20098](http://arxiv.org/abs/2406.20098) | https://github.com/mbzuai-llm/web2code | 2024-06-28 |
 | LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context   Compression | [2406.20092](http://arxiv.org/abs/2406.20092) | https://github.com/beckschen/llavolta | 2024-06-28 |
 | MBIAS: Mitigating Bias in Large Language Models While Retaining Context | [2405.11290](http://arxiv.org/abs/2405.11290) | https://github.com/shainarazavi/mbias | 2024-06-28 |
@@ -215,7 +216,6 @@
 | Categorical Syllogisms Revisited: A Review of the Logical Reasoning   Abilities of LLMs for Analyzing Categorical Syllogism | [2406.18762](http://arxiv.org/abs/2406.18762) | None | 2024-06-26 |
 | Jailbreaking LLMs with Arabic Transliteration and Arabizi | [2406.18725](http://arxiv.org/abs/2406.18725) | None | 2024-06-26 |
 | Few-shot Personalization of LLMs with Mis-aligned Responses | [2406.18678](http://arxiv.org/abs/2406.18678) | https://github.com/bbuing9/fermi | 2024-06-26 |
-| RouteLLM: Learning to Route LLMs with Preference Data | [2406.18665](http://arxiv.org/abs/2406.18665) | None | 2024-06-26 |
 | CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal   LLMs | [2406.18521](http://arxiv.org/abs/2406.18521) | https://github.com/princeton-nlp/CharXiv | 2024-06-26 |
 | Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of   LLMs | [2406.18629](http://arxiv.org/abs/2406.18629) | https://github.com/dvlab-research/step-dpo | 2024-06-26 |
 | An Empirical Study of Unit Test Generation with Large Language Models | [2406.18181](http://arxiv.org/abs/2406.18181) | None | 2024-06-26 |

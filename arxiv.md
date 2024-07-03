@@ -1,4 +1,4 @@
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault   Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2024-07-02 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | A Unified Debugging Approach via LLM-Based Multi-Agent Synergy | [2404.17153](http://arxiv.org/abs/2404.17153) | None | 2024-04-26 |
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
@@ -144,7 +145,6 @@
 | Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
-| A Preliminary Evaluation of LLM-Based Fault Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2023-08-26 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
 | Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 
@@ -152,6 +152,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Inferring Resource-Oriented Intentions using LLMs for Static Resource   Leak Detection | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2024-07-02 |
 | VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-24 |
 | Soley: Identification and Automated Detection of Logic Vulnerabilities   in Ethereum Smart Contracts Using Large Language Models | [2406.16244](http://arxiv.org/abs/2406.16244) | None | 2024-06-24 |
 | Prompt Injection Attacks in Defended Systems | [2406.14048](http://arxiv.org/abs/2406.14048) | None | 2024-06-20 |
@@ -182,12 +183,12 @@
 | The FormAI Dataset: Generative AI in Software Security Through the Lens   of Formal Verification | [2307.02192](http://arxiv.org/abs/2307.02192) | None | 2024-03-28 |
 | SCALE: Constructing Structured Natural Language Comment Trees for   Software Vulnerability Detection | [2403.19096](http://arxiv.org/abs/2403.19096) | https://github.com/xin-cheng-wen/comment4vul | 2024-03-28 |
 | FoC: Figure out the Cryptographic Functions in Stripped Binaries with   LLMs | [2403.18403](http://arxiv.org/abs/2403.18403) | https://github.com/ch3nye/foc | 2024-03-27 |
-| A Comprehensive Study of the Capabilities of Large Language Models for   Vulnerability Detection | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2024-03-25 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos | [2406.19392](http://arxiv.org/abs/2406.19392) | https://github.com/rextime/rextime | 2024-07-02 |
 | Safe and Responsible Large Language Model : Can We Balance Bias   Reduction and Language Understanding in Large Language Models? | [2404.01399](http://arxiv.org/abs/2404.01399) | https://github.com/shainarazavi/safe-responsible-llm | 2024-07-01 |
 | Performance of large language models in numerical vs. semantic medical   knowledge: Benchmarking on evidence-based Q&As | [2406.03855](http://arxiv.org/abs/2406.03855) | None | 2024-07-01 |
 | CoCoST: Automatic Complex Code Generation with Online Searching and   Correctness Testing | [2403.13583](http://arxiv.org/abs/2403.13583) | None | 2024-07-01 |
@@ -212,7 +213,6 @@
 | xTower: A Multilingual LLM for Explaining and Correcting Translation   Errors | [2406.19482](http://arxiv.org/abs/2406.19482) | None | 2024-06-27 |
 | Changing Answer Order Can Decrease MMLU Accuracy | [2406.19470](http://arxiv.org/abs/2406.19470) | None | 2024-06-27 |
 | Can Large Language Models Generate High-quality Patent Claims? | [2406.19465](http://arxiv.org/abs/2406.19465) | None | 2024-06-27 |
-| ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos | [2406.19392](http://arxiv.org/abs/2406.19392) | https://github.com/rextime/rextime | 2024-06-27 |
 | Muffin or Chihuahua? Challenging Multimodal Large Language Models with   Multipanel VQA | [2401.15847](http://arxiv.org/abs/2401.15847) | None | 2024-06-27 |
 | Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens   Grounding | [2406.19263](http://arxiv.org/abs/2406.19263) | https://github.com/eric-ai-lab/Screen-Point-and-Read | 2024-06-27 |
 | Revealing Fine-Grained Values and Opinions in Large Language Models | [2406.19238](http://arxiv.org/abs/2406.19238) | https://github.com/copenlu/llm-pct-tropes | 2024-06-27 |

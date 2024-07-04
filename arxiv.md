@@ -1,4 +1,4 @@
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,6 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Reasoning Runtime Behavior of a Program with LLM: How Far Are We? | [2403.16437](http://arxiv.org/abs/2403.16437) | None | 2024-07-03 |
 | MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for   Iterative Binary Malware Summarization | [2406.18379](http://arxiv.org/abs/2406.18379) | None | 2024-06-26 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-18 |
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2024-06-11 |
@@ -34,7 +35,6 @@
 | Testing the Effect of Code Documentation on Large Language Model Code   Understanding | [2404.03114](http://arxiv.org/abs/2404.03114) | None | 2024-04-03 |
 | A Survey of using Large Language Models for Generating Infrastructure as   Code | [2404.00227](http://arxiv.org/abs/2404.00227) | None | 2024-03-30 |
 | HiRoPE: Length Extrapolation for Code Models | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-03-28 |
-| Evaluating Large Language Models with Runtime Behavior of Program   Execution | [2403.16437](http://arxiv.org/abs/2403.16437) | None | 2024-03-25 |
 | Read between the lines -- Functionality Extraction From READMEs | [2403.10205](http://arxiv.org/abs/2403.10205) | None | 2024-03-15 |
 | RepoAgent: An LLM-Powered Open-Source Framework for Repository-level   Code Documentation Generation | [2402.16667](http://arxiv.org/abs/2402.16667) | https://github.com/openbmb/repoagent | 2024-02-26 |
 | Automated Smart Contract Summarization via LLMs | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-02-21 |
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-07-03 |
 | Assessing the Code Clone Detection Capability of Large Language Models | [2407.02402](http://arxiv.org/abs/2407.02402) | None | 2024-07-02 |
 | Is Your AI-Generated Code Really Secure? Evaluating Large Language   Models on Secure Code Generation with CodeSecEval | [2407.02395](http://arxiv.org/abs/2407.02395) | None | 2024-07-02 |
 | Generative Monoculture in Large Language Models | [2407.02209](http://arxiv.org/abs/2407.02209) | None | 2024-07-02 |
@@ -84,7 +85,6 @@
 | OMPGPT: A Generative Pre-trained Transformer Model for OpenMP | [2401.16445](http://arxiv.org/abs/2401.16445) | None | 2024-06-22 |
 | DistiLRR: Transferring Code Repair for Low-Resource Programming   Languages | [2406.14867](http://arxiv.org/abs/2406.14867) | https://github.com/kylewong288/distilrr | 2024-06-21 |
 | Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks | [2406.15325](http://arxiv.org/abs/2406.15325) | https://github.com/hamminghq/bug-in-the-code-stack | 2024-06-21 |
-| FVEL: Interactive Formal Verification Environment with Large Language   Models via Theorem Proving | [2406.14408](http://arxiv.org/abs/2406.14408) | None | 2024-06-21 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -107,20 +107,20 @@
 | A Systematic Literature Review on Large Language Models for Automated   Program Repair | [2405.01466](http://arxiv.org/abs/2405.01466) | https://github.com/isenglab/awesomellm4apr | 2024-05-12 |
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-05-11 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
-| Automated Program Repair: Emerging trends pose and expose problems for   benchmarks | [2405.05455](http://arxiv.org/abs/2405.05455) | None | 2024-05-08 |
-| Benchmarking Educational Program Repair | [2405.05347](http://arxiv.org/abs/2405.05347) | https://github.com/koutchemecharles/gaied_nips23 | 2024-05-08 |
 | NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair | [2405.04994](http://arxiv.org/abs/2405.04994) | None | 2024-05-08 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
-| Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
-| NExT: Teaching Large Language Models to Reason about Code Execution | [2404.14662](http://arxiv.org/abs/2404.14662) | None | 2024-04-23 |
-| Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-22 |
-| How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-04-19 |
-| CigaR: Cost-efficient Program Repair with LLMs | [2402.06598](http://arxiv.org/abs/2402.06598) | https://github.com/assert-kth/cigar | 2024-04-18 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| An Empirical Evaluation of Pre-trained Large Language Models for   Repairing Declarative Formal Specifications | [2404.11050](http://arxiv.org/abs/2404.11050) | https://github.com/mohannadcse/alloyspecrepair | 2024-04-17 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
-| Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
 | LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities   (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2024-04-13 |
+| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-04-09 |
+| Large Language Model for Vulnerability Detection and Repair: Literature   Review and the Road Ahead | [2404.02525](http://arxiv.org/abs/2404.02525) | None | 2024-04-06 |
+| CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |
+| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-03-28 |
+| Untangling Knots: Leveraging LLM for Error Resolution in Computational   Notebooks | [2405.01559](http://arxiv.org/abs/2405.01559) | None | 2024-03-26 |
+| ChatDBG: An AI-Powered Debugging Assistant | [2403.16354](http://arxiv.org/abs/2403.16354) | https://github.com/plasma-umass/chatdbg | 2024-03-25 |
+| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
+| A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
+| Multi-LLM Collaboration + Data-Centric Innovation = 2x Better   Vulnerability Repair | [2401.15459](http://arxiv.org/abs/2401.15459) | None | 2024-03-12 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

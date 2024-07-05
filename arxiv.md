@@ -1,4 +1,4 @@
-## Updated on 2024.07.04
+## Updated on 2024.07.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,7 +189,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Universal Length Generalization with Turing Programs | [2407.03310](http://arxiv.org/abs/2407.03310) | None | 2024-07-03 |
-| Temperature-scaling surprisal estimates improve fit to human reading   times -- but does it do so for the "right reasons"? | [2311.09325](http://arxiv.org/abs/2311.09325) | https://github.com/tongliu-github/temperaturescaling4rts | 2024-07-03 |
+| Temperature-scaling surprisal estimates improve fit to human reading   times -- but does it do so for the "right reasons"? | [2311.09325](http://arxiv.org/abs/2311.09325) | https://github.com/TongLiu-github/TemperatureSaling4RTs | 2024-07-03 |
 | TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts | [2407.03203](http://arxiv.org/abs/2407.03203) | https://github.com/RickySkywalker/TheoremLlama | 2024-07-03 |
 | Enhancing Translation Accuracy of Large Language Models through   Continual Pre-Training on Parallel Data | [2407.03145](http://arxiv.org/abs/2407.03145) | None | 2024-07-03 |
 | Vision-driven Automated Mobile GUI Testing via Multimodal Large Language   Model | [2407.03037](http://arxiv.org/abs/2407.03037) | None | 2024-07-03 |

@@ -1,4 +1,4 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is Your AI-Generated Code Really Safe? Evaluating Large Language Models   on Secure Code Generation with CodeSecEval | [2407.02395](http://arxiv.org/abs/2407.02395) | None | 2024-07-04 |
 | TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts | [2407.03203](http://arxiv.org/abs/2407.03203) | https://github.com/RickySkywalker/TheoremLlama | 2024-07-03 |
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2024-07-03 |
 | Let the Code LLM Edit Itself When You Edit the Code | [2407.03157](http://arxiv.org/abs/2407.03157) | None | 2024-07-03 |
@@ -62,7 +63,6 @@
 | A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized   Retrieval Augmentation | [2407.02742](http://arxiv.org/abs/2407.02742) | None | 2024-07-03 |
 | How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-07-03 |
 | Assessing the Code Clone Detection Capability of Large Language Models | [2407.02402](http://arxiv.org/abs/2407.02402) | None | 2024-07-02 |
-| Is Your AI-Generated Code Really Secure? Evaluating Large Language   Models on Secure Code Generation with CodeSecEval | [2407.02395](http://arxiv.org/abs/2407.02395) | None | 2024-07-02 |
 | Generative Monoculture in Large Language Models | [2407.02209](http://arxiv.org/abs/2407.02209) | https://github.com/GeMoLLM/GeMO | 2024-07-02 |
 | Enhancing Large Language Models in Coding Through Multi-Perspective   Self-Consistency | [2309.17272](http://arxiv.org/abs/2309.17272) | https://github.com/skpig/MPSC | 2024-07-02 |
 | DiscoveryBench: Towards Data-Driven Discovery with Large Language Models | [2407.01725](http://arxiv.org/abs/2407.01725) | https://github.com/allenai/discoverybench | 2024-07-01 |
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-07-04 |
 | A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault   Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2024-07-02 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | A Unified Debugging Approach via LLM-Based Multi-Agent Synergy | [2404.17153](http://arxiv.org/abs/2404.17153) | None | 2024-04-26 |
@@ -137,7 +138,6 @@
 | Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
 | AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2024-03-25 |
 | Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
-| Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-03-07 |
 | Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
 | Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
 | ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
@@ -188,6 +188,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Embodied AI in Mobile Robots: Coverage Path Planning with Large Language   Models | [2407.02220](http://arxiv.org/abs/2407.02220) | None | 2024-07-04 |
 | Universal Length Generalization with Turing Programs | [2407.03310](http://arxiv.org/abs/2407.03310) | None | 2024-07-03 |
 | Temperature-scaling surprisal estimates improve fit to human reading   times -- but does it do so for the "right reasons"? | [2311.09325](http://arxiv.org/abs/2311.09325) | https://github.com/TongLiu-github/TemperatureSaling4RTs | 2024-07-03 |
 | TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts | [2407.03203](http://arxiv.org/abs/2407.03203) | https://github.com/RickySkywalker/TheoremLlama | 2024-07-03 |
@@ -206,7 +207,6 @@
 | ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos | [2406.19392](http://arxiv.org/abs/2406.19392) | https://github.com/rextime/rextime | 2024-07-02 |
 | Evaluating the Ability of LLMs to Solve Semantics-Aware Process Mining   Tasks | [2407.02310](http://arxiv.org/abs/2407.02310) | https://github.com/a-rebmann/llms4pm | 2024-07-02 |
 | Towards a Holistic Framework for Multimodal Large Language Models in   Three-dimensional Brain CT Report Generation | [2407.02235](http://arxiv.org/abs/2407.02235) | https://github.com/charlierabea/FORTE | 2024-07-02 |
-| Embodied AI in Mobile Robots: Coverage Path Planning with Large Language   Models | [2407.02220](http://arxiv.org/abs/2407.02220) | None | 2024-07-02 |
 | GPTCast: a weather language model for precipitation nowcasting | [2407.02089](http://arxiv.org/abs/2407.02089) | None | 2024-07-02 |
 | LexMatcher: Dictionary-centric Data Collection for LLM-based Machine   Translation | [2406.01441](http://arxiv.org/abs/2406.01441) | https://github.com/aries-lm/lexmatcher-mt | 2024-07-02 |
 | Show Less, Instruct More: Enriching Prompts with Definitions and   Guidelines for Zero-Shot NER | [2407.01272](http://arxiv.org/abs/2407.01272) | None | 2024-07-02 |

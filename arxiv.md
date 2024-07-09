@@ -1,4 +1,4 @@
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,12 +90,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-07-08 |
 | Automated C/C++ Program Repair for High-Level Synthesis via Large   Language Models | [2407.03889](http://arxiv.org/abs/2407.03889) | None | 2024-07-04 |
 | Let the Code LLM Edit Itself When You Edit the Code | [2407.03157](http://arxiv.org/abs/2407.03157) | None | 2024-07-03 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-07-01 |
 | A New Era in Software Security: Towards Self-Healing Software via Large   Language Models and Formal Verification | [2305.14752](http://arxiv.org/abs/2305.14752) | https://github.com/esbmc/esbmc | 2024-06-27 |
 | Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-06-25 |
-| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
 | VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
 | A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on   Automated Program Repair | [2406.05639](http://arxiv.org/abs/2406.05639) | None | 2024-06-09 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-06-07 |
@@ -253,9 +253,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-07-08 |
 | Exploring the Capabilities of LLMs for Code Change Related Tasks | [2407.02824](http://arxiv.org/abs/2407.02824) | None | 2024-07-03 |
 | CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | https://github.com/code4agent/codeagent | 2024-06-28 |
-| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-06-20 |
 | Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-06-17 |
 | Security Code Review by Large Language Models | [2401.16310](http://arxiv.org/abs/2401.16310) | None | 2024-06-08 |
 | AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight   Tuning on Multi-source Data | [2405.19265](http://arxiv.org/abs/2405.19265) | https://github.com/internlm/alchemistcoder | 2024-05-29 |

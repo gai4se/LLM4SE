@@ -18,6 +18,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Source Code Summarization in the Era of Large Language Models | [2407.07959](http://arxiv.org/abs/2407.07959) | https://github.com/wssun/llm4codesummarization | 2024-07-09 |
 | InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with   Inverse-Instruct | [2407.05700](http://arxiv.org/abs/2407.05700) | https://github.com/wyt2000/InverseCoder | 2024-07-08 |
 | An Empirical Study on Capability of Large Language Models in   Understanding Code Semantics | [2407.03611](http://arxiv.org/abs/2407.03611) | None | 2024-07-04 |
 | On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/zhimin-z/Foundation-Model-Leaderboard-Survey | 2024-07-04 |
@@ -48,7 +49,6 @@
 | Automatic Semantic Augmentation of Language Model Prompts (for Code   Summarization) | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2024-01-11 |
 | Mutation-based Consistency Testing for Evaluating the Code Understanding   Capability of LLMs | [2401.05940](http://arxiv.org/abs/2401.05940) | None | 2024-01-11 |
 | Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
-| A Prompt Learning Framework for Source Code Summarization | [2312.16066](http://arxiv.org/abs/2312.16066) | https://github.com/wssun/promptcs | 2023-12-26 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Cloud Atlas: Efficient Fault Localization for Cloud Systems using   Language Models and Causal Insight | [2407.08694](http://arxiv.org/abs/2407.08694) | None | 2024-07-11 |
 | Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-07-04 |
 | A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault   Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2024-07-02 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
@@ -188,8 +189,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Leveraging Large Language Models for Scalable Vector Graphics-Driven   Image Understanding | [2306.06094](http://arxiv.org/abs/2306.06094) | None | 2024-07-11 |
+| Is Your Model Really A Good Math Reasoner? Evaluating Mathematical   Reasoning with Checklist | [2407.08733](http://arxiv.org/abs/2407.08733) | None | 2024-07-11 |
+| A Taxonomy for Data Contamination in Large Language Models | [2407.08716](http://arxiv.org/abs/2407.08716) | None | 2024-07-11 |
+| Is It Good Data for Multilingual Instruction Tuning or Just Bad   Multilingual Evaluation for Large Language Models? | [2406.12822](http://arxiv.org/abs/2406.12822) | None | 2024-07-11 |
 | On Leakage of Code Generation Evaluation Datasets | [2407.07565](http://arxiv.org/abs/2407.07565) | None | 2024-07-11 |
+| Are Large Language Models Really Bias-Free? Jailbreak Prompts for   Assessing Adversarial Robustness to Bias Elicitation | [2407.08441](http://arxiv.org/abs/2407.08441) | None | 2024-07-11 |
+| SpikeGPT: Generative Pre-trained Language Model with Spiking Neural   Networks | [2302.13939](http://arxiv.org/abs/2302.13939) | https://github.com/ridgerchu/spikegpt | 2024-07-11 |
+| Virtual Context: Enhancing Jailbreak Attacks with Special Token   Injection | [2406.19845](http://arxiv.org/abs/2406.19845) | None | 2024-07-11 |
 | A Comprehensive Study of Multimodal Large Language Models for Image   Quality Assessment | [2403.10854](http://arxiv.org/abs/2403.10854) | https://github.com/tianhewu/mllms-for-iqa | 2024-07-11 |
+| From Supervised to Generative: A Novel Paradigm for Tabular Deep   Learning with Large Language Models | [2310.07338](http://arxiv.org/abs/2310.07338) | None | 2024-07-11 |
+| SpecTra: Enhancing the Code Translation Ability of Language Models by   Generating Multi-Modal Specifications | [2405.18574](http://arxiv.org/abs/2405.18574) | None | 2024-07-11 |
+| A Long Way to Go: Investigating Length Correlations in RLHF | [2310.03716](http://arxiv.org/abs/2310.03716) | https://github.com/prasanns/rlhf-length-biases | 2024-07-10 |
 | Training on the Test Task Confounds Evaluation and Emergence | [2407.07890](http://arxiv.org/abs/2407.07890) | https://github.com/socialfoundations/training-on-the-test-task | 2024-07-10 |
 | FACTS About Building Retrieval Augmented Generation-based Chatbots | [2407.07858](http://arxiv.org/abs/2407.07858) | None | 2024-07-10 |
 | Evaluating the Adversarial Robustness of Retrieval-Based In-Context   Learning for Large Language Models | [2405.15984](http://arxiv.org/abs/2405.15984) | None | 2024-07-10 |
@@ -208,16 +219,6 @@
 | Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large   Language Models | [2406.03882](http://arxiv.org/abs/2406.03882) | None | 2024-07-09 |
 | ICLGuard: Controlling In-Context Learning Behavior for Applicability   Authorization | [2407.06955](http://arxiv.org/abs/2407.06955) | None | 2024-07-09 |
 | Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems | [2407.03956](http://arxiv.org/abs/2407.03956) | None | 2024-07-09 |
-| Measuring Sustainability Intention of ESG Fund Disclosure using Few-Shot   Learning | [2407.06893](http://arxiv.org/abs/2407.06893) | None | 2024-07-09 |
-| Are Large Language Models Aligned with People's Social Intuitions for   Human-Robot Interactions? | [2403.05701](http://arxiv.org/abs/2403.05701) | https://github.com/lwachowiak/llms-for-social-robotics | 2024-07-09 |
-| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | https://github.com/bluezeros/automatic_interactive_evaluation | 2024-07-09 |
-| Testing AI on language comprehension tasks reveals insensitivity to   underlying meaning | [2302.12313](http://arxiv.org/abs/2302.12313) | None | 2024-07-09 |
-| OffsetBias: Leveraging Debiased Data for Tuning Evaluators | [2407.06551](http://arxiv.org/abs/2407.06551) | None | 2024-07-09 |
-| Language Models can Evaluate Themselves via Probability Discrepancy | [2405.10516](http://arxiv.org/abs/2405.10516) | https://github.com/xiatingyu/probdiff | 2024-07-09 |
-| Machine Psychology: Investigating Emergent Capabilities and Behavior in   Large Language Models Using Psychological Methods | [2303.13988](http://arxiv.org/abs/2303.13988) | None | 2024-07-08 |
-| On Speeding Up Language Model Evaluation | [2407.06172](http://arxiv.org/abs/2407.06172) | None | 2024-07-08 |
-| iLLM-TSC: Integration reinforcement learning and large language model   for traffic signal control policy improvement | [2407.06025](http://arxiv.org/abs/2407.06025) | https://github.com/traffic-alpha/illm-tsc | 2024-07-08 |
-| ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | None | 2024-07-08 |
 | TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval | [2407.01183](http://arxiv.org/abs/2407.01183) | None | 2024-07-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

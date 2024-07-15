@@ -1,4 +1,4 @@
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,6 +189,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval | [2407.01183](http://arxiv.org/abs/2407.01183) | None | 2024-07-12 |
 | Leveraging Large Language Models for Scalable Vector Graphics-Driven   Image Understanding | [2306.06094](http://arxiv.org/abs/2306.06094) | None | 2024-07-11 |
 | Is Your Model Really A Good Math Reasoner? Evaluating Mathematical   Reasoning with Checklist | [2407.08733](http://arxiv.org/abs/2407.08733) | None | 2024-07-11 |
 | A Taxonomy for Data Contamination in Large Language Models | [2407.08716](http://arxiv.org/abs/2407.08716) | None | 2024-07-11 |
@@ -219,7 +220,6 @@
 | Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large   Language Models | [2406.03882](http://arxiv.org/abs/2406.03882) | None | 2024-07-09 |
 | ICLGuard: Controlling In-Context Learning Behavior for Applicability   Authorization | [2407.06955](http://arxiv.org/abs/2407.06955) | None | 2024-07-09 |
 | Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems | [2407.03956](http://arxiv.org/abs/2407.03956) | None | 2024-07-09 |
-| TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval | [2407.01183](http://arxiv.org/abs/2407.01183) | None | 2024-07-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

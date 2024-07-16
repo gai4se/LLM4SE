@@ -54,8 +54,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Foundational Autoraters: Taming Large Language Models for Better   Automatic Evaluation | [2407.10817](http://arxiv.org/abs/2407.10817) | None | 2024-07-15 |
 | TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-15 |
+| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-14 |
 | ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
+| Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-13 |
 | On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/sailresearch/awesome-foundation-model-leaderboards | 2024-07-13 |
 | TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models | [2407.09424](http://arxiv.org/abs/2407.09424) | None | 2024-07-12 |
 | BISCUIT: Scaffolding LLM-Generated Code with Ephemeral UIs in   Computational Notebooks | [2404.07387](http://arxiv.org/abs/2404.07387) | None | 2024-07-12 |
@@ -82,9 +85,6 @@
 | ChatGPT Code Detection: Techniques for Uncovering the Source of Code | [2405.15512](http://arxiv.org/abs/2405.15512) | https://github.com/MarcOedingen/ChatGPT-Code-Detection | 2024-07-03 |
 | DocCGen: Document-based Controlled Code Generation | [2406.11925](http://arxiv.org/abs/2406.11925) | None | 2024-07-03 |
 | A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized   Retrieval Augmentation | [2407.02742](http://arxiv.org/abs/2407.02742) | None | 2024-07-03 |
-| How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-07-03 |
-| Assessing the Code Clone Detection Capability of Large Language Models | [2407.02402](http://arxiv.org/abs/2407.02402) | None | 2024-07-02 |
-| Generative Monoculture in Large Language Models | [2407.02209](http://arxiv.org/abs/2407.02209) | https://github.com/GeMoLLM/GeMO | 2024-07-02 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -190,7 +190,20 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Large Language Models as Biomedical Hypothesis Generators: A   Comprehensive Evaluation | [2407.08940](http://arxiv.org/abs/2407.08940) | None | 2024-07-15 |
+| FinDKG: Dynamic Knowledge Graphs with Large Language Models for   Detecting Global Trends in Financial Markets | [2407.10909](http://arxiv.org/abs/2407.10909) | None | 2024-07-15 |
+| MetaLLM: A High-performant and Cost-efficient Dynamic Framework for   Wrapping LLMs | [2407.10834](http://arxiv.org/abs/2407.10834) | None | 2024-07-15 |
+| Sibyl: Simple yet Effective Agent Framework for Complex Real-world   Reasoning | [2407.10718](http://arxiv.org/abs/2407.10718) | https://github.com/ag2s1/sibyl-system | 2024-07-15 |
+| Arena Learning: Build Data Flywheel for LLMs Post-training via Simulated   Chatbot Arena | [2407.10627](http://arxiv.org/abs/2407.10627) | None | 2024-07-15 |
+| Large Language Models as Biomedical Hypothesis Generators: A   Comprehensive Evaluation | [2407.08940](http://arxiv.org/abs/2407.08940) | https://github.com/tsinghuac3i/llm4biohypogen | 2024-07-15 |
+| Evaluating Language Model Context Windows: A "Working Memory" Test and   Inference-time Correction | [2407.03651](http://arxiv.org/abs/2407.03651) | https://github.com/snorkel-ai/long-context-eval | 2024-07-14 |
+| AI Detectors are Poor Western Blot Classifiers: A Study of Accuracy and   Predictive Values | [2407.10308](http://arxiv.org/abs/2407.10308) | None | 2024-07-14 |
+| Follow the Rules: Reasoning for Video Anomaly Detection with Large   Language Models | [2407.10299](http://arxiv.org/abs/2407.10299) | None | 2024-07-14 |
+| KAT: Dependency-aware Automated API Testing with Large Language Models | [2407.10227](http://arxiv.org/abs/2407.10227) | None | 2024-07-14 |
+| LLM-Assisted Multi-Teacher Continual Learning for Visual Question   Answering in Robotic Surgery | [2402.16664](http://arxiv.org/abs/2402.16664) | None | 2024-07-14 |
+| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-14 |
+| Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT   and Seq2Seq Models for Free-Text Generation | [2407.10091](http://arxiv.org/abs/2407.10091) | None | 2024-07-14 |
+| ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
+| Vamos: Versatile Action Models for Video Understanding | [2311.13627](http://arxiv.org/abs/2311.13627) | https://github.com/brown-palm/Vamos | 2024-07-13 |
 | TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval | [2407.01183](http://arxiv.org/abs/2407.01183) | None | 2024-07-12 |
 | Needle in the Haystack for Memory Based Large Language Models | [2407.01437](http://arxiv.org/abs/2407.01437) | None | 2024-07-12 |
 | Is Contrasting All You Need? Contrastive Learning for the Detection and   Attribution of AI-generated Text | [2407.09364](http://arxiv.org/abs/2407.09364) | None | 2024-07-12 |
@@ -208,19 +221,6 @@
 | On Leakage of Code Generation Evaluation Datasets | [2407.07565](http://arxiv.org/abs/2407.07565) | None | 2024-07-11 |
 | Are Large Language Models Really Bias-Free? Jailbreak Prompts for   Assessing Adversarial Robustness to Bias Elicitation | [2407.08441](http://arxiv.org/abs/2407.08441) | None | 2024-07-11 |
 | SpikeGPT: Generative Pre-trained Language Model with Spiking Neural   Networks | [2302.13939](http://arxiv.org/abs/2302.13939) | https://github.com/ridgerchu/spikegpt | 2024-07-11 |
-| Virtual Context: Enhancing Jailbreak Attacks with Special Token   Injection | [2406.19845](http://arxiv.org/abs/2406.19845) | None | 2024-07-11 |
-| A Comprehensive Study of Multimodal Large Language Models for Image   Quality Assessment | [2403.10854](http://arxiv.org/abs/2403.10854) | https://github.com/tianhewu/mllms-for-iqa | 2024-07-11 |
-| From Supervised to Generative: A Novel Paradigm for Tabular Deep   Learning with Large Language Models | [2310.07338](http://arxiv.org/abs/2310.07338) | None | 2024-07-11 |
-| SpecTra: Enhancing the Code Translation Ability of Language Models by   Generating Multi-Modal Specifications | [2405.18574](http://arxiv.org/abs/2405.18574) | None | 2024-07-11 |
-| A Long Way to Go: Investigating Length Correlations in RLHF | [2310.03716](http://arxiv.org/abs/2310.03716) | https://github.com/prasanns/rlhf-length-biases | 2024-07-10 |
-| Training on the Test Task Confounds Evaluation and Emergence | [2407.07890](http://arxiv.org/abs/2407.07890) | https://github.com/socialfoundations/training-on-the-test-task | 2024-07-10 |
-| FACTS About Building Retrieval Augmented Generation-based Chatbots | [2407.07858](http://arxiv.org/abs/2407.07858) | None | 2024-07-10 |
-| Evaluating the Adversarial Robustness of Retrieval-Based In-Context   Learning for Large Language Models | [2405.15984](http://arxiv.org/abs/2405.15984) | None | 2024-07-10 |
-| Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-07-10 |
-| The Ethics of Interaction: Mitigating Security Threats in LLMs | [2401.12273](http://arxiv.org/abs/2401.12273) | None | 2024-07-10 |
-| Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based   Speech Recognition | [2407.04675](http://arxiv.org/abs/2407.04675) | None | 2024-07-10 |
-| Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society   of LLM Agents | [2404.16698](http://arxiv.org/abs/2404.16698) | https://github.com/giorgiopiatti/govsim | 2024-07-10 |
-| RAG vs. Long Context: Examining Frontier Large Language Models for   Environmental Review Document Comprehension | [2407.07321](http://arxiv.org/abs/2407.07321) | None | 2024-07-10 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -275,4 +275,12 @@
 | Improving Automated Code Reviews: Learning from Experience | [2402.03777](http://arxiv.org/abs/2402.03777) | None | 2024-02-06 |
 | CodePori: Large Scale Model for Autonomous Software Development by Using   Multi-Agents | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-02-02 |
 | The role of library versions in Developer-ChatGPT conversations | [2401.16340](http://arxiv.org/abs/2401.16340) | None | 2024-01-29 |
+| Code Review Automation: Strengths and Weaknesses of the State of the Art | [2401.05136](http://arxiv.org/abs/2401.05136) | https://github.com/codereviewautomationsota/code_review_automation_sota | 2024-01-10 |
+| The Right Prompts for the Job: Repair Code-Review Defects with Large   Language Model | [2312.17485](http://arxiv.org/abs/2312.17485) | None | 2023-12-29 |
+| Explaining Explanation: An Empirical Study on Explanation in Code   Reviews | [2311.09020](http://arxiv.org/abs/2311.09020) | None | 2023-11-15 |
+| ChatGPT for Vulnerability Detection, Classification, and Repair: How Far   Are We? | [2310.09810](http://arxiv.org/abs/2310.09810) | https://github.com/awsm-research/chatgpt4vul | 2023-10-15 |
+| LLaMA-Reviewer: Advancing Code Review Automation with Large Language   Models through Parameter-Efficient Fine-Tuning | [2308.11148](http://arxiv.org/abs/2308.11148) | None | 2023-09-05 |
+| Enhancing Automated Program Repair through Fine-tuning and Prompt   Engineering | [2304.07840](http://arxiv.org/abs/2304.07840) | None | 2023-07-21 |
+| ChatGPT: A Study on its Utility for Ubiquitous Software Engineering   Tasks | [2305.16837](http://arxiv.org/abs/2305.16837) | None | 2023-05-26 |
+| CoditT5: Pretraining for Source Code and Natural Language Editing | [2208.05446](http://arxiv.org/abs/2208.05446) | https://github.com/engineeringsoftware/coditt5 | 2022-09-14 |
 

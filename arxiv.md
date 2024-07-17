@@ -1,4 +1,4 @@
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -190,9 +190,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Sibyl: Simple yet Effective Agent Framework for Complex Real-world   Reasoning | [2407.10718](http://arxiv.org/abs/2407.10718) | https://github.com/ag2s1/sibyl-system | 2024-07-16 |
 | FinDKG: Dynamic Knowledge Graphs with Large Language Models for   Detecting Global Trends in Financial Markets | [2407.10909](http://arxiv.org/abs/2407.10909) | None | 2024-07-15 |
 | MetaLLM: A High-performant and Cost-efficient Dynamic Framework for   Wrapping LLMs | [2407.10834](http://arxiv.org/abs/2407.10834) | None | 2024-07-15 |
-| Sibyl: Simple yet Effective Agent Framework for Complex Real-world   Reasoning | [2407.10718](http://arxiv.org/abs/2407.10718) | https://github.com/ag2s1/sibyl-system | 2024-07-15 |
 | Arena Learning: Build Data Flywheel for LLMs Post-training via Simulated   Chatbot Arena | [2407.10627](http://arxiv.org/abs/2407.10627) | None | 2024-07-15 |
 | Large Language Models as Biomedical Hypothesis Generators: A   Comprehensive Evaluation | [2407.08940](http://arxiv.org/abs/2407.08940) | https://github.com/tsinghuac3i/llm4biohypogen | 2024-07-15 |
 | Evaluating Language Model Context Windows: A "Working Memory" Test and   Inference-time Correction | [2407.03651](http://arxiv.org/abs/2407.03651) | https://github.com/snorkel-ai/long-context-eval | 2024-07-14 |

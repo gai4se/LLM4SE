@@ -1,4 +1,4 @@
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,13 +54,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
+| Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-17 |
 | Beyond Correctness: Benchmarking Multi-dimensional Code Generation for   Large Language Models | [2407.11470](http://arxiv.org/abs/2407.11470) | https://github.com/jszheng21/race | 2024-07-16 |
 | Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | None | 2024-07-16 |
 | Foundational Autoraters: Taming Large Language Models for Better   Automatic Evaluation | [2407.10817](http://arxiv.org/abs/2407.10817) | None | 2024-07-15 |
 | TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-15 |
-| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-14 |
 | ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
-| Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-13 |
 | On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/sailresearch/awesome-foundation-model-leaderboards | 2024-07-13 |
 | TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models | [2407.09424](http://arxiv.org/abs/2407.09424) | None | 2024-07-12 |
 | BISCUIT: Scaffolding LLM-Generated Code with Ephemeral UIs in   Computational Notebooks | [2404.07387](http://arxiv.org/abs/2404.07387) | None | 2024-07-12 |
@@ -190,6 +190,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
 | NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context   Window? | [2407.11963](http://arxiv.org/abs/2407.11963) | https://github.com/open-compass/opencompass | 2024-07-16 |
 | The Importance of Online Data: Understanding Preference Fine-tuning via   Coverage | [2406.01462](http://arxiv.org/abs/2406.01462) | None | 2024-07-16 |
 | Towards a Benchmark for Causal Business Process Reasoning with LLMs | [2406.05506](http://arxiv.org/abs/2406.05506) | https://github.com/IBM/SAX/tree/main/NLP4BPM2024 | 2024-07-16 |
@@ -209,7 +210,6 @@
 | Follow the Rules: Reasoning for Video Anomaly Detection with Large   Language Models | [2407.10299](http://arxiv.org/abs/2407.10299) | None | 2024-07-14 |
 | KAT: Dependency-aware Automated API Testing with Large Language Models | [2407.10227](http://arxiv.org/abs/2407.10227) | None | 2024-07-14 |
 | LLM-Assisted Multi-Teacher Continual Learning for Visual Question   Answering in Robotic Surgery | [2402.16664](http://arxiv.org/abs/2402.16664) | None | 2024-07-14 |
-| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-14 |
 | Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT   and Seq2Seq Models for Free-Text Generation | [2407.10091](http://arxiv.org/abs/2407.10091) | None | 2024-07-14 |
 | ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
 | Vamos: Versatile Action Models for Video Understanding | [2311.13627](http://arxiv.org/abs/2311.13627) | https://github.com/brown-palm/Vamos | 2024-07-13 |

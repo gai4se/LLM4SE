@@ -54,8 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
 | Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-17 |
+| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
+| VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
+| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-16 |
 | Beyond Correctness: Benchmarking Multi-dimensional Code Generation for   Large Language Models | [2407.11470](http://arxiv.org/abs/2407.11470) | https://github.com/jszheng21/race | 2024-07-16 |
 | Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | None | 2024-07-16 |
 | Foundational Autoraters: Taming Large Language Models for Better   Automatic Evaluation | [2407.10817](http://arxiv.org/abs/2407.10817) | None | 2024-07-15 |
@@ -83,8 +85,6 @@
 | Scaling Data-Driven Building Energy Modelling using Large Language   Models | [2407.03469](http://arxiv.org/abs/2407.03469) | None | 2024-07-03 |
 | TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts | [2407.03203](http://arxiv.org/abs/2407.03203) | https://github.com/RickySkywalker/TheoremLlama | 2024-07-03 |
 | Who Wrote this Code? Watermarking for Code Generation | [2305.15060](http://arxiv.org/abs/2305.15060) | https://github.com/hongcheki/sweet-watermark | 2024-07-03 |
-| Let the Code LLM Edit Itself When You Edit the Code | [2407.03157](http://arxiv.org/abs/2407.03157) | None | 2024-07-03 |
-| ChatGPT Code Detection: Techniques for Uncovering the Source of Code | [2405.15512](http://arxiv.org/abs/2405.15512) | https://github.com/MarcOedingen/ChatGPT-Code-Detection | 2024-07-03 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-16 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
 | Cloud Atlas: Efficient Fault Localization for Cloud Systems using   Language Models and Causal Insight | [2407.08694](http://arxiv.org/abs/2407.08694) | None | 2024-07-11 |
 | Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-07-04 |
@@ -190,7 +191,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | None | 2024-07-17 |
+| Self-play with Execution Feedback: Improving Instruction-following   Capabilities of Large Language Models | [2406.13542](http://arxiv.org/abs/2406.13542) | https://github.com/QwenLM/AutoIF | 2024-07-17 |
+| Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment | [2312.03766](http://arxiv.org/abs/2312.03766) | https://github.com/mismatchquest/mismatchquest | 2024-07-17 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
+| MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and   Large Language Models | [2407.12309](http://arxiv.org/abs/2407.12309) | None | 2024-07-17 |
+| VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
+| Towards Dataset-scale and Feature-oriented Evaluation of Text   Summarization in Large Language Model Prompts | [2407.12192](http://arxiv.org/abs/2407.12192) | None | 2024-07-16 |
+| LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text   Translation | [2407.12126](http://arxiv.org/abs/2407.12126) | None | 2024-07-16 |
+| Large Language Models for Relevance Judgment in Product Search | [2406.00247](http://arxiv.org/abs/2406.00247) | None | 2024-07-16 |
 | NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context   Window? | [2407.11963](http://arxiv.org/abs/2407.11963) | https://github.com/open-compass/opencompass | 2024-07-16 |
 | The Importance of Online Data: Understanding Preference Fine-tuning via   Coverage | [2406.01462](http://arxiv.org/abs/2406.01462) | None | 2024-07-16 |
 | Towards a Benchmark for Causal Business Process Reasoning with LLMs | [2406.05506](http://arxiv.org/abs/2406.05506) | https://github.com/IBM/SAX/tree/main/NLP4BPM2024 | 2024-07-16 |
@@ -212,15 +221,7 @@
 | LLM-Assisted Multi-Teacher Continual Learning for Visual Question   Answering in Robotic Surgery | [2402.16664](http://arxiv.org/abs/2402.16664) | None | 2024-07-14 |
 | Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT   and Seq2Seq Models for Free-Text Generation | [2407.10091](http://arxiv.org/abs/2407.10091) | None | 2024-07-14 |
 | ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
-| Vamos: Versatile Action Models for Video Understanding | [2311.13627](http://arxiv.org/abs/2311.13627) | https://github.com/brown-palm/Vamos | 2024-07-13 |
 | TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval | [2407.01183](http://arxiv.org/abs/2407.01183) | None | 2024-07-12 |
-| Needle in the Haystack for Memory Based Large Language Models | [2407.01437](http://arxiv.org/abs/2407.01437) | None | 2024-07-12 |
-| Is Contrasting All You Need? Contrastive Learning for the Detection and   Attribution of AI-generated Text | [2407.09364](http://arxiv.org/abs/2407.09364) | None | 2024-07-12 |
-| ShapeLLM: Universal 3D Object Understanding for Embodied Interaction | [2402.17766](http://arxiv.org/abs/2402.17766) | https://github.com/qizekun/ShapeLLM | 2024-07-12 |
-| Lomics: Generation of Pathways and Gene Sets using Large Language Models   for Transcriptomic Analysis | [2407.09089](http://arxiv.org/abs/2407.09089) | None | 2024-07-12 |
-| Robustness of LLMs to Perturbations in Text | [2407.08989](http://arxiv.org/abs/2407.08989) | None | 2024-07-12 |
-| Raising the Bar: Investigating the Values of Large Language Models via   Generative Evolving Testing | [2406.14230](http://arxiv.org/abs/2406.14230) | None | 2024-07-12 |
-| Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

@@ -1,4 +1,4 @@
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Trust No Bot: Discovering Personal Disclosures in Human-LLM   Conversations in the Wild | [2407.11438](http://arxiv.org/abs/2407.11438) | None | 2024-07-16 |
+| Trust No Bot: Discovering Personal Disclosures in Human-LLM   Conversations in the Wild | [2407.11438](http://arxiv.org/abs/2407.11438) | https://github.com/mireshghallah/ChatGPT-personal-disclosures | 2024-07-16 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-07-08 |
 | Automated C/C++ Program Repair for High-Level Synthesis via Large   Language Models | [2407.03889](http://arxiv.org/abs/2407.03889) | None | 2024-07-04 |
@@ -191,13 +191,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | None | 2024-07-17 |
-| Self-play with Execution Feedback: Improving Instruction-following   Capabilities of Large Language Models | [2406.13542](http://arxiv.org/abs/2406.13542) | https://github.com/QwenLM/AutoIF | 2024-07-17 |
+| Self-play with Execution Feedback: Improving Instruction-following   Capabilities of Large Language Models | [2406.13542](http://arxiv.org/abs/2406.13542) | https://github.com/QwenLM/AutoIF | 2024-07-18 |
+| Towards Dataset-scale and Feature-oriented Evaluation of Text   Summarization in Large Language Model Prompts | [2407.12192](http://arxiv.org/abs/2407.12192) | None | 2024-07-18 |
+| AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | https://github.com/rgreenblatt/control-evaluations | 2024-07-17 |
 | Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment | [2312.03766](http://arxiv.org/abs/2312.03766) | https://github.com/mismatchquest/mismatchquest | 2024-07-17 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | None | 2024-07-17 |
 | MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and   Large Language Models | [2407.12309](http://arxiv.org/abs/2407.12309) | None | 2024-07-17 |
 | VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
-| Towards Dataset-scale and Feature-oriented Evaluation of Text   Summarization in Large Language Model Prompts | [2407.12192](http://arxiv.org/abs/2407.12192) | None | 2024-07-16 |
 | LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text   Translation | [2407.12126](http://arxiv.org/abs/2407.12126) | None | 2024-07-16 |
 | Large Language Models for Relevance Judgment in Product Search | [2406.00247](http://arxiv.org/abs/2406.00247) | None | 2024-07-16 |
 | NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context   Window? | [2407.11963](http://arxiv.org/abs/2407.11963) | https://github.com/open-compass/opencompass | 2024-07-16 |
@@ -216,7 +216,7 @@
 | Large Language Models as Biomedical Hypothesis Generators: A   Comprehensive Evaluation | [2407.08940](http://arxiv.org/abs/2407.08940) | https://github.com/tsinghuac3i/llm4biohypogen | 2024-07-15 |
 | Evaluating Language Model Context Windows: A "Working Memory" Test and   Inference-time Correction | [2407.03651](http://arxiv.org/abs/2407.03651) | https://github.com/snorkel-ai/long-context-eval | 2024-07-14 |
 | AI Detectors are Poor Western Blot Classifiers: A Study of Accuracy and   Predictive Values | [2407.10308](http://arxiv.org/abs/2407.10308) | None | 2024-07-14 |
-| Follow the Rules: Reasoning for Video Anomaly Detection with Large   Language Models | [2407.10299](http://arxiv.org/abs/2407.10299) | None | 2024-07-14 |
+| Follow the Rules: Reasoning for Video Anomaly Detection with Large   Language Models | [2407.10299](http://arxiv.org/abs/2407.10299) | https://github.com/Yuchen413/AnomalyRuler | 2024-07-14 |
 | KAT: Dependency-aware Automated API Testing with Large Language Models | [2407.10227](http://arxiv.org/abs/2407.10227) | None | 2024-07-14 |
 | LLM-Assisted Multi-Teacher Continual Learning for Visual Question   Answering in Robotic Surgery | [2402.16664](http://arxiv.org/abs/2402.16664) | None | 2024-07-14 |
 | Enhancing Emotion Prediction in News Headlines: Insights from ChatGPT   and Seq2Seq Models for Free-Text Generation | [2407.10091](http://arxiv.org/abs/2407.10091) | None | 2024-07-14 |

@@ -1,4 +1,4 @@
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -191,6 +191,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Will the Real Linda Please Stand up...to Large Language Models?   Examining the Representativeness Heuristic in LLMs | [2404.01461](http://arxiv.org/abs/2404.01461) | None | 2024-07-23 |
 | Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts | [2402.16822](http://arxiv.org/abs/2402.16822) | None | 2024-07-22 |
 | Do Large Language Models Have Compositional Ability? An Investigation   into Limitations and Scalability | [2407.15720](http://arxiv.org/abs/2407.15720) | https://github.com/oliverxuzy/llm_compose | 2024-07-22 |
 | GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents | [2406.06613](http://arxiv.org/abs/2406.06613) | https://github.com/Joshuaclymer/GameBench | 2024-07-22 |
@@ -202,7 +203,6 @@
 | Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for   Efficient LLM Inference | [2407.11550](http://arxiv.org/abs/2407.11550) | None | 2024-07-21 |
 | The Dawn of Natural Language to SQL: Are We Fully Ready? | [2406.01265](http://arxiv.org/abs/2406.01265) | https://github.com/BugMaker-Boyan/NL2SQL360 | 2024-07-21 |
 | RouteLLM: Learning to Route LLMs with Preference Data | [2406.18665](http://arxiv.org/abs/2406.18665) | https://github.com/lm-sys/routellm | 2024-07-21 |
-| Will the Real Linda Please Stand up...to Large Language Models?   Examining the Representativeness Heuristic in LLMs | [2404.01461](http://arxiv.org/abs/2404.01461) | None | 2024-07-21 |
 | Arondight: Red Teaming Large Vision Language Models with Auto-generated   Multi-modal Jailbreak Prompts | [2407.15050](http://arxiv.org/abs/2407.15050) | None | 2024-07-21 |
 | Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | https://github.com/bluezeros/automatic_interactive_evaluation | 2024-07-21 |
 | TraveLLM: Could you plan my new public transit route in face of a   network disruption? | [2407.14926](http://arxiv.org/abs/2407.14926) | None | 2024-07-20 |

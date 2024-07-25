@@ -1,4 +1,4 @@
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -90,6 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities   (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2024-07-24 |
 | RedAgent: Red Teaming Large Language Models with Context-aware   Autonomous Language Agent | [2407.16667](http://arxiv.org/abs/2407.16667) | None | 2024-07-23 |
 | Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | None | 2024-07-23 |
 | Trust No Bot: Discovering Personal Disclosures in Human-LLM   Conversations in the Wild | [2407.11438](http://arxiv.org/abs/2407.11438) | https://github.com/mireshghallah/ChatGPT-personal-disclosures | 2024-07-20 |
@@ -120,7 +121,6 @@
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
 | NExT: Teaching Large Language Models to Reason about Code Execution | [2404.14662](http://arxiv.org/abs/2404.14662) | None | 2024-04-23 |
-| Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2024-04-22 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

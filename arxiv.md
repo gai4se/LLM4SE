@@ -191,6 +191,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations? | [2407.17291](http://arxiv.org/abs/2407.17291) | None | 2024-07-24 |
+| LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN   prover | [2407.17227](http://arxiv.org/abs/2407.17227) | None | 2024-07-24 |
+| Tree-Planner: Efficient Close-loop Task Planning with Large Language   Models | [2310.08582](http://arxiv.org/abs/2310.08582) | None | 2024-07-24 |
+| Testing Large Language Models on Driving Theory Knowledge and Skills for   Connected Autonomous Vehicles | [2407.17211](http://arxiv.org/abs/2407.17211) | None | 2024-07-24 |
+| SimCT: A Simple Consistency Test Protocol in LLMs Development Lifecycle | [2407.17150](http://arxiv.org/abs/2407.17150) | None | 2024-07-24 |
+| SDoH-GPT: Using Large Language Models to Extract Social Determinants of   Health (SDoH) | [2407.17126](http://arxiv.org/abs/2407.17126) | None | 2024-07-24 |
+| Behavioral Testing: Can Large Language Models Implicitly Resolve   Ambiguous Entities? | [2407.17125](http://arxiv.org/abs/2407.17125) | None | 2024-07-24 |
+| MetaLLM: A High-performant and Cost-efficient Dynamic Framework for   Wrapping LLMs | [2407.10834](http://arxiv.org/abs/2407.10834) | None | 2024-07-24 |
+| Performance of large language models in numerical vs. semantic medical   knowledge: Benchmarking on evidence-based Q&As | [2406.03855](http://arxiv.org/abs/2406.03855) | None | 2024-07-24 |
+| CHATATC: Large Language Model-Driven Conversational Agents for   Supporting Strategic Air Traffic Flow Management | [2402.14850](http://arxiv.org/abs/2402.14850) | None | 2024-07-24 |
+| From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack   Construction with LLM | [2407.16928](http://arxiv.org/abs/2407.16928) | None | 2024-07-24 |
+| VisMin: Visual Minimal-Change Understanding | [2407.16772](http://arxiv.org/abs/2407.16772) | None | 2024-07-23 |
 | RedAgent: Red Teaming Large Language Models with Context-aware   Autonomous Language Agent | [2407.16667](http://arxiv.org/abs/2407.16667) | None | 2024-07-23 |
 | Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence   Modeling Approach for Lifelong Learning | [2407.16306](http://arxiv.org/abs/2407.16306) | None | 2024-07-23 |
 | Comparison of Static Application Security Testing Tools and Large   Language Models for Repo-level Vulnerability Detection | [2407.16235](http://arxiv.org/abs/2407.16235) | None | 2024-07-23 |
@@ -209,18 +221,6 @@
 | Dissecting Multiplication in Transformers: Insights into LLMs | [2407.15360](http://arxiv.org/abs/2407.15360) | None | 2024-07-22 |
 | Can Large Language Models Write Good Property-Based Tests? | [2307.04346](http://arxiv.org/abs/2307.04346) | None | 2024-07-22 |
 | Explaining Decisions of Agents in Mixed-Motive Games | [2407.15255](http://arxiv.org/abs/2407.15255) | None | 2024-07-21 |
-| Farewell to Length Extrapolation, a Training-Free Infinite Context with   Finite Attention Scope | [2407.15176](http://arxiv.org/abs/2407.15176) | None | 2024-07-21 |
-| Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for   Efficient LLM Inference | [2407.11550](http://arxiv.org/abs/2407.11550) | None | 2024-07-21 |
-| The Dawn of Natural Language to SQL: Are We Fully Ready? | [2406.01265](http://arxiv.org/abs/2406.01265) | https://github.com/BugMaker-Boyan/NL2SQL360 | 2024-07-21 |
-| RouteLLM: Learning to Route LLMs with Preference Data | [2406.18665](http://arxiv.org/abs/2406.18665) | https://github.com/lm-sys/routellm | 2024-07-21 |
-| Arondight: Red Teaming Large Vision Language Models with Auto-generated   Multi-modal Jailbreak Prompts | [2407.15050](http://arxiv.org/abs/2407.15050) | None | 2024-07-21 |
-| Automatic Interactive Evaluation for Large Language Models with State   Aware Patient Simulator | [2403.08495](http://arxiv.org/abs/2403.08495) | https://github.com/bluezeros/automatic_interactive_evaluation | 2024-07-21 |
-| TraveLLM: Could you plan my new public transit route in face of a   network disruption? | [2407.14926](http://arxiv.org/abs/2407.14926) | None | 2024-07-20 |
-| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-07-20 |
-| Evaluating Large Language Models' Ability Using a Psychiatric Screening   Tool Based on Metaphor and Sarcasm Scenarios | [2309.10744](http://arxiv.org/abs/2309.10744) | https://github.com/hiromu/llm-msst | 2024-07-20 |
-| Retrieval Augmented Generation Integrated Large Language Models in Smart   Contract Vulnerability Detection | [2407.14838](http://arxiv.org/abs/2407.14838) | None | 2024-07-20 |
-| Follow the Rules: Reasoning for Video Anomaly Detection with Large   Language Models | [2407.10299](http://arxiv.org/abs/2407.10299) | https://github.com/Yuchen413/AnomalyRuler | 2024-07-20 |
-| Gaussian Stochastic Weight Averaging for Bayesian Low-Rank Adaptation of   Large Language Models | [2405.03425](http://arxiv.org/abs/2405.03425) | https://github.com/fortuinlab/swag-lora | 2024-07-20 |
 | LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic | [2406.17663](http://arxiv.org/abs/2406.17663) | None | 2024-07-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

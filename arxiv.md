@@ -1,4 +1,4 @@
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,7 +59,7 @@
 | TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-22 |
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-07-20 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-07-20 |
-| Beyond Code Generation: Assessing Code LLM Maturity with Postconditions | [2407.14118](http://arxiv.org/abs/2407.14118) | None | 2024-07-19 |
+| Beyond Code Generation: Assessing Code LLM Maturity with Postconditions | [2407.14118](http://arxiv.org/abs/2407.14118) | https://github.com/maturemodel/postcondgen | 2024-07-19 |
 | ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing   Functional Correctness? | [2407.14044](http://arxiv.org/abs/2407.14044) | https://github.com/codeeff/ecco | 2024-07-19 |
 | Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-07-18 |
 | Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-07-18 |
@@ -90,6 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities   (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks | [2312.12575](http://arxiv.org/abs/2312.12575) | None | 2024-07-24 |
 | RedAgent: Red Teaming Large Language Models with Context-aware   Autonomous Language Agent | [2407.16667](http://arxiv.org/abs/2407.16667) | None | 2024-07-23 |
 | Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | None | 2024-07-23 |
@@ -120,12 +121,12 @@
 | NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair | [2405.04994](http://arxiv.org/abs/2405.04994) | None | 2024-05-08 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study with Practitioners of GitHub Copilot | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-04-28 |
 | Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
-| NExT: Teaching Large Language Models to Reason about Code Execution | [2404.14662](http://arxiv.org/abs/2404.14662) | None | 2024-04-23 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-16 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
 | Cloud Atlas: Efficient Fault Localization for Cloud Systems using   Language Models and Causal Insight | [2407.08694](http://arxiv.org/abs/2407.08694) | None | 2024-07-11 |
@@ -137,7 +138,6 @@
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-04-19 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
-| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
 | Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
 | AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2024-03-25 |
 | Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
@@ -191,13 +191,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Behavioral Testing: Can Large Language Models Implicitly Resolve   Ambiguous Entities? | [2407.17125](http://arxiv.org/abs/2407.17125) | None | 2024-07-25 |
 | How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations? | [2407.17291](http://arxiv.org/abs/2407.17291) | None | 2024-07-24 |
 | LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN   prover | [2407.17227](http://arxiv.org/abs/2407.17227) | None | 2024-07-24 |
 | Tree-Planner: Efficient Close-loop Task Planning with Large Language   Models | [2310.08582](http://arxiv.org/abs/2310.08582) | None | 2024-07-24 |
 | Testing Large Language Models on Driving Theory Knowledge and Skills for   Connected Autonomous Vehicles | [2407.17211](http://arxiv.org/abs/2407.17211) | None | 2024-07-24 |
 | SimCT: A Simple Consistency Test Protocol in LLMs Development Lifecycle | [2407.17150](http://arxiv.org/abs/2407.17150) | None | 2024-07-24 |
 | SDoH-GPT: Using Large Language Models to Extract Social Determinants of   Health (SDoH) | [2407.17126](http://arxiv.org/abs/2407.17126) | None | 2024-07-24 |
-| Behavioral Testing: Can Large Language Models Implicitly Resolve   Ambiguous Entities? | [2407.17125](http://arxiv.org/abs/2407.17125) | None | 2024-07-24 |
 | MetaLLM: A High-performant and Cost-efficient Dynamic Framework for   Wrapping LLMs | [2407.10834](http://arxiv.org/abs/2407.10834) | None | 2024-07-24 |
 | Performance of large language models in numerical vs. semantic medical   knowledge: Benchmarking on evidence-based Q&As | [2406.03855](http://arxiv.org/abs/2406.03855) | None | 2024-07-24 |
 | CHATATC: Large Language Model-Driven Conversational Agents for   Supporting Strategic Air Traffic Flow Management | [2402.14850](http://arxiv.org/abs/2402.14850) | None | 2024-07-24 |
@@ -208,7 +208,7 @@
 | Comparison of Static Application Security Testing Tools and Large   Language Models for Repo-level Vulnerability Detection | [2407.16235](http://arxiv.org/abs/2407.16235) | None | 2024-07-23 |
 | How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on   Deceptive Prompts | [2402.13220](http://arxiv.org/abs/2402.13220) | None | 2024-07-23 |
 | AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | https://github.com/rgreenblatt/control-evaluations | 2024-07-23 |
-| How to Leverage Personal Textual Knowledge for Personalized   Conversational Information Retrieval | [2407.16192](http://arxiv.org/abs/2407.16192) | None | 2024-07-23 |
+| How to Leverage Personal Textual Knowledge for Personalized   Conversational Information Retrieval | [2407.16192](http://arxiv.org/abs/2407.16192) | https://github.com/fengranMark/PersonalizedCIR | 2024-07-23 |
 | Robust Privacy Amidst Innovation with Large Language Models Through a   Critical Assessment of the Risks | [2407.16166](http://arxiv.org/abs/2407.16166) | None | 2024-07-23 |
 | Will the Real Linda Please Stand up...to Large Language Models?   Examining the Representativeness Heuristic in LLMs | [2404.01461](http://arxiv.org/abs/2404.01461) | https://github.com/mrzilinxiao/llmheuristicreheat | 2024-07-23 |
 | PropTest: Automatic Property Testing for Improved Visual Programming | [2403.16921](http://arxiv.org/abs/2403.16921) | None | 2024-07-22 |
@@ -239,13 +239,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-06-17 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | https://github.com/alex-haochenli/reco | 2024-06-03 |
 | ACES: Generating Diverse Programming Puzzles with with Autotelic   Generative Models | [2310.10692](http://arxiv.org/abs/2310.10692) | None | 2024-05-29 |
 | Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained   Large Language Models | [2405.11196](http://arxiv.org/abs/2405.11196) | https://github.com/gksajy/slimcode | 2024-05-18 |
 | REINFOREST: Reinforcing Semantic Code Similarity for Cross-Lingual Code   Search Models | [2305.03843](http://arxiv.org/abs/2305.03843) | https://github.com/reinforest-team/reinforest | 2024-04-15 |
-| AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-04-15 |
 | GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization   in Programming Language Understanding | [2311.09707](http://arxiv.org/abs/2311.09707) | None | 2023-11-16 |
 | The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
 | Language Models are Universal Embedders | [2310.08232](http://arxiv.org/abs/2310.08232) | https://github.com/izhx/uni-rep | 2023-10-12 |

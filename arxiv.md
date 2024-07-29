@@ -1,4 +1,4 @@
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,10 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| The Larger the Better? Improved LLM Code-Generation via Budget   Reallocation | [2404.00725](http://arxiv.org/abs/2404.00725) | None | 2024-07-25 |
-| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-07-25 |
+| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-07-26 |
+| The Larger the Better? Improved LLM Code-Generation via Budget   Reallocation | [2404.00725](http://arxiv.org/abs/2404.00725) | https://github.com/slp-rl/budget-realloc | 2024-07-25 |
 | OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and   Self-Reflection | [2407.16237](http://arxiv.org/abs/2407.16237) | None | 2024-07-23 |
-| Empowering Agile-Based Generative Software Development through Human-AI   Teamwork | [2407.15568](http://arxiv.org/abs/2407.15568) | None | 2024-07-22 |
+| Empowering Agile-Based Generative Software Development through Human-AI   Teamwork | [2407.15568](http://arxiv.org/abs/2407.15568) | https://github.com/HarrisClover/AgileGen | 2024-07-22 |
 | TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-22 |
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-07-20 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-07-20 |
@@ -165,7 +165,7 @@
 | Vision-driven Automated Mobile GUI Testing via Multimodal Large Language   Model | [2407.03037](http://arxiv.org/abs/2407.03037) | None | 2024-07-03 |
 | Inferring Resource-Oriented Intentions using LLMs for Static Resource   Leak Detection | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2024-07-02 |
 | Large-scale, Independent and Comprehensive study of the power of LLMs   for test case generation | [2407.00225](http://arxiv.org/abs/2407.00225) | None | 2024-06-28 |
-| VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | None | 2024-06-24 |
+| VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | https://github.com/sweetaroo/vuldetectbench | 2024-06-24 |
 | Soley: Identification and Automated Detection of Logic Vulnerabilities   in Ethereum Smart Contracts Using Large Language Models | [2406.16244](http://arxiv.org/abs/2406.16244) | None | 2024-06-24 |
 | Prompt Injection Attacks in Defended Systems | [2406.14048](http://arxiv.org/abs/2406.14048) | None | 2024-06-20 |
 | Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level   RAG | [2406.11147](http://arxiv.org/abs/2406.11147) | None | 2024-06-19 |
@@ -192,18 +192,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Recursive Introspection: Teaching Language Model Agents How to   Self-Improve | [2407.18219](http://arxiv.org/abs/2407.18219) | None | 2024-07-25 |
+| Recursive Introspection: Teaching Language Model Agents How to   Self-Improve | [2407.18219](http://arxiv.org/abs/2407.18219) | None | 2024-07-26 |
+| Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic | [2407.18129](http://arxiv.org/abs/2407.18129) | None | 2024-07-26 |
+| AutoRE: Document-Level Relation Extraction with Large Language Models | [2403.14888](http://arxiv.org/abs/2403.14888) | https://github.com/thudm/autore | 2024-07-26 |
+| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-07-26 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
-| Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic | [2407.18129](http://arxiv.org/abs/2407.18129) | None | 2024-07-25 |
-| The Larger the Better? Improved LLM Code-Generation via Budget   Reallocation | [2404.00725](http://arxiv.org/abs/2404.00725) | None | 2024-07-25 |
-| AutoRE: Document-Level Relation Extraction with Large Language Models | [2403.14888](http://arxiv.org/abs/2403.14888) | https://github.com/thudm/autore | 2024-07-25 |
+| The Larger the Better? Improved LLM Code-Generation via Budget   Reallocation | [2404.00725](http://arxiv.org/abs/2404.00725) | https://github.com/slp-rl/budget-realloc | 2024-07-25 |
 | Behavioral Testing: Can Large Language Models Implicitly Resolve   Ambiguous Entities? | [2407.17125](http://arxiv.org/abs/2407.17125) | None | 2024-07-25 |
 | Demystifying Verbatim Memorization in Large Language Models | [2407.17817](http://arxiv.org/abs/2407.17817) | None | 2024-07-25 |
 | PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal   Remediation | [2407.17788](http://arxiv.org/abs/2407.17788) | None | 2024-07-25 |
-| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-07-25 |
 | Describe Where You Are: Improving Noise-Robustness for Speech Emotion   Recognition with Text Description of the Environment | [2407.17716](http://arxiv.org/abs/2407.17716) | None | 2024-07-25 |
 | How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations? | [2407.17291](http://arxiv.org/abs/2407.17291) | None | 2024-07-24 |
-| LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN   prover | [2407.17227](http://arxiv.org/abs/2407.17227) | None | 2024-07-24 |
+| LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN   prover | [2407.17227](http://arxiv.org/abs/2407.17227) | https://github.com/internlm/internlm-math | 2024-07-24 |
 | Tree-Planner: Efficient Close-loop Task Planning with Large Language   Models | [2310.08582](http://arxiv.org/abs/2310.08582) | None | 2024-07-24 |
 | Testing Large Language Models on Driving Theory Knowledge and Skills for   Connected Autonomous Vehicles | [2407.17211](http://arxiv.org/abs/2407.17211) | None | 2024-07-24 |
 | SimCT: A Simple Consistency Test Protocol in LLMs Development Lifecycle | [2407.17150](http://arxiv.org/abs/2407.17150) | None | 2024-07-24 |
@@ -214,7 +214,7 @@
 | From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack   Construction with LLM | [2407.16928](http://arxiv.org/abs/2407.16928) | None | 2024-07-24 |
 | VisMin: Visual Minimal-Change Understanding | [2407.16772](http://arxiv.org/abs/2407.16772) | None | 2024-07-23 |
 | RedAgent: Red Teaming Large Language Models with Context-aware   Autonomous Language Agent | [2407.16667](http://arxiv.org/abs/2407.16667) | None | 2024-07-23 |
-| Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence   Modeling Approach for Lifelong Learning | [2407.16306](http://arxiv.org/abs/2407.16306) | None | 2024-07-23 |
+| Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence   Modeling Approach for Lifelong Learning | [2407.16306](http://arxiv.org/abs/2407.16306) | https://github.com/ancorasir/decisionrwkv | 2024-07-23 |
 | Comparison of Static Application Security Testing Tools and Large   Language Models for Repo-level Vulnerability Detection | [2407.16235](http://arxiv.org/abs/2407.16235) | None | 2024-07-23 |
 | How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on   Deceptive Prompts | [2402.13220](http://arxiv.org/abs/2402.13220) | None | 2024-07-23 |
 | AI Control: Improving Safety Despite Intentional Subversion | [2312.06942](http://arxiv.org/abs/2312.06942) | https://github.com/rgreenblatt/control-evaluations | 2024-07-23 |

@@ -1,4 +1,4 @@
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -192,6 +192,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluating Large Language Models in Detecting Test Smells | [2407.19261](http://arxiv.org/abs/2407.19261) | None | 2024-07-30 |
 | How Effective Are They? Exploring Large Language Model Based Fuzz Driver   Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-07-29 |
 | Matryoshka Multimodal Models | [2405.17430](http://arxiv.org/abs/2405.17430) | None | 2024-07-29 |
 | Exploring Large Language Models to generate Easy to Read content | [2407.20046](http://arxiv.org/abs/2407.20046) | None | 2024-07-29 |
@@ -208,7 +209,6 @@
 | Logic Distillation: Learning from Code Function by Function for Planning   and Decision-making | [2407.19405](http://arxiv.org/abs/2407.19405) | None | 2024-07-28 |
 | Integrating Large Language Models into a Tri-Modal Architecture for   Automated Depression Classification | [2407.19340](http://arxiv.org/abs/2407.19340) | None | 2024-07-27 |
 | The Dawn of Natural Language to SQL: Are We Fully Ready? | [2406.01265](http://arxiv.org/abs/2406.01265) | https://github.com/BugMaker-Boyan/NL2SQL360 | 2024-07-27 |
-| Evaluating Large Language Models in Detecting Test Smells | [2407.19261](http://arxiv.org/abs/2407.19261) | None | 2024-07-27 |
 | A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection   in Android Apps | [2407.19053](http://arxiv.org/abs/2407.19053) | None | 2024-07-26 |
 | Recursive Introspection: Teaching Language Model Agents How to   Self-Improve | [2407.18219](http://arxiv.org/abs/2407.18219) | None | 2024-07-26 |
 | Autonomous Multi-Objective Optimization Using Large Language Model | [2406.08987](http://arxiv.org/abs/2406.08987) | None | 2024-07-26 |

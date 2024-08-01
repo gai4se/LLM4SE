@@ -1,4 +1,4 @@
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-31 |
 | Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-07-30 |
 | Pyramid Coder: Hierarchical Code Generator for Compositional Visual   Question Answering | [2407.20563](http://arxiv.org/abs/2407.20563) | None | 2024-07-30 |
 | Generating Unseen Code Tests In Infinitum | [2407.19772](http://arxiv.org/abs/2407.19772) | None | 2024-07-29 |
@@ -75,7 +76,6 @@
 | SA-DS: A Dataset for Large Language Model-Driven AI Accelerator Design   Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | https://github.com/acadlab/sa-ds | 2024-07-17 |
 | Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-17 |
 | VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
-| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-16 |
 | Beyond Correctness: Benchmarking Multi-dimensional Code Generation for   Large Language Models | [2407.11470](http://arxiv.org/abs/2407.11470) | https://github.com/jszheng21/race | 2024-07-16 |
 | Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | None | 2024-07-16 |
 | Foundational Autoraters: Taming Large Language Models for Better   Automatic Evaluation | [2407.10817](http://arxiv.org/abs/2407.10817) | None | 2024-07-15 |
@@ -90,6 +90,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
+| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
 | ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
 | Effective Large Language Model Debugging with Best-first Tree Search | [2407.19055](http://arxiv.org/abs/2407.19055) | None | 2024-07-26 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
@@ -119,16 +121,14 @@
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-05-11 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | Automated Program Repair: Emerging trends pose and expose problems for   benchmarks | [2405.05455](http://arxiv.org/abs/2405.05455) | None | 2024-05-08 |
-| Benchmarking Educational Program Repair | [2405.05347](http://arxiv.org/abs/2405.05347) | https://github.com/koutchemecharles/gaied_nips23 | 2024-05-08 |
-| NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair | [2405.04994](http://arxiv.org/abs/2405.04994) | None | 2024-05-08 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-31 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic   Chunking and Hard Example Learning | [2407.17631](http://arxiv.org/abs/2407.17631) | None | 2024-07-24 |
-| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-16 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
 | Cloud Atlas: Efficient Fault Localization for Cloud Systems using   Language Models and Causal Insight | [2407.08694](http://arxiv.org/abs/2407.08694) | None | 2024-07-11 |
 | Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-07-04 |

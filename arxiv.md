@@ -101,7 +101,7 @@
 | Trust No Bot: Discovering Personal Disclosures in Human-LLM   Conversations in the Wild | [2407.11438](http://arxiv.org/abs/2407.11438) | https://github.com/mireshghallah/ChatGPT-personal-disclosures | 2024-07-20 |
 | ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing   Functional Correctness? | [2407.14044](http://arxiv.org/abs/2407.14044) | https://github.com/codeeff/ecco | 2024-07-19 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
-| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-07-08 |
+| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | https://github.com/buaabarty/cref | 2024-07-08 |
 | Automated C/C++ Program Repair for High-Level Synthesis via Large   Language Models | [2407.03889](http://arxiv.org/abs/2407.03889) | None | 2024-07-04 |
 | Let the Code LLM Edit Itself When You Edit the Code | [2407.03157](http://arxiv.org/abs/2407.03157) | None | 2024-07-03 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-07-01 |
@@ -192,6 +192,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| The Impact of Quantization on Retrieval-Augmented Generation: An   Analysis of Small LLMs | [2406.10251](http://arxiv.org/abs/2406.10251) | None | 2024-08-01 |
+| The opportunities and risks of large language models in mental health | [2403.14814](http://arxiv.org/abs/2403.14814) | None | 2024-08-01 |
+| On Inter-dataset Code Duplication and Data Leakage in Large Language   Models | [2401.07930](http://arxiv.org/abs/2401.07930) | None | 2024-08-01 |
+| Large Language Models for Next Point-of-Interest Recommendation | [2404.17591](http://arxiv.org/abs/2404.17591) | https://github.com/neolifer/LLM4POI | 2024-08-01 |
 | Do Large Language Models Understand Conversational Implicature -- A case   study with a chinese sitcom | [2404.19509](http://arxiv.org/abs/2404.19509) | https://github.com/sjtu-compling/llm-pragmatics | 2024-07-31 |
 | CXSimulator: A User Behavior Simulation using LLM Embeddings for   Web-Marketing Campaign Assessment | [2407.21553](http://arxiv.org/abs/2407.21553) | None | 2024-07-31 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
@@ -219,10 +223,6 @@
 | Comparative Analysis of Encoder-Based NER and Large Language Models for   Skill Extraction from Russian Job Vacancies | [2407.19816](http://arxiv.org/abs/2407.19816) | None | 2024-07-29 |
 | Generating Unseen Code Tests In Infinitum | [2407.19772](http://arxiv.org/abs/2407.19772) | None | 2024-07-29 |
 | Legal Minds, Algorithmic Decisions: How LLMs Apply Constitutional   Principles in Complex Scenarios | [2407.19760](http://arxiv.org/abs/2407.19760) | None | 2024-07-29 |
-| Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes | [2404.04392](http://arxiv.org/abs/2404.04392) | None | 2024-07-29 |
-| Do Text-to-Vis Benchmarks Test Real Use of Visualisations? | [2407.19726](http://arxiv.org/abs/2407.19726) | None | 2024-07-29 |
-| InstructIE: A Bilingual Instruction-based Information Extraction Dataset | [2305.11527](http://arxiv.org/abs/2305.11527) | https://github.com/zjunlp/cama | 2024-07-29 |
-| LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic | [2406.17663](http://arxiv.org/abs/2406.17663) | None | 2024-07-19 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -258,7 +258,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | None | 2024-07-23 |
-| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | None | 2024-07-08 |
+| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | https://github.com/buaabarty/cref | 2024-07-08 |
 | Exploring the Capabilities of LLMs for Code Change Related Tasks | [2407.02824](http://arxiv.org/abs/2407.02824) | https://github.com/ZJU-CTAG/CodeChange | 2024-07-03 |
 | CodeAgent: Collaborative Agents for Software Engineering | [2402.02172](http://arxiv.org/abs/2402.02172) | https://github.com/code4agent/codeagent | 2024-06-28 |
 | A GPT-based Code Review System for Programming Language Learning | [2407.04722](http://arxiv.org/abs/2407.04722) | None | 2024-06-21 |

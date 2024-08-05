@@ -1,4 +1,4 @@
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -202,6 +202,7 @@
 | Large Language Models for Next Point-of-Interest Recommendation | [2404.17591](http://arxiv.org/abs/2404.17591) | https://github.com/neolifer/LLM4POI | 2024-08-01 |
 | Towards Flexible Evaluation for Generative Visual Question Answering | [2408.00300](http://arxiv.org/abs/2408.00300) | None | 2024-08-01 |
 | Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network | [2408.00290](http://arxiv.org/abs/2408.00290) | None | 2024-08-01 |
+| When AI Meets Finance (StockAgent): Large Language Model-based Stock   Trading in Simulated Real-world Environments | [2407.18957](http://arxiv.org/abs/2407.18957) | https://github.com/mingyuj666/stockagent | 2024-08-01 |
 | Automatic Generation of Behavioral Test Cases For Natural Language   Processing Using Clustering and Prompting | [2408.00161](http://arxiv.org/abs/2408.00161) | None | 2024-07-31 |
 | Distributed In-Context Learning under Non-IID Among Clients | [2408.00144](http://arxiv.org/abs/2408.00144) | None | 2024-07-31 |
 | Do Large Language Models Understand Conversational Implicature -- A case   study with a chinese sitcom | [2404.19509](http://arxiv.org/abs/2404.19509) | https://github.com/sjtu-compling/llm-pragmatics | 2024-07-31 |
@@ -211,7 +212,6 @@
 | An LLM-based Readability Measurement for Unit Tests' Context-aware   Inputs | [2407.21369](http://arxiv.org/abs/2407.21369) | None | 2024-07-31 |
 | MetaOpenFOAM: an LLM-based multi-agent framework for CFD | [2407.21320](http://arxiv.org/abs/2407.21320) | None | 2024-07-31 |
 | Human vs. Machine: Behavioral Differences Between Expert Humans and   Language Models in Wargame Simulations | [2403.03407](http://arxiv.org/abs/2403.03407) | https://github.com/ancorso/llmwargaming | 2024-07-31 |
-| When AI Meets Finance (StockAgent): Large Language Model-based Stock   Trading in Simulated Real-world Environments | [2407.18957](http://arxiv.org/abs/2407.18957) | https://github.com/mingyuj666/stockagent | 2024-07-30 |
 | ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
 | Effective Black Box Testing of Sentiment Analysis Classification   Networks | [2407.20884](http://arxiv.org/abs/2407.20884) | None | 2024-07-30 |
 | How to Measure the Intelligence of Large Language Models? | [2407.20828](http://arxiv.org/abs/2407.20828) | None | 2024-07-30 |

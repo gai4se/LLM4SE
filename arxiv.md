@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| MCGMark: An Encodable and Robust Online Watermark for LLM-Generated   Malicious Code | [2408.01354](http://arxiv.org/abs/2408.01354) | None | 2024-08-02 |
+| ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
+| On the Resilience of Multi-Agent Systems with Malicious Agents | [2408.00989](http://arxiv.org/abs/2408.00989) | None | 2024-08-02 |
 | AutoM3L: An Automated Multimodal Machine Learning Framework with Large   Language Models | [2408.00665](http://arxiv.org/abs/2408.00665) | None | 2024-08-01 |
 | A Performance Study of LLM-Generated Code on Leetcode | [2407.21579](http://arxiv.org/abs/2407.21579) | None | 2024-07-31 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
@@ -82,9 +85,6 @@
 | Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-17 |
 | VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
 | Beyond Correctness: Benchmarking Multi-dimensional Code Generation for   Large Language Models | [2407.11470](http://arxiv.org/abs/2407.11470) | https://github.com/jszheng21/race | 2024-07-16 |
-| Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | None | 2024-07-16 |
-| Foundational Autoraters: Taming Large Language Models for Better   Automatic Evaluation | [2407.10817](http://arxiv.org/abs/2407.10817) | None | 2024-07-15 |
-| ORAN-Bench-13K: An Open Source Benchmark for Assessing LLMs in Open   Radio Access Networks | [2407.06245](http://arxiv.org/abs/2407.06245) | https://github.com/prnshv/oran-bench-13k | 2024-07-13 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -192,7 +192,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-02 |
+| LLMs' Understanding of Natural Language Revealed | [2407.19630](http://arxiv.org/abs/2407.19630) | None | 2024-08-02 |
+| Agentic LLM Workflows for Generating Patient-Friendly Medical Reports | [2408.01112](http://arxiv.org/abs/2408.01112) | None | 2024-08-02 |
+| ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
 | Jailbreaking Text-to-Image Models with LLM-Based Agents | [2408.00523](http://arxiv.org/abs/2408.00523) | None | 2024-08-01 |
+| When AI Meets Finance (StockAgent): Large Language Model-based Stock   Trading in Simulated Real-world Environments | [2407.18957](http://arxiv.org/abs/2407.18957) | https://github.com/mingyuj666/stockagent | 2024-08-01 |
 | Improving Retrieval-Augmented Generation in Medicine with Iterative   Follow-up Questions | [2408.00727](http://arxiv.org/abs/2408.00727) | None | 2024-08-01 |
 | The Impact of Quantization on Retrieval-Augmented Generation: An   Analysis of Small LLMs | [2406.10251](http://arxiv.org/abs/2406.10251) | None | 2024-08-01 |
 | The opportunities and risks of large language models in mental health | [2403.14814](http://arxiv.org/abs/2403.14814) | None | 2024-08-01 |
@@ -202,7 +207,6 @@
 | Large Language Models for Next Point-of-Interest Recommendation | [2404.17591](http://arxiv.org/abs/2404.17591) | https://github.com/neolifer/LLM4POI | 2024-08-01 |
 | Towards Flexible Evaluation for Generative Visual Question Answering | [2408.00300](http://arxiv.org/abs/2408.00300) | None | 2024-08-01 |
 | Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network | [2408.00290](http://arxiv.org/abs/2408.00290) | None | 2024-08-01 |
-| When AI Meets Finance (StockAgent): Large Language Model-based Stock   Trading in Simulated Real-world Environments | [2407.18957](http://arxiv.org/abs/2407.18957) | https://github.com/mingyuj666/stockagent | 2024-08-01 |
 | Automatic Generation of Behavioral Test Cases For Natural Language   Processing Using Clustering and Prompting | [2408.00161](http://arxiv.org/abs/2408.00161) | None | 2024-07-31 |
 | Distributed In-Context Learning under Non-IID Among Clients | [2408.00144](http://arxiv.org/abs/2408.00144) | None | 2024-07-31 |
 | Do Large Language Models Understand Conversational Implicature -- A case   study with a chinese sitcom | [2404.19509](http://arxiv.org/abs/2404.19509) | https://github.com/sjtu-compling/llm-pragmatics | 2024-07-31 |
@@ -219,10 +223,6 @@
 | Evaluating Large Language Models in Detecting Test Smells | [2407.19261](http://arxiv.org/abs/2407.19261) | None | 2024-07-30 |
 | MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains | [2407.18961](http://arxiv.org/abs/2407.18961) | https://github.com/apple/axlearn | 2024-07-30 |
 | C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | https://github.com/kangmintong/c-rag | 2024-07-30 |
-| How Effective Are They? Exploring Large Language Model Based Fuzz Driver   Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-07-29 |
-| CourseAssist: Pedagogically Appropriate AI Tutor for Computer Science   Education | [2407.10246](http://arxiv.org/abs/2407.10246) | None | 2024-07-29 |
-| Harnessing LLMs for Automated Video Content Analysis: An Exploratory   Workflow of Short Videos on Depression | [2406.19528](http://arxiv.org/abs/2406.19528) | None | 2024-07-29 |
-| What if Red Can Talk? Dynamic Dialogue Generation Using Large Language   Models | [2407.20382](http://arxiv.org/abs/2407.20382) | None | 2024-07-29 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

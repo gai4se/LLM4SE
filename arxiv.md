@@ -1,4 +1,4 @@
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -192,9 +192,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Agentic LLM Workflows for Generating Patient-Friendly Medical Reports | [2408.01112](http://arxiv.org/abs/2408.01112) | None | 2024-08-05 |
 | A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-02 |
 | LLMs' Understanding of Natural Language Revealed | [2407.19630](http://arxiv.org/abs/2407.19630) | None | 2024-08-02 |
-| Agentic LLM Workflows for Generating Patient-Friendly Medical Reports | [2408.01112](http://arxiv.org/abs/2408.01112) | None | 2024-08-02 |
 | ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
 | Jailbreaking Text-to-Image Models with LLM-Based Agents | [2408.00523](http://arxiv.org/abs/2408.00523) | None | 2024-08-01 |
 | When AI Meets Finance (StockAgent): Large Language Model-based Stock   Trading in Simulated Real-world Environments | [2407.18957](http://arxiv.org/abs/2407.18957) | https://github.com/mingyuj666/stockagent | 2024-08-01 |

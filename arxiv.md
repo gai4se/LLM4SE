@@ -54,42 +54,43 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| MCGMark: An Encodable and Robust Online Watermark for LLM-Generated   Malicious Code | [2408.01354](http://arxiv.org/abs/2408.01354) | None | 2024-08-02 |
-| ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
-| On the Resilience of Multi-Agent Systems with Malicious Agents | [2408.00989](http://arxiv.org/abs/2408.00989) | None | 2024-08-02 |
-| AutoM3L: An Automated Multimodal Machine Learning Framework with Large   Language Models | [2408.00665](http://arxiv.org/abs/2408.00665) | None | 2024-08-01 |
-| A Performance Study of LLM-Generated Code on Leetcode | [2407.21579](http://arxiv.org/abs/2407.21579) | None | 2024-07-31 |
-| Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
-| Building AI Agents for Autonomous Clouds: Challenges and Design   Principles | [2407.12165](http://arxiv.org/abs/2407.12165) | None | 2024-07-31 |
+| A First Look at License Compliance Capability of LLMs in Code Generation | [2408.02487](http://arxiv.org/abs/2408.02487) | None | 2024-08-05 |
+| From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2024-08-05 |
+| SceneMotifCoder: Example-driven Visual Program Learning for Generating   3D Object Arrangements | [2408.02211](http://arxiv.org/abs/2408.02211) | None | 2024-08-05 |
+| Practical Attacks against Black-box Code Completion Engines | [2408.02509](http://arxiv.org/abs/2408.02509) | None | 2024-08-05 |
+| Chain-of-Thought in Neural Code Generation: From and For Lightweight   Language Models | [2312.05562](http://arxiv.org/abs/2312.05562) | https://github.com/ntdxyg/cotton | 2024-08-04 |
 | Assessing Programming Task Difficulty for Efficient Evaluation of Large   Language Models | [2407.21227](http://arxiv.org/abs/2407.21227) | None | 2024-07-30 |
-| Between Lines of Code: Unraveling the Distinct Patterns of Machine and   Human Programmers | [2401.06461](http://arxiv.org/abs/2401.06461) | https://github.com/yerbapage/detectcodegpt | 2024-07-30 |
-| Pyramid Coder: Hierarchical Code Generator for Compositional Visual   Question Answering | [2407.20563](http://arxiv.org/abs/2407.20563) | None | 2024-07-30 |
-| Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions   for Large Language Models | [2407.21077](http://arxiv.org/abs/2407.21077) | None | 2024-07-29 |
-| Generating Unseen Code Tests In Infinitum | [2407.19772](http://arxiv.org/abs/2407.19772) | None | 2024-07-29 |
-| Effective Large Language Model Debugging with Best-first Tree Search | [2407.19055](http://arxiv.org/abs/2407.19055) | None | 2024-07-26 |
-| LLASP: Fine-tuning Large Language Models for Answer Set Programming | [2407.18723](http://arxiv.org/abs/2407.18723) | None | 2024-07-26 |
-| Analyzing LLM Usage in an Advanced Computing Class in India | [2404.04603](http://arxiv.org/abs/2404.04603) | None | 2024-07-26 |
-| SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware   Decoding | [2402.08983](http://arxiv.org/abs/2402.08983) | https://github.com/uw-nsl/safedecoding | 2024-07-25 |
-| The Larger the Better? Improved LLM Code-Generation via Budget   Reallocation | [2404.00725](http://arxiv.org/abs/2404.00725) | https://github.com/slp-rl/budget-realloc | 2024-07-25 |
-| OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and   Self-Reflection | [2407.16237](http://arxiv.org/abs/2407.16237) | None | 2024-07-23 |
-| Empowering Agile-Based Generative Software Development through Human-AI   Teamwork | [2407.15568](http://arxiv.org/abs/2407.15568) | https://github.com/HarrisClover/AgileGen | 2024-07-22 |
 | TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-22 |
-| AutoVCoder: A Systematic Framework for Automated Verilog Code Generation   using LLMs | [2407.18333](http://arxiv.org/abs/2407.18333) | None | 2024-07-21 |
-| Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-07-20 |
-| DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-07-20 |
-| Beyond Code Generation: Assessing Code LLM Maturity with Postconditions | [2407.14118](http://arxiv.org/abs/2407.14118) | https://github.com/maturemodel/postcondgen | 2024-07-19 |
-| ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing   Functional Correctness? | [2407.14044](http://arxiv.org/abs/2407.14044) | https://github.com/codeeff/ecco | 2024-07-19 |
 | Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-07-18 |
-| Can LLMs Patch Security Issues? | [2312.00024](http://arxiv.org/abs/2312.00024) | https://github.com/kamel773/llm-code-refine | 2024-07-18 |
-| SA-DS: A Dataset for Large Language Model-Driven AI Accelerator Design   Generation | [2404.10875](http://arxiv.org/abs/2404.10875) | https://github.com/acadlab/sa-ds | 2024-07-17 |
-| Uncovering Weaknesses in Neural Code Generation | [2407.09793](http://arxiv.org/abs/2407.09793) | None | 2024-07-17 |
-| VoicePilot: Harnessing LLMs as Speech Interfaces for Physically   Assistive Robots | [2404.04066](http://arxiv.org/abs/2404.04066) | None | 2024-07-17 |
-| Beyond Correctness: Benchmarking Multi-dimensional Code Generation for   Large Language Models | [2407.11470](http://arxiv.org/abs/2407.11470) | https://github.com/jszheng21/race | 2024-07-16 |
+| On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/sailresearch/awesome-foundation-model-leaderboards | 2024-07-13 |
+| Inference Optimization of Foundation Models on AI Accelerators | [2407.09111](http://arxiv.org/abs/2407.09111) | None | 2024-07-12 |
+| CodeUpdateArena: Benchmarking Knowledge Editing on API Updates | [2407.06249](http://arxiv.org/abs/2407.06249) | None | 2024-07-08 |
+| Jailbreak Attacks and Defenses Against Large Language Models: A Survey | [2407.04295](http://arxiv.org/abs/2407.04295) | None | 2024-07-05 |
+| How and Why LLMs Use Deprecated APIs in Code Completion? An Empirical   Study | [2406.09834](http://arxiv.org/abs/2406.09834) | None | 2024-07-03 |
+| CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay | [2402.04858](http://arxiv.org/abs/2402.04858) | https://github.com/Qualcomm-AI-research/codeit | 2024-07-01 |
+| Hierarchical Context Pruning: Optimizing Real-World Code Completion with   Repository-Level Pretrained Code LLMs | [2406.18294](http://arxiv.org/abs/2406.18294) | https://github.com/hambaobao/hcp-coder | 2024-06-27 |
+| Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks | [2406.15325](http://arxiv.org/abs/2406.15325) | https://github.com/hamminghq/bug-in-the-code-stack | 2024-06-21 |
+| FVEL: Interactive Formal Verification Environment with Large Language   Models via Theorem Proving | [2406.14408](http://arxiv.org/abs/2406.14408) | None | 2024-06-21 |
+| De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks   via Iterative Grounding | [2401.01701](http://arxiv.org/abs/2401.01701) | None | 2024-06-19 |
+| LongBench: A Bilingual, Multitask Benchmark for Long Context   Understanding | [2308.14508](http://arxiv.org/abs/2308.14508) | https://github.com/thudm/longbench | 2024-06-19 |
+| Can Large Language Models Code Like a Linguist?: A Case Study in Low   Resource Sound Law Induction | [2406.12725](http://arxiv.org/abs/2406.12725) | None | 2024-06-18 |
+| Measuring memorization in RLHF for code completion | [2406.11715](http://arxiv.org/abs/2406.11715) | None | 2024-06-17 |
+| How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2024-06-16 |
+| How to Teach Programming in the AI Era? Using LLMs as a Teachable Agent   for Debugging | [2310.05292](http://arxiv.org/abs/2310.05292) | None | 2024-06-14 |
+| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-06-13 |
+| Guiding LLM Temporal Logic Generation with Explicit Separation of Data   and Control | [2406.07400](http://arxiv.org/abs/2406.07400) | None | 2024-06-11 |
+| McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
+| VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
+| An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion   Models: Injecting Disguised Vulnerabilities against Strong Detection | [2406.06822](http://arxiv.org/abs/2406.06822) | https://github.com/datasec-lab/codebreaker | 2024-06-10 |
+| Optimizing Large Language Models for OpenAPI Code Completion | [2405.15729](http://arxiv.org/abs/2405.15729) | https://github.com/BohdanPetryshyn/openapi-completion-benchmark | 2024-06-10 |
+| CodeAttack: Revealing Safety Generalization Challenges of Large Language   Models via Code Completion | [2403.07865](http://arxiv.org/abs/2403.07865) | https://github.com/renqibing/CodeAttack | 2024-06-09 |
+| ReGAL: Refactoring Programs to Discover Generalizable Abstractions | [2401.16467](http://arxiv.org/abs/2401.16467) | https://github.com/esteng/regal_program_learning | 2024-06-06 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-05 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
 | ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
@@ -120,7 +121,6 @@
 | A Systematic Literature Review on Large Language Models for Automated   Program Repair | [2405.01466](http://arxiv.org/abs/2405.01466) | https://github.com/isenglab/awesomellm4apr | 2024-05-12 |
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-05-11 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
-| Automated Program Repair: Emerging trends pose and expose problems for   benchmarks | [2405.05455](http://arxiv.org/abs/2405.05455) | None | 2024-05-08 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -130,32 +130,20 @@
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic   Chunking and Hard Example Learning | [2407.17631](http://arxiv.org/abs/2407.17631) | None | 2024-07-24 |
 | Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
-| Cloud Atlas: Efficient Fault Localization for Cloud Systems using   Language Models and Causal Insight | [2407.08694](http://arxiv.org/abs/2407.08694) | None | 2024-07-11 |
-| Feedback-Generation for Programming Exercises With GPT-4 | [2403.04449](http://arxiv.org/abs/2403.04449) | None | 2024-07-04 |
-| A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault   Localization | [2308.05487](http://arxiv.org/abs/2308.05487) | None | 2024-07-02 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
 | A Unified Debugging Approach via LLM-Based Multi-Agent Synergy | [2404.17153](http://arxiv.org/abs/2404.17153) | None | 2024-04-26 |
-| Revisiting Unnaturalness for Automated Program Repair in the Era of   Large Language Models | [2404.15236](http://arxiv.org/abs/2404.15236) | None | 2024-04-23 |
-| How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-04-19 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| Can Large Language Models Transform Natural Language Intent into Formal   Method Postconditions? | [2310.01831](http://arxiv.org/abs/2310.01831) | None | 2024-04-15 |
-| Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-04-13 |
-| AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2024-03-25 |
-| Demystifying Faulty Code with LLM: Step-by-Step Reasoning for   Explainable Fault Localization | [2403.10507](http://arxiv.org/abs/2403.10507) | None | 2024-03-15 |
-| Exploring Interaction Patterns for Debugging: Enhancing Conversational   Capabilities of AI-assistants | [2402.06229](http://arxiv.org/abs/2402.06229) | None | 2024-02-09 |
 | Generalized Planning in PDDL Domains with Pretrained Large Language   Models | [2305.11014](http://arxiv.org/abs/2305.11014) | https://github.com/tomsilver/llm-genplan | 2023-12-18 |
-| ConDefects: A New Dataset to Address the Data Leakage Concern for   LLM-based Fault Localization and Program Repair | [2310.16253](http://arxiv.org/abs/2310.16253) | None | 2023-10-25 |
-| AI-enhanced Auto-correction of Programming Exercises: How Effective is   GPT-3.5? | [2311.10737](http://arxiv.org/abs/2311.10737) | None | 2023-10-24 |
-| Automatic Generation of Test Cases based on Bug Reports: a Feasibility   Study with Large Language Models | [2310.06320](http://arxiv.org/abs/2310.06320) | None | 2023-10-10 |
 | Large Language Models for Test-Free Fault Localization | [2310.01726](http://arxiv.org/abs/2310.01726) | https://github.com/squareslab/llmao | 2023-10-03 |
 | Large Language Models in Fault Localisation | [2308.15276](http://arxiv.org/abs/2308.15276) | https://github.com/tempupload/flofchatgpt | 2023-10-02 |
 | Explainable Automated Debugging via Large Language Model-driven   Scientific Debugging | [2304.02195](http://arxiv.org/abs/2304.02195) | None | 2023-04-05 |
-| Automated Repair of Programs from Large Language Models | [2205.10583](http://arxiv.org/abs/2205.10583) | None | 2023-01-02 |
 
 <h2 id="Bug/Vulnerability-Detection"> Bug/Vulnerability Detection </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2024-08-05 |
+| From Generalist to Specialist: Exploring CWE-Specific Vulnerability   Detection | [2408.02329](http://arxiv.org/abs/2408.02329) | None | 2024-08-05 |
 | A Qualitative Study on Using ChatGPT for Software Security: Perception   vs. Practicality | [2408.00435](http://arxiv.org/abs/2408.00435) | None | 2024-08-01 |
 | How Effective Are They? Exploring Large Language Model Based Fuzz Driver   Generation | [2307.12469](http://arxiv.org/abs/2307.12469) | None | 2024-07-29 |
 | Large Language Models for Cyber Security: A Systematic Literature Review | [2405.04760](http://arxiv.org/abs/2405.04760) | https://github.com/hiyouga/llama-efficient-tuning | 2024-07-27 |
@@ -185,14 +173,27 @@
 | Transfer Learning in Pre-Trained Large Language Models for Malware   Detection Based on System Calls | [2405.09318](http://arxiv.org/abs/2405.09318) | None | 2024-05-15 |
 | METAREFLECTION: Learning Instructions for Language Agents using Past   Reflections | [2405.13009](http://arxiv.org/abs/2405.13009) | None | 2024-05-13 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
-| GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2024-05-06 |
-| DLAP: A Deep Learning Augmented Large Language Model Prompting Framework   for Software Vulnerability Detection | [2405.01202](http://arxiv.org/abs/2405.01202) | https://github.com/yang-yanjing/dlap | 2024-05-02 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SEAS: Self-Evolving Adversarial Safety Optimization for Large Language   Models | [2408.02632](http://arxiv.org/abs/2408.02632) | None | 2024-08-05 |
+| Practical Attacks against Black-box Code Completion Engines | [2408.02509](http://arxiv.org/abs/2408.02509) | None | 2024-08-05 |
+| From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2024-08-05 |
+| Long Input Benchmark for Russian Analysis | [2408.02439](http://arxiv.org/abs/2408.02439) | None | 2024-08-05 |
+| Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-08-05 |
 | Agentic LLM Workflows for Generating Patient-Friendly Medical Reports | [2408.01112](http://arxiv.org/abs/2408.01112) | None | 2024-08-05 |
+| Fine-tuning multilingual language models in Twitter/X sentiment   analysis: a study on Eastern-European V4 languages | [2408.02044](http://arxiv.org/abs/2408.02044) | None | 2024-08-04 |
+| MAO: A Framework for Process Model Generation with Multi-Agent   Orchestration | [2408.01916](http://arxiv.org/abs/2408.01916) | None | 2024-08-04 |
+| A Feature-Based Approach to Generating Comprehensive End-to-End Tests | [2408.01894](http://arxiv.org/abs/2408.01894) | None | 2024-08-04 |
+| ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large   Language Models | [2406.07831](http://arxiv.org/abs/2406.07831) | None | 2024-08-03 |
+| Large Language Models for Equivalent Mutant Detection: How Far Are We? | [2408.01760](http://arxiv.org/abs/2408.01760) | None | 2024-08-03 |
+| Integrating Large Language Models and Knowledge Graphs for Extraction   and Validation of Textual Test Data | [2408.01700](http://arxiv.org/abs/2408.01700) | None | 2024-08-03 |
+| Integrating Physician Diagnostic Logic into Large Language Models:   Preference Learning from Process Feedback | [2401.05695](http://arxiv.org/abs/2401.05695) | None | 2024-08-03 |
+| Where Are Large Language Models for Code Generation on GitHub? | [2406.19544](http://arxiv.org/abs/2406.19544) | https://github.com/lkpttxg/wherecodegenerationbyllm | 2024-08-03 |
+| Mission: Impossible Language Models | [2401.06416](http://arxiv.org/abs/2401.06416) | https://github.com/jkallini/mission-impossible-language-models | 2024-08-02 |
+| Dynamic In-context Learning with Conversational Models for Data   Extraction and Materials Property Prediction | [2405.10448](http://arxiv.org/abs/2405.10448) | https://github.com/gmp007/propertyextractor | 2024-08-02 |
 | A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-02 |
 | LLMs' Understanding of Natural Language Revealed | [2407.19630](http://arxiv.org/abs/2407.19630) | None | 2024-08-02 |
 | ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
@@ -208,21 +209,6 @@
 | Towards Flexible Evaluation for Generative Visual Question Answering | [2408.00300](http://arxiv.org/abs/2408.00300) | None | 2024-08-01 |
 | Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network | [2408.00290](http://arxiv.org/abs/2408.00290) | None | 2024-08-01 |
 | Automatic Generation of Behavioral Test Cases For Natural Language   Processing Using Clustering and Prompting | [2408.00161](http://arxiv.org/abs/2408.00161) | None | 2024-07-31 |
-| Distributed In-Context Learning under Non-IID Among Clients | [2408.00144](http://arxiv.org/abs/2408.00144) | None | 2024-07-31 |
-| Do Large Language Models Understand Conversational Implicature -- A case   study with a chinese sitcom | [2404.19509](http://arxiv.org/abs/2404.19509) | https://github.com/sjtu-compling/llm-pragmatics | 2024-07-31 |
-| CXSimulator: A User Behavior Simulation using LLM Embeddings for   Web-Marketing Campaign Assessment | [2407.21553](http://arxiv.org/abs/2407.21553) | None | 2024-07-31 |
-| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
-| Chat-like Asserts Prediction with the Support of Large Language Model | [2407.21429](http://arxiv.org/abs/2407.21429) | None | 2024-07-31 |
-| An LLM-based Readability Measurement for Unit Tests' Context-aware   Inputs | [2407.21369](http://arxiv.org/abs/2407.21369) | None | 2024-07-31 |
-| MetaOpenFOAM: an LLM-based multi-agent framework for CFD | [2407.21320](http://arxiv.org/abs/2407.21320) | None | 2024-07-31 |
-| Human vs. Machine: Behavioral Differences Between Expert Humans and   Language Models in Wargame Simulations | [2403.03407](http://arxiv.org/abs/2403.03407) | https://github.com/ancorso/llmwargaming | 2024-07-31 |
-| ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
-| Effective Black Box Testing of Sentiment Analysis Classification   Networks | [2407.20884](http://arxiv.org/abs/2407.20884) | None | 2024-07-30 |
-| How to Measure the Intelligence of Large Language Models? | [2407.20828](http://arxiv.org/abs/2407.20828) | None | 2024-07-30 |
-| Preliminary Study on Incremental Learning for Large Language Model-based   Recommender Systems | [2312.15599](http://arxiv.org/abs/2312.15599) | None | 2024-07-30 |
-| Evaluating Large Language Models in Detecting Test Smells | [2407.19261](http://arxiv.org/abs/2407.19261) | None | 2024-07-30 |
-| MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains | [2407.18961](http://arxiv.org/abs/2407.18961) | https://github.com/apple/axlearn | 2024-07-30 |
-| C-RAG: Certified Generation Risks for Retrieval-Augmented Language   Models | [2402.03181](http://arxiv.org/abs/2402.03181) | https://github.com/kangmintong/c-rag | 2024-07-30 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -240,6 +226,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-05 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-06-17 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |

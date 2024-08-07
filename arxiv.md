@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Extend Model Merging from Fine-Tuned to Pre-Trained Large Language   Models via Weight Disentanglement | [2408.03092](http://arxiv.org/abs/2408.03092) | None | 2024-08-06 |
+| Neuron Patching: Semantic-based Neuron-level Language Model Repair for   Code Generation | [2312.05356](http://arxiv.org/abs/2312.05356) | None | 2024-08-06 |
 | A First Look at License Compliance Capability of LLMs in Code Generation | [2408.02487](http://arxiv.org/abs/2408.02487) | None | 2024-08-05 |
 | From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2024-08-05 |
 | SceneMotifCoder: Example-driven Visual Program Learning for Generating   3D Object Arrangements | [2408.02211](http://arxiv.org/abs/2408.02211) | None | 2024-08-05 |
@@ -83,8 +85,6 @@
 | AutoVCoder: A Systematic Framework for Automated Verilog Code Generation   using LLMs | [2407.18333](http://arxiv.org/abs/2407.18333) | None | 2024-07-21 |
 | Constrained Decoding for Secure Code Generation | [2405.00218](http://arxiv.org/abs/2405.00218) | https://github.com/dynamite321/codeguardplus | 2024-07-20 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-07-20 |
-| Beyond Code Generation: Assessing Code LLM Maturity with Postconditions | [2407.14118](http://arxiv.org/abs/2407.14118) | https://github.com/maturemodel/postcondgen | 2024-07-19 |
-| ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing   Functional Correctness? | [2407.14044](http://arxiv.org/abs/2407.14044) | https://github.com/codeeff/ecco | 2024-07-19 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -192,6 +192,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| StructEval: Deepen and Broaden Large Language Model Assessment via   Structured Evaluation | [2408.03281](http://arxiv.org/abs/2408.03281) | None | 2024-08-06 |
+| Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2024-08-06 |
+| TestART: Improving LLM-based Unit Test via Co-evolution of Automated   Generation and Repair Iteration | [2408.03095](http://arxiv.org/abs/2408.03095) | None | 2024-08-06 |
+| From Static Benchmarks to Adaptive Testing: Psychometrics in AI   Evaluation | [2306.10512](http://arxiv.org/abs/2306.10512) | https://github.com/bigdata-ustc/edudata | 2024-08-06 |
+| L3iTC at the FinLLM Challenge Task: Quantization for Financial Text   Classification & Summarization | [2408.03033](http://arxiv.org/abs/2408.03033) | None | 2024-08-06 |
+| Evaluating Large Language Models for Automatic Register Transfer Logic   Generation via High-Level Synthesis | [2408.02793](http://arxiv.org/abs/2408.02793) | None | 2024-08-05 |
 | SEAS: Self-Evolving Adversarial Safety Optimization for Large Language   Models | [2408.02632](http://arxiv.org/abs/2408.02632) | None | 2024-08-05 |
 | Practical Attacks against Black-box Code Completion Engines | [2408.02509](http://arxiv.org/abs/2408.02509) | None | 2024-08-05 |
 | From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2024-08-05 |
@@ -217,12 +223,6 @@
 | The Impact of Quantization on Retrieval-Augmented Generation: An   Analysis of Small LLMs | [2406.10251](http://arxiv.org/abs/2406.10251) | None | 2024-08-01 |
 | The opportunities and risks of large language models in mental health | [2403.14814](http://arxiv.org/abs/2403.14814) | None | 2024-08-01 |
 | Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian   Rebuses | [2408.00584](http://arxiv.org/abs/2408.00584) | None | 2024-08-01 |
-| A Qualitative Study on Using ChatGPT for Software Security: Perception   vs. Practicality | [2408.00435](http://arxiv.org/abs/2408.00435) | None | 2024-08-01 |
-| On Inter-dataset Code Duplication and Data Leakage in Large Language   Models | [2401.07930](http://arxiv.org/abs/2401.07930) | None | 2024-08-01 |
-| Large Language Models for Next Point-of-Interest Recommendation | [2404.17591](http://arxiv.org/abs/2404.17591) | https://github.com/neolifer/LLM4POI | 2024-08-01 |
-| Towards Flexible Evaluation for Generative Visual Question Answering | [2408.00300](http://arxiv.org/abs/2408.00300) | None | 2024-08-01 |
-| Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network | [2408.00290](http://arxiv.org/abs/2408.00290) | None | 2024-08-01 |
-| Automatic Generation of Behavioral Test Cases For Natural Language   Processing Using Clustering and Prompting | [2408.00161](http://arxiv.org/abs/2408.00161) | None | 2024-07-31 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

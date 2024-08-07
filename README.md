@@ -580,6 +580,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Name                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2024  | [BigCodeBench](https://bigcode-bench.github.io/) |
 | 2024  | [HumanEval+](https://evalplus.github.io/leaderboard.html) |
 | 2024  | [SWE-Bench](https://www.swebench.com) |
 
@@ -589,7 +590,8 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
-|2024  | [Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf) |
+| 2024 | [Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf) |
+| 2023 | [Source Code Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2305.19915)  |
 | 2023 | [A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/pdf/2305.03803.pdf)  |
 | 2023 | [Towards an Understanding of Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2308.11396) |
 | 2023 | [A Survey of Large Language Models for Code: Evolution, Benchmarking, and Future Trends](https://arxiv.org/abs/2311.10372) |

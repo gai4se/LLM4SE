@@ -1,4 +1,4 @@
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -64,7 +64,7 @@
 | Where Are Large Language Models for Code Generation on GitHub? | [2406.19544](http://arxiv.org/abs/2406.19544) | https://github.com/lkpttxg/wherecodegenerationbyllm | 2024-08-03 |
 | MCGMark: An Encodable and Robust Online Watermark for LLM-Generated   Malicious Code | [2408.01354](http://arxiv.org/abs/2408.01354) | None | 2024-08-02 |
 | ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
-| On the Resilience of Multi-Agent Systems with Malicious Agents | [2408.00989](http://arxiv.org/abs/2408.00989) | None | 2024-08-02 |
+| On the Resilience of Multi-Agent Systems with Malicious Agents | [2408.00989](http://arxiv.org/abs/2408.00989) | https://github.com/cuhk-arise/mas-resilience | 2024-08-02 |
 | AutoM3L: An Automated Multimodal Machine Learning Framework with Large   Language Models | [2408.00665](http://arxiv.org/abs/2408.00665) | None | 2024-08-01 |
 | A Performance Study of LLM-Generated Code on Leetcode | [2407.21579](http://arxiv.org/abs/2407.21579) | None | 2024-07-31 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
@@ -90,7 +90,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-05 |
+| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-07 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
 | ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
@@ -192,9 +192,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| StructEval: Deepen and Broaden Large Language Model Assessment via   Structured Evaluation | [2408.03281](http://arxiv.org/abs/2408.03281) | None | 2024-08-06 |
+| StructEval: Deepen and Broaden Large Language Model Assessment via   Structured Evaluation | [2408.03281](http://arxiv.org/abs/2408.03281) | https://github.com/c-box/structeval | 2024-08-07 |
+| TestART: Improving LLM-based Unit Test via Co-evolution of Automated   Generation and Repair Iteration | [2408.03095](http://arxiv.org/abs/2408.03095) | None | 2024-08-07 |
+| MAO: A Framework for Process Model Generation with Multi-Agent   Orchestration | [2408.01916](http://arxiv.org/abs/2408.01916) | None | 2024-08-07 |
+| A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-07 |
 | Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4   Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation | [2310.03780](http://arxiv.org/abs/2310.03780) | https://github.com/machine-teaching-group/lak2024_gpt4hints-gpt3.5val | 2024-08-06 |
-| TestART: Improving LLM-based Unit Test via Co-evolution of Automated   Generation and Repair Iteration | [2408.03095](http://arxiv.org/abs/2408.03095) | None | 2024-08-06 |
 | From Static Benchmarks to Adaptive Testing: Psychometrics in AI   Evaluation | [2306.10512](http://arxiv.org/abs/2306.10512) | https://github.com/bigdata-ustc/edudata | 2024-08-06 |
 | L3iTC at the FinLLM Challenge Task: Quantization for Financial Text   Classification & Summarization | [2408.03033](http://arxiv.org/abs/2408.03033) | None | 2024-08-06 |
 | Evaluating Large Language Models for Automatic Register Transfer Logic   Generation via High-Level Synthesis | [2408.02793](http://arxiv.org/abs/2408.02793) | None | 2024-08-05 |
@@ -205,16 +207,14 @@
 | Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-08-05 |
 | Agentic LLM Workflows for Generating Patient-Friendly Medical Reports | [2408.01112](http://arxiv.org/abs/2408.01112) | None | 2024-08-05 |
 | Fine-tuning multilingual language models in Twitter/X sentiment   analysis: a study on Eastern-European V4 languages | [2408.02044](http://arxiv.org/abs/2408.02044) | None | 2024-08-04 |
-| MAO: A Framework for Process Model Generation with Multi-Agent   Orchestration | [2408.01916](http://arxiv.org/abs/2408.01916) | None | 2024-08-04 |
 | A Feature-Based Approach to Generating Comprehensive End-to-End Tests | [2408.01894](http://arxiv.org/abs/2408.01894) | None | 2024-08-04 |
 | ALPS: Improved Optimization for Highly Sparse One-Shot Pruning for Large   Language Models | [2406.07831](http://arxiv.org/abs/2406.07831) | None | 2024-08-03 |
 | Large Language Models for Equivalent Mutant Detection: How Far Are We? | [2408.01760](http://arxiv.org/abs/2408.01760) | None | 2024-08-03 |
 | Integrating Large Language Models and Knowledge Graphs for Extraction   and Validation of Textual Test Data | [2408.01700](http://arxiv.org/abs/2408.01700) | None | 2024-08-03 |
-| Integrating Physician Diagnostic Logic into Large Language Models:   Preference Learning from Process Feedback | [2401.05695](http://arxiv.org/abs/2401.05695) | None | 2024-08-03 |
+| Integrating Physician Diagnostic Logic into Large Language Models:   Preference Learning from Process Feedback | [2401.05695](http://arxiv.org/abs/2401.05695) | https://github.com/chengfeng-dou/sptesting | 2024-08-03 |
 | Where Are Large Language Models for Code Generation on GitHub? | [2406.19544](http://arxiv.org/abs/2406.19544) | https://github.com/lkpttxg/wherecodegenerationbyllm | 2024-08-03 |
 | Mission: Impossible Language Models | [2401.06416](http://arxiv.org/abs/2401.06416) | https://github.com/jkallini/mission-impossible-language-models | 2024-08-02 |
 | Dynamic In-context Learning with Conversational Models for Data   Extraction and Materials Property Prediction | [2405.10448](http://arxiv.org/abs/2405.10448) | https://github.com/gmp007/propertyextractor | 2024-08-02 |
-| A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-02 |
 | LLMs' Understanding of Natural Language Revealed | [2407.19630](http://arxiv.org/abs/2407.19630) | None | 2024-08-02 |
 | ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
 | Jailbreaking Text-to-Image Models with LLM-Based Agents | [2408.00523](http://arxiv.org/abs/2408.00523) | None | 2024-08-01 |
@@ -240,7 +240,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-05 |
+| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-07 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
 | CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-06-17 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |

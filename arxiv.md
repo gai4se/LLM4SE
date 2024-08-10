@@ -201,7 +201,7 @@
 | Knowledge-based Emotion Recognition using Large Language Models | [2408.04123](http://arxiv.org/abs/2408.04123) | None | 2024-08-07 |
 | Can Rule-Based Insights Enhance LLMs for Radiology Report   Classification? Introducing the RadPrompt Methodology | [2408.04121](http://arxiv.org/abs/2408.04121) | None | 2024-08-07 |
 | Functional Overlap Reranking for Neural Code Generation | [2311.03366](http://arxiv.org/abs/2311.03366) | https://github.com/fsoft-ai4code/srank-coderanker | 2024-08-07 |
-| WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language   Models | [2408.03837](http://arxiv.org/abs/2408.03837) | None | 2024-08-07 |
+| WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language   Models | [2408.03837](http://arxiv.org/abs/2408.03837) | https://github.com/walledai/walledeval | 2024-08-07 |
 | A Backbone for Long-Horizon Robot Task Understanding | [2408.01334](http://arxiv.org/abs/2408.01334) | None | 2024-08-07 |
 | MAO: A Framework for Process Model Generation with Multi-Agent   Orchestration | [2408.01916](http://arxiv.org/abs/2408.01916) | None | 2024-08-07 |
 | Large Language Models for Base Station Siting: Intelligent Deployment   based on Prompt or Agent | [2408.03631](http://arxiv.org/abs/2408.03631) | None | 2024-08-07 |

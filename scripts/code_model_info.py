@@ -1,5 +1,5 @@
 from transformers import AutoConfig, AutoModel
-from huggingface_hub import HfApi, ModelFilter
+from huggingface_hub import HfApi
 
 def get_model_information(model):
 
@@ -28,16 +28,8 @@ def get_model_information(model):
 
 
 def retrieve_all_huggingface_models(filtering_language):
-    
-    api = HfApi()
-    model_list = api.list_models(
-        filter=ModelFilter(
-            language=filtering_language
-        )
-    )
-    model_list = list(model_list)
-    
-    return model_list
+    return list(HfApi().list_models(language=filtering_language))
+
 
 
 def group_models_by_year(model_list):

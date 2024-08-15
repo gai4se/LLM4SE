@@ -1,4 +1,4 @@
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -27,36 +27,36 @@
 | Source Code Summarization in the Era of Large Language Models | [2407.07959](http://arxiv.org/abs/2407.07959) | https://github.com/wssun/llm4codesummarization | 2024-07-09 |
 | InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with   Inverse-Instruct | [2407.05700](http://arxiv.org/abs/2407.05700) | https://github.com/wyt2000/InverseCoder | 2024-07-08 |
 | An Empirical Study on Capability of Large Language Models in   Understanding Code Semantics | [2407.03611](http://arxiv.org/abs/2407.03611) | None | 2024-07-04 |
+| Reasoning Runtime Behavior of a Program with LLM: How Far Are We? | [2403.16437](http://arxiv.org/abs/2403.16437) | None | 2024-07-03 |
 | MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for   Iterative Binary Malware Summarization | [2406.18379](http://arxiv.org/abs/2406.18379) | None | 2024-06-26 |
+| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-06-18 |
 | Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2024-06-11 |
+| McEval: Massively Multilingual Code Evaluation | [2406.07436](http://arxiv.org/abs/2406.07436) | None | 2024-06-11 |
+| RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |
+| Exploring the Efficacy of Large Language Models (GPT-4) in Binary   Reverse Engineering | [2406.06637](http://arxiv.org/abs/2406.06637) | None | 2024-06-09 |
+| CodeScope: An Execution-based Multilingual Multitask Multidimensional   Benchmark for Evaluating LLMs on Code Understanding and Generation | [2311.08588](http://arxiv.org/abs/2311.08588) | https://github.com/weixiangyan/codescope | 2024-06-07 |
+| GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining   GPT with Program Analysis | [2308.03314](http://arxiv.org/abs/2308.03314) | https://github.com/metatrustlabs/falcon-metatrust | 2024-05-06 |
 | On Training a Neural Network to Explain Binaries | [2404.19631](http://arxiv.org/abs/2404.19631) | None | 2024-04-30 |
 | A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
 | How Far Have We Gone in Stripped Binary Code Understanding Using Large   Language Models | [2404.09836](http://arxiv.org/abs/2404.09836) | None | 2024-04-16 |
 | Analyzing the Performance of Large Language Models on Code Summarization | [2404.08018](http://arxiv.org/abs/2404.08018) | https://github.com/rajarshihaldar/analyze-llm-code-summarization | 2024-04-10 |
+| Open-Source AI-based SE Tools: Opportunities and Challenges of   Collaborative Software Learning | [2404.06201](http://arxiv.org/abs/2404.06201) | None | 2024-04-09 |
+| Testing the Effect of Code Documentation on Large Language Model Code   Understanding | [2404.03114](http://arxiv.org/abs/2404.03114) | None | 2024-04-03 |
+| A Survey of using Large Language Models for Generating Infrastructure as   Code | [2404.00227](http://arxiv.org/abs/2404.00227) | None | 2024-03-30 |
 | Read between the lines -- Functionality Extraction From READMEs | [2403.10205](http://arxiv.org/abs/2403.10205) | None | 2024-03-15 |
 | RepoAgent: An LLM-Powered Open-Source Framework for Repository-level   Code Documentation Generation | [2402.16667](http://arxiv.org/abs/2402.16667) | https://github.com/openbmb/repoagent | 2024-02-26 |
 | Automated Smart Contract Summarization via LLMs | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-02-21 |
+| Scaling Laws Behind Code Understanding Model | [2402.12813](http://arxiv.org/abs/2402.12813) | None | 2024-02-20 |
 | DocChecker: Bootstrapping Code Large Language Model for Detecting and   Resolving Code-Comment Inconsistencies | [2306.06347](http://arxiv.org/abs/2306.06347) | https://github.com/fsoft-ai4code/docchecker | 2024-02-03 |
 | Investigating the Efficacy of Large Language Models for Code Clone   Detection | [2401.13802](http://arxiv.org/abs/2401.13802) | https://github.com/mkhfring/largelanguagemodels | 2024-01-30 |
-| Automatic Semantic Augmentation of Language Model Prompts (for Code   Summarization) | [2304.06815](http://arxiv.org/abs/2304.06815) | None | 2024-01-11 |
-| Breaking the Silence: the Threats of Using LLMs in Software Engineering | [2312.08055](http://arxiv.org/abs/2312.08055) | https://github.com/llm4se/obfuscated-chatgpt-experiments | 2024-01-08 |
-| A Prompt Learning Framework for Source Code Summarization | [2312.16066](http://arxiv.org/abs/2312.16066) | https://github.com/wssun/promptcs | 2023-12-26 |
-| Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large   Language Models | [2312.09601](http://arxiv.org/abs/2312.09601) | https://github.com/xinjin95/binsum | 2023-12-15 |
-| Exploring Distributional Shifts in Large Language Models for Code   Analysis | [2303.09128](http://arxiv.org/abs/2303.09128) | None | 2023-12-05 |
-| Transfer Attacks and Defenses for Large Language Models on Coding Tasks | [2311.13445](http://arxiv.org/abs/2311.13445) | None | 2023-11-22 |
-| The Vault: A Comprehensive Multilingual Dataset for Advancing Code   Understanding and Generation | [2305.06156](http://arxiv.org/abs/2305.06156) | https://github.com/fsoft-ai4code/thevault | 2023-10-30 |
-| Exploring Large Language Models for Code Explanation | [2310.16673](http://arxiv.org/abs/2310.16673) | None | 2023-10-25 |
-| An Assessment of ChatGPT on Log Data | [2309.07938](http://arxiv.org/abs/2309.07938) | None | 2023-09-14 |
-| Explainable AI for Pre-Trained Code Models: What Do They Learn? When   They Do Not Work? | [2211.12821](http://arxiv.org/abs/2211.12821) | None | 2023-08-28 |
-| SoTaNa: The Open-Source Software Development Assistant | [2308.13416](http://arxiv.org/abs/2308.13416) | https://github.com/deepsoftwareanalytics/sotana | 2023-08-25 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level   Code Completion | [2403.06095](http://arxiv.org/abs/2403.06095) | https://github.com/fsoft-ai4code/repohyper | 2024-08-14 |
 | HLSPilot: LLM-based High-Level Synthesis | [2408.06810](http://arxiv.org/abs/2408.06810) | None | 2024-08-13 |
 | Evaluating Language Models for Efficient Code Generation | [2408.06450](http://arxiv.org/abs/2408.06450) | None | 2024-08-12 |
-| RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level   Code Completionn | [2403.06095](http://arxiv.org/abs/2403.06095) | https://github.com/fsoft-ai4code/repohyper | 2024-08-12 |
 | Insights from the Usage of the Ansible Lightspeed Code Completion   Service | [2402.17442](http://arxiv.org/abs/2402.17442) | None | 2024-08-12 |
 | Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking | [2408.05715](http://arxiv.org/abs/2408.05715) | None | 2024-08-11 |
 | Hotfixing Large Language Models for Cod | [2408.05727](http://arxiv.org/abs/2408.05727) | None | 2024-08-11 |

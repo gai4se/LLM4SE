@@ -1,4 +1,4 @@
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -79,10 +79,10 @@
 | Practical Attacks against Black-box Code Completion Engines | [2408.02509](http://arxiv.org/abs/2408.02509) | None | 2024-08-05 |
 | Chain-of-Thought in Neural Code Generation: From and For Lightweight   Language Models | [2312.05562](http://arxiv.org/abs/2312.05562) | https://github.com/ntdxyg/cotton | 2024-08-04 |
 | Where Are Large Language Models for Code Generation on GitHub? | [2406.19544](http://arxiv.org/abs/2406.19544) | https://github.com/lkpttxg/wherecodegenerationbyllm | 2024-08-03 |
-| MCGMark: An Encodable and Robust Online Watermark for LLM-Generated   Malicious Code | [2408.01354](http://arxiv.org/abs/2408.01354) | None | 2024-08-02 |
-| ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | None | 2024-08-02 |
+| MCGMark: An Encodable and Robust Online Watermark for LLM-Generated   Malicious Code | [2408.01354](http://arxiv.org/abs/2408.01354) | https://github.com/KevinHeiwa/MCGTM | 2024-08-02 |
+| ArchCode: Incorporating Software Requirements in Code Generation with   Large Language Models | [2408.00994](http://arxiv.org/abs/2408.00994) | https://github.com/ldilab/ArchCode | 2024-08-02 |
 | On the Resilience of Multi-Agent Systems with Malicious Agents | [2408.00989](http://arxiv.org/abs/2408.00989) | https://github.com/cuhk-arise/mas-resilience | 2024-08-02 |
-| AutoM3L: An Automated Multimodal Machine Learning Framework with Large   Language Models | [2408.00665](http://arxiv.org/abs/2408.00665) | None | 2024-08-01 |
+| AutoM3L: An Automated Multimodal Machine Learning Framework with Large   Language Models | [2408.00665](http://arxiv.org/abs/2408.00665) | https://github.com/tim120526/AutoM3L | 2024-08-01 |
 | A Performance Study of LLM-Generated Code on Leetcode | [2407.21579](http://arxiv.org/abs/2407.21579) | None | 2024-07-31 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
 
@@ -116,11 +116,11 @@
 | SemCoder: Training Code Language Models with Comprehensive Semantics | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-06-03 |
 | Mining Action Rules for Defect Reduction Planning | [2405.13740](http://arxiv.org/abs/2405.13740) | None | 2024-05-22 |
 | Test Oracle Automation in the era of LLMs | [2405.12766](http://arxiv.org/abs/2405.12766) | None | 2024-05-21 |
-| Fight Fire with Fire: How Much Can We Trust ChatGPT on Source   Code-Related Tasks? | [2405.12641](http://arxiv.org/abs/2405.12641) | None | 2024-05-21 |
-| Automatic Programming: Large Language Models and Beyond | [2405.02213](http://arxiv.org/abs/2405.02213) | None | 2024-05-15 |
-| A Systematic Literature Review on Large Language Models for Automated   Program Repair | [2405.01466](http://arxiv.org/abs/2405.01466) | https://github.com/isenglab/awesomellm4apr | 2024-05-12 |
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-05-11 |
 | A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
+| NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair | [2405.04994](http://arxiv.org/abs/2405.04994) | None | 2024-05-08 |
+| A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
+| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-04-09 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -243,7 +243,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| ViC: Virtual Compiler Is All You Need For Assembly Code Search | [2408.06385](http://arxiv.org/abs/2408.06385) | None | 2024-08-10 |
+| ViC: Virtual Compiler Is All You Need For Assembly Code Search | [2408.06385](http://arxiv.org/abs/2408.06385) | https://github.com/zeyugao/virtualcompiler | 2024-08-10 |
 | You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic   Code Search | [2408.05542](http://arxiv.org/abs/2408.05542) | None | 2024-08-10 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-07 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |

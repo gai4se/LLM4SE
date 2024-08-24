@@ -1,4 +1,4 @@
-## Updated on 2024.08.23
+## Updated on 2024.08.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -92,8 +92,10 @@
 | --- | --- | --- | --- |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-22 |
 | Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | None | 2024-08-21 |
-| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-08-20 |
 | Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-20 |
+| Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-08-20 |
+| Impact of Large Language Models of Code on Fault Localization | [2408.09657](http://arxiv.org/abs/2408.09657) | None | 2024-08-19 |
+| MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-18 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-07-31 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2024-07-31 |
 | ThinkRepair: Self-Directed Automated Program Repair | [2407.20898](http://arxiv.org/abs/2407.20898) | https://github.com/vinci-grape/ThinkRepair | 2024-07-30 |
@@ -104,23 +106,21 @@
 | Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | None | 2024-07-23 |
 | Trust No Bot: Discovering Personal Disclosures in Human-LLM   Conversations in the Wild | [2407.11438](http://arxiv.org/abs/2407.11438) | https://github.com/mireshghallah/ChatGPT-personal-disclosures | 2024-07-20 |
 | ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing   Functional Correctness? | [2407.14044](http://arxiv.org/abs/2407.14044) | https://github.com/codeeff/ecco | 2024-07-19 |
+| Towards Practical and Useful Automated Program Repair for Debugging | [2407.08958](http://arxiv.org/abs/2407.08958) | None | 2024-07-12 |
+| CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | https://github.com/buaabarty/cref | 2024-07-08 |
+| Automated C/C++ Program Repair for High-Level Synthesis via Large   Language Models | [2407.03889](http://arxiv.org/abs/2407.03889) | None | 2024-07-04 |
 | Let the Code LLM Edit Itself When You Edit the Code | [2407.03157](http://arxiv.org/abs/2407.03157) | None | 2024-07-03 |
+| Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-07-01 |
 | A New Era in Software Security: Towards Self-Healing Software via Large   Language Models and Formal Verification | [2305.14752](http://arxiv.org/abs/2305.14752) | https://github.com/esbmc/esbmc | 2024-06-27 |
 | VersiCode: Towards Version-controllable Code Generation | [2406.07411](http://arxiv.org/abs/2406.07411) | https://github.com/wutong8023/versicode | 2024-06-11 |
+| A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on   Automated Program Repair | [2406.05639](http://arxiv.org/abs/2406.05639) | None | 2024-06-09 |
+| RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-06-07 |
 | On The Importance of Reasoning for Context Retrieval in Repository-Level   Code Editing | [2406.04464](http://arxiv.org/abs/2406.04464) | https://github.com/jetbrains-research/ai-agents-code-editing | 2024-06-06 |
 | Code Comparison Tuning for Code Large Language Models | [2403.19121](http://arxiv.org/abs/2403.19121) | None | 2024-06-05 |
+| SemCoder: Training Code Language Models with Comprehensive Semantics | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-06-03 |
 | Mining Action Rules for Defect Reduction Planning | [2405.13740](http://arxiv.org/abs/2405.13740) | None | 2024-05-22 |
-| Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2024-05-11 |
-| A Deep Dive into Large Language Models for Automated Bug Localization   and Repair | [2404.11595](http://arxiv.org/abs/2404.11595) | None | 2024-05-10 |
-| A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-04-09 |
-| CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2024-04-06 |
-| Untangling Knots: Leveraging LLM for Error Resolution in Computational   Notebooks | [2405.01559](http://arxiv.org/abs/2405.01559) | None | 2024-03-26 |
-| ChatDBG: An AI-Powered Debugging Assistant | [2403.16354](http://arxiv.org/abs/2403.16354) | https://github.com/plasma-umass/chatdbg | 2024-03-25 |
-| Can It Edit? Evaluating the Ability of Large Language Models to Follow   Code Editing Instructions | [2312.12450](http://arxiv.org/abs/2312.12450) | https://github.com/nuprl/canitedit | 2024-03-20 |
-| A Study of Vulnerability Repair in JavaScript Programs with Large   Language Models | [2403.13193](http://arxiv.org/abs/2403.13193) | None | 2024-03-19 |
-| ContrastRepair: Enhancing Conversation-Based Automated Program Repair   via Contrastive Test Case Pairs | [2403.01971](http://arxiv.org/abs/2403.01971) | None | 2024-03-07 |
-| InstructCoder: Instruction Tuning Large Language Models for Code Editing | [2310.20329](http://arxiv.org/abs/2310.20329) | https://github.com/qishenghu/CodeInstruct | 2024-02-28 |
+| Test Oracle Automation in the era of LLMs | [2405.12766](http://arxiv.org/abs/2405.12766) | None | 2024-05-21 |
+| Fight Fire with Fire: How Much Can We Trust ChatGPT on Source   Code-Related Tasks? | [2405.12641](http://arxiv.org/abs/2405.12641) | None | 2024-05-21 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

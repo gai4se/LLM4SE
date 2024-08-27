@@ -1,4 +1,4 @@
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,11 +18,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| XMainframe: A Large Language Model for Mainframe Modernization | [2408.04660](http://arxiv.org/abs/2408.04660) | https://github.com/fsoft-ai4code/xmainframe | 2024-08-26 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-08-21 |
 | SCLA: Automated Smart Contract Summarization via LLMs and Semantic   Augmentation | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-08-20 |
 | CodeJudge-Eval: Can Large Language Models be Good Judges in Code   Understanding? | [2408.10718](http://arxiv.org/abs/2408.10718) | https://github.com/codellm-research/codejudge-eval | 2024-08-20 |
 | Context-aware Code Summary Generation | [2408.09006](http://arxiv.org/abs/2408.09006) | None | 2024-08-16 |
-| XMainframe: A Large Language Model for Mainframe Modernization | [2408.04660](http://arxiv.org/abs/2408.04660) | https://github.com/fsoft-ai4code/xmainframe | 2024-08-12 |
 | HiRoPE: Length Extrapolation for Code Models Using Hierarchical Position | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-08-09 |
 | Semantic-Enhanced Indirect Call Analysis with Large Language Models | [2408.04344](http://arxiv.org/abs/2408.04344) | https://github.com/for-just-we/CodeAnalyzer | 2024-08-08 |
 | What You Need is What You Get: Theory of Mind for an LLM-Based Code   Understanding Assistant | [2408.04477](http://arxiv.org/abs/2408.04477) | None | 2024-08-08 |
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code   Generation | [2408.13204](http://arxiv.org/abs/2408.13204) | None | 2024-08-23 |
 | CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding   and Execution | [2408.13001](http://arxiv.org/abs/2408.13001) | None | 2024-08-23 |
 | E-code: Mastering Efficient Code Generation through Pretrained Models   and Expert Encoder Group | [2408.12948](http://arxiv.org/abs/2408.12948) | None | 2024-08-23 |
@@ -68,7 +69,6 @@
 | CodeJudge-Eval: Can Large Language Models be Good Judges in Code   Understanding? | [2408.10718](http://arxiv.org/abs/2408.10718) | https://github.com/codellm-research/codejudge-eval | 2024-08-20 |
 | Optimizing Large Language Model Hyperparameters for Code Generation | [2408.10577](http://arxiv.org/abs/2408.10577) | None | 2024-08-20 |
 | How Well Do Large Language Models Serve as End-to-End Secure Code   Producers? | [2408.10495](http://arxiv.org/abs/2408.10495) | None | 2024-08-20 |
-| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-20 |
 | While GitHub Copilot Excels at Coding, Does It Ensure Responsible   Output? | [2408.11006](http://arxiv.org/abs/2408.11006) | https://github.com/sensente/security-attacks-on-lccts | 2024-08-20 |
 | A Disguised Wolf Is More Harmful Than a Toothless Tiger: Adaptive   Malicious Code Injection Backdoor Attack Leveraging User Behavior as Triggers | [2408.10334](http://arxiv.org/abs/2408.10334) | None | 2024-08-19 |
 | Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code   Generation in LLMs via Zero-Shot Cross-Lingual Transfer | [2408.09701](http://arxiv.org/abs/2408.09701) | None | 2024-08-19 |
@@ -90,9 +90,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-22 |
-| Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | None | 2024-08-21 |
-| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-20 |
+| Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | https://github.com/amirdeljouyi/UTGen | 2024-08-21 |
 | Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-08-20 |
 | Impact of Large Language Models of Code on Fault Localization | [2408.09657](http://arxiv.org/abs/2408.09657) | None | 2024-08-19 |
 | MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-18 |
@@ -195,6 +195,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LBC: Language-Based-Classifier for Out-Of-Variable Generalization | [2408.10923](http://arxiv.org/abs/2408.10923) | https://github.com/sksmssh/lbcforoovgen | 2024-08-24 |
 | DesignQA: A Multimodal Benchmark for Evaluating Large Language Models'   Understanding of Engineering Documentation | [2404.07917](http://arxiv.org/abs/2404.07917) | https://github.com/anniedoris/design_qa | 2024-08-23 |
 | In-Context Learning with Reinforcement Learning for Incomplete Utterance   Rewriting | [2408.13028](http://arxiv.org/abs/2408.13028) | None | 2024-08-23 |
 | Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks:   Explainable Metrics and Diverse Prompt Templates | [2408.13006](http://arxiv.org/abs/2408.13006) | None | 2024-08-23 |
@@ -217,8 +218,7 @@
 | NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating   LLMs in Offensive Security | [2406.05590](http://arxiv.org/abs/2406.05590) | https://github.com/nyu-llm-ctf/llm_ctf_automation | 2024-08-21 |
 | A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-08-21 |
 | Open-Ended 3D Point Cloud Instance Segmentation | [2408.11747](http://arxiv.org/abs/2408.11747) | None | 2024-08-21 |
-| LBC: Language-Based-Classifier for Out-Of-Variable Generalization | [2408.10923](http://arxiv.org/abs/2408.10923) | https://github.com/sksmssh/lbcforoovgen | 2024-08-21 |
-| Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | None | 2024-08-21 |
+| Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | https://github.com/amirdeljouyi/UTGen | 2024-08-21 |
 | CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical   Researcher | [2408.11650](http://arxiv.org/abs/2408.11650) | None | 2024-08-21 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-08-21 |
 | SHIELD: Evaluation and Defense Strategies for Copyright Compliance in   LLM Text Generation | [2406.12975](http://arxiv.org/abs/2406.12975) | https://github.com/xz-liu/shield | 2024-08-21 |
@@ -246,11 +246,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-08-23 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-22 |
 | You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic   Code Search | [2408.05542](http://arxiv.org/abs/2408.05542) | None | 2024-08-17 |
 | ViC: Virtual Compiler Is All You Need For Assembly Code Search | [2408.06385](http://arxiv.org/abs/2408.06385) | https://github.com/zeyugao/virtualcompiler | 2024-08-10 |
 | AutoCodeRover: Autonomous Program Improvement | [2404.05427](http://arxiv.org/abs/2404.05427) | https://github.com/nus-apr/auto-code-rover | 2024-07-25 |
-| CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-06-17 |
 | RepoQA: Evaluating Long Context Code Understanding | [2406.06025](http://arxiv.org/abs/2406.06025) | https://github.com/evalplus/repoqa | 2024-06-10 |
 | Rewriting the Code: A Simple Method for Large Language Model Augmented   Code Search | [2401.04514](http://arxiv.org/abs/2401.04514) | https://github.com/alex-haochenli/reco | 2024-06-03 |
 | ACES: Generating Diverse Programming Puzzles with with Autotelic   Generative Models | [2310.10692](http://arxiv.org/abs/2310.10692) | None | 2024-05-29 |

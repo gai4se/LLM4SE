@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Strategic Optimization and Challenges of Large Language Models in   Object-Oriented Programming | [2408.14834](http://arxiv.org/abs/2408.14834) | None | 2024-08-27 |
 | Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | None | 2024-08-27 |
 | I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative   Self-Enhancement Paradigm | [2408.08072](http://arxiv.org/abs/2408.08072) | None | 2024-08-27 |
 | Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-26 |
@@ -84,15 +85,14 @@
 | CodeHalu: Investigating Code Hallucinations in LLMs via Execution-based   Verification | [2405.00253](http://arxiv.org/abs/2405.00253) | https://github.com/yuchen814/codehalu | 2024-08-17 |
 | Large Language Models for Code: Security Hardening and Adversarial   Testing | [2302.05319](http://arxiv.org/abs/2302.05319) | https://github.com/eth-sri/sven | 2024-08-16 |
 | Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model   with Large Language Model's Experience | [2408.08553](http://arxiv.org/abs/2408.08553) | None | 2024-08-16 |
-| Vulnerability Handling of AI-Generated Code -- Existing Solutions and   Open Challenges | [2408.08549](http://arxiv.org/abs/2408.08549) | None | 2024-08-16 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-08-27 |
-| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-26 |
+| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-22 |
 | Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | https://github.com/amirdeljouyi/UTGen | 2024-08-21 |
 | Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical   Questioning for Socratic Code Debugging | [2406.11709](http://arxiv.org/abs/2406.11709) | https://github.com/agarwalishika/TreeInstruct | 2024-08-20 |
@@ -195,7 +195,12 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Investigating Coverage Criteria in Large Language Models: An In-Depth   Study Through Jailbreak Attacks | [2408.15207](http://arxiv.org/abs/2408.15207) | None | 2024-08-27 |
+| Leveraging Hallucinations to Reduce Manual Prompt Dependency in   Promptable Segmentation | [2408.15205](http://arxiv.org/abs/2408.15205) | None | 2024-08-27 |
+| The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-08-27 |
 | Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | None | 2024-08-27 |
+| StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained   Controllable Text-to-Speech | [2408.14713](http://arxiv.org/abs/2408.14713) | None | 2024-08-27 |
+| MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-26 |
 | Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-26 |
 | SWE-bench-java: A GitHub Issue Resolving Benchmark for Java | [2408.14354](http://arxiv.org/abs/2408.14354) | https://github.com/multi-swe-bench/multi-swe-bench-env | 2024-08-26 |
 | Assessing Contamination in Large Language Models: Introducing the   LogProber method | [2408.14352](http://arxiv.org/abs/2408.14352) | None | 2024-08-26 |
@@ -220,11 +225,6 @@
 | Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural   Framework for AI Safety with Challenges and Mitigations | [2408.12935](http://arxiv.org/abs/2408.12935) | None | 2024-08-23 |
 | Large Language Models are Zero-Shot Next Location Predictors | [2405.20962](http://arxiv.org/abs/2405.20962) | https://github.com/ssai-trento/llm-zero-shot-nl | 2024-08-23 |
 | OpsEval: A Comprehensive IT Operations Benchmark Suite for Large   Language Models | [2310.07637](http://arxiv.org/abs/2310.07637) | https://github.com/netmanaiops/opseval-datasets | 2024-08-23 |
-| Semantic Alignment for Multimodal Large Language Models | [2408.12867](http://arxiv.org/abs/2408.12867) | None | 2024-08-23 |
-| Automating Governing Knowledge Commons and Contextual Integrity (GKC-CI)   Privacy Policy Annotations with Large Language Models | [2311.02192](http://arxiv.org/abs/2311.02192) | None | 2024-08-23 |
-| Is Generative AI the Next Tactical Cyber Weapon For Threat Actors?   Unforeseen Implications of AI Generated Cyber Attacks | [2408.12806](http://arxiv.org/abs/2408.12806) | None | 2024-08-23 |
-| Towards Evaluating and Building Versatile Large Language Models for   Medicine | [2408.12547](http://arxiv.org/abs/2408.12547) | https://github.com/magic-ai4med/meds-ins | 2024-08-22 |
-| Generalizing Visual Question Answering from Synthetic to Human-Written   Questions via a Chain of QA with a Large Language Model | [2401.06400](http://arxiv.org/abs/2401.06400) | https://github.com/tae2hee/coqah | 2024-08-22 |
 | Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | https://github.com/amirdeljouyi/UTGen | 2024-08-21 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

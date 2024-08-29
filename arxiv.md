@@ -1,4 +1,4 @@
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,10 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-28 |
 | Strategic Optimization and Challenges of Large Language Models in   Object-Oriented Programming | [2408.14834](http://arxiv.org/abs/2408.14834) | None | 2024-08-27 |
 | Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | None | 2024-08-27 |
 | I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative   Self-Enhancement Paradigm | [2408.08072](http://arxiv.org/abs/2408.08072) | None | 2024-08-27 |
-| Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-26 |
 | Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-08-25 |
 | Understanding Defects in Generated Codes by Language Models | [2408.13372](http://arxiv.org/abs/2408.13372) | None | 2024-08-23 |
@@ -195,13 +195,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-28 |
 | Investigating Coverage Criteria in Large Language Models: An In-Depth   Study Through Jailbreak Attacks | [2408.15207](http://arxiv.org/abs/2408.15207) | None | 2024-08-27 |
 | Leveraging Hallucinations to Reduce Manual Prompt Dependency in   Promptable Segmentation | [2408.15205](http://arxiv.org/abs/2408.15205) | None | 2024-08-27 |
 | The Fact Selection Problem in LLM-Based Program Repair | [2404.05520](http://arxiv.org/abs/2404.05520) | https://github.com/pyrepair/maniple | 2024-08-27 |
 | Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | None | 2024-08-27 |
 | StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained   Controllable Text-to-Speech | [2408.14713](http://arxiv.org/abs/2408.14713) | None | 2024-08-27 |
 | MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-26 |
-| Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-26 |
 | SWE-bench-java: A GitHub Issue Resolving Benchmark for Java | [2408.14354](http://arxiv.org/abs/2408.14354) | https://github.com/multi-swe-bench/multi-swe-bench-env | 2024-08-26 |
 | Assessing Contamination in Large Language Models: Introducing the   LogProber method | [2408.14352](http://arxiv.org/abs/2408.14352) | None | 2024-08-26 |
 | Investigating the Effectiveness of Bayesian Spam Filters in Detecting   LLM-modified Spam Mails | [2408.14293](http://arxiv.org/abs/2408.14293) | None | 2024-08-26 |

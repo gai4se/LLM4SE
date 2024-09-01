@@ -64,27 +64,27 @@
 | The Fault in our Stars: Quality Assessment of Code Generation Benchmarks | [2404.10155](http://arxiv.org/abs/2404.10155) | None | 2024-08-28 |
 | Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-08-28 |
 | An Empirical Study on Self-correcting Large Language Models for Data   Science Code Generation | [2408.15658](http://arxiv.org/abs/2408.15658) | None | 2024-08-28 |
+| CodeSift: An LLM-Based Reference-Less Framework for Automatic Code   Validation | [2408.15630](http://arxiv.org/abs/2408.15630) | None | 2024-08-28 |
+| ANVIL: Anomaly-based Vulnerability Identification without Labelled   Training Data | [2408.16028](http://arxiv.org/abs/2408.16028) | None | 2024-08-28 |
 | Procedural Adherence and Interpretability Through Neuro-Symbolic   Generative Agents | [2402.16905](http://arxiv.org/abs/2402.16905) | None | 2024-08-28 |
+| Strategic Optimization and Challenges of Large Language Models in   Object-Oriented Programming | [2408.14834](http://arxiv.org/abs/2408.14834) | None | 2024-08-27 |
+| Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | None | 2024-08-27 |
+| I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative   Self-Enhancement Paradigm | [2408.08072](http://arxiv.org/abs/2408.08072) | https://github.com/multimodal-art-projection/I-SHEEP | 2024-08-27 |
+| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
+| On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-08-25 |
+| Understanding Defects in Generated Codes by Language Models | [2408.13372](http://arxiv.org/abs/2408.13372) | None | 2024-08-23 |
+| CoSQA+: Enhancing Code Search Dataset with Matching Code | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2024-08-23 |
+| DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code   Generation | [2408.13204](http://arxiv.org/abs/2408.13204) | None | 2024-08-23 |
+| CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding   and Execution | [2408.13001](http://arxiv.org/abs/2408.13001) | None | 2024-08-23 |
 | E-code: Mastering Efficient Code Generation through Pretrained Models   and Expert Encoder Group | [2408.12948](http://arxiv.org/abs/2408.12948) | None | 2024-08-23 |
+| A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-08-21 |
+| Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code   using Copilot | [2401.14176](http://arxiv.org/abs/2401.14176) | None | 2024-08-21 |
+| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-08-21 |
+| ACW: Enhancing Traceability of AI-Generated Codes Based on Watermarking | [2402.07518](http://arxiv.org/abs/2402.07518) | https://github.com/boutiquelee/acw | 2024-08-21 |
+| Selective Prompt Anchoring for Code Generation | [2408.09121](http://arxiv.org/abs/2408.09121) | https://github.com/magic-yuantian/selective-prompt-anchoring | 2024-08-21 |
+| Automating Thought of Search: A Journey Towards Soundness and   Completeness | [2408.11326](http://arxiv.org/abs/2408.11326) | None | 2024-08-21 |
+| EPiC: Cost-effective Search-based Prompt Engineering of LLMs for Code   Generation | [2408.11198](http://arxiv.org/abs/2408.11198) | https://github.com/hamedtaherkhani/epic | 2024-08-20 |
 | Revisiting VerilogEval: Newer LLMs, In-Context Learning, and   Specification-to-RTL Tasks | [2408.11053](http://arxiv.org/abs/2408.11053) | https://github.com/nvlabs/verilog-eval | 2024-08-20 |
-| While GitHub Copilot Excels at Coding, Does It Ensure Responsible   Output? | [2408.11006](http://arxiv.org/abs/2408.11006) | https://github.com/sensente/security-attacks-on-lccts | 2024-08-20 |
-| Hotfixing Large Language Models for Code: How Far Can   Parameter-Efficient Fine-Tuning Go? | [2408.05727](http://arxiv.org/abs/2408.05727) | None | 2024-08-19 |
-| Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model   with Large Language Model's Experience | [2408.08553](http://arxiv.org/abs/2408.08553) | None | 2024-08-16 |
-| Can Large Language Models Understand Symbolic Graphics Programs? | [2408.08313](http://arxiv.org/abs/2408.08313) | None | 2024-08-15 |
-| RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level   Code Completion | [2403.06095](http://arxiv.org/abs/2403.06095) | https://github.com/fsoft-ai4code/repohyper | 2024-08-14 |
-| Insights from the Usage of the Ansible Lightspeed Code Completion   Service | [2402.17442](http://arxiv.org/abs/2402.17442) | None | 2024-08-12 |
-| h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM   Safety Assessment | [2408.04811](http://arxiv.org/abs/2408.04811) | None | 2024-08-09 |
-| Retrieval-augmented code completion for local projects using large   language models | [2408.05026](http://arxiv.org/abs/2408.05026) | None | 2024-08-09 |
-| HiRoPE: Length Extrapolation for Code Models Using Hierarchical Position | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-08-09 |
-| SceneMotifCoder: Example-driven Visual Program Learning for Generating   3D Object Arrangements | [2408.02211](http://arxiv.org/abs/2408.02211) | None | 2024-08-05 |
-| Practical Attacks against Black-box Code Completion Engines | [2408.02509](http://arxiv.org/abs/2408.02509) | None | 2024-08-05 |
-| Assessing Programming Task Difficulty for Efficient Evaluation of Large   Language Models | [2407.21227](http://arxiv.org/abs/2407.21227) | https://github.com/flowss/hardeval | 2024-07-30 |
-| TAPI: Towards Target-Specific and Adversarial Prompt Injection against   Code LLMs | [2407.09164](http://arxiv.org/abs/2407.09164) | None | 2024-07-22 |
-| Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code   Generation | [2401.06391](http://arxiv.org/abs/2401.06391) | None | 2024-07-18 |
-| On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/zhimin-z/Foundation-Model-Leaderboard-Survey | 2024-07-13 |
-| Inference Optimization of Foundation Models on AI Accelerators | [2407.09111](http://arxiv.org/abs/2407.09111) | None | 2024-07-12 |
-| CodeUpdateArena: Benchmarking Knowledge Editing on API Updates | [2407.06249](http://arxiv.org/abs/2407.06249) | None | 2024-07-08 |
-| Jailbreak Attacks and Defenses Against Large Language Models: A Survey | [2407.04295](http://arxiv.org/abs/2407.04295) | None | 2024-07-05 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

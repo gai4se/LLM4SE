@@ -1,4 +1,4 @@
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language   Models for Text-to-Code Generation | [2409.04164](http://arxiv.org/abs/2409.04164) | None | 2024-09-06 |
+| Multi-Programming Language Ensemble for Code Generation in Large   Language Model | [2409.04114](http://arxiv.org/abs/2409.04114) | https://github.com/ninjatech-ai/mple | 2024-09-06 |
 | CodeScore: Evaluating Code Generation by Learning Code Execution | [2301.09043](http://arxiv.org/abs/2301.09043) | https://github.com/yihongdong/codegenevaluation | 2024-09-05 |
 | No Man is an Island: Towards Fully Automatic Programming by Code Search,   Code Generation and Program Repair | [2409.03267](http://arxiv.org/abs/2409.03267) | None | 2024-09-05 |
 | A Survey for Foundation Models in Autonomous Driving | [2402.01105](http://arxiv.org/abs/2402.01105) | None | 2024-09-05 |
@@ -83,8 +85,6 @@
 | Procedural Adherence and Interpretability Through Neuro-Symbolic   Generative Agents | [2402.16905](http://arxiv.org/abs/2402.16905) | None | 2024-08-28 |
 | Strategic Optimization and Challenges of Large Language Models in   Object-Oriented Programming | [2408.14834](http://arxiv.org/abs/2408.14834) | None | 2024-08-27 |
 | Sifting through the Chaff: On Utilizing Execution Feedback for Ranking   the Generated Code Candidates | [2408.13976](http://arxiv.org/abs/2408.13976) | https://github.com/sssszh/RankEF | 2024-08-27 |
-| I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative   Self-Enhancement Paradigm | [2408.08072](http://arxiv.org/abs/2408.08072) | https://github.com/multimodal-art-projection/I-SHEEP | 2024-08-27 |
-| Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -197,6 +197,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is my Data in your AI Model? Membership Inference Test with Application   to Face Images | [2402.09225](http://arxiv.org/abs/2402.09225) | None | 2024-09-06 |
+| Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question   Answering | [2409.04181](http://arxiv.org/abs/2409.04181) | None | 2024-09-06 |
+| Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language   Models for Text-to-Code Generation | [2409.04164](http://arxiv.org/abs/2409.04164) | None | 2024-09-06 |
+| RETAIN: Interactive Tool for Regression Testing Guided LLM Migration | [2409.03928](http://arxiv.org/abs/2409.03928) | None | 2024-09-05 |
+| APITestGenie: Automated API Test Generation through Generative AI | [2409.03838](http://arxiv.org/abs/2409.03838) | None | 2024-09-05 |
 | Exploring Group and Symmetry Principles in Large Language Models | [2402.06120](http://arxiv.org/abs/2402.06120) | None | 2024-09-05 |
 | Towards Evaluating and Building Versatile Large Language Models for   Medicine | [2408.12547](http://arxiv.org/abs/2408.12547) | https://github.com/magic-ai4med/meds-ins | 2024-09-05 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-09-05 |
@@ -218,16 +223,11 @@
 | MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in   LLMs | [2409.02257](http://arxiv.org/abs/2409.02257) | None | 2024-09-03 |
 | GPT has become financially literate: Insights from financial literacy   tests of GPT and a preliminary test of how people use it as a source of   advice | [2309.00649](http://arxiv.org/abs/2309.00649) | None | 2024-09-03 |
 | Training on the Benchmark Is Not All You Need | [2409.01790](http://arxiv.org/abs/2409.01790) | https://github.com/nishiwen1214/Benchmark-leakage-detection | 2024-09-03 |
+| Safeguarding AI Agents: Developing and Analyzing Safety Architectures | [2409.03793](http://arxiv.org/abs/2409.03793) | None | 2024-09-03 |
 | Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination   Detection in Large Language Models | [2405.00648](http://arxiv.org/abs/2405.00648) | None | 2024-09-03 |
 | ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option   Combinations with Only Documentation via Large Language Model | [2409.00922](http://arxiv.org/abs/2409.00922) | None | 2024-09-02 |
 | DiversityMedQA: Assessing Demographic Biases in Medical Diagnosis using   Large Language Models | [2409.01497](http://arxiv.org/abs/2409.01497) | None | 2024-09-02 |
 | Evaluating Large Language Models on Spatial Tasks: A Multi-Task   Benchmarking Study | [2408.14438](http://arxiv.org/abs/2408.14438) | None | 2024-09-02 |
-| Generalizing Fairness to Generative Language Models via Reformulation of   Non-discrimination Criteria | [2403.08564](http://arxiv.org/abs/2403.08564) | https://github.com/sterlie/fairness-criteria-llm | 2024-09-02 |
-| Self-Judge: Selective Instruction Following with Alignment   Self-Evaluation | [2409.00935](http://arxiv.org/abs/2409.00935) | https://github.com/nusnlp/Self-J | 2024-09-02 |
-| MedFuzz: Exploring the Robustness of Large Language Models in Medical   Question Answering | [2406.06573](http://arxiv.org/abs/2406.06573) | None | 2024-09-01 |
-| Harnessing the Power of Semi-Structured Knowledge and LLMs with   Triplet-Based Prefiltering for Question Answering | [2409.00861](http://arxiv.org/abs/2409.00861) | https://github.com/kramerlab/4StepFocus | 2024-09-01 |
-| LanguaShrink: Reducing Token Overhead with Psycholinguistics | [2409.00855](http://arxiv.org/abs/2409.00855) | None | 2024-09-01 |
-| Fixing Code Generation Errors for Large Language Models | [2409.00676](http://arxiv.org/abs/2409.00676) | None | 2024-09-01 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

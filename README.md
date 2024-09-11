@@ -590,6 +590,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2024 | [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) |
 | 2024 | [Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf) |
 | 2023 | [Source Code Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2305.19915)  |
 | 2023 | [A Survey of Trojans in Neural Models of Source Code: Taxonomy and Techniques](https://arxiv.org/pdf/2305.03803.pdf)  |

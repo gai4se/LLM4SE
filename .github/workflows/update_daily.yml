@@ -6,16 +6,15 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
+    - cron:  "0 0/72 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
 #     - main
 
 env:
-
-  GITHUB_USER_NAME: thanhlecongg
-  GITHUB_USER_EMAIL: tlecong@student.unimelb.edu.au
+  GITHUB_USER_NAME: gai4se
+  # GITHUB_USER_EMAIL: tlecong@student.unimelb.edu.au
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel

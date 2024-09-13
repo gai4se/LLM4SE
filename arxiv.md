@@ -198,6 +198,14 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Source2Synth: Synthetic Data Generation and Curation Grounded in Real   Data Sources | [2409.08239](http://arxiv.org/abs/2409.08239) | None | 2024-09-12 |
+| SoVAR: Building Generalizable Scenarios from Accident Reports for   Autonomous Driving Testing | [2409.08081](http://arxiv.org/abs/2409.08081) | None | 2024-09-12 |
+| AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic   Manipulation | [2406.11548](http://arxiv.org/abs/2406.11548) | None | 2024-09-12 |
+| Enabling Cost-Effective UI Automation Testing with Retrieval-Based LLMs:   A Case Study in WeChat | [2409.07829](http://arxiv.org/abs/2409.07829) | None | 2024-09-12 |
+| Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural   Framework for AI Safety with Challenges and Mitigations | [2408.12935](http://arxiv.org/abs/2408.12935) | None | 2024-09-12 |
+| Full-text Error Correction for Chinese Speech Recognition with Large   Language Model | [2409.07790](http://arxiv.org/abs/2409.07790) | None | 2024-09-12 |
+| SimulBench: Evaluating Language Models with Creative Simulation Tasks | [2409.07641](http://arxiv.org/abs/2409.07641) | None | 2024-09-11 |
+| Can ChatGPT Forecast Stock Price Movements? Return Predictability and   Large Language Models | [2304.07619](http://arxiv.org/abs/2304.07619) | None | 2024-09-11 |
 | AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and   Parametric Knowledge | [2409.07394](http://arxiv.org/abs/2409.07394) | https://github.com/hannight/adacad | 2024-09-11 |
 | LLM-based feature generation from text for interpretable machine   learning | [2409.07132](http://arxiv.org/abs/2409.07132) | None | 2024-09-11 |
 | MathGenie: Generating Synthetic Data with Question Back-translation for   Enhancing Mathematical Reasoning of LLMs | [2402.16352](http://arxiv.org/abs/2402.16352) | None | 2024-09-11 |
@@ -220,14 +228,6 @@
 | A Pair Programming Framework for Code Generation via Multi-Plan   Exploration and Feedback-Driven Refinement | [2409.05001](http://arxiv.org/abs/2409.05001) | None | 2024-09-08 |
 | DistillSeq: A Framework for Safety Alignment Testing in Large Language   Models using Knowledge Distillation | [2407.10106](http://arxiv.org/abs/2407.10106) | https://github.com/DistillSeq/DistillSeq | 2024-09-08 |
 | PCART: Automated Repair of Python API Parameter Compatibility Issues | [2406.03839](http://arxiv.org/abs/2406.03839) | None | 2024-09-08 |
-| Improving Retrieval-Augmented Generation in Medicine with Iterative   Follow-up Questions | [2408.00727](http://arxiv.org/abs/2408.00727) | None | 2024-09-08 |
-| PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering | [2305.10415](http://arxiv.org/abs/2305.10415) | https://github.com/xiaoman-zhang/PMC-VQA | 2024-09-08 |
-| MILE: A Mutation Testing Framework of In-Context Learning Systems | [2409.04831](http://arxiv.org/abs/2409.04831) | https://github.com/weizeming/mile | 2024-09-07 |
-| LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement   Learning through Language Model Guided Trade-offs | [2409.04744](http://arxiv.org/abs/2409.04744) | None | 2024-09-07 |
-| LTM: Scalable and Black-box Similarity-based Test Suite Minimization   based on Language Models | [2304.01397](http://arxiv.org/abs/2304.01397) | None | 2024-09-06 |
-| Visual Agents as Fast and Slow Thinkers | [2408.08862](http://arxiv.org/abs/2408.08862) | https://github.com/guangyans/sys2-llava | 2024-09-06 |
-| Is my Data in your AI Model? Membership Inference Test with Application   to Face Images | [2402.09225](http://arxiv.org/abs/2402.09225) | None | 2024-09-06 |
-| Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question   Answering | [2409.04181](http://arxiv.org/abs/2409.04181) | None | 2024-09-06 |
 | WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models | [2310.15991](http://arxiv.org/abs/2310.15991) | https://github.com/ise-uiuc/whitefox | 2024-09-04 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

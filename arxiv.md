@@ -1,4 +1,4 @@
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,11 +18,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeJudge-Eval: Can Large Language Models be Good Judges in Code   Understanding? | [2408.10718](http://arxiv.org/abs/2408.10718) | https://github.com/codellm-research/codejudge-eval | 2024-09-13 |
 | Semantic-Enhanced Indirect Call Analysis with Large Language Models | [2408.04344](http://arxiv.org/abs/2408.04344) | https://github.com/for-just-we/CodeAnalyzer | 2024-09-08 |
 | XMainframe: A Large Language Model for Mainframe Modernization | [2408.04660](http://arxiv.org/abs/2408.04660) | https://github.com/fsoft-ai4code/xmainframe | 2024-08-26 |
 | ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-08-21 |
 | SCLA: Automated Smart Contract Summarization via LLMs and Semantic   Augmentation | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-08-20 |
-| CodeJudge-Eval: Can Large Language Models be Good Judges in Code   Understanding? | [2408.10718](http://arxiv.org/abs/2408.10718) | https://github.com/codellm-research/codejudge-eval | 2024-08-20 |
 | Context-aware Code Summary Generation | [2408.09006](http://arxiv.org/abs/2408.09006) | https://github.com/apcl-research/jam-contextsum | 2024-08-16 |
 | HiRoPE: Length Extrapolation for Code Models Using Hierarchical Position | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-08-09 |
 | What You Need is What You Get: Theory of Mind for an LLM-Based Code   Understanding Assistant | [2408.04477](http://arxiv.org/abs/2408.04477) | None | 2024-08-08 |
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM   Safety Assessment | [2408.04811](http://arxiv.org/abs/2408.04811) | None | 2024-09-13 |
 | Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation   of Code | [2409.07368](http://arxiv.org/abs/2409.07368) | None | 2024-09-11 |
 | Reranking Laws for Language Generation: A Communication-Theoretic   Perspective | [2409.07131](http://arxiv.org/abs/2409.07131) | None | 2024-09-11 |
 | Policy Filtration in RLHF to Fine-Tune LLM for Code Generation | [2409.06957](http://arxiv.org/abs/2409.06957) | https://github.com/swtheing/pf-ppo-rlhf | 2024-09-11 |
@@ -84,7 +85,6 @@
 | DataSculpt: Crafting Data Landscapes for LLM Post-Training through   Multi-objective Partitioning | [2409.00997](http://arxiv.org/abs/2409.00997) | None | 2024-09-02 |
 | Fixing Code Generation Errors for Large Language Models | [2409.00676](http://arxiv.org/abs/2409.00676) | None | 2024-09-01 |
 | Exploring the Problems, their Causes and Solutions of AI Pair   Programming: A Study on GitHub and Stack Overflow | [2311.01020](http://arxiv.org/abs/2311.01020) | None | 2024-08-31 |
-| Automatic Library Migration Using Large Language Models: First Results | [2408.16151](http://arxiv.org/abs/2408.16151) | None | 2024-08-30 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 

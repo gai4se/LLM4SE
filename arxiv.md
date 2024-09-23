@@ -1,4 +1,4 @@
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,9 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks | [2312.13322](http://arxiv.org/abs/2312.13322) | https://github.com/scientific-computing-lab/monocoder | 2024-09-19 |
 | On the Effectiveness of Large Language Models in Domain-Specific Code   Generation | [2312.01639](http://arxiv.org/abs/2312.01639) | None | 2024-09-19 |
 | Towards No-Code Programming of Cobots: Experiments with Code Synthesis   by Large Code Models for Conversational Programming | [2409.11041](http://arxiv.org/abs/2409.11041) | None | 2024-09-18 |
-| MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks | [2312.13322](http://arxiv.org/abs/2312.13322) | https://github.com/scientific-computing-lab/monocoder | 2024-09-17 |
 | CodePori: Large-Scale System for Autonomous Software Development Using   Multi-Agent Technology | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-09-17 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | None | 2024-09-16 |
 | ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More   Complex Code | [2409.10280](http://arxiv.org/abs/2409.10280) | None | 2024-09-16 |
@@ -198,6 +198,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Diversity-grounded Channel Prototypical Learning for Out-of-Distribution   Intent Detection | [2409.11114](http://arxiv.org/abs/2409.11114) | None | 2024-09-20 |
+| MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks | [2312.13322](http://arxiv.org/abs/2312.13322) | https://github.com/scientific-computing-lab/monocoder | 2024-09-19 |
 | Rethinking the Influence of Source Code on Test Case Generation | [2409.09464](http://arxiv.org/abs/2409.09464) | https://github.com/huangd1999/EmpiricalStudyofTestGeneration | 2024-09-19 |
 | MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for   Reasoning | [2409.12147](http://arxiv.org/abs/2409.12147) | https://github.com/dinobby/magicore | 2024-09-18 |
 | Improving Ontology Requirements Engineering with OntoChat and   Participatory Prompting | [2408.15256](http://arxiv.org/abs/2408.15256) | None | 2024-09-18 |
@@ -206,15 +208,14 @@
 | Show Less, Instruct More: Enriching Prompts with Definitions and   Guidelines for Zero-Shot NER | [2407.01272](http://arxiv.org/abs/2407.01272) | None | 2024-09-18 |
 | Harnessing LLMs for API Interactions: A Framework for Classification and   Synthetic Data Generation | [2409.11703](http://arxiv.org/abs/2409.11703) | None | 2024-09-18 |
 | "A Woman is More Culturally Knowledgeable than A Man?": The Effect of   Personas on Cultural Norm Interpretation in LLMs | [2409.11636](http://arxiv.org/abs/2409.11636) | None | 2024-09-18 |
+| Large-scale, Independent and Comprehensive study of the power of LLMs   for test case generation | [2407.00225](http://arxiv.org/abs/2407.00225) | None | 2024-09-18 |
 | MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in   LLMs | [2409.02257](http://arxiv.org/abs/2409.02257) | https://github.com/asgsaeid/mmlu-pro-plus | 2024-09-17 |
 | PLATO: Planning with LLMs and Affordances for Tool Manipulation | [2409.11580](http://arxiv.org/abs/2409.11580) | None | 2024-09-17 |
 | Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math   and science problems | [2308.05713](http://arxiv.org/abs/2308.05713) | None | 2024-09-17 |
 | Says Who? Effective Zero-Shot Annotation of Focalization | [2409.11390](http://arxiv.org/abs/2409.11390) | None | 2024-09-17 |
 | THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation   in Large Language Models | [2409.11353](http://arxiv.org/abs/2409.11353) | None | 2024-09-17 |
-| MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks | [2312.13322](http://arxiv.org/abs/2312.13322) | https://github.com/scientific-computing-lab/monocoder | 2024-09-17 |
 | CodePori: Large-Scale System for Autonomous Software Development Using   Multi-Agent Technology | [2402.01411](http://arxiv.org/abs/2402.01411) | None | 2024-09-17 |
 | The Invalsi Benchmarks: measuring Linguistic and Mathematical   understanding of Large Language Models in Italian | [2403.18697](http://arxiv.org/abs/2403.18697) | None | 2024-09-17 |
-| Diversity-grounded Channel Prototypical Learning for Out-of-Distribution   Intent Detection | [2409.11114](http://arxiv.org/abs/2409.11114) | None | 2024-09-17 |
 | Less is More: A Simple yet Effective Token Reduction Method for   Efficient Multi-modal LLMs | [2409.10994](http://arxiv.org/abs/2409.10994) | None | 2024-09-17 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | None | 2024-09-16 |
 | SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource   Languages | [2406.14425](http://arxiv.org/abs/2406.14425) | None | 2024-09-16 |
@@ -228,7 +229,6 @@
 | Eir: Thai Medical Large Language Models | [2409.08523](http://arxiv.org/abs/2409.08523) | None | 2024-09-16 |
 | LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving   Systems Assisted by Large Language Models | [2409.10066](http://arxiv.org/abs/2409.10066) | https://github.com/maydgt/legend | 2024-09-16 |
 | Robust Privacy Amidst Innovation with Large Language Models Through a   Critical Assessment of the Risks | [2407.16166](http://arxiv.org/abs/2407.16166) | https://github.com/lifestrugglee/privacy-synthetic-generation | 2024-09-16 |
-| Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for   Fine-grained Text Evaluations | [2409.09947](http://arxiv.org/abs/2409.09947) | https://github.com/bohanhou14/GapHalu | 2024-09-16 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

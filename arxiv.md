@@ -1,4 +1,4 @@
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -198,6 +198,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Enhancing Multimodal LLM for Detailed and Accurate Video Captioning   using Multi-Round Preference Optimization | [2410.06682](http://arxiv.org/abs/2410.06682) | None | 2024-10-11 |
 | MathCoder2: Better Math Reasoning from Continued Pretraining on   Model-translated Mathematical Code | [2410.08196](http://arxiv.org/abs/2410.08196) | https://github.com/mathllm/mathcoder2 | 2024-10-10 |
 | GenARM: Reward Guided Generation with Autoregressive Reward Model for   Test-time Alignment | [2410.08193](http://arxiv.org/abs/2410.08193) | None | 2024-10-10 |
 | Rewarding Progress: Scaling Automated Process Verifiers for LLM   Reasoning | [2410.08146](http://arxiv.org/abs/2410.08146) | None | 2024-10-10 |
@@ -217,12 +218,11 @@
 | Are Large Language Models Good Statisticians? | [2406.07815](http://arxiv.org/abs/2406.07815) | https://github.com/derrickzhuyz/statqa | 2024-10-10 |
 | Instruction Multi-Constraint Molecular Generation Using a   Teacher-Student Large Language Model | [2403.13244](http://arxiv.org/abs/2403.13244) | https://github.com/hhw-zhou/tsmmg | 2024-10-10 |
 | PEDANTS: Cheap But Effective Answer Equivalence | [2402.11161](http://arxiv.org/abs/2402.11161) | https://github.com/zli12321/qa_metrics | 2024-10-10 |
-| Detecting Training Data of Large Language Models via Expectation   Maximization | [2410.07582](http://arxiv.org/abs/2410.07582) | None | 2024-10-10 |
+| Detecting Training Data of Large Language Models via Expectation   Maximization | [2410.07582](http://arxiv.org/abs/2410.07582) | https://github.com/gyuwankim/em-mia | 2024-10-10 |
 | Exploring and Lifting the Robustness of LLM-powered Automated Program   Repair with Metamorphic Testing | [2410.07516](http://arxiv.org/abs/2410.07516) | None | 2024-10-10 |
 | Mental Disorders Detection in the Era of Large Language Models | [2410.07129](http://arxiv.org/abs/2410.07129) | None | 2024-10-09 |
 | Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with   Large Language Models | [2404.05291](http://arxiv.org/abs/2404.05291) | None | 2024-10-09 |
 | Which Programming Language and What Features at Pre-training Stage   Affect Downstream Logical Inference Performance? | [2410.06735](http://arxiv.org/abs/2410.06735) | https://github.com/fumiyauchiyama/code_pretraining | 2024-10-09 |
-| Enhancing Multimodal LLM for Detailed and Accurate Video Captioning   using Multi-Round Preference Optimization | [2410.06682](http://arxiv.org/abs/2410.06682) | None | 2024-10-09 |
 | Dissecting Fine-Tuning Unlearning in Large Language Models | [2410.06606](http://arxiv.org/abs/2410.06606) | https://github.com/yihuaihong/dissecting-ft-unlearning | 2024-10-09 |
 | Can Separators Improve Chain-of-Thought Prompting? | [2402.10645](http://arxiv.org/abs/2402.10645) | None | 2024-10-09 |
 | TorchTitan: One-stop PyTorch native solution for production ready LLM   pre-training | [2410.06511](http://arxiv.org/abs/2410.06511) | None | 2024-10-09 |

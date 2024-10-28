@@ -1,4 +1,4 @@
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,10 +54,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| An LLM Agent for Automatic Geospatial Data Analysis | [2410.18792](http://arxiv.org/abs/2410.18792) | None | 2024-10-24 |
+| An LLM Agent for Automatic Geospatial Data Analysis | [2410.18792](http://arxiv.org/abs/2410.18792) | None | 2024-10-25 |
 | HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of   Large Multimodal Models Through Coding Tasks | [2410.12381](http://arxiv.org/abs/2410.12381) | https://github.com/HumanEval-V/HumanEval-V-Benchmark | 2024-10-24 |
 | LLM as a code generator in Agile Model Driven Development | [2410.18489](http://arxiv.org/abs/2410.18489) | None | 2024-10-24 |
-| WAFFLE: Multi-Modal Model for Automated Front-End Development | [2410.18362](http://arxiv.org/abs/2410.18362) | None | 2024-10-24 |
+| WAFFLE: Multi-Modal Model for Automated Front-End Development | [2410.18362](http://arxiv.org/abs/2410.18362) | https://github.com/lt-asset/Waffle | 2024-10-24 |
 | Learning Code Preference via Synthetic Evolution | [2410.03837](http://arxiv.org/abs/2410.03837) | https://github.com/amazon-science/llm-code-preference | 2024-10-23 |
 | GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks | [2410.17031](http://arxiv.org/abs/2410.17031) | None | 2024-10-23 |
 | MojoBench: Language Modeling and Benchmarks for Mojo | [2410.17736](http://arxiv.org/abs/2410.17736) | None | 2024-10-23 |
@@ -198,6 +198,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| System 2 thinking in OpenAI's o1-preview model: Near-perfect performance   on a mathematics exam | [2410.07114](http://arxiv.org/abs/2410.07114) | None | 2024-10-25 |
+| Large Language Models Still Exhibit Bias in Long Text | [2410.17519](http://arxiv.org/abs/2410.17519) | None | 2024-10-25 |
 | Does Data Contamination Detection Work (Well) for LLMs? A Survey and   Evaluation on Detection Assumptions | [2410.18966](http://arxiv.org/abs/2410.18966) | None | 2024-10-24 |
 | Dynamic Vocabulary Pruning in Early-Exit LLMs | [2410.18952](http://arxiv.org/abs/2410.18952) | https://github.com/matteonulli/vocabulary_pruning | 2024-10-24 |
 | White Men Lead, Black Women Help? Benchmarking Language Agency Social   Biases in LLMs | [2404.10508](http://arxiv.org/abs/2404.10508) | None | 2024-10-24 |
@@ -207,10 +209,9 @@
 | Needle In A Video Haystack: A Scalable Synthetic Evaluator for Video   MLLMs | [2406.09367](http://arxiv.org/abs/2406.09367) | https://github.com/joez17/videoniah | 2024-10-24 |
 | HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of   Large Multimodal Models Through Coding Tasks | [2410.12381](http://arxiv.org/abs/2410.12381) | https://github.com/HumanEval-V/HumanEval-V-Benchmark | 2024-10-24 |
 | LLM-based Online Prediction of Time-varying Graph Signals | [2410.18718](http://arxiv.org/abs/2410.18718) | None | 2024-10-24 |
-| System 2 thinking in OpenAI's o1-preview model: Near-perfect performance   on a mathematics exam | [2410.07114](http://arxiv.org/abs/2410.07114) | None | 2024-10-24 |
 | Boosting Deductive Reasoning with Step Signals In RLHF | [2410.09528](http://arxiv.org/abs/2410.09528) | None | 2024-10-24 |
 | Analyzing Human Questioning Behavior and Causal Curiosity through   Natural Queries | [2405.20318](http://arxiv.org/abs/2405.20318) | https://github.com/roberto-ceraolo/natquest | 2024-10-24 |
-| WAFFLE: Multi-Modal Model for Automated Front-End Development | [2410.18362](http://arxiv.org/abs/2410.18362) | None | 2024-10-24 |
+| WAFFLE: Multi-Modal Model for Automated Front-End Development | [2410.18362](http://arxiv.org/abs/2410.18362) | https://github.com/lt-asset/Waffle | 2024-10-24 |
 | AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large   Language Models | [2410.18325](http://arxiv.org/abs/2410.18325) | https://github.com/avhbench/avhbench | 2024-10-23 |
 | The Factuality Tax of Diversity-Intervened Text-to-Image Generation:   Benchmark and Fact-Augmented Intervention | [2407.00377](http://arxiv.org/abs/2407.00377) | None | 2024-10-23 |
 | Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language   Models | [2410.18252](http://arxiv.org/abs/2410.18252) | https://github.com/mnoukhov/async_rlhf | 2024-10-23 |
@@ -222,7 +223,6 @@
 | CogSteer: Cognition-Inspired Selective Layer Intervention for Efficient   Semantic Steering in Large Language Models | [2410.17714](http://arxiv.org/abs/2410.17714) | None | 2024-10-23 |
 | Process Supervision-Guided Policy Optimization for Code Generation | [2410.17621](http://arxiv.org/abs/2410.17621) | None | 2024-10-23 |
 | MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile   Device Control | [2410.17520](http://arxiv.org/abs/2410.17520) | None | 2024-10-23 |
-| Large Language Models Still Exhibit Bias in Long Text | [2410.17519](http://arxiv.org/abs/2410.17519) | None | 2024-10-23 |
 | An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled   Explanations of AI Systems | [2410.17504](http://arxiv.org/abs/2410.17504) | https://github.com/tetherless-world/metaexplainer | 2024-10-23 |
 | A Comparative Study on Reasoning Patterns of OpenAI's o1 Model | [2410.13639](http://arxiv.org/abs/2410.13639) | https://github.com/open-source-o1/o1_reasoning_patterns_study | 2024-10-22 |
 | NutriBench: A Dataset for Evaluating Large Language Models in   Carbohydrate Estimation from Meal Descriptions | [2407.12843](http://arxiv.org/abs/2407.12843) | None | 2024-10-22 |

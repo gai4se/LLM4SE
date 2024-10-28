@@ -583,6 +583,7 @@ The collection is actively updated with the help of an internal literature searc
 | 2024  | [BigCodeBench](https://bigcode-bench.github.io/) |
 | 2024  | [HumanEval+](https://evalplus.github.io/leaderboard.html) |
 | 2024  | [SWE-Bench](https://www.swebench.com) |
+| 2021  | [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) |
 
 ## Paper List
 

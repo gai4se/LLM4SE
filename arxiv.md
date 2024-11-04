@@ -1,4 +1,4 @@
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -91,6 +91,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-10-31 |
+| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-10-31 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-10-29 |
 | RepairAgent: An Autonomous, LLM-Based Agent for Program Repair | [2403.17134](http://arxiv.org/abs/2403.17134) | https://github.com/sola-st/RepairAgent | 2024-10-28 |
 | Combining Logic with Large Language Models for Automatic Debugging and   Repair of ASP Programs | [2410.20962](http://arxiv.org/abs/2410.20962) | None | 2024-10-28 |
@@ -120,7 +121,6 @@
 | MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2024-08-26 |
 | Revisiting Evolutionary Program Repair via Code Language Model | [2408.10486](http://arxiv.org/abs/2408.10486) | None | 2024-08-26 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-08-22 |
-| Leveraging Large Language Models for Enhancing the Understandability of   Generated Unit Tests | [2408.11710](http://arxiv.org/abs/2408.11710) | https://github.com/amirdeljouyi/UTGen | 2024-08-21 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -209,6 +209,7 @@
 | Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question   Answering | [2409.04181](http://arxiv.org/abs/2409.04181) | None | 2024-10-31 |
 | Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' | [2410.21647](http://arxiv.org/abs/2410.21647) | https://github.com/lt-asset/repocod | 2024-10-31 |
 | Automating Quantum Software Maintenance: Flakiness Detection and Root   Cause Analysis | [2410.23578](http://arxiv.org/abs/2410.23578) | None | 2024-10-31 |
+| LLMs are Highly-Constrained Biophysical Sequence Optimizers | [2410.22296](http://arxiv.org/abs/2410.22296) | None | 2024-10-31 |
 | Large Language Models Based JSON Parser Fuzzing for Bug Discovery and   Behavioral Analysis | [2410.21806](http://arxiv.org/abs/2410.21806) | None | 2024-10-30 |
 | Twits, Toxic Tweets, and Tribal Tendencies: Trends in Politically   Polarized Posts on Twitter | [2307.10349](http://arxiv.org/abs/2307.10349) | None | 2024-10-30 |
 | Data Contamination Can Cross Language Barriers | [2406.13236](http://arxiv.org/abs/2406.13236) | https://github.com/shangdatalab/deep-contam | 2024-10-30 |
@@ -223,7 +224,6 @@
 | Advancing Agentic Systems: Dynamic Task Decomposition, Tool Integration   and Evaluation using Novel Metrics and Dataset | [2410.22457](http://arxiv.org/abs/2410.22457) | None | 2024-10-29 |
 | Do Large Language Models Align with Core Mental Health Counseling   Competencies? | [2410.22446](http://arxiv.org/abs/2410.22446) | None | 2024-10-29 |
 | Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing   by Betting | [2410.22318](http://arxiv.org/abs/2410.22318) | https://github.com/canchen-cc/online-llm-detection | 2024-10-29 |
-| LLMs are Highly-Constrained Biophysical Sequence Optimizers | [2410.22296](http://arxiv.org/abs/2410.22296) | None | 2024-10-29 |
 | Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats | [2410.22293](http://arxiv.org/abs/2410.22293) | None | 2024-10-29 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-10-29 |
 | CaStL: Constraints as Specifications through LLM Translation for   Long-Horizon Task and Motion Planning | [2410.22225](http://arxiv.org/abs/2410.22225) | None | 2024-10-29 |

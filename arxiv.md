@@ -1,4 +1,4 @@
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | https://github.com/hyu-nlp/revisiting-modularity | 2024-11-01 |
+| HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis | [2405.15880](http://arxiv.org/abs/2405.15880) | None | 2024-11-01 |
+| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | https://github.com/arise-lab/semcoder | 2024-10-31 |
 | SOEN-101: Code Generation by Emulating Software Process Models Using   Large Language Model Agents | [2403.15852](http://arxiv.org/abs/2403.15852) | None | 2024-10-31 |
 | Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' | [2410.21647](http://arxiv.org/abs/2410.21647) | https://github.com/lt-asset/repocod | 2024-10-31 |
 | Less is More: DocString Compression in Code Generation | [2410.22793](http://arxiv.org/abs/2410.22793) | None | 2024-10-31 |
@@ -82,16 +85,13 @@
 | WAFFLE: Multi-Modal Model for Automated Front-End Development | [2410.18362](http://arxiv.org/abs/2410.18362) | https://github.com/lt-asset/Waffle | 2024-10-24 |
 | Learning Code Preference via Synthetic Evolution | [2410.03837](http://arxiv.org/abs/2410.03837) | https://github.com/amazon-science/llm-code-preference | 2024-10-23 |
 | GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks | [2410.17031](http://arxiv.org/abs/2410.17031) | None | 2024-10-23 |
-| MojoBench: Language Modeling and Benchmarks for Mojo | [2410.17736](http://arxiv.org/abs/2410.17736) | None | 2024-10-23 |
-| Process Supervision-Guided Policy Optimization for Code Generation | [2410.17621](http://arxiv.org/abs/2410.17621) | None | 2024-10-23 |
-| Insights from the Usage of the Ansible Lightspeed Code Completion   Service | [2402.17442](http://arxiv.org/abs/2402.17442) | None | 2024-10-22 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | https://github.com/arise-lab/semcoder | 2024-10-31 |
 | How Far Can We Go with Practical Function-Level Program Repair? | [2404.12833](http://arxiv.org/abs/2404.12833) | https://github.com/ghabix/srepair | 2024-10-31 |
-| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | None | 2024-10-31 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-10-29 |
 | RepairAgent: An Autonomous, LLM-Based Agent for Program Repair | [2403.17134](http://arxiv.org/abs/2403.17134) | https://github.com/sola-st/RepairAgent | 2024-10-28 |
 | Combining Logic with Large Language Models for Automatic Debugging and   Repair of ASP Programs | [2410.20962](http://arxiv.org/abs/2410.20962) | None | 2024-10-28 |
@@ -198,7 +198,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| SelfCodeAlign: Self-Alignment for Code Generation | [2410.24198](http://arxiv.org/abs/2410.24198) | None | 2024-10-31 |
+| Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization | [2410.19499](http://arxiv.org/abs/2410.19499) | None | 2024-11-01 |
+| SelfCodeAlign: Self-Alignment for Code Generation | [2410.24198](http://arxiv.org/abs/2410.24198) | https://github.com/bigcode-project/selfcodealign | 2024-11-01 |
+| MAPLE: Mobile App Prediction Leveraging Large Language Model Embeddings | [2309.08648](http://arxiv.org/abs/2309.08648) | https://github.com/cruiseresearchgroup/MAPLE | 2024-11-01 |
+| Towards Faithful Natural Language Explanations: A Study Using Activation   Patching in Large Language Models | [2410.14155](http://arxiv.org/abs/2410.14155) | https://github.com/wj210/causal-faithfulness | 2024-11-01 |
+| Towards Understanding How Transformers Learn In-context Through a   Representation Learning Lens | [2310.13220](http://arxiv.org/abs/2310.13220) | None | 2024-11-01 |
+| Leveraging Large Language Models for Suicide Detection on Social Media   with Limited Labels | [2410.04501](http://arxiv.org/abs/2410.04501) | https://github.com/khanhvynguyen/suicide_detection_llms | 2024-11-01 |
+| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | https://github.com/arise-lab/semcoder | 2024-10-31 |
+| LLMs are Highly-Constrained Biophysical Sequence Optimizers | [2410.22296](http://arxiv.org/abs/2410.22296) | None | 2024-10-31 |
+| Large language models can be zero-shot anomaly detectors for time   series? | [2405.14755](http://arxiv.org/abs/2405.14755) | https://github.com/sintel-dev/sigllm | 2024-10-31 |
 | Synthetic Programming Elicitation for Text-to-Code in Very Low-Resource   Programming and Formal Languages | [2406.03636](http://arxiv.org/abs/2406.03636) | https://github.com/FedericoAureliano/eudoxus | 2024-10-31 |
 | Repository-Level Compositional Code Translation and Validation | [2410.24117](http://arxiv.org/abs/2410.24117) | None | 2024-10-31 |
 | Revealing Fine-Grained Values and Opinions in Large Language Models | [2406.19238](http://arxiv.org/abs/2406.19238) | https://github.com/copenlu/llm-pct-tropes | 2024-10-31 |
@@ -209,7 +217,6 @@
 | Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question   Answering | [2409.04181](http://arxiv.org/abs/2409.04181) | None | 2024-10-31 |
 | Can Language Models Replace Programmers? REPOCOD Says 'Not Yet' | [2410.21647](http://arxiv.org/abs/2410.21647) | https://github.com/lt-asset/repocod | 2024-10-31 |
 | Automating Quantum Software Maintenance: Flakiness Detection and Root   Cause Analysis | [2410.23578](http://arxiv.org/abs/2410.23578) | None | 2024-10-31 |
-| LLMs are Highly-Constrained Biophysical Sequence Optimizers | [2410.22296](http://arxiv.org/abs/2410.22296) | None | 2024-10-31 |
 | Large Language Models Based JSON Parser Fuzzing for Bug Discovery and   Behavioral Analysis | [2410.21806](http://arxiv.org/abs/2410.21806) | None | 2024-10-30 |
 | Twits, Toxic Tweets, and Tribal Tendencies: Trends in Politically   Polarized Posts on Twitter | [2307.10349](http://arxiv.org/abs/2307.10349) | None | 2024-10-30 |
 | Data Contamination Can Cross Language Barriers | [2406.13236](http://arxiv.org/abs/2406.13236) | https://github.com/shangdatalab/deep-contam | 2024-10-30 |
@@ -221,14 +228,7 @@
 | Danoliteracy of Generative, Large Language Models | [2410.22839](http://arxiv.org/abs/2410.22839) | None | 2024-10-30 |
 | A test-free semantic mistakes localization framework in Neural Code   Translation | [2410.22818](http://arxiv.org/abs/2410.22818) | None | 2024-10-30 |
 | Code Repair with LLMs gives an Exploration-Exploitation Tradeoff | [2405.17503](http://arxiv.org/abs/2405.17503) | None | 2024-10-29 |
-| Advancing Agentic Systems: Dynamic Task Decomposition, Tool Integration   and Evaluation using Novel Metrics and Dataset | [2410.22457](http://arxiv.org/abs/2410.22457) | None | 2024-10-29 |
-| Do Large Language Models Align with Core Mental Health Counseling   Competencies? | [2410.22446](http://arxiv.org/abs/2410.22446) | None | 2024-10-29 |
-| Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing   by Betting | [2410.22318](http://arxiv.org/abs/2410.22318) | https://github.com/canchen-cc/online-llm-detection | 2024-10-29 |
-| Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats | [2410.22293](http://arxiv.org/abs/2410.22293) | None | 2024-10-29 |
 | Agentless: Demystifying LLM-based Software Engineering Agents | [2407.01489](http://arxiv.org/abs/2407.01489) | https://github.com/OpenAutoCoder/Agentless | 2024-10-29 |
-| CaStL: Constraints as Specifications through LLM Translation for   Long-Horizon Task and Motion Planning | [2410.22225](http://arxiv.org/abs/2410.22225) | None | 2024-10-29 |
-| Benchmarking LLM Guardrails in Handling Multilingual Toxicity | [2410.22153](http://arxiv.org/abs/2410.22153) | None | 2024-10-29 |
-| Do LLMs generate test oracles that capture the actual or the expected   program behaviour? | [2410.21136](http://arxiv.org/abs/2410.21136) | None | 2024-10-28 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

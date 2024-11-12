@@ -1,4 +1,4 @@
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| FALCON: Feedback-driven Adaptive Long/short-term memory reinforced   Coding Optimization system | [2410.21349](http://arxiv.org/abs/2410.21349) | None | 2024-11-08 |
+| CodeGRAG: Bridging the Gap between Natural Language and Programming   Language via Graphical Retrieval Augmented Generation | [2405.02355](http://arxiv.org/abs/2405.02355) | None | 2024-11-08 |
+| Assessing the Answerability of Queries in Retrieval-Augmented Code   Generation | [2411.05547](http://arxiv.org/abs/2411.05547) | None | 2024-11-08 |
+| Empowering Agile-Based Generative Software Development through Human-AI   Teamwork | [2407.15568](http://arxiv.org/abs/2407.15568) | https://github.com/HarrisClover/AgileGen | 2024-11-08 |
+| CodeLutra: Boosting LLM Code Generation via Preference-Guided Refinement | [2411.05199](http://arxiv.org/abs/2411.05199) | None | 2024-11-07 |
 | SuffixDecoding: A Model-Free Approach to Speeding Up Large Language   Model Inference | [2411.04975](http://arxiv.org/abs/2411.04975) | None | 2024-11-07 |
 | OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models | [2411.04905](http://arxiv.org/abs/2411.04905) | None | 2024-11-07 |
 | CodeTree: Agent-guided Tree Search for Code Generation with Large   Language Models | [2411.04329](http://arxiv.org/abs/2411.04329) | None | 2024-11-07 |
@@ -80,11 +85,6 @@
 | Evaluating LLMs' Mathematical and Coding Competency through   Ontology-guided Interventions | [2401.09395](http://arxiv.org/abs/2401.09395) | https://github.com/declare-lab/llm-reasoningtest | 2024-11-03 |
 | A Deep Dive Into Large Language Model Code Generation Mistakes: What and   Why? | [2411.01414](http://arxiv.org/abs/2411.01414) | None | 2024-11-03 |
 | Building A Coding Assistant via the Retrieval-Augmented Language Model | [2410.16229](http://arxiv.org/abs/2410.16229) | https://github.com/NEUIR/CONAN | 2024-11-02 |
-| Revisiting the Impact of Pursuing Modularity for Code Generation | [2407.11406](http://arxiv.org/abs/2407.11406) | https://github.com/hyu-nlp/revisiting-modularity | 2024-11-01 |
-| HYSYNTH: Context-Free LLM Approximation for Guiding Program Synthesis | [2405.15880](http://arxiv.org/abs/2405.15880) | None | 2024-11-01 |
-| SemCoder: Training Code Language Models with Comprehensive Semantics   Reasoning | [2406.01006](http://arxiv.org/abs/2406.01006) | https://github.com/arise-lab/semcoder | 2024-10-31 |
-| SOEN-101: Code Generation by Emulating Software Process Models Using   Large Language Model Agents | [2403.15852](http://arxiv.org/abs/2403.15852) | None | 2024-10-31 |
-| Less is More: DocString Compression in Code Generation | [2410.22793](http://arxiv.org/abs/2410.22793) | None | 2024-10-31 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,8 +198,21 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Multi-hop Evidence Pursuit Meets the Web: Team Papelo at FEVER 2024 | [2411.05762](http://arxiv.org/abs/2411.05762) | None | 2024-11-08 |
+| Multimodal Structure-Aware Quantum Data Processing | [2411.04242](http://arxiv.org/abs/2411.04242) | None | 2024-11-08 |
+| The influence of persona and conversational task on social interactions   with a LLM-controlled embodied conversational agent | [2411.05653](http://arxiv.org/abs/2411.05653) | None | 2024-11-08 |
+| Secret Collusion among Generative AI Agents | [2402.07510](http://arxiv.org/abs/2402.07510) | None | 2024-11-08 |
+| Untrained neural networks can demonstrate memorization-independent   abstract reasoning | [2407.17791](http://arxiv.org/abs/2407.17791) | https://github.com/tomer-barak/learning-independent_abstract_reasoning | 2024-11-08 |
+| EUREKHA: Enhancing User Representation for Key Hackers Identification in   Underground Forums | [2411.05479](http://arxiv.org/abs/2411.05479) | https://github.com/jumbo110/eurekha | 2024-11-08 |
+| Web Archives Metadata Generation with GPT-4o: Challenges and Insights | [2411.05409](http://arxiv.org/abs/2411.05409) | https://github.com/masamune-prog/warc2summary | 2024-11-08 |
+| Enhancing AAC Software for Dysarthric Speakers in e-Health Settings: An   Evaluation Using TORGO | [2411.00980](http://arxiv.org/abs/2411.00980) | None | 2024-11-08 |
+| RRADistill: Distilling LLMs' Passage Ranking Ability for Document   Re-Ranking of Long-Tail Queries in a Search Engine | [2410.18097](http://arxiv.org/abs/2410.18097) | None | 2024-11-07 |
+| Fine-tuned Large Language Models (LLMs): Improved Prompt Injection   Attacks Detection | [2410.21337](http://arxiv.org/abs/2410.21337) | None | 2024-11-07 |
+| PentestAgent: Incorporating LLM Agents to Automated Penetration Testing | [2411.05185](http://arxiv.org/abs/2411.05185) | None | 2024-11-07 |
+| Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with   Retrieval-Augmented Generation | [2411.05141](http://arxiv.org/abs/2411.05141) | None | 2024-11-07 |
 | Position Paper On Diagnostic Uncertainty Estimation from Large Language   Models: Next-Word Probability Is Not Pre-test Probability | [2411.04962](http://arxiv.org/abs/2411.04962) | None | 2024-11-07 |
 | SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic   CheckLists | [2408.17437](http://arxiv.org/abs/2408.17437) | https://github.com/loreley99/syntheval_checklist | 2024-11-07 |
+| Integrating Large Language Models for Genetic Variant Classification | [2411.05055](http://arxiv.org/abs/2411.05055) | None | 2024-11-07 |
 | ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based   Evaluation | [2405.14125](http://arxiv.org/abs/2405.14125) | https://github.com/sophiezheng998/ali-agent | 2024-11-07 |
 | LOVA3: Learning to Visual Question Answering, Asking and Assessment | [2405.14974](http://arxiv.org/abs/2405.14974) | https://github.com/showlab/lova3 | 2024-11-07 |
 | An Empirical Study on the Potential of LLMs in Automated Software   Refactoring | [2411.04444](http://arxiv.org/abs/2411.04444) | None | 2024-11-07 |
@@ -208,7 +221,6 @@
 | Automated Update of Android Deprecated API Usages with Large Language   Models | [2411.04387](http://arxiv.org/abs/2411.04387) | None | 2024-11-07 |
 | A Multilingual Sentiment Lexicon for Low-Resource Language Translation   using Large Languages Models and Explainable AI | [2411.04316](http://arxiv.org/abs/2411.04316) | None | 2024-11-06 |
 | Evaluating Creative Short Story Generation in Humans and Large Language   Models | [2411.02316](http://arxiv.org/abs/2411.02316) | https://github.com/mismayil/creative-story-gen | 2024-11-06 |
-| Multimodal Structure-Aware Quantum Data Processing | [2411.04242](http://arxiv.org/abs/2411.04242) | None | 2024-11-06 |
 | Diversity Helps Jailbreak Large Language Models | [2411.04223](http://arxiv.org/abs/2411.04223) | None | 2024-11-06 |
 | BABILong: Testing the Limits of LLMs with Long Context   Reasoning-in-a-Haystack | [2406.10149](http://arxiv.org/abs/2406.10149) | https://github.com/booydar/babilong | 2024-11-06 |
 | Hotfixing Large Language Models for Code | [2408.05727](http://arxiv.org/abs/2408.05727) | None | 2024-11-06 |
@@ -216,19 +228,7 @@
 | EXPLORA: Efficient Exemplar Subset Selection for Complex Reasoning | [2411.03877](http://arxiv.org/abs/2411.03877) | https://github.com/kiranpurohit/explora | 2024-11-06 |
 | A Comparative Study of Recent Large Language Models on Generating   Hospital Discharge Summaries for Lung Cancer Patients | [2411.03805](http://arxiv.org/abs/2411.03805) | None | 2024-11-06 |
 | The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM   Serving Systems | [2409.20002](http://arxiv.org/abs/2409.20002) | None | 2024-11-06 |
-| CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical   Researcher | [2408.11650](http://arxiv.org/abs/2408.11650) | None | 2024-11-06 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | https://github.com/secureaiautonomylab/autosafecoder | 2024-11-05 |
-| NutriBench: A Dataset for Evaluating Large Language Models in   Carbohydrate Estimation from Meal Descriptions | [2407.12843](http://arxiv.org/abs/2407.12843) | None | 2024-11-05 |
-| Automatic Generation of Question Hints for Mathematics Problems using   Large Language Models in Educational Technology | [2411.03495](http://arxiv.org/abs/2411.03495) | None | 2024-11-05 |
-| CrowdGenUI: Enhancing LLM-Based UI Widget Generation with a Crowdsourced   Preference Library | [2411.03477](http://arxiv.org/abs/2411.03477) | None | 2024-11-05 |
-| RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen   Reference Content | [2406.11811](http://arxiv.org/abs/2406.11811) | https://github.com/ServiceNow/repliqa | 2024-11-05 |
-| Utilizing Precise and Complete Code Context to Guide LLM in Automatic   False Positive Mitigation | [2411.03079](http://arxiv.org/abs/2411.03079) | None | 2024-11-05 |
-| Improving LLM-based Unit test generation via Template-based Repair | [2408.03095](http://arxiv.org/abs/2408.03095) | None | 2024-11-05 |
-| Leveraging Large Language Models in Code Question Answering: Baselines   and Issues | [2411.03012](http://arxiv.org/abs/2411.03012) | https://github.com/iu-aes-ai4code/codequestionanswering | 2024-11-05 |
-| An Empirical Study of LLM-as-a-Judge for LLM Evaluation: Fine-tuned   Judge Model is not a General Substitute for GPT-4 | [2403.02839](http://arxiv.org/abs/2403.02839) | https://github.com/huihuichyan/unlimitedjudge | 2024-11-05 |
-| Evaluating the Ability of Large Language Models to Generate Verifiable   Specifications in VeriFast | [2411.02318](http://arxiv.org/abs/2411.02318) | None | 2024-11-05 |
-| Evaluation and Improvement of Fault Detection for Large Language Models | [2404.14419](http://arxiv.org/abs/2404.14419) | None | 2024-11-05 |
-| Aligning to Thousands of Preferences via System Message Generalization | [2405.17977](http://arxiv.org/abs/2405.17977) | https://github.com/kaistAI/Janus | 2024-11-05 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

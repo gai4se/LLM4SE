@@ -1,4 +1,4 @@
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,9 +54,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CodeTree: Agent-guided Tree Search for Code Generation with Large   Language Models | [2411.04329](http://arxiv.org/abs/2411.04329) | None | 2024-11-12 |
 | LiCoEval: Evaluating LLMs on License Compliance in Code Generation | [2408.02487](http://arxiv.org/abs/2408.02487) | https://github.com/osslab-pku/licoeval | 2024-11-12 |
 | A Comprehensive Survey of AI-Driven Advancements and Techniques in   Automated Program Repair and Code Generation | [2411.07586](http://arxiv.org/abs/2411.07586) | None | 2024-11-12 |
-| CodeTree: Agent-guided Tree Search for Code Generation with Large   Language Models | [2411.04329](http://arxiv.org/abs/2411.04329) | None | 2024-11-12 |
 | LLMPhy: Complex Physical Reasoning Using Large Language Models and World   Models | [2411.08027](http://arxiv.org/abs/2411.08027) | None | 2024-11-12 |
 | LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2024-11-11 |
 | ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | None | 2024-11-11 |
@@ -162,9 +162,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| LProtector: An LLM-driven Vulnerability Detection System | [2411.06493](http://arxiv.org/abs/2411.06493) | None | 2024-11-14 |
+| FoC: Figure out the Cryptographic Functions in Stripped Binaries with   LLMs | [2403.18403](http://arxiv.org/abs/2403.18403) | https://github.com/ch3nye/foc | 2024-11-12 |
 | A Comprehensive Survey of AI-Driven Advancements and Techniques in   Automated Program Repair and Code Generation | [2411.07586](http://arxiv.org/abs/2411.07586) | None | 2024-11-12 |
 | LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2024-11-11 |
-| LProtector: An LLM-driven Vulnerability Detection System | [2411.06493](http://arxiv.org/abs/2411.06493) | None | 2024-11-10 |
 | Smart-LLaMA: Two-Stage Post-Training of Large Language Models for Smart   Contract Vulnerability Detection and Explanation | [2411.06221](http://arxiv.org/abs/2411.06221) | None | 2024-11-09 |
 | Utilizing Precise and Complete Code Context to Guide LLM in Automatic   False Positive Mitigation | [2411.03079](http://arxiv.org/abs/2411.03079) | None | 2024-11-05 |
 | LuaTaint: A Static Analysis System for Web Configuration Interface   Vulnerability of Internet of Things Devices | [2402.16043](http://arxiv.org/abs/2402.16043) | None | 2024-11-04 |
@@ -192,18 +193,23 @@
 | VulDetectBench: Evaluating the Deep Capability of Vulnerability   Detection with Large Language Models | [2406.07595](http://arxiv.org/abs/2406.07595) | https://github.com/sweetaroo/vuldetectbench | 2024-08-21 |
 | When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are   We? | [2309.05520](http://arxiv.org/abs/2309.05520) | None | 2024-08-21 |
 | Vulnerability Handling of AI-Generated Code -- Existing Solutions and   Open Challenges | [2408.08549](http://arxiv.org/abs/2408.08549) | None | 2024-08-16 |
-| Large Language Models for Secure Code Assessment: A Multi-Language   Empirical Study | [2408.06428](http://arxiv.org/abs/2408.06428) | None | 2024-08-12 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A   Comparative Analysis | [2410.16527](http://arxiv.org/abs/2410.16527) | None | 2024-11-13 |
+| XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL | [2411.08599](http://arxiv.org/abs/2411.08599) | None | 2024-11-13 |
+| Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data | [2411.08438](http://arxiv.org/abs/2411.08438) | None | 2024-11-13 |
+| pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2 | [2410.21283](http://arxiv.org/abs/2410.21283) | https://github.com/jw-chae/plddt_predictor | 2024-11-13 |
+| Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions   Following | [2410.15553](http://arxiv.org/abs/2410.15553) | https://github.com/facebookresearch/Multi-IF | 2024-11-13 |
+| VALTEST: Automated Validation of Language Model Generated Test Cases | [2411.08254](http://arxiv.org/abs/2411.08254) | https://github.com/hamedtaherkhani/valtest | 2024-11-13 |
 | Language Models as Causal Effect Generators | [2411.08019](http://arxiv.org/abs/2411.08019) | https://github.com/lbynum/sequence-driven-scms | 2024-11-12 |
 | ExpressivityArena: Can LLMs Express Information Implicitly? | [2411.08010](http://arxiv.org/abs/2411.08010) | None | 2024-11-12 |
 | Is Cognition consistent with Perception? Assessing and Mitigating   Multimodal Knowledge Conflicts in Document Understanding | [2411.07722](http://arxiv.org/abs/2411.07722) | None | 2024-11-12 |
 | What Do Learning Dynamics Reveal About Generalization in LLM Reasoning? | [2411.07681](http://arxiv.org/abs/2411.07681) | https://github.com/katiekang1998/reasoning_generalization | 2024-11-12 |
 | How Does the Textual Information Affect the Retrieval of Multimodal   In-Context Learning? | [2404.12866](http://arxiv.org/abs/2404.12866) | https://github.com/nus-hpc-ai-lab/multimodal-icl-retriever | 2024-11-12 |
-| Evaluating ChatGPT-3.5 Efficiency in Solving Coding Problems of   Different Complexity Levels: An Empirical Analysis | [2411.07529](http://arxiv.org/abs/2411.07529) | None | 2024-11-12 |
+| Evaluating ChatGPT-3.5 Efficiency in Solving Coding Problems of   Different Complexity Levels: An Empirical Analysis | [2411.07529](http://arxiv.org/abs/2411.07529) | https://github.com/anrgusc/coding_gpt_testing | 2024-11-12 |
 | vTune: Verifiable Fine-Tuning for LLMs Through Backdooring | [2411.06611](http://arxiv.org/abs/2411.06611) | None | 2024-11-12 |
 | The Effect of Scheduling and Preemption on the Efficiency of LLM   Inference Serving | [2411.07447](http://arxiv.org/abs/2411.07447) | None | 2024-11-12 |
 | Using Generative AI and Multi-Agents to Provide Automatic Feedback | [2411.07407](http://arxiv.org/abs/2411.07407) | None | 2024-11-11 |
@@ -222,12 +228,6 @@
 | Entity Extraction from High-Level Corruption Schemes via Large Language   Models | [2409.13704](http://arxiv.org/abs/2409.13704) | https://github.com/panagiotis-koletsis/kleptotracedataset | 2024-11-11 |
 | RoCar: A Relationship Network-based Evaluation Method for Large Language   Models | [2307.15997](http://arxiv.org/abs/2307.15997) | https://github.com/neu-datamining/rocar | 2024-11-11 |
 | NutriBench: A Dataset for Evaluating Large Language Models on Nutrition   Estimation from Meal Descriptions | [2407.12843](http://arxiv.org/abs/2407.12843) | None | 2024-11-11 |
-| Changing Answer Order Can Decrease MMLU Accuracy | [2406.19470](http://arxiv.org/abs/2406.19470) | None | 2024-11-11 |
-| Understanding Scaling Laws with Statistical and Approximation Theory for   Transformer Neural Networks on Intrinsically Low-dimensional Data | [2411.06646](http://arxiv.org/abs/2411.06646) | https://github.com/dahoas/transformer_manifolds_learning | 2024-11-11 |
-| CriticAL: Critic Automation with Language Models | [2411.06590](http://arxiv.org/abs/2411.06590) | None | 2024-11-10 |
-| Do Unlearning Methods Remove Information from Language Model Weights? | [2410.08827](http://arxiv.org/abs/2410.08827) | https://github.com/aghyad-deeb/unlearning_evaluation | 2024-11-10 |
-| Focal Inferential Infusion Coupled with Tractable Density Discrimination   for Implicit Hate Detection | [2309.11896](http://arxiv.org/abs/2309.11896) | https://github.com/lcs2-iiitd/fiadd | 2024-11-10 |
-| Probabilistic Consensus through Ensemble Validation: A Framework for LLM   Reliability | [2411.06535](http://arxiv.org/abs/2411.06535) | None | 2024-11-10 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | https://github.com/secureaiautonomylab/autosafecoder | 2024-11-05 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

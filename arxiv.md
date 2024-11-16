@@ -1,4 +1,4 @@
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,12 +54,19 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Squeezed Attention: Accelerating Long Context Length LLM Inference | [2411.09688](http://arxiv.org/abs/2411.09688) | None | 2024-11-14 |
+| InfiBench: Evaluating the Question-Answering Capabilities of Code Large   Language Models | [2404.07940](http://arxiv.org/abs/2404.07940) | https://github.com/infi-coder/infibench-evaluation-harness | 2024-11-14 |
+| Programming with AI: Evaluating ChatGPT, Gemini, AlphaCode, and GitHub   Copilot for Programmers | [2411.09224](http://arxiv.org/abs/2411.09224) | None | 2024-11-14 |
+| P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent   Evaluation of LLMs | [2411.09116](http://arxiv.org/abs/2411.09116) | None | 2024-11-14 |
+| Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware   Expert Selection | [2411.08982](http://arxiv.org/abs/2411.08982) | None | 2024-11-13 |
+| PyGen: A Collaborative Human-AI Approach to Python Package Creation | [2411.08932](http://arxiv.org/abs/2411.08932) | None | 2024-11-13 |
+| CoCoP: Enhancing Text Classification with LLM through Code Completion   Prompt | [2411.08979](http://arxiv.org/abs/2411.08979) | None | 2024-11-13 |
 | CodeTree: Agent-guided Tree Search for Code Generation with Large   Language Models | [2411.04329](http://arxiv.org/abs/2411.04329) | None | 2024-11-12 |
 | LiCoEval: Evaluating LLMs on License Compliance in Code Generation | [2408.02487](http://arxiv.org/abs/2408.02487) | https://github.com/osslab-pku/licoeval | 2024-11-12 |
 | A Comprehensive Survey of AI-Driven Advancements and Techniques in   Automated Program Repair and Code Generation | [2411.07586](http://arxiv.org/abs/2411.07586) | None | 2024-11-12 |
 | LLMPhy: Complex Physical Reasoning Using Large Language Models and World   Models | [2411.08027](http://arxiv.org/abs/2411.08027) | None | 2024-11-12 |
 | LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2024-11-11 |
-| ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | None | 2024-11-11 |
+| ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | https://github.com/jiangxxxue/ROCODE | 2024-11-11 |
 | The First Prompt Counts the Most! An Evaluation of Large Language Models   on Iterative Example-based Code Generation | [2411.06774](http://arxiv.org/abs/2411.06774) | None | 2024-11-11 |
 | PDC & DM-SFT: A Road for LLM SQL Bug-Fix Enhancing | [2411.06767](http://arxiv.org/abs/2411.06767) | None | 2024-11-11 |
 | Anchor Attention, Small Cache: Code Generation with Large Language   Models | [2411.06680](http://arxiv.org/abs/2411.06680) | None | 2024-11-11 |
@@ -75,16 +82,9 @@
 | SuffixDecoding: A Model-Free Approach to Speeding Up Large Language   Model Inference | [2411.04975](http://arxiv.org/abs/2411.04975) | None | 2024-11-07 |
 | Crystal: Illuminating LLM Abilities on Language and Code | [2411.04156](http://arxiv.org/abs/2411.04156) | None | 2024-11-06 |
 | Hotfixing Large Language Models for Code | [2408.05727](http://arxiv.org/abs/2408.05727) | None | 2024-11-06 |
-| GitChameleon: Unmasking the Version-Switching Capabilities of Code   Generation Models | [2411.05830](http://arxiv.org/abs/2411.05830) | None | 2024-11-05 |
+| GitChameleon: Unmasking the Version-Switching Capabilities of Code   Generation Models | [2411.05830](http://arxiv.org/abs/2411.05830) | https://github.com/nizarislah/gitchameleon | 2024-11-05 |
 | MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs | [2411.03471](http://arxiv.org/abs/2411.03471) | None | 2024-11-05 |
 | HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks   at Scale | [2409.16299](http://arxiv.org/abs/2409.16299) | https://github.com/fsoft-ai4code/hyperagent | 2024-11-05 |
-| Efficacy of Various Large Language Models in Generating Smart Contracts | [2407.11019](http://arxiv.org/abs/2407.11019) | None | 2024-11-05 |
-| "Create a Fear of Missing Out" -- ChatGPT Implements Unsolicited   Deceptive Designs in Generated Websites Without Warning | [2411.03108](http://arxiv.org/abs/2411.03108) | None | 2024-11-05 |
-| Evaluating the Ability of Large Language Models to Generate Verifiable   Specifications in VeriFast | [2411.02318](http://arxiv.org/abs/2411.02318) | None | 2024-11-05 |
-| AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | https://github.com/secureaiautonomylab/autosafecoder | 2024-11-05 |
-| A Survey on LLM-based Code Generation for Low-Resource and   Domain-Specific Programming Languages | [2410.03981](http://arxiv.org/abs/2410.03981) | None | 2024-11-04 |
-| Grammar-Aligned Decoding | [2405.21047](http://arxiv.org/abs/2405.21047) | None | 2024-11-04 |
-| Enhancing Table Representations with LLM-powered Synthetic Data   Generation | [2411.03356](http://arxiv.org/abs/2411.03356) | None | 2024-11-04 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,8 +198,17 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Do Large Language Models Truly Grasp Mathematics? An Empirical   Exploration From Cognitive Psychology | [2410.14979](http://arxiv.org/abs/2410.14979) | None | 2024-11-14 |
+| StreamAdapter: Efficient Test Time Adaptation from Contextual Streams | [2411.09289](http://arxiv.org/abs/2411.09289) | None | 2024-11-14 |
+| Harnessing multiple LLMs for Information Retrieval: A case study on Deep   Learning methodologies in Biodiversity publications | [2411.09269](http://arxiv.org/abs/2411.09269) | None | 2024-11-14 |
+| Automating Autograding: Large Language Models as Test Suite Generators   for Introductory Programming | [2411.09261](http://arxiv.org/abs/2411.09261) | None | 2024-11-14 |
+| Can Small Language Models Learn, Unlearn, and Retain Noise Patterns? | [2407.00996](http://arxiv.org/abs/2407.00996) | None | 2024-11-14 |
+| Comprehensive and Practical Evaluation of Retrieval-Augmented Generation   Systems for Medical Question Answering | [2411.09213](http://arxiv.org/abs/2411.09213) | None | 2024-11-14 |
+| Large Language Models for Power Scheduling: A User-Centric Approach | [2407.00476](http://arxiv.org/abs/2407.00476) | https://github.com/thomasmong/llm-power-scheduling | 2024-11-14 |
+| Not All Heads Matter: A Head-Level KV Cache Compression Method with   Integrated Retrieval and Reasoning | [2410.19258](http://arxiv.org/abs/2410.19258) | https://github.com/fyyfu/headkv | 2024-11-14 |
+| Reducing Reasoning Costs -- The Path of Optimization for Chain of   Thought via Sparse Attention Mechanism | [2411.09111](http://arxiv.org/abs/2411.09111) | https://github.com/brucewang123456789/GeniusTrail | 2024-11-14 |
 | Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A   Comparative Analysis | [2410.16527](http://arxiv.org/abs/2410.16527) | None | 2024-11-13 |
-| XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL | [2411.08599](http://arxiv.org/abs/2411.08599) | None | 2024-11-13 |
+| XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL | [2411.08599](http://arxiv.org/abs/2411.08599) | https://github.com/XGenerationLab/XiYan-SQL | 2024-11-13 |
 | Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data | [2411.08438](http://arxiv.org/abs/2411.08438) | None | 2024-11-13 |
 | pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2 | [2410.21283](http://arxiv.org/abs/2410.21283) | https://github.com/jw-chae/plddt_predictor | 2024-11-13 |
 | Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions   Following | [2410.15553](http://arxiv.org/abs/2410.15553) | https://github.com/facebookresearch/Multi-IF | 2024-11-13 |
@@ -214,20 +223,11 @@
 | The Effect of Scheduling and Preemption on the Efficiency of LLM   Inference Serving | [2411.07447](http://arxiv.org/abs/2411.07447) | None | 2024-11-12 |
 | Using Generative AI and Multi-Agents to Provide Automatic Feedback | [2411.07407](http://arxiv.org/abs/2411.07407) | None | 2024-11-11 |
 | SetLexSem Challenge: Using Set Operations to Evaluate the Lexical and   Semantic Robustness of Language Models | [2411.07336](http://arxiv.org/abs/2411.07336) | https://github.com/amazon-science/setlexsem-challenge | 2024-11-11 |
-| UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts | [2411.07240](http://arxiv.org/abs/2411.07240) | None | 2024-11-11 |
+| UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts | [2411.07240](http://arxiv.org/abs/2411.07240) | https://github.com/utmathgroup/utmath | 2024-11-11 |
 | DLCR: A Generative Data Expansion Framework via Diffusion for   Clothes-Changing Person Re-ID | [2411.07205](http://arxiv.org/abs/2411.07205) | https://github.com/croitorualin/dlcr | 2024-11-11 |
 | NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics | [2411.07186](http://arxiv.org/abs/2411.07186) | None | 2024-11-11 |
 | Hire Me or Not? Examining Language Model's Behavior with Occupation   Attributes | [2405.06687](http://arxiv.org/abs/2405.06687) | None | 2024-11-11 |
-| ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | None | 2024-11-11 |
-| A Multi-Agent Approach for REST API Testing with Semantic Graphs and   LLM-Driven Inputs | [2411.07098](http://arxiv.org/abs/2411.07098) | None | 2024-11-11 |
-| StoryTeller: Improving Long Video Description through Global   Audio-Visual Character Identification | [2411.07076](http://arxiv.org/abs/2411.07076) | https://github.com/hyc2026/StoryTeller | 2024-11-11 |
-| Aligning LLMs for FL-free Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | None | 2024-11-11 |
-| LongSafetyBench: Long-Context LLMs Struggle with Safety Issues | [2411.06899](http://arxiv.org/abs/2411.06899) | None | 2024-11-11 |
-| LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help? | [2411.06877](http://arxiv.org/abs/2411.06877) | None | 2024-11-11 |
-| Multimodal Structure-Aware Quantum Data Processing | [2411.04242](http://arxiv.org/abs/2411.04242) | https://github.com/halaa901/qnlp-thesis | 2024-11-11 |
-| Entity Extraction from High-Level Corruption Schemes via Large Language   Models | [2409.13704](http://arxiv.org/abs/2409.13704) | https://github.com/panagiotis-koletsis/kleptotracedataset | 2024-11-11 |
-| RoCar: A Relationship Network-based Evaluation Method for Large Language   Models | [2307.15997](http://arxiv.org/abs/2307.15997) | https://github.com/neu-datamining/rocar | 2024-11-11 |
-| NutriBench: A Dataset for Evaluating Large Language Models on Nutrition   Estimation from Meal Descriptions | [2407.12843](http://arxiv.org/abs/2407.12843) | None | 2024-11-11 |
+| ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | https://github.com/jiangxxxue/ROCODE | 2024-11-11 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | https://github.com/secureaiautonomylab/autosafecoder | 2024-11-05 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

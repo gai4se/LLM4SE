@@ -1,4 +1,4 @@
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,7 +59,7 @@
 | Programming with AI: Evaluating ChatGPT, Gemini, AlphaCode, and GitHub   Copilot for Programmers | [2411.09224](http://arxiv.org/abs/2411.09224) | None | 2024-11-14 |
 | P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent   Evaluation of LLMs | [2411.09116](http://arxiv.org/abs/2411.09116) | None | 2024-11-14 |
 | Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware   Expert Selection | [2411.08982](http://arxiv.org/abs/2411.08982) | None | 2024-11-13 |
-| PyGen: A Collaborative Human-AI Approach to Python Package Creation | [2411.08932](http://arxiv.org/abs/2411.08932) | None | 2024-11-13 |
+| PyGen: A Collaborative Human-AI Approach to Python Package Creation | [2411.08932](http://arxiv.org/abs/2411.08932) | https://github.com/GitsSaikat/Pygen | 2024-11-13 |
 | CoCoP: Enhancing Text Classification with LLM through Code Completion   Prompt | [2411.08979](http://arxiv.org/abs/2411.08979) | None | 2024-11-13 |
 | CodeTree: Agent-guided Tree Search for Code Generation with Large   Language Models | [2411.04329](http://arxiv.org/abs/2411.04329) | None | 2024-11-12 |
 | LiCoEval: Evaluating LLMs on License Compliance in Code Generation | [2408.02487](http://arxiv.org/abs/2408.02487) | https://github.com/osslab-pku/licoeval | 2024-11-12 |
@@ -208,7 +208,7 @@
 | Not All Heads Matter: A Head-Level KV Cache Compression Method with   Integrated Retrieval and Reasoning | [2410.19258](http://arxiv.org/abs/2410.19258) | https://github.com/fyyfu/headkv | 2024-11-14 |
 | Reducing Reasoning Costs -- The Path of Optimization for Chain of   Thought via Sparse Attention Mechanism | [2411.09111](http://arxiv.org/abs/2411.09111) | https://github.com/brucewang123456789/GeniusTrail | 2024-11-14 |
 | Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A   Comparative Analysis | [2410.16527](http://arxiv.org/abs/2410.16527) | None | 2024-11-13 |
-| XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL | [2411.08599](http://arxiv.org/abs/2411.08599) | https://github.com/XGenerationLab/XiYan-SQL | 2024-11-13 |
+| XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL | [2411.08599](http://arxiv.org/abs/2411.08599) | https://github.com/XGenerationLab/M-Schema | 2024-11-13 |
 | Towards Optimizing a Retrieval Augmented Generation using Large Language   Model on Academic Data | [2411.08438](http://arxiv.org/abs/2411.08438) | None | 2024-11-13 |
 | pLDDT-Predictor: High-speed Protein Screening Using Transformer and ESM2 | [2410.21283](http://arxiv.org/abs/2410.21283) | https://github.com/jw-chae/plddt_predictor | 2024-11-13 |
 | Multi-IF: Benchmarking LLMs on Multi-Turn and Multilingual Instructions   Following | [2410.15553](http://arxiv.org/abs/2410.15553) | https://github.com/facebookresearch/Multi-IF | 2024-11-13 |

@@ -1,4 +1,4 @@
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,12 +54,15 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-11-19 |
+| Escalating LLM-based Code Translation Benchmarking into the Class-level   Era | [2411.06145](http://arxiv.org/abs/2411.06145) | None | 2024-11-19 |
 | A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver   Generation | [2411.11532](http://arxiv.org/abs/2411.11532) | None | 2024-11-18 |
 | Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework   for Multimodal LLMs | [2406.20098](http://arxiv.org/abs/2406.20098) | https://github.com/mbzuai-llm/web2code | 2024-11-17 |
 | SRA-MCTS: Self-driven Reasoning Aurmentation with Monte Carlo Tree   Search for Enhanced Code Generation | [2411.11053](http://arxiv.org/abs/2411.11053) | None | 2024-11-17 |
 | SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents | [2406.12952](http://arxiv.org/abs/2406.12952) | https://github.com/logic-star-ai/swt-bench | 2024-11-17 |
 | FastDraft: How to Train Your Draft | [2411.11055](http://arxiv.org/abs/2411.11055) | None | 2024-11-17 |
 | Clover: Closed-Loop Verifiable Code Generation | [2310.17807](http://arxiv.org/abs/2310.17807) | https://github.com/ChuyueSun/Clover | 2024-11-16 |
+| LLM4DS: Evaluating Large Language Models for Data Science Code   Generation | [2411.11908](http://arxiv.org/abs/2411.11908) | None | 2024-11-16 |
 | Chain-of-Programming (CoP) : Empowering Large Language Models for   Geospatial Code Generation | [2411.10753](http://arxiv.org/abs/2411.10753) | None | 2024-11-16 |
 | AutoIoT: Automated IoT Platform Using Large Language Models | [2411.10665](http://arxiv.org/abs/2411.10665) | None | 2024-11-16 |
 | Precision or Peril: Evaluating Code Quality from Quantized Large   Language Models | [2411.10656](http://arxiv.org/abs/2411.10656) | None | 2024-11-16 |
@@ -82,9 +85,6 @@
 | LLMPhy: Complex Physical Reasoning Using Large Language Models and World   Models | [2411.08027](http://arxiv.org/abs/2411.08027) | None | 2024-11-12 |
 | LLM-Assisted Static Analysis for Detecting Security Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2024-11-11 |
 | ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large   Language Models for Code Generation | [2411.07112](http://arxiv.org/abs/2411.07112) | https://github.com/jiangxxxue/ROCODE | 2024-11-11 |
-| The First Prompt Counts the Most! An Evaluation of Large Language Models   on Iterative Example-based Code Generation | [2411.06774](http://arxiv.org/abs/2411.06774) | None | 2024-11-11 |
-| PDC & DM-SFT: A Road for LLM SQL Bug-Fix Enhancing | [2411.06767](http://arxiv.org/abs/2411.06767) | None | 2024-11-11 |
-| Anchor Attention, Small Cache: Code Generation with Large Language   Models | [2411.06680](http://arxiv.org/abs/2411.06680) | None | 2024-11-11 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,7 +198,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning   Methods | [2411.12103](http://arxiv.org/abs/2411.12103) | https://github.com/jaidoshi/knowledge-erasure | 2024-11-20 |
+| Is Programming by Example solved by LLMs? | [2406.08316](http://arxiv.org/abs/2406.08316) | None | 2024-11-19 |
+| Procedural Knowledge in Pretraining Drives Reasoning in Large Language   Models | [2411.12580](http://arxiv.org/abs/2411.12580) | https://github.com/pomonam/kronfluence | 2024-11-19 |
+| Weak-to-Strong Search: Align Large Language Models via Searching over   Small Language Models | [2405.19262](http://arxiv.org/abs/2405.19262) | https://github.com/zhziszz/weak-to-strong-search | 2024-11-19 |
+| Zero-shot LLM-guided Counterfactual Generation: A Case Study on NLP   Model Evaluation | [2405.04793](http://arxiv.org/abs/2405.04793) | https://github.com/AmritaBh/zero-shot-llm-counterfactual | 2024-11-19 |
+| Do LLMs Understand Ambiguity in Text? A Case Study in Open-world   Question Answering | [2411.12395](http://arxiv.org/abs/2411.12395) | None | 2024-11-19 |
+| Escalating LLM-based Code Translation Benchmarking into the Class-level   Era | [2411.06145](http://arxiv.org/abs/2411.06145) | None | 2024-11-19 |
+| Performance of Large Language Models in Technical MRI Question   Answering: A Comparative Study | [2411.12238](http://arxiv.org/abs/2411.12238) | None | 2024-11-19 |
+| Adapting Amidst Degradation: Cross Domain Li-ion Battery Health   Estimation via Physics-Guided Test-Time Training | [2402.00068](http://arxiv.org/abs/2402.00068) | None | 2024-11-19 |
 | A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver   Generation | [2411.11532](http://arxiv.org/abs/2411.11532) | None | 2024-11-18 |
+| ChatHTTPFuzz: Large Language Model-Assisted IoT HTTP Fuzzing | [2411.11929](http://arxiv.org/abs/2411.11929) | None | 2024-11-18 |
+| Metamorphic Evaluation of ChatGPT as a Recommender System | [2411.12121](http://arxiv.org/abs/2411.12121) | None | 2024-11-18 |
 | What Do Learning Dynamics Reveal About Generalization in LLM Reasoning? | [2411.07681](http://arxiv.org/abs/2411.07681) | https://github.com/katiekang1998/reasoning_generalization | 2024-11-18 |
 | Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search | [2411.11694](http://arxiv.org/abs/2411.11694) | None | 2024-11-18 |
 | Alien Recombination: Exploring Concept Blends Beyond Human Cognitive   Availability in Visual Art | [2411.11494](http://arxiv.org/abs/2411.11494) | None | 2024-11-18 |
@@ -211,23 +222,12 @@
 | REACCEPT: Automated Co-evolution of Production and Test Code Based on   Dynamic Validation and Large Language Models | [2411.11033](http://arxiv.org/abs/2411.11033) | None | 2024-11-17 |
 | BianCang: A Traditional Chinese Medicine Large Language Model | [2411.11027](http://arxiv.org/abs/2411.11027) | https://github.com/qlu-nlp/biancang | 2024-11-17 |
 | SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents | [2406.12952](http://arxiv.org/abs/2406.12952) | https://github.com/logic-star-ai/swt-bench | 2024-11-17 |
-| Adapting Amidst Degradation: Cross Domain Li-ion Battery Health   Estimation via Physics-Guided Test-Time Training | [2402.00068](http://arxiv.org/abs/2402.00068) | None | 2024-11-17 |
 | Self-Attention Limits Working Memory Capacity of Transformer-Based   Models | [2409.10715](http://arxiv.org/abs/2409.10715) | None | 2024-11-16 |
+| LLM4DS: Evaluating Large Language Models for Data Science Code   Generation | [2411.11908](http://arxiv.org/abs/2411.11908) | None | 2024-11-16 |
 | A Wearable Gait Monitoring System for 17 Gait Parameters Based on   Computer Vision | [2411.10739](http://arxiv.org/abs/2411.10739) | None | 2024-11-16 |
 | Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A   Comparative Analysis | [2410.16527](http://arxiv.org/abs/2410.16527) | None | 2024-11-16 |
 | AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic   Manipulation | [2406.11548](http://arxiv.org/abs/2406.11548) | None | 2024-11-16 |
 | FlexFL: Flexible and Effective Fault Localization with Open-Source Large   Language Models | [2411.10714](http://arxiv.org/abs/2411.10714) | None | 2024-11-16 |
-| EDBooks: AI-Enhanced Interactive Narratives for Programming Education | [2411.10687](http://arxiv.org/abs/2411.10687) | None | 2024-11-16 |
-| I'm Spartacus, No, I'm Spartacus: Measuring and Understanding LLM   Identity Confusion | [2411.10683](http://arxiv.org/abs/2411.10683) | None | 2024-11-16 |
-| Web Archives Metadata Generation with GPT-4o: Challenges and Insights | [2411.05409](http://arxiv.org/abs/2411.05409) | https://github.com/masamune-prog/warc2summary | 2024-11-16 |
-| Precision or Peril: Evaluating Code Quality from Quantized Large   Language Models | [2411.10656](http://arxiv.org/abs/2411.10656) | None | 2024-11-16 |
-| Reducing Reasoning Costs -- The Path of Optimization for Chain of   Thought via Sparse Attention Mechanism | [2411.09111](http://arxiv.org/abs/2411.09111) | https://github.com/brucewang123456789/GeniusTrail | 2024-11-15 |
-| Interactive Cycle Model -- The Linkage Combination among Automatic   Speech Recognition, Large Language Models and Smart Glasses | [2411.10362](http://arxiv.org/abs/2411.10362) | None | 2024-11-15 |
-| Bias Unveiled: Investigating Social Bias in LLM-Generated Code | [2411.10351](http://arxiv.org/abs/2411.10351) | None | 2024-11-15 |
-| Static network structure cannot stabilize cooperation among Large   Language Model agents | [2411.10294](http://arxiv.org/abs/2411.10294) | None | 2024-11-15 |
-| Do Large Language Models Truly Grasp Mathematics? An Empirical   Exploration From Cognitive Psychology | [2410.14979](http://arxiv.org/abs/2410.14979) | None | 2024-11-15 |
-| Legal Evalutions and Challenges of Large Language Models | [2411.10137](http://arxiv.org/abs/2411.10137) | None | 2024-11-15 |
-| Automated Clinical Data Extraction with Knowledge Conditioned LLMs | [2406.18027](http://arxiv.org/abs/2406.18027) | None | 2024-11-15 |
 | AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation   through Static Analysis and Fuzz Testing | [2409.10737](http://arxiv.org/abs/2409.10737) | https://github.com/secureaiautonomylab/autosafecoder | 2024-11-05 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

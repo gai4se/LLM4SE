@@ -1,4 +1,4 @@
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -208,7 +208,7 @@
 | Verifying the Robustness of Automatic Credibility Assessment | [2303.08032](http://arxiv.org/abs/2303.08032) | https://github.com/piotrmp/bodega | 2024-11-21 |
 | LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level   Mathematical Reasoning | [2410.02884](http://arxiv.org/abs/2410.02884) | None | 2024-11-21 |
 | Design2Code: Benchmarking Multimodal Code Generation for Automated   Front-End Engineering | [2403.03163](http://arxiv.org/abs/2403.03163) | None | 2024-11-21 |
-| Robust Detection of Watermarks for Large Language Models Under Human   Edits | [2411.13868](http://arxiv.org/abs/2411.13868) | None | 2024-11-21 |
+| Robust Detection of Watermarks for Large Language Models Under Human   Edits | [2411.13868](http://arxiv.org/abs/2411.13868) | https://github.com/lx10077/TrGoF | 2024-11-21 |
 | Chat Bankman-Fried: an Exploration of LLM Alignment in Finance | [2411.11853](http://arxiv.org/abs/2411.11853) | https://github.com/bancaditalia/llm-alignment-finance-chat-bf | 2024-11-21 |
 | An Evaluation-Driven Approach to Designing LLM Agents: Process and   Architecture | [2411.13768](http://arxiv.org/abs/2411.13768) | None | 2024-11-21 |
 | AI-Driven Agents with Prompts Designed for High Agreeableness Increase   the Likelihood of Being Mistaken for a Human in the Turing Test | [2411.13749](http://arxiv.org/abs/2411.13749) | None | 2024-11-20 |

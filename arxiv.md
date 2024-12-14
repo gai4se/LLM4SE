@@ -1,4 +1,4 @@
-## Updated on 2024.12.13
+## Updated on 2024.12.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -35,25 +35,27 @@
 | Instructive Code Retriever: Learn from Large Language Model's Feedback   for Code Intelligence Tasks | [2410.11300](http://arxiv.org/abs/2410.11300) | https://github.com/kingofheven/ICR | 2024-10-15 |
 | Training Language Models on Synthetic Edit Sequences Improves Code   Synthesis | [2410.02749](http://arxiv.org/abs/2410.02749) | https://github.com/upiterbarg/lintseq | 2024-10-15 |
 | Software Engineering and Foundation Models: Insights from Industry Blogs   Using a Jury of Foundation Models | [2410.09012](http://arxiv.org/abs/2410.09012) | https://github.com/sailresearch/fmse-blogs | 2024-10-11 |
+| Large Language Models as Code Executors: An Exploratory Study | [2410.06667](http://arxiv.org/abs/2410.06667) | None | 2024-10-10 |
+| RepoGraph: Enhancing AI Software Engineering with Repository-level Code   Graph | [2410.14684](http://arxiv.org/abs/2410.14684) | https://github.com/ozyyshr/repograph | 2024-10-03 |
 | TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement   Learning | [2409.13035](http://arxiv.org/abs/2409.13035) | None | 2024-09-23 |
+| Reasoning Runtime Behavior of a Program with LLM: How Far Are We? | [2403.16437](http://arxiv.org/abs/2403.16437) | None | 2024-09-21 |
+| CodeJudge-Eval: Can Large Language Models be Good Judges in Code   Understanding? | [2408.10718](http://arxiv.org/abs/2408.10718) | https://github.com/codellm-research/codejudge-eval | 2024-09-13 |
 | XMainframe: A Large Language Model for Mainframe Modernization | [2408.04660](http://arxiv.org/abs/2408.04660) | https://github.com/fsoft-ai4code/xmainframe | 2024-08-26 |
+| ML-Bench: Evaluating Large Language Models and Agents for Machine   Learning Tasks on Repository-Level Code | [2311.09835](http://arxiv.org/abs/2311.09835) | https://github.com/gersteinlab/ml-bench | 2024-08-21 |
 | SCLA: Automated Smart Contract Summarization via LLMs and Semantic   Augmentation | [2402.04863](http://arxiv.org/abs/2402.04863) | None | 2024-08-20 |
 | Context-aware Code Summary Generation | [2408.09006](http://arxiv.org/abs/2408.09006) | https://github.com/apcl-research/jam-contextsum | 2024-08-16 |
+| HiRoPE: Length Extrapolation for Code Models Using Hierarchical Position | [2403.19115](http://arxiv.org/abs/2403.19115) | None | 2024-08-09 |
+| What You Need is What You Get: Theory of Mind for an LLM-Based Code   Understanding Assistant | [2408.04477](http://arxiv.org/abs/2408.04477) | None | 2024-08-08 |
 | Can Developers Prompt? A Controlled Experiment for Code Documentation   Generation | [2408.00686](http://arxiv.org/abs/2408.00686) | None | 2024-08-01 |
+| On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/sailresearch/awesome-foundation-model-leaderboards | 2024-07-13 |
 | Source Code Summarization in the Era of Large Language Models | [2407.07959](http://arxiv.org/abs/2407.07959) | https://github.com/wssun/llm4codesummarization | 2024-07-09 |
-| InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with   Inverse-Instruct | [2407.05700](http://arxiv.org/abs/2407.05700) | https://github.com/wyt2000/InverseCoder | 2024-07-08 |
-| An Empirical Study on Capability of Large Language Models in   Understanding Code Semantics | [2407.03611](http://arxiv.org/abs/2407.03611) | None | 2024-07-04 |
-| Semantic Similarity Loss for Neural Source Code Summarization | [2308.07429](http://arxiv.org/abs/2308.07429) | https://github.com/apcl-research/funcom-useloss | 2024-06-11 |
-| On Training a Neural Network to Explain Binaries | [2404.19631](http://arxiv.org/abs/2404.19631) | None | 2024-04-30 |
-| A Critical Review of Large Language Model on Software Engineering: An   Example from ChatGPT and Automated Program Repair | [2310.08879](http://arxiv.org/abs/2310.08879) | None | 2024-04-17 |
-| Analyzing the Performance of Large Language Models on Code Summarization | [2404.08018](http://arxiv.org/abs/2404.08018) | https://github.com/rajarshihaldar/analyze-llm-code-summarization | 2024-04-10 |
-| Read between the lines -- Functionality Extraction From READMEs | [2403.10205](http://arxiv.org/abs/2403.10205) | None | 2024-03-15 |
-| RepoAgent: An LLM-Powered Open-Source Framework for Repository-level   Code Documentation Generation | [2402.16667](http://arxiv.org/abs/2402.16667) | https://github.com/openbmb/repoagent | 2024-02-26 |
 
 <h2 id="Code-Generation/Completion"> Code Generation/Completion </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Learning to Solve Domain-Specific Calculation Problems with   Knowledge-Intensive Programs Generator | [2412.09280](http://arxiv.org/abs/2412.09280) | None | 2024-12-12 |
+| "Create a Fear of Missing Out" -- ChatGPT Implements Unsolicited   Deceptive Designs in Generated Websites Without Warning | [2411.03108](http://arxiv.org/abs/2411.03108) | None | 2024-12-12 |
 | CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding   Capabilities of CodeLLMs | [2410.01999](http://arxiv.org/abs/2410.01999) | None | 2024-12-11 |
 | MaestroMotif: Skill Design from Artificial Intelligence Feedback | [2412.08542](http://arxiv.org/abs/2412.08542) | None | 2024-12-11 |
 | GEE-OPs: An Operator Knowledge Base for Geospatial Code Generation on   the Google Earth Engine Platform Powered by Large Language Models | [2412.05587](http://arxiv.org/abs/2412.05587) | None | 2024-12-11 |
@@ -62,8 +64,8 @@
 | Unseen Horizons: Unveiling the Real Capability of LLM Code Generation   Beyond the Familiar | [2412.08109](http://arxiv.org/abs/2412.08109) | None | 2024-12-11 |
 | What You See Is Not Always What You Get: An Empirical Study of Code   Comprehension by Large Language Models | [2412.08098](http://arxiv.org/abs/2412.08098) | None | 2024-12-11 |
 | DialogAgent: An Auto-engagement Agent for Code Question Answering Data   Production | [2412.08069](http://arxiv.org/abs/2412.08069) | None | 2024-12-11 |
-| ConceptSearch: Towards Efficient Program Search Using LLMs for   Abstraction and Reasoning Corpus (ARC) | [2412.07322](http://arxiv.org/abs/2412.07322) | https://github.com/kksinghal/concept-search | 2024-12-11 |
 | Can Large Language Models Understand Symbolic Graphics Programs? | [2408.08313](http://arxiv.org/abs/2408.08313) | None | 2024-12-11 |
+| ConceptSearch: Towards Efficient Program Search Using LLMs for   Abstraction and Reasoning Corpus (ARC) | [2412.07322](http://arxiv.org/abs/2412.07322) | https://github.com/kksinghal/concept-search | 2024-12-11 |
 | ContextModule: Improving Code Completion via Repository-level Contextual   Information | [2412.08063](http://arxiv.org/abs/2412.08063) | None | 2024-12-11 |
 | MAGE: A Multi-Agent Engine for Automated RTL Code Generation | [2412.07822](http://arxiv.org/abs/2412.07822) | https://github.com/stable-lab/MAGE-A-Multi-Agent-Engine-for-Automated-RTL-Code-Generation | 2024-12-10 |
 | Why Do Developers Engage with ChatGPT in Issue-Tracker? Investigating   Usage and Reliance on ChatGPT-Generated Code | [2412.06757](http://arxiv.org/abs/2412.06757) | None | 2024-12-10 |
@@ -83,8 +85,6 @@
 | Prompt Engineering Guidance for Conceptual Agent-based Model Extraction   using Large Language Models | [2412.04056](http://arxiv.org/abs/2412.04056) | None | 2024-12-05 |
 | Exploring RAG-based Vulnerability Augmentation with LLMs | [2408.04125](http://arxiv.org/abs/2408.04125) | https://github.com/VulScribeR/VulScribeR | 2024-12-05 |
 | From Code to Play: Benchmarking Program Search for Games Using Large   Language Models | [2412.04057](http://arxiv.org/abs/2412.04057) | None | 2024-12-05 |
-| Survey of different Large Language Model Architectures: Trends,   Benchmarks, and Challenges | [2412.03220](http://arxiv.org/abs/2412.03220) | None | 2024-12-04 |
-| An Effective Framework to Help Large Language Models Handle   Numeric-involved Long-context Tasks | [2411.10145](http://arxiv.org/abs/2411.10145) | None | 2024-12-04 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -162,6 +162,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Harnessing the Power of LLM to Support Binary Taint Analysis | [2310.08275](http://arxiv.org/abs/2310.08275) | None | 2024-12-12 |
+| Boosting Static Resource Leak Detection via LLM-based Resource-Oriented   Intention Inference | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2024-12-12 |
 | How secure is AI-generated Code: A Large-Scale Comparison of Large   Language Models | [2404.18353](http://arxiv.org/abs/2404.18353) | None | 2024-12-11 |
 | The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling   Vulnerabilities in Prospective Deep-Learning Libraries | [2412.01317](http://arxiv.org/abs/2412.01317) | None | 2024-12-11 |
 | Seeing is Believing: Vision-driven Non-crash Functional Bug Detection   for Mobile Apps | [2407.03037](http://arxiv.org/abs/2407.03037) | None | 2024-12-04 |
@@ -191,14 +193,27 @@
 | Program Slicing in the Era of Large Language Models | [2409.12369](http://arxiv.org/abs/2409.12369) | None | 2024-09-19 |
 | VulnLLMEval: A Framework for Evaluating Large Language Models in   Software Vulnerability Detection and Patching | [2409.10756](http://arxiv.org/abs/2409.10756) | None | 2024-09-16 |
 | Code Vulnerability Detection: A Comparative Analysis of Emerging Large   Language Models | [2409.10490](http://arxiv.org/abs/2409.10490) | None | 2024-09-16 |
-| Tasks People Prompt: A Taxonomy of LLM Downstream Tasks in Software   Verification and Falsification Approaches | [2404.09384](http://arxiv.org/abs/2404.09384) | None | 2024-09-08 |
-| LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2024-09-05 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| FullStack Bench: Evaluating LLMs as Full Stack Coders | [2412.00535](http://arxiv.org/abs/2412.00535) | https://github.com/bytedance/fullstackbench | 2024-12-12 |
+| LLMs for Time Series: an Application for Single Stocks and Statistical   Arbitrage | [2412.09394](http://arxiv.org/abs/2412.09394) | None | 2024-12-12 |
+| LLMs are Highly-Constrained Biophysical Sequence Optimizers | [2410.22296](http://arxiv.org/abs/2410.22296) | None | 2024-12-12 |
+| Delving into Youth Perspectives on In-game Gambling-like Elements: A   Proof-of-Concept Study Utilising Large Language Models for Analysing   User-Generated Text Data | [2412.09345](http://arxiv.org/abs/2412.09345) | None | 2024-12-12 |
+| Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur   automatischen Bewertung von Hausaufgaben | [2412.06651](http://arxiv.org/abs/2412.06651) | None | 2024-12-12 |
+| Training on the Test Task Confounds Evaluation and Emergence | [2407.07890](http://arxiv.org/abs/2407.07890) | https://github.com/socialfoundations/training-on-the-test-task | 2024-12-12 |
+| Revolutionizing Finance with LLMs: An Overview of Applications and   Insights | [2401.11641](http://arxiv.org/abs/2401.11641) | None | 2024-12-12 |
+| AI-assisted Knowledge Discovery in Biomedical Literature to Support   Decision-making in Precision Oncology | [2412.08900](http://arxiv.org/abs/2412.08900) | None | 2024-12-12 |
+| Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks   with Large Language Models | [2407.07086](http://arxiv.org/abs/2407.07086) | https://github.com/locross93/hypothetical-minds | 2024-12-12 |
+| Kajal: Extracting Grammar of a Source Code Using Large Language Models | [2412.08842](http://arxiv.org/abs/2412.08842) | None | 2024-12-12 |
 | The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling   Vulnerabilities in Prospective Deep-Learning Libraries | [2412.01317](http://arxiv.org/abs/2412.01317) | None | 2024-12-11 |
+| TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles   with Simulated Students | [2410.04078](http://arxiv.org/abs/2410.04078) | None | 2024-12-11 |
+| Autoformalizing and Simulating Game-Theoretic Scenarios using   LLM-augmented Agents | [2412.08805](http://arxiv.org/abs/2412.08805) | https://github.com/dicelab-rhul/autoformalizing-agents | 2024-12-11 |
+| Can Large Language Models Understand Symbolic Graphics Programs? | [2408.08313](http://arxiv.org/abs/2408.08313) | None | 2024-12-11 |
+| Categorical Syllogisms Revisited: A Review of the Logical Reasoning   Abilities of LLMs for Analyzing Categorical Syllogism | [2406.18762](http://arxiv.org/abs/2406.18762) | None | 2024-12-11 |
+| In-Context Learning with Topological Information for Knowledge Graph   Completion | [2412.08742](http://arxiv.org/abs/2412.08742) | None | 2024-12-11 |
 | Reducing Reasoning Costs -- The Path of Optimization for Chain of   Thought via Sparse Attention Mechanism | [2411.09111](http://arxiv.org/abs/2411.09111) | https://github.com/brucewang123456789/GeniusTrail | 2024-12-11 |
 | Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts | [2402.16822](http://arxiv.org/abs/2402.16822) | None | 2024-12-11 |
 | The BrowserGym Ecosystem for Web Agent Research | [2412.05467](http://arxiv.org/abs/2412.05467) | None | 2024-12-11 |
@@ -213,22 +228,7 @@
 | Zero-Shot ATC Coding with Large Language Models for Clinical Assessments | [2412.07743](http://arxiv.org/abs/2412.07743) | None | 2024-12-10 |
 | FlexLLM: Exploring LLM Customization for Moving Target Defense on   Black-Box LLMs Against Jailbreak Attacks | [2412.07672](http://arxiv.org/abs/2412.07672) | None | 2024-12-10 |
 | Automating Business Intelligence Requirements with Generative AI and   Semantic Search | [2412.07668](http://arxiv.org/abs/2412.07668) | None | 2024-12-10 |
-| TrojanWhisper: Evaluating Pre-trained LLMs to Detect and Localize   Hardware Trojans | [2412.07636](http://arxiv.org/abs/2412.07636) | None | 2024-12-10 |
-| Transfer Learning in Materials Informatics: structure-property   relationships through minimal but highly informative multimodal input | [2401.09301](http://arxiv.org/abs/2401.09301) | None | 2024-12-10 |
-| MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile   Device Control | [2410.17520](http://arxiv.org/abs/2410.17520) | https://github.com/jylee425/mobilesafetybench | 2024-12-10 |
-| Chatbots im Schulunterricht: Wir testen das Fobizz-Tool zur   automatischen Bewertung von Hausaufgaben | [2412.06651](http://arxiv.org/abs/2412.06651) | None | 2024-12-10 |
-| DSTC: Direct Preference Learning with Only Self-Generated Tests and Code   to Improve Code LMs | [2411.13611](http://arxiv.org/abs/2411.13611) | None | 2024-12-10 |
-| MemHunter: Automated and Verifiable Memorization Detection at   Dataset-scale in LLMs | [2412.07261](http://arxiv.org/abs/2412.07261) | None | 2024-12-10 |
-| LEARN: Knowledge Adaptation from Large Language Model to Recommendation   for Practical Industrial Application | [2405.03988](http://arxiv.org/abs/2405.03988) | None | 2024-12-10 |
-| Automating Governing Knowledge Commons and Contextual Integrity (GKC-CI)   Privacy Policy Annotations with Large Language Models | [2311.02192](http://arxiv.org/abs/2311.02192) | https://github.com/jakec007/automated_gkc-ci_privacy_policy_annotations | 2024-12-10 |
 | Fuzz4All: Universal Fuzzing with Large Language Models | [2308.04748](http://arxiv.org/abs/2308.04748) | https://github.com/fuzz4all/fuzz4all | 2024-12-09 |
-| A Video is Worth 10,000 Words: Training and Benchmarking with Diverse   Captions for Better Long Video Retrieval | [2312.00115](http://arxiv.org/abs/2312.00115) | None | 2024-12-09 |
-| Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each   using ChatGPT | [2304.00385](http://arxiv.org/abs/2304.00385) | None | 2024-12-09 |
-| AutoReason: Automatic Few-Shot Reasoning Decomposition | [2412.06975](http://arxiv.org/abs/2412.06975) | https://github.com/miralab-ai/autoreason | 2024-12-09 |
-| From Concept to Manufacturing: Evaluating Vision-Language Models for   Engineering Design | [2311.12668](http://arxiv.org/abs/2311.12668) | None | 2024-12-09 |
-| How Many Languages Make Good Multilingual Instruction Tuning? A Case   Study on BLOOM | [2404.04850](http://arxiv.org/abs/2404.04850) | None | 2024-12-09 |
-| FullStack Bench: Evaluating LLMs as Full Stack Coders | [2412.00535](http://arxiv.org/abs/2412.00535) | https://github.com/bytedance/fullstackbench | 2024-12-09 |
-| PerfGen: Automated Performance Benchmark Generation for Big Data   Analytics | [2412.04687](http://arxiv.org/abs/2412.04687) | None | 2024-12-06 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

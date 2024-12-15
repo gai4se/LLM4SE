@@ -1,4 +1,4 @@
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -207,7 +207,7 @@
 | Revolutionizing Finance with LLMs: An Overview of Applications and   Insights | [2401.11641](http://arxiv.org/abs/2401.11641) | None | 2024-12-12 |
 | AI-assisted Knowledge Discovery in Biomedical Literature to Support   Decision-making in Precision Oncology | [2412.08900](http://arxiv.org/abs/2412.08900) | None | 2024-12-12 |
 | Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks   with Large Language Models | [2407.07086](http://arxiv.org/abs/2407.07086) | https://github.com/locross93/hypothetical-minds | 2024-12-12 |
-| Kajal: Extracting Grammar of a Source Code Using Large Language Models | [2412.08842](http://arxiv.org/abs/2412.08842) | None | 2024-12-12 |
+| Kajal: Extracting Grammar of a Source Code Using Large Language Models | [2412.08842](http://arxiv.org/abs/2412.08842) | https://github.com/mohammadJaliliTorkamani/Kajal | 2024-12-12 |
 | The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling   Vulnerabilities in Prospective Deep-Learning Libraries | [2412.01317](http://arxiv.org/abs/2412.01317) | None | 2024-12-11 |
 | TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles   with Simulated Students | [2410.04078](http://arxiv.org/abs/2410.04078) | None | 2024-12-11 |
 | Autoformalizing and Simulating Game-Theoretic Scenarios using   LLM-augmented Agents | [2412.08805](http://arxiv.org/abs/2412.08805) | https://github.com/dicelab-rhul/autoformalizing-agents | 2024-12-11 |

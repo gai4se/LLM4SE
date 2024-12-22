@@ -1,4 +1,4 @@
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,9 +58,9 @@
 | CodeLutra: Boosting LLM Code Generation via Preference-Guided Refinement | [2411.05199](http://arxiv.org/abs/2411.05199) | None | 2024-12-19 |
 | Outcome-Refining Process Supervision for Code Generation | [2412.15118](http://arxiv.org/abs/2412.15118) | None | 2024-12-19 |
 | Helping LLMs Improve Code Generation Using Feedback from Testing and   Static Analysis | [2412.14841](http://arxiv.org/abs/2412.14841) | None | 2024-12-19 |
-| CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge   Graph | [2411.11532](http://arxiv.org/abs/2411.11532) | None | 2024-12-19 |
+| CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge   Graph | [2411.11532](http://arxiv.org/abs/2411.11532) | https://github.com/xuhxx/ckgfuzzer | 2024-12-19 |
 | The Current Challenges of Software Engineering in the Era of Large   Language Models | [2412.14554](http://arxiv.org/abs/2412.14554) | None | 2024-12-19 |
-| Fixing Large Language Models' Specification Misunderstanding for Better   Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-12-19 |
+| Fixing Large Language Models' Specification Misunderstanding for Better   Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | https://github.com/tianzhaotju/mufix | 2024-12-19 |
 | Why We Build Local Large Language Models: An Observational Analysis from   35 Japanese and Multilingual LLMs | [2412.14471](http://arxiv.org/abs/2412.14471) | None | 2024-12-19 |
 | Benchmarking the Communication Competence of Code Generation for LLMs   and LLM Agent | [2406.00215](http://arxiv.org/abs/2406.00215) | https://github.com/jie-jw-wu/human-eval-comm | 2024-12-18 |
 | Advanced Reasoning and Transformation Engine for Multi-Step Insight   Synthesis in Data Analytics with Large Language Models | [2412.14146](http://arxiv.org/abs/2412.14146) | None | 2024-12-18 |
@@ -198,8 +198,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge   Graph | [2411.11532](http://arxiv.org/abs/2411.11532) | None | 2024-12-19 |
-| MMLU-CF: A Contamination-free Multi-task Language Understanding   Benchmark | [2412.15194](http://arxiv.org/abs/2412.15194) | None | 2024-12-19 |
+| CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge   Graph | [2411.11532](http://arxiv.org/abs/2411.11532) | https://github.com/xuhxx/ckgfuzzer | 2024-12-19 |
+| MMLU-CF: A Contamination-free Multi-task Language Understanding   Benchmark | [2412.15194](http://arxiv.org/abs/2412.15194) | https://github.com/microsoft/mmlu-cf | 2024-12-19 |
 | Does VLM Classification Benefit from LLM Description Semantics? | [2412.11917](http://arxiv.org/abs/2412.11917) | https://github.com/compvis/disclip | 2024-12-19 |
 | Associative memory inspires improvements for in-context learning using a   novel attention residual stream architecture | [2412.15113](http://arxiv.org/abs/2412.15113) | https://github.com/tfburns/amicl-and-residual-attention-streams | 2024-12-19 |
 | AI and Cultural Context: An Empirical Investigation of Large Language   Models' Performance on Chinese Social Work Professional Standards | [2412.14971](http://arxiv.org/abs/2412.14971) | None | 2024-12-19 |
@@ -208,7 +208,7 @@
 | PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in   Left-Behind Children | [2412.14769](http://arxiv.org/abs/2412.14769) | https://github.com/LYiHub/psydraw | 2024-12-19 |
 | LLMs as mediators: Can they diagnose conflicts accurately? | [2412.14675](http://arxiv.org/abs/2412.14675) | None | 2024-12-19 |
 | The Current Challenges of Software Engineering in the Era of Large   Language Models | [2412.14554](http://arxiv.org/abs/2412.14554) | None | 2024-12-19 |
-| Fixing Large Language Models' Specification Misunderstanding for Better   Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | None | 2024-12-19 |
+| Fixing Large Language Models' Specification Misunderstanding for Better   Code Generation | [2309.16120](http://arxiv.org/abs/2309.16120) | https://github.com/tianzhaotju/mufix | 2024-12-19 |
 | Agent-SafetyBench: Evaluating the Safety of LLM Agents | [2412.14470](http://arxiv.org/abs/2412.14470) | https://github.com/thu-coai/agent-safetybench | 2024-12-19 |
 | From Human Annotation to LLMs: SILICON Annotation Workflow for   Management Research | [2412.14461](http://arxiv.org/abs/2412.14461) | None | 2024-12-19 |
 | UnSeenTimeQA: Time-Sensitive Question-Answering Beyond LLMs'   Memorization | [2407.03525](http://arxiv.org/abs/2407.03525) | None | 2024-12-18 |

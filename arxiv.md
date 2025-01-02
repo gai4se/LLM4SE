@@ -1,4 +1,4 @@
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -201,7 +201,7 @@
 | Aligning the Objective of LLM-based Program Repair | [2404.08877](http://arxiv.org/abs/2404.08877) | https://github.com/cuhk-shenzhen-se/d4c | 2024-12-30 |
 | In-Context Learning with Iterative Demonstration Selection | [2310.09881](http://arxiv.org/abs/2310.09881) | None | 2024-12-30 |
 | NLP-based Regulatory Compliance -- Using GPT 4.0 to Decode Regulatory   Documents | [2412.20602](http://arxiv.org/abs/2412.20602) | None | 2024-12-29 |
-| Controlling Out-of-Domain Gaps in LLMs for Genre Classification and   Generated Text Detection | [2412.20595](http://arxiv.org/abs/2412.20595) | None | 2024-12-29 |
+| Controlling Out-of-Domain Gaps in LLMs for Genre Classification and   Generated Text Detection | [2412.20595](http://arxiv.org/abs/2412.20595) | https://github.com/dminus1/LLM-OOD-control | 2024-12-29 |
 | AmalREC: A Dataset for Relation Extraction and Classification Leveraging   Amalgamation of Large Language Models | [2412.20427](http://arxiv.org/abs/2412.20427) | None | 2024-12-29 |
 | Explaining Length Bias in LLM-Based Preference Evaluations | [2407.01085](http://arxiv.org/abs/2407.01085) | None | 2024-12-29 |
 | Mind the Data Gap: Bridging LLMs to Enterprise Data Integration | [2412.20331](http://arxiv.org/abs/2412.20331) | None | 2024-12-29 |

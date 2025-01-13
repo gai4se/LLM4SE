@@ -1,4 +1,4 @@
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,7 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| FairCode: Evaluating Social Bias of LLMs in Code Generation | [2501.05396](http://arxiv.org/abs/2501.05396) | None | 2025-01-09 |
+| FairCode: Evaluating Social Bias of LLMs in Code Generation | [2501.05396](http://arxiv.org/abs/2501.05396) | https://github.com/yongkdu/faircode | 2025-01-09 |
 | Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient   Pruning | [2501.05248](http://arxiv.org/abs/2501.05248) | None | 2025-01-09 |
 | Planning-Driven Programming: A Large Language Model Programming Workflow | [2411.14503](http://arxiv.org/abs/2411.14503) | None | 2025-01-09 |
 | HaVen: Hallucination-Mitigated LLM for Verilog Code Generation Aligned   with HDL Engineers | [2501.04908](http://arxiv.org/abs/2501.04908) | None | 2025-01-09 |
@@ -199,9 +199,9 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal   ReAsoning Benchmark | [2501.05444](http://arxiv.org/abs/2501.05444) | None | 2025-01-09 |
-| FairCode: Evaluating Social Bias of LLMs in Code Generation | [2501.05396](http://arxiv.org/abs/2501.05396) | None | 2025-01-09 |
+| FairCode: Evaluating Social Bias of LLMs in Code Generation | [2501.05396](http://arxiv.org/abs/2501.05396) | https://github.com/yongkdu/faircode | 2025-01-09 |
 | Large Physics Models: Towards a collaborative approach with Large   Language Models and Foundation Models | [2501.05382](http://arxiv.org/abs/2501.05382) | None | 2025-01-09 |
-| Stream Aligner: Efficient Sentence-Level Alignment via Distribution   Induction | [2501.05336](http://arxiv.org/abs/2501.05336) | None | 2025-01-09 |
+| Stream Aligner: Efficient Sentence-Level Alignment via Distribution   Induction | [2501.05336](http://arxiv.org/abs/2501.05336) | https://github.com/htlou/stream-aligner | 2025-01-09 |
 | Codebook LLMs: Evaluating LLMs as Measurement Tools for Political   Science Concepts | [2407.10747](http://arxiv.org/abs/2407.10747) | None | 2025-01-09 |
 | Safeguarding System Prompts for LLMs | [2412.13426](http://arxiv.org/abs/2412.13426) | None | 2025-01-09 |
 | Optimizing Estonian TV Subtitles with Semi-supervised Learning and LLMs | [2501.05234](http://arxiv.org/abs/2501.05234) | None | 2025-01-09 |

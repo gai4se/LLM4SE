@@ -1,4 +1,4 @@
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -162,6 +162,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability   Detection | [2412.12039](http://arxiv.org/abs/2412.12039) | None | 2025-01-18 |
 | Augmenting Smart Contract Decompiler Output through Fine-grained   Dependency Analysis and LLM-facilitated Semantic Recovery | [2501.08670](http://arxiv.org/abs/2501.08670) | None | 2025-01-15 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2025-01-13 |
 | Harnessing the Power of LLM to Support Binary Taint Analysis | [2310.08275](http://arxiv.org/abs/2310.08275) | None | 2025-01-09 |
@@ -173,7 +174,6 @@
 | Automated Code Review In Practice | [2412.18531](http://arxiv.org/abs/2412.18531) | None | 2024-12-28 |
 | Combining GPT and Code-Based Similarity Checking for Effective Smart   Contract Vulnerability Detection | [2412.18225](http://arxiv.org/abs/2412.18225) | None | 2024-12-24 |
 | A Large-scale Empirical Study on Fine-tuning Large Language Models for   Unit Testing | [2412.16620](http://arxiv.org/abs/2412.16620) | https://github.com/iSEngLab/LLM4UT_Empirical | 2024-12-21 |
-| Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability   Detection | [2412.12039](http://arxiv.org/abs/2412.12039) | None | 2024-12-16 |
 | Boosting Static Resource Leak Detection via LLM-based Resource-Oriented   Intention Inference | [2311.04448](http://arxiv.org/abs/2311.04448) | None | 2024-12-12 |
 | How secure is AI-generated Code: A Large-Scale Comparison of Large   Language Models | [2404.18353](http://arxiv.org/abs/2404.18353) | None | 2024-12-11 |
 | The Seeds of the FUTURE Sprout from History: Fuzzing for Unveiling   Vulnerabilities in Prospective Deep-Learning Libraries | [2412.01317](http://arxiv.org/abs/2412.01317) | https://github.com/Redmept1on/FUTURE | 2024-12-11 |

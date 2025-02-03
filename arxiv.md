@@ -1,4 +1,4 @@
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -213,7 +213,7 @@
 | Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin   Case Study | [2501.18158](http://arxiv.org/abs/2501.18158) | None | 2025-01-30 |
 | Show, Don't Tell: Evaluating Large Language Models Beyond Textual   Understanding with ChildPlay | [2407.11068](http://arxiv.org/abs/2407.11068) | https://github.com/child-play-neurips/child-play | 2025-01-30 |
 | Fault Localization via Fine-tuning Large Language Models with Mutation   Generated Stack Traces | [2501.18005](http://arxiv.org/abs/2501.18005) | None | 2025-01-29 |
-| Can Generative LLMs Create Query Variants for Test Collections? An   Exploratory Study | [2501.17981](http://arxiv.org/abs/2501.17981) | None | 2025-01-29 |
+| Can Generative LLMs Create Query Variants for Test Collections? An   Exploratory Study | [2501.17981](http://arxiv.org/abs/2501.17981) | https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants | 2025-01-29 |
 | DynEx: Dynamic Code Synthesis with Structured Design Exploration for   Accelerated Exploratory Programming | [2410.00400](http://arxiv.org/abs/2410.00400) | None | 2025-01-29 |
 | 2SSP: A Two-Stage Framework for Structured Pruning of LLMs | [2501.17771](http://arxiv.org/abs/2501.17771) | https://github.com/fabriziosandri/2ssp | 2025-01-29 |
 | Early External Safety Testing of OpenAI's o3-mini: Insights from the   Pre-Deployment Evaluation | [2501.17749](http://arxiv.org/abs/2501.17749) | None | 2025-01-29 |

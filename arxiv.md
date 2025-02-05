@@ -1,4 +1,4 @@
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -62,7 +62,7 @@
 | Compositional Hardness of Code in Large Language Models -- A   Probabilistic Perspective | [2409.18028](http://arxiv.org/abs/2409.18028) | None | 2025-01-31 |
 | Statistical multi-metric evaluation and visualization of LLM system   predictive performance | [2501.18243](http://arxiv.org/abs/2501.18243) | None | 2025-01-30 |
 | Enhancing Large Language Model Efficiencyvia Symbolic Compression: A   Formal Approach Towards Interpretability | [2501.18657](http://arxiv.org/abs/2501.18657) | None | 2025-01-30 |
-| Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth   System for Code Generation | [2501.18653](http://arxiv.org/abs/2501.18653) | None | 2025-01-30 |
+| Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth   System for Code Generation | [2501.18653](http://arxiv.org/abs/2501.18653) | https://github.com/doc0318/cogito | 2025-01-30 |
 | DynEx: Dynamic Code Synthesis with Structured Design Exploration for   Accelerated Exploratory Programming | [2410.00400](http://arxiv.org/abs/2410.00400) | None | 2025-01-29 |
 | GLLM: Self-Corrective G-Code Generation using Large Language Models with   User Feedback | [2501.17584](http://arxiv.org/abs/2501.17584) | None | 2025-01-29 |
 | Beyond Text: Implementing Multimodal Large Language Model-Powered   Multi-Agent Systems Using a No-Code Platform | [2501.00750](http://arxiv.org/abs/2501.00750) | None | 2025-01-29 |
@@ -198,11 +198,23 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| STOP! Benchmarking Large Language Models with Sensitivity Testing on   Offensive Progressions | [2409.13843](http://arxiv.org/abs/2409.13843) | https://github.com/Robert-Morabito/STOP | 2025-02-03 |
+| Scaling Up Membership Inference: When and How Attacks Succeed on Large   Language Models | [2411.00154](http://arxiv.org/abs/2411.00154) | https://github.com/parameterlab/mia-scaling | 2025-02-03 |
+| The "Huh?" Button: Improving Understanding in Educational Videos with   Large Language Models | [2412.14201](http://arxiv.org/abs/2412.14201) | https://github.com/borisruf/the-huh-button | 2025-02-03 |
+| Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin   Case Study | [2501.18158](http://arxiv.org/abs/2501.18158) | None | 2025-02-03 |
+| Raising the Bar: Investigating the Values of Large Language Models via   Generative Evolving Testing | [2406.14230](http://arxiv.org/abs/2406.14230) | None | 2025-02-03 |
+| Role-Play Paradox in Large Language Models: Reasoning Performance Gains   and Ethical Dilemmas | [2409.13979](http://arxiv.org/abs/2409.13979) | None | 2025-02-03 |
+| SETS: Leveraging Self-Verification and Self-Correction for Improved   Test-Time Scaling | [2501.19306](http://arxiv.org/abs/2501.19306) | None | 2025-02-03 |
+| Aligning Speech to Languages to Enhance Code-switching Speech   Recognition | [2403.05887](http://arxiv.org/abs/2403.05887) | None | 2025-02-03 |
+| FMDLlama: Financial Misinformation Detection based on Large Language   Models | [2409.16452](http://arxiv.org/abs/2409.16452) | None | 2025-02-02 |
+| VL-ICL Bench: The Devil in the Details of Multimodal In-Context Learning | [2403.13164](http://arxiv.org/abs/2403.13164) | https://github.com/ys-zong/vl-icl | 2025-02-02 |
+| Limits of Large Language Models in Debating Humans | [2402.06049](http://arxiv.org/abs/2402.06049) | https://github.com/aganonce/lumityai | 2025-02-01 |
+| TESTEVAL: Benchmarking Large Language Models for Test Case Generation | [2406.04531](http://arxiv.org/abs/2406.04531) | None | 2025-02-01 |
 | Low-Cost and Comprehensive Non-textual Input Fuzzing with   LLM-Synthesized Input Generators | [2501.19282](http://arxiv.org/abs/2501.19282) | None | 2025-01-31 |
+| Fortran2CPP: Automating Fortran-to-C++ Translation using LLMs via   Multi-Turn Dialogue and Dual-Agent Integration | [2412.19770](http://arxiv.org/abs/2412.19770) | https://github.com/hpc-fortran2cpp/fortran2cpp | 2025-01-31 |
 | We're Different, We're the Same: Creative Homogeneity Across LLMs | [2501.19361](http://arxiv.org/abs/2501.19361) | None | 2025-01-31 |
 | Homogeneity Bias as Differential Sampling Uncertainty in Language Models | [2501.19337](http://arxiv.org/abs/2501.19337) | None | 2025-01-31 |
 | LLM-based Affective Text Generation Quality Based on Different   Quantization Values | [2501.19317](http://arxiv.org/abs/2501.19317) | None | 2025-01-31 |
-| SETS: Leveraging Self-Verification and Self-Correction for Improved   Test-Time Scaling | [2501.19306](http://arxiv.org/abs/2501.19306) | None | 2025-01-31 |
 | SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability   on Non-Open-Source Blockchain Smart Contract | [2410.15275](http://arxiv.org/abs/2410.15275) | None | 2025-01-31 |
 | LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help? | [2411.06877](http://arxiv.org/abs/2411.06877) | None | 2025-01-31 |
 | ExeCoder: Empowering Large Language Models with Executability   Representation for Code Translation | [2501.18460](http://arxiv.org/abs/2501.18460) | None | 2025-01-31 |
@@ -216,18 +228,6 @@
 | GENIE: Generative Note Information Extraction model for structuring EHR   data | [2501.18435](http://arxiv.org/abs/2501.18435) | None | 2025-01-30 |
 | TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles   with Simulated Students | [2410.04078](http://arxiv.org/abs/2410.04078) | None | 2025-01-30 |
 | Jailbreaking LLMs' Safeguard with Universal Magic Words for Text   Embedding Models | [2501.18280](http://arxiv.org/abs/2501.18280) | None | 2025-01-30 |
-| Collecting Cost-Effective, High-Quality Truthfulness Assessments with   LLM Summarized Evidence | [2501.18265](http://arxiv.org/abs/2501.18265) | None | 2025-01-30 |
-| Statistical multi-metric evaluation and visualization of LLM system   predictive performance | [2501.18243](http://arxiv.org/abs/2501.18243) | None | 2025-01-30 |
-| LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically   Generating Metaheuristics | [2405.20132](http://arxiv.org/abs/2405.20132) | https://github.com/nikivanstein/LLaMEA | 2025-01-30 |
-| Deception in LLMs: Self-Preservation and Autonomous Goals in Large   Language Models | [2501.16513](http://arxiv.org/abs/2501.16513) | None | 2025-01-30 |
-| LemmaHead: RAG Assisted Proof Generation Using Large Language Models | [2501.15797](http://arxiv.org/abs/2501.15797) | None | 2025-01-30 |
-| Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin   Case Study | [2501.18158](http://arxiv.org/abs/2501.18158) | None | 2025-01-30 |
-| Show, Don't Tell: Evaluating Large Language Models Beyond Textual   Understanding with ChildPlay | [2407.11068](http://arxiv.org/abs/2407.11068) | https://github.com/child-play-neurips/child-play | 2025-01-30 |
-| Fault Localization via Fine-tuning Large Language Models with Mutation   Generated Stack Traces | [2501.18005](http://arxiv.org/abs/2501.18005) | None | 2025-01-29 |
-| Can Generative LLMs Create Query Variants for Test Collections? An   Exploratory Study | [2501.17981](http://arxiv.org/abs/2501.17981) | https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants | 2025-01-29 |
-| DynEx: Dynamic Code Synthesis with Structured Design Exploration for   Accelerated Exploratory Programming | [2410.00400](http://arxiv.org/abs/2410.00400) | None | 2025-01-29 |
-| 2SSP: A Two-Stage Framework for Structured Pruning of LLMs | [2501.17771](http://arxiv.org/abs/2501.17771) | https://github.com/fabriziosandri/2ssp | 2025-01-29 |
-| Early External Safety Testing of OpenAI's o3-mini: Insights from the   Pre-Deployment Evaluation | [2501.17749](http://arxiv.org/abs/2501.17749) | None | 2025-01-29 |
 | LLMs in the Heart of Differential Testing: A Case Study on a Medical   Rule Engine | [2404.03664](http://arxiv.org/abs/2404.03664) | None | 2025-01-29 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

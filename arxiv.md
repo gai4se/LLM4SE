@@ -1,4 +1,4 @@
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Exploring the Security Threats of Knowledge Base Poisoning in   Retrieval-Augmented Code Generation | [2502.03233](http://arxiv.org/abs/2502.03233) | None | 2025-02-05 |
+| COFFE: A Code Efficiency Benchmark for Code Generation | [2502.02827](http://arxiv.org/abs/2502.02827) | None | 2025-02-05 |
 | LLMs for Generation of Architectural Components: An Exploratory   Empirical Study in the Serverless World | [2502.02539](http://arxiv.org/abs/2502.02539) | None | 2025-02-04 |
 | Analysis of LLMs vs Human Experts in Requirements Engineering | [2501.19297](http://arxiv.org/abs/2501.19297) | None | 2025-02-04 |
 | AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code | [2502.02412](http://arxiv.org/abs/2502.02412) | None | 2025-02-04 |
@@ -83,8 +85,6 @@
 | CoCoNUT: Structural Code Understanding does not fall out of a tree | [2501.16456](http://arxiv.org/abs/2501.16456) | https://github.com/ClaasBeger/StructuralCodeUnderstanding | 2025-01-29 |
 | Online Prompt Selection for Program Synthesis | [2501.05247](http://arxiv.org/abs/2501.05247) | None | 2025-01-29 |
 | How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2025-01-29 |
-| On the Workflows and Smells of Leaderboard Operations (LBOps): An   Exploratory Study of Foundation Model Leaderboards | [2407.04065](http://arxiv.org/abs/2407.04065) | https://github.com/sailresearch/awesome-foundation-model-leaderboards | 2025-01-29 |
-| Comparing Human and LLM Generated Code: The Jury is Still Out! | [2501.16857](http://arxiv.org/abs/2501.16857) | None | 2025-01-28 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,6 +198,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Transformers Boost the Performance of Decision Trees on Tabular Data   across Sample Sizes | [2502.02672](http://arxiv.org/abs/2502.02672) | None | 2025-02-06 |
+| BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic   Theorem Proving | [2502.03438](http://arxiv.org/abs/2502.03438) | None | 2025-02-05 |
+| Prepending or Cross-Attention for Speech-to-Text? An Empirical   Comparison | [2501.02370](http://arxiv.org/abs/2501.02370) | None | 2025-02-05 |
+| The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically   Justify Replacing Human Annotators with LLMs | [2501.10970](http://arxiv.org/abs/2501.10970) | https://github.com/nitaytech/alttest | 2025-02-05 |
+| PICBench: Benchmarking LLMs for Photonic Integrated Circuits Design | [2502.03159](http://arxiv.org/abs/2502.03159) | None | 2025-02-05 |
+| Strategizing with AI: Insights from a Beauty Contest Experiment | [2502.03158](http://arxiv.org/abs/2502.03158) | None | 2025-02-05 |
+| FuXi-$α$: Scaling Recommendation Model with Feature Interaction   Enhanced Transformer | [2502.03036](http://arxiv.org/abs/2502.03036) | None | 2025-02-05 |
+| A Systematic Approach for Assessing Large Language Models' Test Case   Generation Capability | [2502.02866](http://arxiv.org/abs/2502.02866) | None | 2025-02-05 |
+| Sloth: scaling laws for LLM skills to predict multi-benchmark   performance across families | [2412.06540](http://arxiv.org/abs/2412.06540) | https://github.com/felipemaiapolo/sloth | 2025-02-05 |
+| COFFE: A Code Efficiency Benchmark for Code Generation | [2502.02827](http://arxiv.org/abs/2502.02827) | None | 2025-02-05 |
+| An Analysis of LLM Fine-Tuning and Few-Shot Learning for Flaky Test   Detection and Classification | [2502.02715](http://arxiv.org/abs/2502.02715) | None | 2025-02-04 |
+| Exploring LLMs Impact on Student-Created User Stories and Acceptance   Testing in Software Development | [2502.02675](http://arxiv.org/abs/2502.02675) | None | 2025-02-04 |
 | Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by   Harnessing AI | [2411.14299](http://arxiv.org/abs/2411.14299) | https://github.com/jitendra-bhandari/auto-spice | 2025-02-04 |
 | LLMs for Generation of Architectural Components: An Exploratory   Empirical Study in the Serverless World | [2502.02539](http://arxiv.org/abs/2502.02539) | None | 2025-02-04 |
 | Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM   Reasoning via Autoregressive Search | [2502.02508](http://arxiv.org/abs/2502.02508) | None | 2025-02-04 |
@@ -216,19 +228,7 @@
 | Agentic Bug Reproduction for Effective Automated Program Repair at   Google | [2502.01821](http://arxiv.org/abs/2502.01821) | None | 2025-02-03 |
 | Toward Neurosymbolic Program Comprehension | [2502.01806](http://arxiv.org/abs/2502.01806) | None | 2025-02-03 |
 | Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue   Resolution | [2501.11709](http://arxiv.org/abs/2501.11709) | None | 2025-02-03 |
-| Adversarial Reasoning at Jailbreaking Time | [2502.01633](http://arxiv.org/abs/2502.01633) | None | 2025-02-03 |
 | Learning to Generate Unit Tests for Automated Debugging | [2502.01619](http://arxiv.org/abs/2502.01619) | None | 2025-02-03 |
-| STOP! Benchmarking Large Language Models with Sensitivity Testing on   Offensive Progressions | [2409.13843](http://arxiv.org/abs/2409.13843) | https://github.com/Robert-Morabito/STOP | 2025-02-03 |
-| Large language models that replace human participants can harmfully   misportray and flatten identity groups | [2402.01908](http://arxiv.org/abs/2402.01908) | None | 2025-02-03 |
-| Scaling Up Membership Inference: When and How Attacks Succeed on Large   Language Models | [2411.00154](http://arxiv.org/abs/2411.00154) | https://github.com/parameterlab/mia-scaling | 2025-02-03 |
-| The "Huh?" Button: Improving Understanding in Educational Videos with   Large Language Models | [2412.14201](http://arxiv.org/abs/2412.14201) | https://github.com/borisruf/the-huh-button | 2025-02-03 |
-| Peering Behind the Shield: Guardrail Identification in Large Language   Models | [2502.01241](http://arxiv.org/abs/2502.01241) | None | 2025-02-03 |
-| Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin   Case Study | [2501.18158](http://arxiv.org/abs/2501.18158) | None | 2025-02-03 |
-| Raising the Bar: Investigating the Values of Large Language Models via   Generative Evolving Testing | [2406.14230](http://arxiv.org/abs/2406.14230) | None | 2025-02-03 |
-| Role-Play Paradox in Large Language Models: Reasoning Performance Gains   and Ethical Dilemmas | [2409.13979](http://arxiv.org/abs/2409.13979) | None | 2025-02-03 |
-| SETS: Leveraging Self-Verification and Self-Correction for Improved   Test-Time Scaling | [2501.19306](http://arxiv.org/abs/2501.19306) | None | 2025-02-03 |
-| Knowledge Synthesis of Photosynthesis Research Using a Large Language   Model | [2502.01059](http://arxiv.org/abs/2502.01059) | None | 2025-02-03 |
-| Low-Cost and Comprehensive Non-textual Input Fuzzing with   LLM-Synthesized Input Generators | [2501.19282](http://arxiv.org/abs/2501.19282) | None | 2025-01-31 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
@@ -278,6 +278,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Too Noisy To Learn: Enhancing Data Quality for Code Review Comment   Generation | [2502.02757](http://arxiv.org/abs/2502.02757) | None | 2025-02-06 |
+| Harnessing Large Language Models for Curated Code Reviews | [2502.03425](http://arxiv.org/abs/2502.03425) | None | 2025-02-05 |
 | RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing | [2501.18160](http://arxiv.org/abs/2501.18160) | None | 2025-01-31 |
 | DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation | [2412.18291](http://arxiv.org/abs/2412.18291) | None | 2025-01-25 |
 | BitsAI-CR: Automated Code Review via LLM in Practice | [2501.15134](http://arxiv.org/abs/2501.15134) | None | 2025-01-25 |
@@ -306,6 +308,4 @@
 | Fine-Tuning and Prompt Engineering for Large Language Models-based Code   Review Automation | [2402.00905](http://arxiv.org/abs/2402.00905) | None | 2024-06-17 |
 | AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight   Tuning on Multi-source Data | [2405.19265](http://arxiv.org/abs/2405.19265) | https://github.com/internlm/alchemistcoder | 2024-05-29 |
 | AI-Assisted Assessment of Coding Practices in Modern Code Review | [2405.13565](http://arxiv.org/abs/2405.13565) | None | 2024-05-22 |
-| Multi-role Consensus through LLMs Discussions for Vulnerability   Detection | [2403.14274](http://arxiv.org/abs/2403.14274) | https://github.com/rockmao45/llmvulndetection | 2024-05-18 |
-| PrAIoritize: Automated Early Prediction and Prioritization of   Vulnerabilities in Smart Contracts | [2308.11082](http://arxiv.org/abs/2308.11082) | None | 2024-05-15 |
 

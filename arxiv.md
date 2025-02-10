@@ -1,4 +1,4 @@
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,7 +74,7 @@
 | PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs | [2502.00963](http://arxiv.org/abs/2502.00963) | None | 2025-02-03 |
 | From Few to Many: Self-Improving Many-Shot Reasoners Through Iterative   Optimization and Generation | [2502.00330](http://arxiv.org/abs/2502.00330) | None | 2025-02-01 |
 | Towards Adaptive Self-Improvement for Smarter Energy Systems | [2501.19340](http://arxiv.org/abs/2501.19340) | None | 2025-01-31 |
-| Autonomous Legacy Web Application Upgrades Using a Multi-Agent System | [2501.19204](http://arxiv.org/abs/2501.19204) | None | 2025-01-31 |
+| Autonomous Legacy Web Application Upgrades Using a Multi-Agent System | [2501.19204](http://arxiv.org/abs/2501.19204) | https://github.com/alasalm1/multi-agent-pipeline | 2025-01-31 |
 | Enhancing Code Generation for Low-Resource Languages: No Silver Bullet | [2501.19085](http://arxiv.org/abs/2501.19085) | None | 2025-01-31 |
 | Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities | [2501.19012](http://arxiv.org/abs/2501.19012) | None | 2025-01-31 |
 | Compositional Hardness of Code in Large Language Models -- A   Probabilistic Perspective | [2409.18028](http://arxiv.org/abs/2409.18028) | None | 2025-01-31 |
@@ -126,7 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Fault Localization via Fine-tuning Large Language Models with Mutation   Generated Stack Traces | [2501.18005](http://arxiv.org/abs/2501.18005) | None | 2025-01-29 |
+| Fault Localization via Fine-tuning Large Language Models with Mutation   Generated Stack Traces | [2501.18005](http://arxiv.org/abs/2501.18005) | None | 2025-02-06 |
 | COAST: Enhancing the Code Debugging Ability of LLMs through   Communicative Agent Based Data Synthesis | [2408.05006](http://arxiv.org/abs/2408.05006) | https://github.com/neuir/coast | 2025-01-24 |
 | Improved IR-based Bug Localization with Intelligent Relevance Feedback | [2501.10542](http://arxiv.org/abs/2501.10542) | None | 2025-01-17 |
 | Simulated Interactive Debugging | [2501.09694](http://arxiv.org/abs/2501.09694) | None | 2025-01-16 |
@@ -228,7 +228,7 @@
 | Artificial Intelligence and Legal Analysis: Implications for Legal   Education and the Profession | [2502.03487](http://arxiv.org/abs/2502.03487) | None | 2025-02-04 |
 | Exploring LLMs Impact on Student-Created User Stories and Acceptance   Testing in Software Development | [2502.02675](http://arxiv.org/abs/2502.02675) | None | 2025-02-04 |
 | Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by   Harnessing AI | [2411.14299](http://arxiv.org/abs/2411.14299) | https://github.com/jitendra-bhandari/auto-spice | 2025-02-04 |
-| Learning to Generate Unit Tests for Automated Debugging | [2502.01619](http://arxiv.org/abs/2502.01619) | None | 2025-02-03 |
+| Learning to Generate Unit Tests for Automated Debugging | [2502.01619](http://arxiv.org/abs/2502.01619) | https://github.com/archiki/utgendebug | 2025-02-03 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

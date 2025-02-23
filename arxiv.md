@@ -1,4 +1,4 @@
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +57,7 @@
 | GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks | [2502.14848](http://arxiv.org/abs/2502.14848) | None | 2025-02-20 |
 | TritonBench: Benchmarking Large Language Model Capabilities for   Generating Triton Operators | [2502.14752](http://arxiv.org/abs/2502.14752) | None | 2025-02-20 |
 | I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree   Search | [2502.14693](http://arxiv.org/abs/2502.14693) | None | 2025-02-20 |
-| S*: Test Time Scaling for Code Generation | [2502.14382](http://arxiv.org/abs/2502.14382) | None | 2025-02-20 |
+| S*: Test Time Scaling for Code Generation | [2502.14382](http://arxiv.org/abs/2502.14382) | https://github.com/novasky-ai/skythought | 2025-02-20 |
 | How to Get Your LLM to Generate Challenging Problems for Evaluation | [2502.14678](http://arxiv.org/abs/2502.14678) | None | 2025-02-20 |
 | Prompt Engineering or Fine-Tuning: An Empirical Assessment of LLMs for   Code | [2310.10508](http://arxiv.org/abs/2310.10508) | None | 2025-02-19 |
 | Exploring Code Language Models for Automated HLS-based Hardware   Generation: Benchmark, Infrastructure and Analysis | [2502.13921](http://arxiv.org/abs/2502.13921) | None | 2025-02-19 |
@@ -66,8 +66,8 @@
 | BeamLoRA: Beam-Constraint Low-Rank Adaptation | [2502.13604](http://arxiv.org/abs/2502.13604) | None | 2025-02-19 |
 | Explore-Construct-Filter: An Automated Framework for Rich and Reliable   API Knowledge Graph Construction | [2502.13412](http://arxiv.org/abs/2502.13412) | None | 2025-02-19 |
 | How Efficient is LLM-Generated Code? A Rigorous & High-Standard   Benchmark | [2406.06647](http://arxiv.org/abs/2406.06647) | https://github.com/q-rz/enamel | 2025-02-19 |
-| Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The   Curious Case of LLMs as Your Coding Tutors | [2502.13311](http://arxiv.org/abs/2502.13311) | None | 2025-02-18 |
-| Performance Evaluation of Large Language Models in Statistical   Programming | [2502.13117](http://arxiv.org/abs/2502.13117) | None | 2025-02-18 |
+| Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The   Curious Case of LLMs as Your Coding Tutors | [2502.13311](http://arxiv.org/abs/2502.13311) | https://github.com/iwangjian/Coding-Tutor | 2025-02-18 |
+| Performance Evaluation of Large Language Models in Statistical   Programming | [2502.13117](http://arxiv.org/abs/2502.13117) | https://github.com/yili-hong/StatLLM | 2025-02-18 |
 | Advancing Generative Artificial Intelligence and Large Language Models   for Demand Side Management with Internet of Electric Vehicles | [2501.15544](http://arxiv.org/abs/2501.15544) | None | 2025-02-18 |
 | GSCE: A Prompt Framework with Enhanced Reasoning for Reliable LLM-driven   Drone Control | [2502.12531](http://arxiv.org/abs/2502.12531) | None | 2025-02-18 |
 | Boost, Disentangle, and Customize: A Robust System2-to-System1 Pipeline   for Code Generation | [2502.12492](http://arxiv.org/abs/2502.12492) | None | 2025-02-18 |
@@ -208,7 +208,7 @@
 | Argument-Based Comparative Question Answering Evaluation Benchmark | [2502.14476](http://arxiv.org/abs/2502.14476) | None | 2025-02-20 |
 | How Much Do LLMs Hallucinate across Languages? On Multilingual   Estimation of LLM Hallucination in the Wild | [2502.12769](http://arxiv.org/abs/2502.12769) | None | 2025-02-20 |
 | A Survey on Data Contamination for Large Language Models | [2502.14425](http://arxiv.org/abs/2502.14425) | None | 2025-02-20 |
-| S*: Test Time Scaling for Code Generation | [2502.14382](http://arxiv.org/abs/2502.14382) | None | 2025-02-20 |
+| S*: Test Time Scaling for Code Generation | [2502.14382](http://arxiv.org/abs/2502.14382) | https://github.com/novasky-ai/skythought | 2025-02-20 |
 | Bridging Smart Meter Gaps: A Benchmark of Statistical, Machine Learning   and Time Series Foundation Models for Data Imputation | [2501.07276](http://arxiv.org/abs/2501.07276) | None | 2025-02-20 |
 | FlowAgent: Achieving Compliance and Flexibility for Workflow Agents | [2502.14345](http://arxiv.org/abs/2502.14345) | None | 2025-02-20 |
 | SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code   Generation | [2502.14328](http://arxiv.org/abs/2502.14328) | None | 2025-02-20 |

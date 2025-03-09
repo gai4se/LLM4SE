@@ -1,4 +1,4 @@
-## Updated on 2025.03.08
+## Updated on 2025.03.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -109,18 +109,18 @@
 | MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs | [2411.03471](http://arxiv.org/abs/2411.03471) | https://github.com/scale-lab/MetRex | 2025-01-27 |
 | GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for   Code Generation | [2501.11006](http://arxiv.org/abs/2501.11006) | None | 2025-01-19 |
 | Understanding the Effectiveness of LLMs in Automated Self-Admitted   Technical Debt Repayment | [2501.09888](http://arxiv.org/abs/2501.09888) | https://github.com/riselabqueens/satd-auto-repayment | 2025-01-17 |
+| CleanVul: Automatic Function-Level Vulnerability Detection in Code   Commits Using LLM Heuristics | [2411.17274](http://arxiv.org/abs/2411.17274) | https://github.com/yikun-li/cleanvul | 2025-01-16 |
 | Suggesting Code Edits in Interactive Machine Learning Notebooks Using   Large Language Models | [2501.09745](http://arxiv.org/abs/2501.09745) | None | 2025-01-16 |
+| HAFix: History-Augmented Large Language Models for Bug Fixing | [2501.09135](http://arxiv.org/abs/2501.09135) | https://github.com/sailresearch/hafix-history-augmented-llms-for-bug-fixing | 2025-01-15 |
+| RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2025-01-09 |
 | To Err is Machine: Vulnerability Detection Challenges LLM Reasoning | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2025-01-07 |
 | CommitShield: Tracking Vulnerability Introduction and Fix in Version   Control Systems | [2501.03626](http://arxiv.org/abs/2501.03626) | https://github.com/security-pride/commitshield | 2025-01-07 |
 | LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large   Language Models | [2501.03446](http://arxiv.org/abs/2501.03446) | None | 2025-01-07 |
+| Cracks in The Stack: Hidden Vulnerabilities and Licensing Risks in LLM   Pre-Training Datasets | [2501.02628](http://arxiv.org/abs/2501.02628) | None | 2025-01-05 |
 | Repository Structure-Aware Training Makes SLMs Better Issue Resolver | [2412.19031](http://arxiv.org/abs/2412.19031) | None | 2024-12-26 |
 | The Impact of Input Order Bias on Large Language Models for Software   Fault Localization | [2412.18750](http://arxiv.org/abs/2412.18750) | None | 2024-12-25 |
 | Counterexample Guided Program Repair Using Zero-Shot Learning and   MaxSAT-based Fault Localization | [2502.07786](http://arxiv.org/abs/2502.07786) | None | 2024-12-19 |
 | RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for   Program Repair | [2312.15698](http://arxiv.org/abs/2312.15698) | https://github.com/assert-kth/repairllama | 2024-12-14 |
-| CursorCore: Assist Programming through Aligning Anything | [2410.07002](http://arxiv.org/abs/2410.07002) | https://github.com/TechxGenus/CursorCore | 2024-12-14 |
-| SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-12-11 |
-| Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each   using ChatGPT | [2304.00385](http://arxiv.org/abs/2304.00385) | None | 2024-12-09 |
-| Revisiting the Plastic Surgery Hypothesis via Large Language Models | [2303.10494](http://arxiv.org/abs/2303.10494) | None | 2024-12-09 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

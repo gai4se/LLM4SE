@@ -1,4 +1,4 @@
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -126,6 +126,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Improved IR-based Bug Localization with Intelligent Relevance Feedback | [2501.10542](http://arxiv.org/abs/2501.10542) | None | 2025-03-27 |
 | The Impact of Input Order Bias on Large Language Models for Software   Fault Localization | [2412.18750](http://arxiv.org/abs/2412.18750) | None | 2025-03-19 |
 | A Multi-Agent Approach to Fault Localization via Graph-Based Retrieval   and Reflexion | [2409.13642](http://arxiv.org/abs/2409.13642) | None | 2025-03-19 |
 | AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2025-02-24 |
@@ -135,7 +136,6 @@
 | FlexFL: Flexible and Effective Fault Localization with Open-Source Large   Language Models | [2411.10714](http://arxiv.org/abs/2411.10714) | None | 2025-02-18 |
 | COAST: Enhancing the Code Debugging Ability of LLMs through   Communicative Agent Based Data Synthesis | [2408.05006](http://arxiv.org/abs/2408.05006) | https://github.com/neuir/coast | 2025-02-12 |
 | Fault Localization via Fine-tuning Large Language Models with Mutation   Generated Stack Traces | [2501.18005](http://arxiv.org/abs/2501.18005) | None | 2025-02-11 |
-| Improved IR-based Bug Localization with Intelligent Relevance Feedback | [2501.10542](http://arxiv.org/abs/2501.10542) | None | 2025-01-17 |
 | Simulated Interactive Debugging | [2501.09694](http://arxiv.org/abs/2501.09694) | None | 2025-01-16 |
 | Improving the Ability of Pre-trained Language Model by Imparting Large   Language Model's Experience | [2408.08553](http://arxiv.org/abs/2408.08553) | None | 2025-01-15 |
 | AIOpsLab: A Holistic Framework to Evaluate AI Agents for Enabling   Autonomous Clouds | [2501.06706](http://arxiv.org/abs/2501.06706) | None | 2025-01-12 |
@@ -162,6 +162,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Measuring the Influence of Incorrect Code on Test Generation | [2409.09464](http://arxiv.org/abs/2409.09464) | https://github.com/huangd1999/EmpiricalStudyofTestGeneration | 2025-03-28 |
 | Reasoning with LLMs for Zero-Shot Vulnerability Detection | [2503.17885](http://arxiv.org/abs/2503.17885) | https://github.com/erroristotle/vulnsage | 2025-03-22 |
 | Enriching Automatic Test Case Generation by Extracting Relevant Test   Inputs from Bug Reports | [2312.14898](http://arxiv.org/abs/2312.14898) | None | 2025-03-19 |
 | Benchmarking LLMs and LLM-based Agents in Practical Vulnerability   Detection for Code Repositories | [2503.03586](http://arxiv.org/abs/2503.03586) | None | 2025-03-18 |
@@ -192,7 +193,6 @@
 | CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability   Detection | [2501.04510](http://arxiv.org/abs/2501.04510) | None | 2025-01-08 |
 | Do Code LLMs Understand Design Patterns? | [2501.04835](http://arxiv.org/abs/2501.04835) | None | 2025-01-08 |
 | To Err is Machine: Vulnerability Detection Challenges LLM Reasoning | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2025-01-07 |
-| Leveraging Large Language Models and Machine Learning for Smart Contract   Vulnerability Detection | [2501.02229](http://arxiv.org/abs/2501.02229) | None | 2025-01-04 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 

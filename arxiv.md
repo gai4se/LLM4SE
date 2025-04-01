@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,7 +74,7 @@
 | SpecEval: Evaluating Code Comprehension in Large Language Models via   Program Specifications | [2409.12866](http://arxiv.org/abs/2409.12866) | None | 2025-03-22 |
 | Demo-Craft: Using In-Context Learning to Improve Code Generation in   Large Language Models | [2411.00865](http://arxiv.org/abs/2411.00865) | None | 2025-03-22 |
 | ResBench: Benchmarking LLM-Generated FPGA Designs with Resource   Awareness | [2503.08823](http://arxiv.org/abs/2503.08823) | None | 2025-03-21 |
-| GREEN-CODE: Learning to Optimize Energy Efficiency in LLM-based Code   Generation | [2501.11006](http://arxiv.org/abs/2501.11006) | None | 2025-03-21 |
+| GREEN-CODE: Learning to Optimize Energy Efficiency in LLM-based Code   Generation | [2501.11006](http://arxiv.org/abs/2501.11006) | https://github.com/large-scale-sustainable-computing-lsc/green-code | 2025-03-21 |
 | LLMs Love Python: A Study of LLMs' Bias for Programming Languages and   Libraries | [2503.17181](http://arxiv.org/abs/2503.17181) | https://github.com/itsluketwist/llms-love-python | 2025-03-21 |
 | RustEvo^2: An Evolving Benchmark for API Evolution in LLM-based Rust   Code Generation | [2503.16922](http://arxiv.org/abs/2503.16922) | https://github.com/sysuselab/rustevo | 2025-03-21 |
 | FAIT: Fault-Aware Fine-Tuning for Better Code Generation | [2503.16913](http://arxiv.org/abs/2503.16913) | None | 2025-03-21 |
@@ -90,8 +90,9 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph   Searching | [2503.22424](http://arxiv.org/abs/2503.22424) | https://github.com/zhonghaojiang/cosil | 2025-03-28 |
 | Large Language Models for Blockchain Security: A Systematic Literature   Review | [2403.14280](http://arxiv.org/abs/2403.14280) | None | 2025-03-24 |
-| GREEN-CODE: Learning to Optimize Energy Efficiency in LLM-based Code   Generation | [2501.11006](http://arxiv.org/abs/2501.11006) | None | 2025-03-21 |
+| GREEN-CODE: Learning to Optimize Energy Efficiency in LLM-based Code   Generation | [2501.11006](http://arxiv.org/abs/2501.11006) | https://github.com/large-scale-sustainable-computing-lsc/green-code | 2025-03-21 |
 | Attention Pruning: Automated Fairness Repair of Language Models via   Surrogate Simulated Annealing | [2503.15815](http://arxiv.org/abs/2503.15815) | None | 2025-03-20 |
 | The Impact of Input Order Bias on Large Language Models for Software   Fault Localization | [2412.18750](http://arxiv.org/abs/2412.18750) | None | 2025-03-19 |
 | Studying and Understanding the Effectiveness and Failures of   Conversational LLM-Based Repair | [2503.15050](http://arxiv.org/abs/2503.15050) | None | 2025-03-19 |
@@ -120,13 +121,12 @@
 | Suggesting Code Edits in Interactive Machine Learning Notebooks Using   Large Language Models | [2501.09745](http://arxiv.org/abs/2501.09745) | None | 2025-01-16 |
 | HAFix: History-Augmented Large Language Models for Bug Fixing | [2501.09135](http://arxiv.org/abs/2501.09135) | https://github.com/sailresearch/hafix-history-augmented-llms-for-bug-fixing | 2025-01-15 |
 | RAPGen: An Approach for Fixing Code Inefficiencies in Zero-Shot | [2306.17077](http://arxiv.org/abs/2306.17077) | None | 2025-01-09 |
-| To Err is Machine: Vulnerability Detection Challenges LLM Reasoning | [2403.17218](http://arxiv.org/abs/2403.17218) | None | 2025-01-07 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Improved IR-based Bug Localization with Intelligent Relevance Feedback | [2501.10542](http://arxiv.org/abs/2501.10542) | None | 2025-03-27 |
+| Improved IR-based Bug Localization with Intelligent Relevance Feedback | [2501.10542](http://arxiv.org/abs/2501.10542) | https://github.com/asifsamir/brain | 2025-03-27 |
 | The Impact of Input Order Bias on Large Language Models for Software   Fault Localization | [2412.18750](http://arxiv.org/abs/2412.18750) | None | 2025-03-19 |
 | A Multi-Agent Approach to Fault Localization via Graph-Based Retrieval   and Reflexion | [2409.13642](http://arxiv.org/abs/2409.13642) | None | 2025-03-19 |
 | AgentFL: Scaling LLM-based Fault Localization to Project-Level Context | [2403.16362](http://arxiv.org/abs/2403.16362) | None | 2025-02-24 |
@@ -198,7 +198,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Unveiling the Mist over 3D Vision-Language Understanding: Object-centric   Evaluation with Chain-of-Analysis | [2503.22420](http://arxiv.org/abs/2503.22420) | None | 2025-03-28 |
+| Autonomous AI imitators increase diversity in homogeneous information   ecosystems | [2503.16021](http://arxiv.org/abs/2503.16021) | None | 2025-03-28 |
+| Training Large Language Models for Advanced Typosquatting Detection | [2503.22406](http://arxiv.org/abs/2503.22406) | None | 2025-03-28 |
+| SKDU at De-Factify 4.0: Natural Language Features for AI-Generated   Text-Detection | [2503.22338](http://arxiv.org/abs/2503.22338) | https://github.com/skmalviya/ai-gen_text_defactify | 2025-03-28 |
+| EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos | [2503.22152](http://arxiv.org/abs/2503.22152) | https://github.com/facebookresearch/egotom | 2025-03-28 |
+| FRASE: Structured Representations for Generalizable SPARQL Query   Generation | [2503.22144](http://arxiv.org/abs/2503.22144) | None | 2025-03-28 |
+| Beyond Single-Sentence Prompts: Upgrading Value Alignment Benchmarks   with Dialogues and Stories | [2503.22115](http://arxiv.org/abs/2503.22115) | None | 2025-03-28 |
+| Measuring the Influence of Incorrect Code on Test Generation | [2409.09464](http://arxiv.org/abs/2409.09464) | https://github.com/huangd1999/EmpiricalStudyofTestGeneration | 2025-03-28 |
+| Leveraging LLMs for Predicting Unknown Diagnoses from Clinical Notes | [2503.22092](http://arxiv.org/abs/2503.22092) | None | 2025-03-28 |
 | Unleashing the Power of LLM to Infer State Machine from the Protocol   Implementation | [2405.00393](http://arxiv.org/abs/2405.00393) | None | 2025-03-27 |
+| Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad | [2503.21934](http://arxiv.org/abs/2503.21934) | None | 2025-03-27 |
+| Hybrid Emotion Recognition: Enhancing Customer Interactions Through   Acoustic and Textual Analysis | [2503.21927](http://arxiv.org/abs/2503.21927) | None | 2025-03-27 |
 | GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release   Analytics | [2503.21735](http://arxiv.org/abs/2503.21735) | None | 2025-03-27 |
 | Collab: Controlled Decoding using Mixture of Agents for LLM Alignment | [2503.21720](http://arxiv.org/abs/2503.21720) | None | 2025-03-27 |
 | GenEdit: Compounding Operators and Continuous Improvement to Tackle   Text-to-SQL in the Enterprise | [2503.21602](http://arxiv.org/abs/2503.21602) | None | 2025-03-27 |
@@ -218,17 +229,6 @@
 | NoLiMa: Long-Context Evaluation Beyond Literal Matching | [2502.05167](http://arxiv.org/abs/2502.05167) | https://github.com/adobe-research/NoLiMa | 2025-03-26 |
 | Don't Use LLMs to Make Relevance Judgments | [2409.15133](http://arxiv.org/abs/2409.15133) | None | 2025-03-26 |
 | Attention Xception UNet (AXUNet): A Novel Combination of CNN and   Self-Attention for Brain Tumor Segmentation | [2503.20446](http://arxiv.org/abs/2503.20446) | None | 2025-03-26 |
-| A Multilingual, Culture-First Approach to Addressing Misgendering in LLM   Applications | [2503.20302](http://arxiv.org/abs/2503.20302) | None | 2025-03-26 |
-| sudo rm -rf agentic_security | [2503.20279](http://arxiv.org/abs/2503.20279) | None | 2025-03-26 |
-| HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long   Video Understanding | [2501.01645](http://arxiv.org/abs/2501.01645) | None | 2025-03-26 |
-| Can We Make Code Green? Understanding Trade-Offs in LLMs vs. Human Code   Optimizations | [2503.20126](http://arxiv.org/abs/2503.20126) | None | 2025-03-26 |
-| LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? | [2503.19990](http://arxiv.org/abs/2503.19990) | None | 2025-03-25 |
-| ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback | [2503.19988](http://arxiv.org/abs/2503.19988) | None | 2025-03-25 |
-| Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time   Thinking | [2503.19855](http://arxiv.org/abs/2503.19855) | None | 2025-03-25 |
-| LLM4DV: Using Large Language Models for Hardware Test Stimuli Generation | [2310.04535](http://arxiv.org/abs/2310.04535) | None | 2025-03-25 |
-| ACVUBench: Audio-Centric Video Understanding Benchmark | [2503.19951](http://arxiv.org/abs/2503.19951) | https://github.com/lark-png/acvubench | 2025-03-25 |
-| LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior   Accuracy Preservation | [2503.19950](http://arxiv.org/abs/2503.19950) | https://github.com/concyclics/logquantkv | 2025-03-25 |
-| 1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large   Language Model Training | [2503.19633](http://arxiv.org/abs/2503.19633) | None | 2025-03-25 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

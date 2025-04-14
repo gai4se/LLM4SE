@@ -1,4 +1,4 @@
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,8 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Boosting Universal LLM Reward Design through Heuristic Reward   Observation Space Evolution | [2504.07596](http://arxiv.org/abs/2504.07596) | None | 2025-04-11 |
 | PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented   Generation in Large Language Models via Bilevel Optimization | [2504.07717](http://arxiv.org/abs/2504.07717) | None | 2025-04-10 |
-| Boosting Universal LLM Reward Design through the Heuristic Reward   Observation Space Evolution | [2504.07596](http://arxiv.org/abs/2504.07596) | None | 2025-04-10 |
 | Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge   in Software Engineering | [2502.06193](http://arxiv.org/abs/2502.06193) | None | 2025-04-10 |
 | LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation | [2504.07448](http://arxiv.org/abs/2504.07448) | https://github.com/juzhengz/lori | 2025-04-10 |
 | From Token to Line: Enhancing Code Generation with a Long-Term   Perspective | [2504.07433](http://arxiv.org/abs/2504.07433) | None | 2025-04-10 |
@@ -71,7 +71,7 @@
 | PyraNet: A Multi-Layered Hierarchical Dataset for Verilog | [2412.06947](http://arxiv.org/abs/2412.06947) | None | 2025-04-07 |
 | What Makes Large Language Models Reason in (Multi-Turn) Code Generation? | [2410.08105](http://arxiv.org/abs/2410.08105) | None | 2025-04-07 |
 | GSCE: A Prompt Framework with Enhanced Reasoning for Reliable LLM-driven   Drone Control | [2502.12531](http://arxiv.org/abs/2502.12531) | None | 2025-04-07 |
-| IRIS: LLM-Assisted Static Analysis for Detecting Security   Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2025-04-06 |
+| IRIS: LLM-Assisted Static Analysis for Detecting Security   Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | https://github.com/iris-sast/iris | 2025-04-06 |
 | DDPT: Diffusion-Driven Prompt Tuning for Large Language Model Code   Generation | [2504.04351](http://arxiv.org/abs/2504.04351) | None | 2025-04-06 |
 | Consolidating TinyML Lifecycle with Large Language Models: Reality,   Illusion, or Opportunity? | [2501.12420](http://arxiv.org/abs/2501.12420) | None | 2025-04-05 |
 | AdaCoder: An Adaptive Planning and Multi-Agent Framework for   Function-Level Code Generation | [2504.04220](http://arxiv.org/abs/2504.04220) | None | 2025-04-05 |
@@ -165,7 +165,7 @@
 | Enhancing Smart Contract Vulnerability Detection in DApps Leveraging   Fine-Tuned LLM | [2504.05006](http://arxiv.org/abs/2504.05006) | None | 2025-04-07 |
 | R2Vul: Learning to Reason about Software Vulnerabilities with   Reinforcement Learning and Structured Reasoning Distillation | [2504.04699](http://arxiv.org/abs/2504.04699) | None | 2025-04-07 |
 | Generative Large Language Model usage in Smart Contract Vulnerability   Detection | [2504.04685](http://arxiv.org/abs/2504.04685) | None | 2025-04-07 |
-| IRIS: LLM-Assisted Static Analysis for Detecting Security   Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | None | 2025-04-06 |
+| IRIS: LLM-Assisted Static Analysis for Detecting Security   Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | https://github.com/iris-sast/iris | 2025-04-06 |
 | From Code Generation to Software Testing: AI Copilot with Context-Based   RAG | [2504.01866](http://arxiv.org/abs/2504.01866) | None | 2025-04-05 |
 | LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on   Large Language Models | [2504.01404](http://arxiv.org/abs/2504.01404) | None | 2025-04-02 |
 | CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards   CWE Detection | [2503.09433](http://arxiv.org/abs/2503.09433) | https://github.com/CASTLE-Benchmark/CASTLE-Benchmark | 2025-03-31 |
@@ -198,10 +198,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization   for Test-Time Expert Re-Mixing | [2504.07964](http://arxiv.org/abs/2504.07964) | None | 2025-04-10 |
+| C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization   for Test-Time Expert Re-Mixing | [2504.07964](http://arxiv.org/abs/2504.07964) | https://github.com/tianyi-lab/c3po | 2025-04-10 |
 | VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement   Fine-Tuning | [2504.06958](http://arxiv.org/abs/2504.06958) | None | 2025-04-10 |
 | 2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference   Optimization | [2504.07856](http://arxiv.org/abs/2504.07856) | None | 2025-04-10 |
-| A System for Comprehensive Assessment of RAG Frameworks | [2504.07803](http://arxiv.org/abs/2504.07803) | None | 2025-04-10 |
+| A System for Comprehensive Assessment of RAG Frameworks | [2504.07803](http://arxiv.org/abs/2504.07803) | https://github.com/eustema-s-p-a/scarf | 2025-04-10 |
 | Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for   Effective Elicitation and Retrieval of Information | [2504.07738](http://arxiv.org/abs/2504.07738) | None | 2025-04-10 |
 | DeepGreen: Effective LLM-Driven Green-washing Monitoring System Designed   for Empirical Testing -- Evidence from China | [2504.07733](http://arxiv.org/abs/2504.07733) | None | 2025-04-10 |
 | ConceptFormer: Towards Efficient Use of Knowledge-Graph Embeddings in   Large Language Models | [2504.07624](http://arxiv.org/abs/2504.07624) | None | 2025-04-10 |
@@ -254,10 +254,10 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Zero-Shot Cross-Domain Code Search without Fine-Tuning | [2504.07740](http://arxiv.org/abs/2504.07740) | None | 2025-04-10 |
+| CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with   Test-Driven Agents | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2025-04-11 |
+| Zero-Shot Cross-Domain Code Search without Fine-Tuning | [2504.07740](http://arxiv.org/abs/2504.07740) | https://github.com/zju-ctag/codebridge | 2025-04-10 |
 | OASIS: Order-Augmented Strategy for Improved Code Search | [2503.08161](http://arxiv.org/abs/2503.08161) | None | 2025-03-14 |
 | Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in   Code Generation Datasets | [2502.20246](http://arxiv.org/abs/2502.20246) | None | 2025-02-28 |
-| CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with   Test-Driven Agents | [2406.11589](http://arxiv.org/abs/2406.11589) | https://github.com/DeepSoftwareAnalytics/CoSQA_Plus | 2025-02-20 |
 | OrcaLoca: An LLM Agent Framework for Software Issue Localization | [2502.00350](http://arxiv.org/abs/2502.00350) | None | 2025-02-01 |
 | SpecRover: Code Intent Extraction via LLMs | [2408.02232](http://arxiv.org/abs/2408.02232) | None | 2024-12-11 |
 | Fixing Security Vulnerabilities with AI in OSS-Fuzz | [2411.03346](http://arxiv.org/abs/2411.03346) | None | 2024-11-21 |
@@ -282,6 +282,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | https://github.com/codelion/optillm/blob/main/optillm/rto.py | 2025-04-11 |
 | Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests | [2503.17302](http://arxiv.org/abs/2503.17302) | None | 2025-03-21 |
 | CodeReviewQA: The Code Review Comprehension Assessment for Large   Language Models | [2503.16167](http://arxiv.org/abs/2503.16167) | None | 2025-03-20 |
 | Psycholinguistic Analyses in Software Engineering Text: A Systematic   Literature Review | [2503.05992](http://arxiv.org/abs/2503.05992) | None | 2025-03-08 |
@@ -310,6 +311,5 @@
 | CodeAgent: Autonomous Communicative Agents for Code Review | [2402.02172](http://arxiv.org/abs/2402.02172) | https://github.com/code4agent/codeagent | 2024-09-24 |
 | Evaluating Source Code Quality with Large Language Models: a comparative   study | [2408.07082](http://arxiv.org/abs/2408.07082) | None | 2024-09-22 |
 | CRQBench: A Benchmark of Code Reasoning Questions | [2408.08453](http://arxiv.org/abs/2408.08453) | None | 2024-08-15 |
-| Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | https://github.com/codelion/optillm/blob/main/optillm/rto.py | 2024-07-23 |
 | CREF: An LLM-based Conversational Software Repair Framework for   Programming Tutors | [2406.13972](http://arxiv.org/abs/2406.13972) | https://github.com/buaabarty/cref | 2024-07-08 |
 

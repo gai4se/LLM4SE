@@ -1,4 +1,4 @@
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,12 +54,18 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| A Dual-Space Framework for General Knowledge Distillation of Large   Language Models | [2504.11426](http://arxiv.org/abs/2504.11426) | None | 2025-04-15 |
+| Automated Proof Generation for Rust Code via Self-Evolution | [2410.15756](http://arxiv.org/abs/2410.15756) | None | 2025-04-15 |
+| SE Arena: An Interactive Platform for Evaluating Foundation Models in   Software Engineering | [2502.01860](http://arxiv.org/abs/2502.01860) | None | 2025-04-15 |
+| Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting   Confidence Improves Mathematical Reasoning | [2502.07154](http://arxiv.org/abs/2502.07154) | https://github.com/allanraventos/refine | 2025-04-15 |
+| Toward Intelligent and Secure Cloud: Large Language Model Empowered   Proactive Defense | [2412.21051](http://arxiv.org/abs/2412.21051) | https://github.com/SEU-ProactiveSecurity-Group/LLM-PD | 2025-04-15 |
+| ReadMe.LLM: A Framework to Help LLMs Understand Your Library | [2504.09798](http://arxiv.org/abs/2504.09798) | None | 2025-04-15 |
 | MDIT: A Model-free Data Interpolation Method for Diverse Instruction   Tuning | [2504.07288](http://arxiv.org/abs/2504.07288) | None | 2025-04-14 |
 | The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental   Evaluation of Prompt Engineering Methods for Robust Multimodal Performance | [2504.10179](http://arxiv.org/abs/2504.10179) | None | 2025-04-14 |
 | VeriContaminated: Assessing LLM-Driven Verilog Coding for Data   Contamination | [2503.13572](http://arxiv.org/abs/2503.13572) | None | 2025-04-14 |
 | CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code   Generation | [2504.10046](http://arxiv.org/abs/2504.10046) | None | 2025-04-14 |
+| LEMUR Neural Network Dataset: Towards Seamless AutoML | [2504.10552](http://arxiv.org/abs/2504.10552) | None | 2025-04-14 |
 | ClassEval-T: Evaluating Large Language Models in Class-Level Code   Translation | [2411.06145](http://arxiv.org/abs/2411.06145) | None | 2025-04-14 |
-| ReadMe.LLM: A Framework to Help LLMs Understand Your Library | [2504.09798](http://arxiv.org/abs/2504.09798) | None | 2025-04-14 |
 | From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2025-04-13 |
 | Draw with Thought: Unleashing Multimodal Reasoning for Scientific   Diagram Generation | [2504.09479](http://arxiv.org/abs/2504.09479) | None | 2025-04-13 |
 | Type-Constrained Code Generation with Language Models | [2504.09246](http://arxiv.org/abs/2504.09246) | None | 2025-04-12 |
@@ -79,19 +85,13 @@
 | Green Prompting | [2503.10666](http://arxiv.org/abs/2503.10666) | None | 2025-04-08 |
 | CodeEditorBench: Evaluating Code Editing Capability of Large Language   Models | [2404.03543](http://arxiv.org/abs/2404.03543) | None | 2025-04-08 |
 | Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions   for Large Language Models | [2407.21077](http://arxiv.org/abs/2407.21077) | None | 2025-04-07 |
-| PyraNet: A Multi-Layered Hierarchical Dataset for Verilog | [2412.06947](http://arxiv.org/abs/2412.06947) | None | 2025-04-07 |
-| What Makes Large Language Models Reason in (Multi-Turn) Code Generation? | [2410.08105](http://arxiv.org/abs/2410.08105) | None | 2025-04-07 |
-| GSCE: A Prompt Framework with Enhanced Reasoning for Reliable LLM-driven   Drone Control | [2502.12531](http://arxiv.org/abs/2502.12531) | None | 2025-04-07 |
-| IRIS: LLM-Assisted Static Analysis for Detecting Security   Vulnerabilities | [2405.17238](http://arxiv.org/abs/2405.17238) | https://github.com/iris-sast/iris | 2025-04-06 |
-| DDPT: Diffusion-Driven Prompt Tuning for Large Language Model Code   Generation | [2504.04351](http://arxiv.org/abs/2504.04351) | None | 2025-04-06 |
-| Consolidating TinyML Lifecycle with Large Language Models: Reality,   Illusion, or Opportunity? | [2501.12420](http://arxiv.org/abs/2501.12420) | None | 2025-04-05 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| CleanVul: Automatic Function-Level Vulnerability Detection in Code   Commits Using LLM Heuristics | [2411.17274](http://arxiv.org/abs/2411.17274) | https://github.com/yikun-li/cleanvul | 2025-04-14 |
 | SWE-PolyBench: A multi-language benchmark for repository level   evaluation of coding agents | [2504.08703](http://arxiv.org/abs/2504.08703) | https://github.com/amazon-science/swe-polybench | 2025-04-14 |
+| CleanVul: Automatic Function-Level Vulnerability Detection in Code   Commits Using LLM Heuristics | [2411.17274](http://arxiv.org/abs/2411.17274) | https://github.com/yikun-li/cleanvul | 2025-04-14 |
 | Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | https://github.com/codelion/optillm/blob/main/optillm/rto.py | 2025-04-11 |
 | Agent That Debugs: Dynamic State-Guided Vulnerability Repair | [2504.07634](http://arxiv.org/abs/2504.07634) | None | 2025-04-10 |
 | Studying and Understanding the Effectiveness and Failures of   Conversational LLM-Based Repair | [2503.15050](http://arxiv.org/abs/2503.15050) | None | 2025-04-09 |
@@ -198,7 +198,24 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Automatic Item Generation for Personality Situational Judgment Tests   with Large Language Models | [2412.12144](http://arxiv.org/abs/2412.12144) | None | 2025-04-16 |
+| Automated Python Translation | [2504.11290](http://arxiv.org/abs/2504.11290) | None | 2025-04-16 |
+| Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails | [2504.11168](http://arxiv.org/abs/2504.11168) | None | 2025-04-16 |
+| TextArena | [2504.11442](http://arxiv.org/abs/2504.11442) | None | 2025-04-15 |
 | InternVL3: Exploring Advanced Training and Test-Time Recipes for   Open-Source Multimodal Models | [2504.10479](http://arxiv.org/abs/2504.10479) | None | 2025-04-15 |
+| OpenTuringBench: An Open-Model-based Benchmark and Framework for   Machine-Generated Text Detection and Attribution | [2504.11369](http://arxiv.org/abs/2504.11369) | None | 2025-04-15 |
+| Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual   Reinforcement Fine-Tuning | [2503.16188](http://arxiv.org/abs/2503.16188) | https://github.com/minglllli/CLS-RL | 2025-04-15 |
+| The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to   Fine-Print Injections | [2504.11281](http://arxiv.org/abs/2504.11281) | None | 2025-04-15 |
+| SafeChat: A Framework for Building Trustworthy Collaborative Assistants   and a Case Study of its Usefulness | [2504.07995](http://arxiv.org/abs/2504.07995) | https://github.com/ai4society/trustworthy-chatbot | 2025-04-15 |
+| Limitations of Automatic Relevance Assessments with Large Language   Models for Fair and Reliable Retrieval Evaluation | [2411.13212](http://arxiv.org/abs/2411.13212) | None | 2025-04-15 |
+| ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search | [2504.10893](http://arxiv.org/abs/2504.10893) | None | 2025-04-15 |
+| Large Language Model-Informed Feature Discovery Improves Prediction and   Interpretation of Credibility Perceptions of Visual Content | [2504.10878](http://arxiv.org/abs/2504.10878) | None | 2025-04-15 |
+| LLM$\times$MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling   for Generating Long-Form Articles from Extremely Long Resources | [2504.05732](http://arxiv.org/abs/2504.05732) | None | 2025-04-15 |
+| Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting   Confidence Improves Mathematical Reasoning | [2502.07154](http://arxiv.org/abs/2502.07154) | https://github.com/allanraventos/refine | 2025-04-15 |
+| ReadMe.LLM: A Framework to Help LLMs Understand Your Library | [2504.09798](http://arxiv.org/abs/2504.09798) | None | 2025-04-15 |
+| The Jailbreak Tax: How Useful are Your Jailbreak Outputs? | [2504.10694](http://arxiv.org/abs/2504.10694) | None | 2025-04-14 |
+| Un marco conceptual para la generación de requerimientos de software   de calidad | [2504.10654](http://arxiv.org/abs/2504.10654) | None | 2025-04-14 |
+| Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities   in Large Language Models | [2504.10615](http://arxiv.org/abs/2504.10615) | None | 2025-04-14 |
 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | [2504.10449](http://arxiv.org/abs/2504.10449) | None | 2025-04-14 |
 | LLM-SRBench: A New Benchmark for Scientific Equation Discovery with   Large Language Models | [2504.10415](http://arxiv.org/abs/2504.10415) | https://github.com/deep-symbolic-mathematics/llm-srbench | 2025-04-14 |
 | SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired   Symbolic Reasoning | [2504.10369](http://arxiv.org/abs/2504.10369) | None | 2025-04-14 |
@@ -207,28 +224,11 @@
 | Benchmarking Practices in LLM-driven Offensive Security: Testbeds,   Metrics, and Experiment Design | [2504.10112](http://arxiv.org/abs/2504.10112) | None | 2025-04-14 |
 | Secret Collusion among Generative AI Agents: Multi-Agent Deception via   Steganography | [2402.07510](http://arxiv.org/abs/2402.07510) | None | 2025-04-14 |
 | CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code   Generation | [2504.10046](http://arxiv.org/abs/2504.10046) | None | 2025-04-14 |
+| LEMUR Neural Network Dataset: Towards Seamless AutoML | [2504.10552](http://arxiv.org/abs/2504.10552) | None | 2025-04-14 |
 | ClassEval-T: Evaluating Large Language Models in Class-Level Code   Translation | [2411.06145](http://arxiv.org/abs/2411.06145) | None | 2025-04-14 |
+| Automated Testing of COBOL to Java Transformation | [2504.10548](http://arxiv.org/abs/2504.10548) | None | 2025-04-14 |
 | See or Recall: A Sanity Check for the Role of Vision in Solving   Visualization Question Answer Tasks with Multimodal LLMs | [2504.09809](http://arxiv.org/abs/2504.09809) | None | 2025-04-14 |
-| ReadMe.LLM: A Framework to Help LLMs Understand Your Library | [2504.09798](http://arxiv.org/abs/2504.09798) | None | 2025-04-14 |
-| An Investigation of Large Language Models and Their Vulnerabilities in   Spam Detection | [2504.09776](http://arxiv.org/abs/2504.09776) | None | 2025-04-14 |
-| Two Heads are Better Than One: Test-time Scaling of Multi-agent   Collaborative Reasoning | [2504.09772](http://arxiv.org/abs/2504.09772) | None | 2025-04-14 |
-| Socratic Chart: Cooperating Multiple Agents for Robust SVG Chart   Understanding | [2504.09764](http://arxiv.org/abs/2504.09764) | None | 2025-04-14 |
-| Integrating Large Language Models for Automated Structural Analysis | [2504.09754](http://arxiv.org/abs/2504.09754) | None | 2025-04-13 |
-| Can LLM feedback enhance review quality? A randomized study of 20K   reviews at ICLR 2025 | [2504.09737](http://arxiv.org/abs/2504.09737) | None | 2025-04-13 |
-| DNR Bench: Benchmarking Over-Reasoning in Reasoning LLMs | [2503.15793](http://arxiv.org/abs/2503.15793) | None | 2025-04-13 |
-| AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM   Agents | [2504.09723](http://arxiv.org/abs/2504.09723) | None | 2025-04-13 |
-| MLRC-Bench: Can Language Agents Solve Machine Learning Research   Challenges? | [2504.09702](http://arxiv.org/abs/2504.09702) | None | 2025-04-13 |
-| Ordinary Least Squares as an Attention Mechanism | [2504.09663](http://arxiv.org/abs/2504.09663) | None | 2025-04-13 |
-| Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model   Capability | [2504.09639](http://arxiv.org/abs/2504.09639) | None | 2025-04-13 |
-| Large Language Model-Enhanced Reinforcement Learning for Generic Bus   Holding Control Strategies | [2410.10212](http://arxiv.org/abs/2410.10212) | None | 2025-04-13 |
-| Syzygy of Thoughts: Improving LLM CoT with the Minimal Free Resolution | [2504.09566](http://arxiv.org/abs/2504.09566) | None | 2025-04-13 |
-| AGITB: A Signal-Level Benchmark for Evaluating Artificial General   Intelligence | [2504.04430](http://arxiv.org/abs/2504.04430) | None | 2025-04-13 |
-| VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement   Fine-Tuning | [2504.06958](http://arxiv.org/abs/2504.06958) | None | 2025-04-13 |
 | From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2025-04-13 |
-| ChineseSafe: A Chinese Benchmark for Evaluating Safety in Large Language   Models | [2410.18491](http://arxiv.org/abs/2410.18491) | None | 2025-04-13 |
-| Enabling Scalable Evaluation of Bias Patterns in Medical LLMs | [2410.14763](http://arxiv.org/abs/2410.14763) | https://github.com/healthylaife/autofair | 2025-04-13 |
-| UXAgent: A System for Simulating Usability Testing of Web Design with   LLM Agents | [2504.09407](http://arxiv.org/abs/2504.09407) | None | 2025-04-13 |
-| RAG-Based Fuzzing of Cross-Architecture Compilers | [2504.08967](http://arxiv.org/abs/2504.08967) | None | 2025-04-11 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

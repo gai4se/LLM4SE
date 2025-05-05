@@ -1,4 +1,4 @@
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,6 +57,7 @@
 | Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets   Collective Intelligence | [2504.14625](http://arxiv.org/abs/2504.14625) | None | 2025-05-01 |
 | ReasoningV: Efficient Verilog Code Generation with Adaptive Hybrid   Reasoning Model | [2504.14560](http://arxiv.org/abs/2504.14560) | None | 2025-05-01 |
 | From Effectiveness to Efficiency: Uncovering Linguistic Bias in Large   Language Model-based Code Generation | [2406.00602](http://arxiv.org/abs/2406.00602) | None | 2025-05-01 |
+| A Multi-Language Perspective on the Robustness of LLM Code Generation | [2504.19108](http://arxiv.org/abs/2504.19108) | None | 2025-05-01 |
 | OSVBench: Benchmarking LLMs on Specification Generation Tasks for   Operating System Verification | [2504.20964](http://arxiv.org/abs/2504.20964) | None | 2025-04-29 |
 | A Systematic Literature Review of Parameter-Efficient Fine-Tuning for   Large Code Models | [2504.21569](http://arxiv.org/abs/2504.21569) | None | 2025-04-29 |
 | Secure Coding with AI, From Creation to Inspection | [2504.20814](http://arxiv.org/abs/2504.20814) | None | 2025-04-29 |
@@ -72,7 +73,6 @@
 | An Automated Reinforcement Learning Reward Design Framework with Large   Language Model for Cooperative Platoon Coordination | [2504.19480](http://arxiv.org/abs/2504.19480) | None | 2025-04-28 |
 | Guided Tensor Lifting | [2504.19705](http://arxiv.org/abs/2504.19705) | None | 2025-04-28 |
 | ChiseLLM: Unleashing the Power of Reasoning LLMs for Chisel Agile   Hardware Development | [2504.19144](http://arxiv.org/abs/2504.19144) | None | 2025-04-27 |
-| A Multi-Language Perspective on the Robustness of LLM Code Generation | [2504.19108](http://arxiv.org/abs/2504.19108) | None | 2025-04-27 |
 | "I Would Have Written My Code Differently'': Beginners Struggle to   Understand LLM-Generated Code | [2504.19037](http://arxiv.org/abs/2504.19037) | None | 2025-04-26 |
 | NoEsis: Differentially Private Knowledge Transfer in Modular LLM   Adaptation | [2504.18147](http://arxiv.org/abs/2504.18147) | None | 2025-04-25 |
 | Energy Considerations of Large Language Model Inference and Efficiency   Optimizations | [2504.17674](http://arxiv.org/abs/2504.17674) | None | 2025-04-24 |
@@ -198,6 +198,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Self-Generated In-Context Examples Improve LLM Agents for Sequential   Decision-Making Tasks | [2505.00234](http://arxiv.org/abs/2505.00234) | None | 2025-05-02 |
 | On the generalization of language models from in-context learning and   finetuning: a controlled study | [2505.00661](http://arxiv.org/abs/2505.00661) | None | 2025-05-01 |
 | FineScope : Precision Pruning for Domain-Specialized Large Language   Models Using SAE-Guided Self-Data Cultivation | [2505.00624](http://arxiv.org/abs/2505.00624) | None | 2025-05-01 |
 | Efficiency and Effectiveness of LLM-Based Summarization of Evidence in   Crowdsourced Fact-Checking | [2501.18265](http://arxiv.org/abs/2501.18265) | None | 2025-05-01 |
@@ -205,7 +206,6 @@
 | A Framework for Testing and Adapting REST APIs as LLM Tools | [2504.15546](http://arxiv.org/abs/2504.15546) | None | 2025-05-01 |
 | Mixture of Sparse Attention: Content-Based Learnable Sparse Attention   via Expert-Choice Routing | [2505.00315](http://arxiv.org/abs/2505.00315) | None | 2025-05-01 |
 | Generating Traffic Scenarios via In-Context Learning to Learn Better   Motion Planner | [2412.18086](http://arxiv.org/abs/2412.18086) | https://github.com/Ezharjan/AutoSceneGen | 2025-05-01 |
-| Self-Generated In-Context Examples Improve LLM Agents for Sequential   Decision-Making Tasks | [2505.00234](http://arxiv.org/abs/2505.00234) | None | 2025-05-01 |
 | Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the   effect of Epistemic Markers on LLM-based Evaluation | [2410.20774](http://arxiv.org/abs/2410.20774) | None | 2025-04-30 |
 | GenTorrent: Scaling Large Language Model Serving with An Overley Network | [2504.20101](http://arxiv.org/abs/2504.20101) | None | 2025-04-30 |
 | CoordField: Coordination Field for Agentic UAV Task Allocation In   Low-altitude Urban Scenarios | [2505.00091](http://arxiv.org/abs/2505.00091) | None | 2025-04-30 |

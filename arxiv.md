@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -207,8 +207,9 @@
 | A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning   and Inference-time Scaling Law | [2505.02665](http://arxiv.org/abs/2505.02665) | None | 2025-05-08 |
 | CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large   Language Models in Interactive Code Generation | [2503.22688](http://arxiv.org/abs/2503.22688) | None | 2025-05-08 |
 | ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented   Contextual Learning | [2501.01031](http://arxiv.org/abs/2501.01031) | None | 2025-05-08 |
+| Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale   Data Restoration | [2505.04457](http://arxiv.org/abs/2505.04457) | https://github.com/yukara-ikemiya/wavefit-pytorch | 2025-05-08 |
+| AI-Driven Scholarly Peer Review via Persistent Workflow Prompting,   Meta-Prompting, and Meta-Reasoning | [2505.03332](http://arxiv.org/abs/2505.03332) | None | 2025-05-08 |
 | A Proposal for Evaluating the Operational Risk for ChatBots based on   Large Language Models | [2505.04784](http://arxiv.org/abs/2505.04784) | None | 2025-05-07 |
-| Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale   Data Restoration | [2505.04457](http://arxiv.org/abs/2505.04457) | None | 2025-05-07 |
 | Towards Effectively Leveraging Execution Traces for Program Repair with   Code LLMs | [2505.04441](http://arxiv.org/abs/2505.04441) | None | 2025-05-07 |
 | YABLoCo: Yet Another Benchmark for Long Context Code Generation | [2505.04406](http://arxiv.org/abs/2505.04406) | None | 2025-05-07 |
 | The Aloe Family Recipe for Open and Specialized Healthcare LLMs | [2505.04388](http://arxiv.org/abs/2505.04388) | None | 2025-05-07 |
@@ -218,7 +219,6 @@
 | Towards Universal and Black-Box Query-Response Only Attack on LLMs with   QROA | [2406.02044](http://arxiv.org/abs/2406.02044) | https://github.com/qroa/qroa | 2025-05-06 |
 | On the generalization of language models from in-context learning and   finetuning: a controlled study | [2505.00661](http://arxiv.org/abs/2505.00661) | None | 2025-05-06 |
 | Evaluating Contrastive Feedback for Effective User Simulations | [2505.02560](http://arxiv.org/abs/2505.02560) | https://github.com/irgroup/sigir2025-contrastive_prompting | 2025-05-06 |
-| AI-Driven Scholarly Peer Review via Persistent Workflow Prompting,   Meta-Prompting, and Meta-Reasoning | [2505.03332](http://arxiv.org/abs/2505.03332) | None | 2025-05-06 |
 | Ψ-Arena: Interactive Assessment and Optimization of LLM-based   Psychological Counselors with Tripartite Feedback | [2505.03293](http://arxiv.org/abs/2505.03293) | None | 2025-05-06 |
 | RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via   Retrieval-Augmented Generation | [2505.03275](http://arxiv.org/abs/2505.03275) | None | 2025-05-06 |
 | DYSTIL: Dynamic Strategy Induction with Large Language Models for   Reinforcement Learning | [2505.03209](http://arxiv.org/abs/2505.03209) | None | 2025-05-06 |

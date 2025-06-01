@@ -1,4 +1,4 @@
-## Updated on 2025.05.31
+## Updated on 2025.06.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -225,7 +225,7 @@
 | Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased   Reinforcement Learning in Multimodal Small Language Models | [2505.23091](http://arxiv.org/abs/2505.23091) | None | 2025-05-29 |
 | Be.FM: Open Foundation Models for Human Behavior | [2505.23058](http://arxiv.org/abs/2505.23058) | None | 2025-05-29 |
 | Improving Multilingual Social Media Insights: Aspect-based Comment   Analysis | [2505.23037](http://arxiv.org/abs/2505.23037) | None | 2025-05-29 |
-| DyePack: Provably Flagging Test Set Contamination in LLMs Using   Backdoors | [2505.23001](http://arxiv.org/abs/2505.23001) | None | 2025-05-29 |
+| DyePack: Provably Flagging Test Set Contamination in LLMs Using   Backdoors | [2505.23001](http://arxiv.org/abs/2505.23001) | https://github.com/chengez/DyePack | 2025-05-29 |
 | LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable   Data for Custom Keyword Spotting | [2505.22995](http://arxiv.org/abs/2505.22995) | None | 2025-05-29 |
 | Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study   of Conditional Effectiveness | [2505.22960](http://arxiv.org/abs/2505.22960) | None | 2025-05-29 |
 | AGENTFUZZER: Generic Black-Box Fuzzing for Indirect Prompt Injection   against LLM Agents | [2505.05849](http://arxiv.org/abs/2505.05849) | None | 2025-05-21 |

@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,19 +57,19 @@
 | Synthesizing Performance Constraints for Evaluating and Improving Code   Efficiency | [2505.23471](http://arxiv.org/abs/2505.23471) | None | 2025-05-29 |
 | DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large   Language Models in Code Generation | [2503.10452](http://arxiv.org/abs/2503.10452) | None | 2025-05-29 |
 | Sample-Efficient Human Evaluation of Large Language Models via Maximum   Discrepancy Competition | [2404.08008](http://arxiv.org/abs/2404.08008) | https://github.com/weiji-feng/mad-eval | 2025-05-29 |
-| Personality-Guided Code Generation Using Large Language Models | [2411.00006](http://arxiv.org/abs/2411.00006) | None | 2025-05-29 |
-| OSS-UAgent: An Agent-based Usability Evaluation Framework for Open   Source Software | [2505.23239](http://arxiv.org/abs/2505.23239) | None | 2025-05-29 |
+| Personality-Guided Code Generation Using Large Language Models | [2411.00006](http://arxiv.org/abs/2411.00006) | https://github.com/ianwalls/persona-code | 2025-05-29 |
+| OSS-UAgent: An Agent-based Usability Evaluation Framework for Open   Source Software | [2505.23239](http://arxiv.org/abs/2505.23239) | https://github.com/lingkai981/oss-uagent | 2025-05-29 |
 | Infinite-Instruct: Synthesizing Scaling Code instruction Data with   Bidirectional Synthesis and Static Verification | [2505.23177](http://arxiv.org/abs/2505.23177) | None | 2025-05-29 |
-| VERINA: Benchmarking Verifiable Code Generation | [2505.23135](http://arxiv.org/abs/2505.23135) | None | 2025-05-29 |
+| VERINA: Benchmarking Verifiable Code Generation | [2505.23135](http://arxiv.org/abs/2505.23135) | https://github.com/sunblaze-ucb/verina | 2025-05-29 |
 | Chain of Grounded Objectives: Bridging Process and Goal-oriented   Prompting for Code Generation | [2501.13978](http://arxiv.org/abs/2501.13978) | None | 2025-05-29 |
 | CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance | [2502.04350](http://arxiv.org/abs/2502.04350) | https://github.com/yongchao98/codesteer-v1.0 | 2025-05-29 |
 | PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark   inspired by Historical Linguistics | [2505.23126](http://arxiv.org/abs/2505.23126) | None | 2025-05-29 |
 | MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning | [2505.23254](http://arxiv.org/abs/2505.23254) | None | 2025-05-29 |
 | Training Language Models to Generate Quality Code with Program Analysis   Feedback | [2505.22704](http://arxiv.org/abs/2505.22704) | None | 2025-05-28 |
 | LoRA-One: One-Step Full Gradient Could Suffice for Fine-Tuning Large   Language Models, Provably and Efficiently | [2502.01235](http://arxiv.org/abs/2502.01235) | None | 2025-05-28 |
-| R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning | [2505.21668](http://arxiv.org/abs/2505.21668) | None | 2025-05-27 |
+| R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised   and Reinforcement Learning | [2505.21668](http://arxiv.org/abs/2505.21668) | https://github.com/yongchao98/r1-code-interpreter | 2025-05-27 |
 | GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural   Code Generation | [2505.21425](http://arxiv.org/abs/2505.21425) | None | 2025-05-27 |
-| RepoMaster: Autonomous Exploration and Understanding of GitHub   Repositories for Complex Task Solving | [2505.21577](http://arxiv.org/abs/2505.21577) | None | 2025-05-27 |
+| RepoMaster: Autonomous Exploration and Understanding of GitHub   Repositories for Complex Task Solving | [2505.21577](http://arxiv.org/abs/2505.21577) | https://github.com/wanghuacan/repomaster | 2025-05-27 |
 | An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | [2505.20854](http://arxiv.org/abs/2505.20854) | None | 2025-05-27 |
 | The Power of Personality: A Human Simulation Perspective to Investigate   Large Language Model Agents | [2502.20859](http://arxiv.org/abs/2502.20859) | None | 2025-05-27 |
 | WizardCoder: Empowering Code Large Language Models with Evol-Instruct | [2306.08568](http://arxiv.org/abs/2306.08568) | https://github.com/nlpxucan/wizardlm | 2025-05-27 |
@@ -90,10 +90,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| BaxBench: Can LLMs Generate Correct and Secure Backends? | [2502.11844](http://arxiv.org/abs/2502.11844) | None | 2025-05-30 |
 | CADReview: Automatically Reviewing CAD Programs with Error Detection and   Correction | [2505.22304](http://arxiv.org/abs/2505.22304) | None | 2025-05-28 |
 | An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | [2505.20854](http://arxiv.org/abs/2505.20854) | None | 2025-05-27 |
 | Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair | [2505.13103](http://arxiv.org/abs/2505.13103) | None | 2025-05-24 |
-| LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability   Management Framework | [2505.17416](http://arxiv.org/abs/2505.17416) | None | 2025-05-23 |
+| LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability   Management Framework | [2505.17416](http://arxiv.org/abs/2505.17416) | https://github.com/sosol717/llm-bscvm | 2025-05-23 |
 | SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software   Development | [2505.16975](http://arxiv.org/abs/2505.16975) | https://github.com/justlittlewhite/swe-dev | 2025-05-22 |
 | APE-Bench I: Towards File-level Automated Proof Engineering of Formal   Math Libraries | [2504.19110](http://arxiv.org/abs/2504.19110) | None | 2025-05-22 |
 | MORepair: Teaching LLMs to Repair Code via Multi-Objective Fine-tuning | [2404.12636](http://arxiv.org/abs/2404.12636) | None | 2025-05-15 |
@@ -120,7 +121,6 @@
 | HLS-Eval: A Benchmark and Framework for Evaluating LLMs on High-Level   Synthesis Design Tasks | [2504.12268](http://arxiv.org/abs/2504.12268) | https://github.com/stefanpie/hls-eval | 2025-04-16 |
 | CleanVul: Automatic Function-Level Vulnerability Detection in Code   Commits Using LLM Heuristics | [2411.17274](http://arxiv.org/abs/2411.17274) | https://github.com/yikun-li/cleanvul | 2025-04-14 |
 | Agent That Debugs: Dynamic State-Guided Vulnerability Repair | [2504.07634](http://arxiv.org/abs/2504.07634) | None | 2025-04-10 |
-| Studying and Understanding the Effectiveness and Failures of   Conversational LLM-Based Repair | [2503.15050](http://arxiv.org/abs/2503.15050) | None | 2025-04-09 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 
@@ -162,12 +162,13 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing | [2501.18160](http://arxiv.org/abs/2501.18160) | None | 2025-05-29 |
 | VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries | [2505.22010](http://arxiv.org/abs/2505.22010) | None | 2025-05-28 |
 | BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection | [2505.22878](http://arxiv.org/abs/2505.22878) | None | 2025-05-28 |
-| SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis | [2505.20630](http://arxiv.org/abs/2505.20630) | None | 2025-05-27 |
-| SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability   Detection | [2505.19828](http://arxiv.org/abs/2505.19828) | None | 2025-05-26 |
+| SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large   Language Models for Source Code Vulnerability Analysis | [2505.20630](http://arxiv.org/abs/2505.20630) | https://github.com/Jackline97/SV-TrustEval-C | 2025-05-27 |
+| SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability   Detection | [2505.19828](http://arxiv.org/abs/2505.19828) | https://github.com/basimbd/secvuleval | 2025-05-26 |
 | An Initial Exploration of Fine-tuning Small Language Models for Smart   Contract Reentrancy Vulnerability Detection | [2505.19059](http://arxiv.org/abs/2505.19059) | None | 2025-05-25 |
-| LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability   Management Framework | [2505.17416](http://arxiv.org/abs/2505.17416) | None | 2025-05-23 |
+| LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability   Management Framework | [2505.17416](http://arxiv.org/abs/2505.17416) | https://github.com/sosol717/llm-bscvm | 2025-05-23 |
 | Adaptive Plan-Execute Framework for Smart Contract Security Auditing | [2505.15242](http://arxiv.org/abs/2505.15242) | None | 2025-05-22 |
 | Are Sparse Autoencoders Useful for Java Function Bug Detection? | [2505.10375](http://arxiv.org/abs/2505.10375) | None | 2025-05-21 |
 | CRAKEN: Cybersecurity LLM Agent with Knowledge-Based Execution | [2505.17107](http://arxiv.org/abs/2505.17107) | https://github.com/nyu-llm-ctf/nyuctf_agents_craken | 2025-05-21 |
@@ -192,13 +193,13 @@
 | KNighter: Transforming Static Analysis with LLM-Synthesized Checkers | [2503.09002](http://arxiv.org/abs/2503.09002) | https://github.com/ise-uiuc/KNighter | 2025-04-18 |
 | The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by   LLMs | [2504.11711](http://arxiv.org/abs/2504.11711) | None | 2025-04-17 |
 | MOS: Towards Effective Smart Contract Vulnerability Detection through   Mixture-of-Experts Tuning of Large Language Models | [2504.12234](http://arxiv.org/abs/2504.12234) | None | 2025-04-16 |
-| From LLMs to LLM-based Agents for Software Engineering: A Survey of   Current, Challenges and Future | [2408.02479](http://arxiv.org/abs/2408.02479) | None | 2025-04-13 |
 
 <h2 id="Fuzzing/Testing"> Fuzzing/Testing </h2>
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Label-Guided In-Context Learning for Named Entity Recognition | [2505.23722](http://arxiv.org/abs/2505.23722) | None | 2025-05-29 |
+| EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and   Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions | [2505.23473](http://arxiv.org/abs/2505.23473) | None | 2025-05-30 |
+| Label-Guided In-Context Learning for Named Entity Recognition | [2505.23722](http://arxiv.org/abs/2505.23722) | https://github.com/bflashcp3f/deer | 2025-05-29 |
 | Multilingual Question Answering in Low-Resource Settings: A   Dzongkha-English Benchmark for Foundation Models | [2505.18638](http://arxiv.org/abs/2505.18638) | None | 2025-05-29 |
 | ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic   Long-Term Interactions | [2505.23662](http://arxiv.org/abs/2505.23662) | None | 2025-05-29 |
 | Generative Agents for Multi-Agent Autoformalization of Interaction   Scenarios | [2412.08805](http://arxiv.org/abs/2412.08805) | https://github.com/dicelab-rhul/autoformalizing-agents | 2025-05-29 |
@@ -207,18 +208,17 @@
 | LLM-based Property-based Test Generation for Guardrailing Cyber-Physical   Systems | [2505.23549](http://arxiv.org/abs/2505.23549) | None | 2025-05-29 |
 | Translation in the Wild | [2505.23548](http://arxiv.org/abs/2505.23548) | None | 2025-05-29 |
 | Evaluating the performance and fragility of large language models on the   self-assessment for neurological surgeons | [2505.23477](http://arxiv.org/abs/2505.23477) | None | 2025-05-29 |
-| EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and   Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions | [2505.23473](http://arxiv.org/abs/2505.23473) | None | 2025-05-29 |
 | Synthesizing Performance Constraints for Evaluating and Improving Code   Efficiency | [2505.23471](http://arxiv.org/abs/2505.23471) | None | 2025-05-29 |
 | DynaCode: A Dynamic Complexity-Aware Code Benchmark for Evaluating Large   Language Models in Code Generation | [2503.10452](http://arxiv.org/abs/2503.10452) | None | 2025-05-29 |
 | From Parameters to Prompts: Understanding and Mitigating the Factuality   Gap between Fine-Tuned LLMs | [2505.23410](http://arxiv.org/abs/2505.23410) | None | 2025-05-29 |
 | Afterburner: Reinforcement Learning Facilitates Self-Improving Code   Efficiency Optimization | [2505.23387](http://arxiv.org/abs/2505.23387) | None | 2025-05-29 |
-| VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video   Reasoning? | [2505.23359](http://arxiv.org/abs/2505.23359) | None | 2025-05-29 |
-| Skywork Open Reasoner 1 Technical Report | [2505.22312](http://arxiv.org/abs/2505.22312) | None | 2025-05-29 |
+| VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video   Reasoning? | [2505.23359](http://arxiv.org/abs/2505.23359) | https://github.com/llyx97/video_reason_bench | 2025-05-29 |
+| Skywork Open Reasoner 1 Technical Report | [2505.22312](http://arxiv.org/abs/2505.22312) | https://github.com/skyworkai/skywork-or1 | 2025-05-29 |
 | Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from   Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking | [2505.23250](http://arxiv.org/abs/2505.23250) | None | 2025-05-29 |
 | Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data   via SQL Queries | [2505.21801](http://arxiv.org/abs/2505.21801) | None | 2025-05-29 |
 | Daunce: Data Attribution through Uncertainty Estimation | [2505.23223](http://arxiv.org/abs/2505.23223) | None | 2025-05-29 |
 | Reducing Tool Hallucination via Reliability Alignment | [2412.04141](http://arxiv.org/abs/2412.04141) | None | 2025-05-29 |
-| VERINA: Benchmarking Verifiable Code Generation | [2505.23135](http://arxiv.org/abs/2505.23135) | None | 2025-05-29 |
+| VERINA: Benchmarking Verifiable Code Generation | [2505.23135](http://arxiv.org/abs/2505.23135) | https://github.com/sunblaze-ucb/verina | 2025-05-29 |
 | PBEBench: A Multi-Step Programming by Examples Reasoning Benchmark   inspired by Historical Linguistics | [2505.23126](http://arxiv.org/abs/2505.23126) | None | 2025-05-29 |
 | Learning to Reason from Feedback at Test-Time | [2502.15771](http://arxiv.org/abs/2502.15771) | https://github.com/lavi-lab/fttt | 2025-05-29 |
 | C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model   Evaluation | [2412.04947](http://arxiv.org/abs/2412.04947) | None | 2025-05-29 |
@@ -287,6 +287,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing | [2501.18160](http://arxiv.org/abs/2501.18160) | None | 2025-05-29 |
 | Evaluating Large Language Models for Code Review | [2505.20206](http://arxiv.org/abs/2505.20206) | None | 2025-05-26 |
 | Large Language Models in Code Co-generation for Safe Autonomous Vehicles | [2505.19658](http://arxiv.org/abs/2505.19658) | None | 2025-05-26 |
 | Knowledge-Guided Prompt Learning for Request Quality Assurance in Public   Code Review | [2410.21673](http://arxiv.org/abs/2410.21673) | https://github.com/wut-idea/kp-pcr | 2025-05-20 |
@@ -304,7 +305,6 @@
 | Accountability in Code Review: The Role of Intrinsic Drivers and the   Impact of LLMs | [2502.15963](http://arxiv.org/abs/2502.15963) | None | 2025-02-21 |
 | Too Noisy To Learn: Enhancing Data Quality for Code Review Comment   Generation | [2502.02757](http://arxiv.org/abs/2502.02757) | None | 2025-02-06 |
 | Harnessing Large Language Models for Curated Code Reviews | [2502.03425](http://arxiv.org/abs/2502.03425) | https://github.com/OussamaSghaier/CuREV | 2025-02-05 |
-| RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing | [2501.18160](http://arxiv.org/abs/2501.18160) | None | 2025-01-31 |
 | DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation | [2412.18291](http://arxiv.org/abs/2412.18291) | None | 2025-01-25 |
 | BitsAI-CR: Automated Code Review via LLM in Practice | [2501.15134](http://arxiv.org/abs/2501.15134) | None | 2025-01-25 |
 | CodEv: An Automated Grading Framework Leveraging Large Language Models   for Consistent and Constructive Feedback | [2501.10421](http://arxiv.org/abs/2501.10421) | None | 2025-01-10 |

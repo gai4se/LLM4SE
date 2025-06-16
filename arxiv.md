@@ -1,4 +1,4 @@
-## Updated on 2025.06.14
+## Updated on 2025.06.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +25,7 @@
 | Can Large Language Models Understand Intermediate Representations in   Compilers? | [2502.06854](http://arxiv.org/abs/2502.06854) | None | 2025-06-05 |
 | EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency   Perspective | [2505.12185](http://arxiv.org/abs/2505.12185) | None | 2025-06-01 |
 | Utilizing Precise and Complete Code Context to Guide LLM in Automatic   False Positive Mitigation | [2411.03079](http://arxiv.org/abs/2411.03079) | None | 2025-05-31 |
-| The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by   LLMs | [2504.11711](http://arxiv.org/abs/2504.11711) | None | 2025-05-31 |
+| The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by   LLMs | [2504.11711](http://arxiv.org/abs/2504.11711) | https://github.com/seclab-ucr/buglens | 2025-05-31 |
 | An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | [2505.20854](http://arxiv.org/abs/2505.20854) | None | 2025-05-27 |
 | DocAgent: A Multi-Agent System for Automated Code Documentation   Generation | [2504.08725](http://arxiv.org/abs/2504.08725) | https://github.com/facebookresearch/docagent | 2025-05-23 |
 | CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic   Perturbations | [2504.14119](http://arxiv.org/abs/2504.14119) | None | 2025-05-23 |
@@ -58,7 +58,7 @@
 | Execution Guided Line-by-Line Code Generation | [2506.10948](http://arxiv.org/abs/2506.10948) | None | 2025-06-12 |
 | Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial   Prompting in Code Generation | [2506.06971](http://arxiv.org/abs/2506.06971) | None | 2025-06-12 |
 | VeriContaminated: Assessing LLM-Driven Verilog Coding for Data   Contamination | [2503.13572](http://arxiv.org/abs/2503.13572) | None | 2025-06-12 |
-| AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for   Code-Generation Based on CoT Length | [2506.10525](http://arxiv.org/abs/2506.10525) | None | 2025-06-12 |
+| AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for   Code-Generation Based on CoT Length | [2506.10525](http://arxiv.org/abs/2506.10525) | https://github.com/cjhcoder7/adaptivellm | 2025-06-12 |
 | PyGen: A Collaborative Human-AI Approach to Python Package Creation | [2411.08932](http://arxiv.org/abs/2411.08932) | https://github.com/GitsSaikat/Pygen | 2025-06-12 |
 | Understanding the Performance and Power of LLM Inferencing on Edge   Accelerators | [2506.09554](http://arxiv.org/abs/2506.09554) | None | 2025-06-12 |
 | MLLM-Based UI2Code Automation Guided by UI Layout Information | [2506.10376](http://arxiv.org/abs/2506.10376) | None | 2025-06-12 |
@@ -164,12 +164,12 @@
 | --- | --- | --- | --- |
 | Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot   Learning for Software Vulnerability Detection | [2506.10104](http://arxiv.org/abs/2506.10104) | None | 2025-06-11 |
 | Code Vulnerability Repair with Large Language Model using Context-Aware   Prompt Tuning | [2409.18395](http://arxiv.org/abs/2409.18395) | None | 2025-06-11 |
-| A First Look at Bugs in LLM Inference Engines | [2506.09713](http://arxiv.org/abs/2506.09713) | None | 2025-06-11 |
+| A First Look at Bugs in LLM Inference Engines | [2506.09713](http://arxiv.org/abs/2506.09713) | https://github.com/infbug/bugs-in-llm-inference-engines | 2025-06-11 |
 | Large Language Models for Multilingual Vulnerability Detection: How Far   Are We? | [2506.07503](http://arxiv.org/abs/2506.07503) | None | 2025-06-09 |
 | Boosting Vulnerability Detection of LLMs via Curriculum Preference   Optimization with Synthetic Reasoning Data | [2506.07390](http://arxiv.org/abs/2506.07390) | None | 2025-06-09 |
 | LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing   LLMs' Vulnerability Reasoning | [2401.16185](http://arxiv.org/abs/2401.16185) | None | 2025-06-07 |
 | ANVIL: Anomaly-based Vulnerability Identification without Labelled   Training Data | [2408.16028](http://arxiv.org/abs/2408.16028) | None | 2025-06-01 |
-| The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by   LLMs | [2504.11711](http://arxiv.org/abs/2504.11711) | None | 2025-05-31 |
+| The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by   LLMs | [2504.11711](http://arxiv.org/abs/2504.11711) | https://github.com/seclab-ucr/buglens | 2025-05-31 |
 | LPASS: Linear Probes as Stepping Stones for vulnerability detection   using compressed LLMs | [2505.24451](http://arxiv.org/abs/2505.24451) | None | 2025-05-30 |
 | VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries | [2505.22010](http://arxiv.org/abs/2505.22010) | None | 2025-05-28 |
 | BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection | [2505.22878](http://arxiv.org/abs/2505.22878) | None | 2025-05-28 |
@@ -199,7 +199,7 @@
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
 | ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer   Space | [2506.10323](http://arxiv.org/abs/2506.10323) | None | 2025-06-12 |
-| SWE-Factory: Your Automated Factory for Issue Resolution Training Data   and Evaluation Benchmarks | [2506.10954](http://arxiv.org/abs/2506.10954) | None | 2025-06-12 |
+| SWE-Factory: Your Automated Factory for Issue Resolution Training Data   and Evaluation Benchmarks | [2506.10954](http://arxiv.org/abs/2506.10954) | https://github.com/deepsoftwareanalytics/swe-factory | 2025-06-12 |
 | Execution Guided Line-by-Line Code Generation | [2506.10948](http://arxiv.org/abs/2506.10948) | None | 2025-06-12 |
 | Robustly Improving LLM Fairness in Realistic Settings via   Interpretability | [2506.10922](http://arxiv.org/abs/2506.10922) | None | 2025-06-12 |
 | Sailing by the Stars: A Survey on Reward Models and Learning Strategies   for Learning from Rewards | [2505.02686](http://arxiv.org/abs/2505.02686) | https://github.com/bobxwu/learning-from-rewards-llm-papers | 2025-06-12 |
@@ -228,7 +228,7 @@
 | AC/DC: LLM-based Audio Comprehension via Dialogue Continuation | [2506.10312](http://arxiv.org/abs/2506.10312) | None | 2025-06-12 |
 | Towards Understanding Bias in Synthetic Data for Evaluation | [2506.10301](http://arxiv.org/abs/2506.10301) | None | 2025-06-12 |
 | "Check My Work?": Measuring Sycophancy in a Simulated Educational   Context | [2506.10297](http://arxiv.org/abs/2506.10297) | None | 2025-06-12 |
-| Boosting Rust Unit Test Coverage through Hybrid Program Analysis and   Large Language Models | [2506.09002](http://arxiv.org/abs/2506.09002) | None | 2025-06-11 |
+| On Mutation-Guided Unit Test Generation | [2506.02954](http://arxiv.org/abs/2506.02954) | None | 2025-06-12 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

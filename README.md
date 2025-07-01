@@ -591,6 +591,10 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2025 | [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/abs/2409.02977) |
+| 2025 | [LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead](https://dl.acm.org/doi/full/10.1145/3712003?casa_token=SXnm0Smspf4AAAAA%3AM3s_rYSkYNS4TyFxfzkRVqNMkYYnISoiNKnJOADUEue0pAV19IJkLgT0-xbyePH3RsevH5hah15O) |
+| 2025 | [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) |
+| 2025 | [Large Language Models for Software Engineering: Survey and Open Problems](https://ieeexplore.ieee.org/document/10449667) |
 | 2024 | [Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code](https://arxiv.org/abs/2311.07989) |
 | 2024 | [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) |
 | 2024 | [Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code](https://arxiv.org/pdf/2403.07506.pdf) |
@@ -685,37 +689,10 @@ The collection is actively updated with the help of an internal literature searc
 
 </details>
 
-<a name="paper-stats"></a>
-
-## Paper Stats
-
-### Venue Stats
-
-| Venue | Count |
-| ----- | ----- |
-| ICSE  | 17    |
-| FSE   | 17     |
-| ASE   | 16     |
-| ISSTA | 4     |
-| TSE   | 3     |
-| TOSEM | 0     |
-| EMSE  | 1     |
-| ICSME | 3     |
-| SANER | 7     |
-| MSR   | 3     |
-
-### Year Stats
-
-| Venue | Count |
-| ----- | ----- |
-| 2023  | 33    |
-| 2022  | 27    |
-| 2021  | 7     |
-| 2020  | 3     |
 
 ## Considered Venues
 
-Powered by an automation tool, mainteners routinary check for new LLM4SE papers that appear in the venues below:
+Powered by an automation tool, maintainers routinary check for new LLM4SE papers that appear in the venues below:
 
 ### Conferences
 
@@ -737,11 +714,11 @@ Powered by an automation tool, mainteners routinary check for new LLM4SE papers 
 
 ### Contribution
 
-The easiest way to contribute is to submit a paper with verified information via GitHub issues. Only url of the paper should be already enough. The mainteiner will add accordingly and keep you updated in the issue conversation.
+The easiest way to contribute is to submit a paper with verified information via GitHub issues. Only url of the paper should be enough. The maintainer will add accordingly and keep you updated in the issue conversation.
 
 Alternatively, you can create a pull request. For that, you need to strictly follow the format.
 
-Any other suggestion to improve this repository is also highly welcomed via GitHub issues.
+Any other suggestions to improve this repository are also highly welcome via GitHub issues.
 
 ### Contributors
 

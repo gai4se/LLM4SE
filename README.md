@@ -591,6 +591,7 @@ The collection is actively updated with the help of an internal literature searc
 
 | Year | Title                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
+| 2025 | [Agents in Software Engineering: Survey, Landscape, and Vision](https://arxiv.org/abs/2409.09030) |
 | 2025 | [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/abs/2409.02977) |
 | 2025 | [LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead](https://dl.acm.org/doi/full/10.1145/3712003?casa_token=SXnm0Smspf4AAAAA%3AM3s_rYSkYNS4TyFxfzkRVqNMkYYnISoiNKnJOADUEue0pAV19IJkLgT0-xbyePH3RsevH5hah15O) |
 | 2025 | [From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future](https://arxiv.org/abs/2408.02479) |

@@ -1,4 +1,4 @@
-## Updated on 2025.07.06
+## Updated on 2025.07.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -105,22 +105,22 @@
 | Empirical Evaluation of Large Language Models in Automated Program   Repair | [2506.13186](http://arxiv.org/abs/2506.13186) | None | 2025-06-16 |
 | The Foundation Cracks: A Comprehensive Study on Bugs and Testing   Practices in LLM Libraries | [2506.12320](http://arxiv.org/abs/2506.12320) | None | 2025-06-14 |
 | Identifying Helpful Context for LLM-based Vulnerability Repair: A   Preliminary Study | [2506.11561](http://arxiv.org/abs/2506.11561) | None | 2025-06-13 |
+| An Empirical Evaluation of Pre-trained Large Language Models for   Repairing Declarative Formal Specifications | [2404.11050](http://arxiv.org/abs/2404.11050) | https://github.com/mohannadcse/alloyspecrepair | 2025-06-12 |
 | Towards Understanding Bugs in Distributed Training and Inference   Frameworks for Large Language Models | [2506.10426](http://arxiv.org/abs/2506.10426) | None | 2025-06-12 |
 | Code Vulnerability Repair with Large Language Model using Context-Aware   Prompt Tuning | [2409.18395](http://arxiv.org/abs/2409.18395) | None | 2025-06-11 |
+| Automated Repair of Ambiguous Natural Language Requirements | [2505.07270](http://arxiv.org/abs/2505.07270) | https://github.com/msv-lab/specfix | 2025-06-07 |
 | CleanVul: Automatic Function-Level Vulnerability Detection in Code   Commits Using LLM Heuristics | [2411.17274](http://arxiv.org/abs/2411.17274) | https://github.com/yikun-li/cleanvul | 2025-06-07 |
+| MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in   Code LLMs for Automated Program Repair | [2408.09568](http://arxiv.org/abs/2408.09568) | None | 2025-06-06 |
 | Which Prompting Technique Should I Use? An Empirical Investigation of   Prompting Techniques for Software Engineering Tasks | [2506.05614](http://arxiv.org/abs/2506.05614) | None | 2025-06-05 |
 | Seed-Coder: Let the Code Model Curate Data for Itself | [2506.03524](http://arxiv.org/abs/2506.03524) | https://github.com/bytedance-seed/seed-coder | 2025-06-05 |
 | LLM Code Customization with Visual Results: A Benchmark on TikZ | [2505.04670](http://arxiv.org/abs/2505.04670) | None | 2025-06-04 |
 | Reuse or Generate? Accelerating Code Editing via Edit-Oriented   Speculative Decoding | [2506.02780](http://arxiv.org/abs/2506.02780) | None | 2025-06-03 |
 | BaxBench: Can LLMs Generate Correct and Secure Backends? | [2502.11844](http://arxiv.org/abs/2502.11844) | None | 2025-05-30 |
+| CADReview: Automatically Reviewing CAD Programs with Error Detection and   Correction | [2505.22304](http://arxiv.org/abs/2505.22304) | None | 2025-05-28 |
+| An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE   Tasks | [2505.20854](http://arxiv.org/abs/2505.20854) | None | 2025-05-27 |
 | Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair | [2505.13103](http://arxiv.org/abs/2505.13103) | None | 2025-05-24 |
 | LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability   Management Framework | [2505.17416](http://arxiv.org/abs/2505.17416) | https://github.com/sosol717/llm-bscvm | 2025-05-23 |
 | APE-Bench I: Towards File-level Automated Proof Engineering of Formal   Math Libraries | [2504.19110](http://arxiv.org/abs/2504.19110) | None | 2025-05-22 |
-| Can You Really Trust Code Copilots? Evaluating Large Language Models   from a Code Security Perspective | [2505.10494](http://arxiv.org/abs/2505.10494) | https://github.com/murraytom/cov-eval | 2025-05-15 |
-| LLM-Based Detection of Tangled Code Changes for Higher-Quality   Method-Level Bug Datasets | [2505.08263](http://arxiv.org/abs/2505.08263) | None | 2025-05-13 |
-| CursorCore: Assist Programming through Aligning Anything | [2410.07002](http://arxiv.org/abs/2410.07002) | https://github.com/TechxGenus/CursorCore | 2025-05-13 |
-| Identification and Optimization of Redundant Code Using Large Language   Models | [2505.04040](http://arxiv.org/abs/2505.04040) | None | 2025-05-07 |
-| SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub   Issue Resolution | [2501.05040](http://arxiv.org/abs/2501.05040) | https://github.com/internlm/swe-fixer | 2025-05-07 |
 
 <h2 id="Automated-Debugging/Bug-Localization"> Automated Debugging/Bug Localization </h2>
 

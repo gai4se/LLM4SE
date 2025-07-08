@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,8 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Challenges & Opportunities with LLM-Assisted Visualization Retargeting | [2507.01436](http://arxiv.org/abs/2507.01436) | None | 2025-07-06 |
+| Rewriting Pre-Training Data Boosts LLM Performance in Math and Code | [2505.02881](http://arxiv.org/abs/2505.02881) | https://github.com/rioyokotalab/swallow-code-math | 2025-07-04 |
 | Large Language Model-Driven Closed-Loop UAV Operation with Semantic   Observations | [2507.01930](http://arxiv.org/abs/2507.01930) | None | 2025-07-03 |
 | Code Digital Twin: Empowering LLMs with Tacit Knowledge for Complex   Software Maintenance | [2503.07967](http://arxiv.org/abs/2503.07967) | None | 2025-07-03 |
 | Efficient Code LLM Training via Distribution-Consistent and   Diversity-Aware Data Selection | [2507.02378](http://arxiv.org/abs/2507.02378) | None | 2025-07-03 |
@@ -65,7 +67,6 @@
 | MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation   and Rigorous Verification | [2410.15154](http://arxiv.org/abs/2410.15154) | https://github.com/mccodeai/mccoder | 2025-07-02 |
 | ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code   Generation | [2501.06598](http://arxiv.org/abs/2501.06598) | https://github.com/thunlp/ChartCoder | 2025-07-02 |
 | LLM-based Realistic Safety-Critical Driving Video Generation | [2507.01264](http://arxiv.org/abs/2507.01264) | None | 2025-07-02 |
-| Challenges & Opportunities with LLM-Assisted Visualization Retargeting | [2507.01436](http://arxiv.org/abs/2507.01436) | None | 2025-07-02 |
 | A Hierarchical and Evolvable Benchmark for Fine-Grained Code Instruction   Following with Multi-Turn Feedback | [2507.00699](http://arxiv.org/abs/2507.00699) | None | 2025-07-01 |
 | Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for   Optimizing the Token Economy of Large Language Models | [2507.00653](http://arxiv.org/abs/2507.00653) | None | 2025-07-01 |
 | Beyond Code: The Multidimensional Impacts of Large Language Models in   Software Development | [2506.22704](http://arxiv.org/abs/2506.22704) | None | 2025-07-01 |
@@ -84,7 +85,6 @@
 | Eye of Judgement: Dissecting the Evaluation of Russian-speaking LLMs   with POLLUX | [2505.24616](http://arxiv.org/abs/2505.24616) | None | 2025-06-27 |
 | LMPVC and Policy Bank: Adaptive voice control for industrial robots with   code generating LLMs and reusable Pythonic policies | [2506.22028](http://arxiv.org/abs/2506.22028) | None | 2025-06-27 |
 | RLSF: Fine-tuning LLMs via Symbolic Feedback | [2405.16661](http://arxiv.org/abs/2405.16661) | None | 2025-06-27 |
-| Exploring the Capabilities of the Frontier Large Language Models for   Nuclear Energy Research | [2506.19863](http://arxiv.org/abs/2506.19863) | None | 2025-06-26 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,6 +198,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Large-scale, Independent and Comprehensive study of the power of LLMs   for test case generation | [2407.00225](http://arxiv.org/abs/2407.00225) | None | 2025-07-05 |
 | MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs | [2507.02851](http://arxiv.org/abs/2507.02851) | None | 2025-07-03 |
 | From Web Search towards Agentic Deep Research: Incentivizing Search with   Reasoning Agents | [2506.18959](http://arxiv.org/abs/2506.18959) | None | 2025-07-03 |
 | Moral Responsibility or Obedience: What Do We Want from AI? | [2507.02788](http://arxiv.org/abs/2507.02788) | None | 2025-07-03 |
@@ -228,7 +229,6 @@
 | Evaluating Large Language Models for Multimodal Simulated Ophthalmic   Decision-Making in Diabetic Retinopathy and Glaucoma Screening | [2507.01278](http://arxiv.org/abs/2507.01278) | None | 2025-07-02 |
 | LLM-based Realistic Safety-Critical Driving Video Generation | [2507.01264](http://arxiv.org/abs/2507.01264) | None | 2025-07-02 |
 | Defensive Adversarial CAPTCHA: A Semantics-Driven Framework for Natural   Adversarial Example Generation | [2506.10685](http://arxiv.org/abs/2506.10685) | None | 2025-07-01 |
-| Retrieval Augmented Generation Based LLM Evaluation For Protocol State   Machine Inference With Chain-of-Thought Reasoning | [2502.15727](http://arxiv.org/abs/2502.15727) | None | 2025-06-27 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 

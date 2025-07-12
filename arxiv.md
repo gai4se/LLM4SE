@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,6 +54,7 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Automating MD simulations for Proteins using Large language Models:   NAMD-Agent | [2507.07887](http://arxiv.org/abs/2507.07887) | None | 2025-07-10 |
 | Rethinking Verification for LLM Code Generation: From Generation to   Testing | [2507.06920](http://arxiv.org/abs/2507.06920) | None | 2025-07-10 |
 | Are They All Good? Evaluating the Quality of CoTs in LLM-based Code   Generation | [2507.06980](http://arxiv.org/abs/2507.06980) | None | 2025-07-09 |
 | Text to model via SysML: Automated generation of dynamical system   computational models from unstructured natural language text via enhanced   System Modeling Language diagrams | [2507.06803](http://arxiv.org/abs/2507.06803) | None | 2025-07-09 |
@@ -84,7 +85,6 @@
 | Large Language Model-Driven Closed-Loop UAV Operation with Semantic   Observations | [2507.01930](http://arxiv.org/abs/2507.01930) | None | 2025-07-03 |
 | Code Digital Twin: Empowering LLMs with Tacit Knowledge for Complex   Software Maintenance | [2503.07967](http://arxiv.org/abs/2503.07967) | None | 2025-07-03 |
 | Efficient Code LLM Training via Distribution-Consistent and   Diversity-Aware Data Selection | [2507.02378](http://arxiv.org/abs/2507.02378) | None | 2025-07-03 |
-| CORE: Benchmarking LLMs Code Reasoning Capabilities through Static   Analysis Tasks | [2507.05269](http://arxiv.org/abs/2507.05269) | None | 2025-07-03 |
 
 <h2 id="Program-Repair"> Program Repair </h2>
 
@@ -198,8 +198,23 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
-| Rethinking Verification for LLM Code Generation: From Generation to   Testing | [2507.06920](http://arxiv.org/abs/2507.06920) | None | 2025-07-10 |
+| Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs | [2507.07996](http://arxiv.org/abs/2507.07996) | None | 2025-07-10 |
+| Defending Against Prompt Injection With a Few DefensiveTokens | [2507.07974](http://arxiv.org/abs/2507.07974) | None | 2025-07-10 |
+| Truth-value judgment in language models: 'truth directions' are context   sensitive | [2404.18865](http://arxiv.org/abs/2404.18865) | None | 2025-07-10 |
 | The Dark Side of LLMs: Agent-based Attacks for Complete Computer   Takeover | [2507.06850](http://arxiv.org/abs/2507.06850) | None | 2025-07-10 |
+| Measuring AI Alignment with Human Flourishing | [2507.07787](http://arxiv.org/abs/2507.07787) | None | 2025-07-10 |
+| Structured Prompts, Better Outcomes? Exploring the Effects of a   Structured Interface with ChatGPT in a Graduate Robotics Course | [2507.07767](http://arxiv.org/abs/2507.07767) | None | 2025-07-10 |
+| KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM   question-answering capabilities | [2507.07695](http://arxiv.org/abs/2507.07695) | None | 2025-07-10 |
+| PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured   Representations | [2507.07644](http://arxiv.org/abs/2507.07644) | None | 2025-07-10 |
+| SpatialViz-Bench: Automatically Generated Spatial Visualization   Reasoning Tasks for MLLMs | [2507.07610](http://arxiv.org/abs/2507.07610) | None | 2025-07-10 |
+| Rethinking Verification for LLM Code Generation: From Generation to   Testing | [2507.06920](http://arxiv.org/abs/2507.06920) | None | 2025-07-10 |
+| Bradley-Terry and Multi-Objective Reward Modeling Are Complementary | [2507.07375](http://arxiv.org/abs/2507.07375) | None | 2025-07-10 |
+| A Language-Driven Framework for Improving Personalized Recommendations:   Merging LLMs with Traditional Algorithms | [2507.07251](http://arxiv.org/abs/2507.07251) | None | 2025-07-09 |
+| Reducing Reasoning Costs: The Path of Optimization for Chain of Thought   via Sparse Attention Mechanism | [2411.09111](http://arxiv.org/abs/2411.09111) | https://github.com/brucewang123456789/GeniusTrail | 2025-07-09 |
+| Measuring how changes in code readability attributes affect code quality   evaluation by Large Language Models | [2507.05289](http://arxiv.org/abs/2507.05289) | None | 2025-07-09 |
+| HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for   High-Level Synthesis | [2504.14641](http://arxiv.org/abs/2504.14641) | None | 2025-07-09 |
+| Prompt Perturbations Reveal Human-Like Biases in LLM Survey Responses | [2507.07188](http://arxiv.org/abs/2507.07188) | None | 2025-07-09 |
+| Planted in Pretraining, Swayed by Finetuning: A Case Study on the   Origins of Cognitive Biases in LLMs | [2507.07186](http://arxiv.org/abs/2507.07186) | None | 2025-07-09 |
 | Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning   in Multimodal LLMs | [2507.06999](http://arxiv.org/abs/2507.06999) | None | 2025-07-09 |
 | NoLiMa: Long-Context Evaluation Beyond Literal Matching | [2502.05167](http://arxiv.org/abs/2502.05167) | https://github.com/adobe-research/NoLiMa | 2025-07-09 |
 | Adaptive Termination for Multi-round Parallel Reasoning: An Universal   Semantic Entropy-Guided Framework | [2507.06829](http://arxiv.org/abs/2507.06829) | None | 2025-07-09 |
@@ -213,21 +228,6 @@
 | AI-Driven Scholarly Peer Review via Persistent Workflow Prompting,   Meta-Prompting, and Meta-Reasoning | [2505.03332](http://arxiv.org/abs/2505.03332) | None | 2025-07-08 |
 | Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review | [2507.06185](http://arxiv.org/abs/2507.06185) | None | 2025-07-08 |
 | LAKEGEN: A LLM-based Tabular Corpus Generator for Evaluating Dataset   Discovery in Data Lakes | [2507.04687](http://arxiv.org/abs/2507.04687) | None | 2025-07-08 |
-| Coding Triangle: How Does Large Language Model Understand Code? | [2507.06138](http://arxiv.org/abs/2507.06138) | None | 2025-07-08 |
-| Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in   LLMs | [2507.06056](http://arxiv.org/abs/2507.06056) | None | 2025-07-08 |
-| Multi-Agent Debate Strategies to Enhance Requirements Engineering with   Large Language Models | [2507.05981](http://arxiv.org/abs/2507.05981) | None | 2025-07-08 |
-| HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation   Statistics | [2505.05602](http://arxiv.org/abs/2505.05602) | https://github.com/ukgovernmentbeis/hibayes | 2025-07-08 |
-| Adsorb-Agent: Autonomous Identification of Stable Adsorption   Configurations via Large Language Model Agent | [2410.16658](http://arxiv.org/abs/2410.16658) | https://github.com/hoon-ock/catalystaigent | 2025-07-08 |
-| IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for   Multi-shot Scenes | [2506.21116](http://arxiv.org/abs/2506.21116) | None | 2025-07-08 |
-| Prompt Migration: Stabilizing GenAI Applications with Evolving Large   Language Models | [2507.05573](http://arxiv.org/abs/2507.05573) | None | 2025-07-08 |
-| Search-based Selection of Metamorphic Relations for Optimized Robustness   Testing of Large Language Models | [2507.05565](http://arxiv.org/abs/2507.05565) | None | 2025-07-08 |
-| Enhancing Test-Time Scaling of Large Language Models with Hierarchical   Retrieval-Augmented MCTS | [2507.05557](http://arxiv.org/abs/2507.05557) | None | 2025-07-08 |
-| PhoniTale: Phonologically Grounded Mnemonic Generation for Typologically   Distant Language Pairs | [2507.05444](http://arxiv.org/abs/2507.05444) | None | 2025-07-07 |
-| Learn Globally, Speak Locally: Bridging the Gaps in Multilingual   Reasoning | [2507.05418](http://arxiv.org/abs/2507.05418) | None | 2025-07-07 |
-| PBE Meets LLM: When Few Examples Aren't Few-Shot Enough | [2507.05403](http://arxiv.org/abs/2507.05403) | None | 2025-07-07 |
-| Evaluation of OpenAI o1: Opportunities and Challenges of AGI | [2409.18486](http://arxiv.org/abs/2409.18486) | None | 2025-07-07 |
-| On the Bias of Next-Token Predictors Toward Systematically Inefficient   Reasoning: A Shortest-Path Case Study | [2507.05362](http://arxiv.org/abs/2507.05362) | None | 2025-07-07 |
-| Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | [2507.05257](http://arxiv.org/abs/2507.05257) | None | 2025-07-07 |
 | FuzzFeed: An Automatic Approach to Weakest Precondition Generation using   LLMs and Fuzzing | [2507.05272](http://arxiv.org/abs/2507.05272) | None | 2025-07-03 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>

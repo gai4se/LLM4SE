@@ -1,4 +1,4 @@
-## Updated on 2025.07.12
+## Updated on 2025.07.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -302,24 +302,4 @@
 | Knowledge-Guided Prompt Learning for Request Quality Assurance in Public   Code Review | [2410.21673](http://arxiv.org/abs/2410.21673) | https://github.com/wut-idea/kp-pcr | 2025-05-20 |
 | Advancing Software Quality: A Standards-Focused Review of LLM-Based   Assurance Techniques | [2505.13766](http://arxiv.org/abs/2505.13766) | None | 2025-05-19 |
 | Large Language Models as Robust Data Generators in Software Analytics:   Are We There Yet? | [2411.10565](http://arxiv.org/abs/2411.10565) | None | 2025-05-05 |
-| Patched RTC: evaluating LLMs for diverse software development tasks | [2407.16557](http://arxiv.org/abs/2407.16557) | https://github.com/codelion/optillm/blob/main/optillm/rto.py | 2025-04-29 |
-| CoCo-Bench: A Comprehensive Code Benchmark For Multi-task Large Language   Model Evaluation | [2504.20673](http://arxiv.org/abs/2504.20673) | None | 2025-04-29 |
-| Improving Automated Secure Code Reviews: A Synthetic Dataset for Code   Vulnerability Flaws | [2504.16310](http://arxiv.org/abs/2504.16310) | None | 2025-04-22 |
-| DR.FIX: Automatically Fixing Data Races at Industry Scale | [2504.15637](http://arxiv.org/abs/2504.15637) | https://github.com/uber-research/drfix | 2025-04-22 |
-| Psycholinguistic Analyses in Software Engineering Text: A Systematic   Literature Review | [2503.05992](http://arxiv.org/abs/2503.05992) | None | 2025-04-17 |
-| Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests | [2503.17302](http://arxiv.org/abs/2503.17302) | None | 2025-03-21 |
-| Measuring Determinism in Large Language Models for Software Code Review | [2502.20747](http://arxiv.org/abs/2502.20747) | None | 2025-02-28 |
-| MdEval: Massively Multilingual Code Debugging | [2411.02310](http://arxiv.org/abs/2411.02310) | None | 2025-02-24 |
-| Accountability in Code Review: The Role of Intrinsic Drivers and the   Impact of LLMs | [2502.15963](http://arxiv.org/abs/2502.15963) | None | 2025-02-21 |
-| Too Noisy To Learn: Enhancing Data Quality for Code Review Comment   Generation | [2502.02757](http://arxiv.org/abs/2502.02757) | None | 2025-02-06 |
-| Harnessing Large Language Models for Curated Code Reviews | [2502.03425](http://arxiv.org/abs/2502.03425) | https://github.com/OussamaSghaier/CuREV | 2025-02-05 |
-| DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation | [2412.18291](http://arxiv.org/abs/2412.18291) | None | 2025-01-25 |
-| BitsAI-CR: Automated Code Review via LLM in Practice | [2501.15134](http://arxiv.org/abs/2501.15134) | None | 2025-01-25 |
-| CodEv: An Automated Grading Framework Leveraging Large Language Models   for Consistent and Constructive Feedback | [2501.10421](http://arxiv.org/abs/2501.10421) | None | 2025-01-10 |
-| Leveraging Large Language Models to Detect npm Malicious Packages | [2403.12196](http://arxiv.org/abs/2403.12196) | None | 2025-01-06 |
-| Distilling Desired Comments for Enhanced Code Review with Large Language   Models | [2412.20340](http://arxiv.org/abs/2412.20340) | None | 2025-01-05 |
-| Human and Machine: How Software Engineers Perceive and Engage with   AI-Assisted Code Reviews Compared to Their Peers | [2501.02092](http://arxiv.org/abs/2501.02092) | None | 2025-01-03 |
-| Automated Code Review In Practice | [2412.18531](http://arxiv.org/abs/2412.18531) | None | 2024-12-28 |
-| The Current Challenges of Software Engineering in the Era of Large   Language Models | [2412.14554](http://arxiv.org/abs/2412.14554) | None | 2024-12-27 |
-| Code Review Automation Via Multi-task Federated LLM -- An Empirical   Study | [2412.15676](http://arxiv.org/abs/2412.15676) | None | 2024-12-20 |
 

@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -198,11 +198,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| Truth-value judgment in language models: 'truth directions' are context   sensitive | [2404.18865](http://arxiv.org/abs/2404.18865) | None | 2025-07-11 |
+| The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover | [2507.06850](http://arxiv.org/abs/2507.06850) | None | 2025-07-11 |
+| Measuring AI Alignment with Human Flourishing | [2507.07787](http://arxiv.org/abs/2507.07787) | None | 2025-07-11 |
 | Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs | [2507.07996](http://arxiv.org/abs/2507.07996) | None | 2025-07-10 |
 | Defending Against Prompt Injection With a Few DefensiveTokens | [2507.07974](http://arxiv.org/abs/2507.07974) | None | 2025-07-10 |
-| Truth-value judgment in language models: 'truth directions' are context   sensitive | [2404.18865](http://arxiv.org/abs/2404.18865) | None | 2025-07-10 |
-| The Dark Side of LLMs: Agent-based Attacks for Complete Computer   Takeover | [2507.06850](http://arxiv.org/abs/2507.06850) | None | 2025-07-10 |
-| Measuring AI Alignment with Human Flourishing | [2507.07787](http://arxiv.org/abs/2507.07787) | None | 2025-07-10 |
 | Structured Prompts, Better Outcomes? Exploring the Effects of a   Structured Interface with ChatGPT in a Graduate Robotics Course | [2507.07767](http://arxiv.org/abs/2507.07767) | None | 2025-07-10 |
 | KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM   question-answering capabilities | [2507.07695](http://arxiv.org/abs/2507.07695) | None | 2025-07-10 |
 | PlanQA: A Benchmark for Spatial Reasoning in LLMs using Structured   Representations | [2507.07644](http://arxiv.org/abs/2507.07644) | None | 2025-07-10 |

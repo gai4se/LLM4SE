@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,11 +54,11 @@
 
 | Title | ArXiv Link | GitHub Link | Last Update |
 | --- | --- | --- | --- |
+| ParaStudent: Generating and Evaluating Realistic Student Code by   Teaching LLMs to Struggle | [2507.12674](http://arxiv.org/abs/2507.12674) | None | 2025-07-18 |
 | CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual,   Multi-Generator and Multi-Domain Settings | [2503.13733](http://arxiv.org/abs/2503.13733) | None | 2025-07-17 |
 | Detecting LLM-generated Code with Subtle Modification by Adversarial   Training | [2507.13123](http://arxiv.org/abs/2507.13123) | None | 2025-07-17 |
 | ReCode: Updating Code API Knowledge with Reinforcement Learning | [2506.20495](http://arxiv.org/abs/2506.20495) | None | 2025-07-17 |
 | CodeAssistBench (CAB): Dataset & Benchmarking for Multi-turn Chat-Based   Code Assistance | [2507.10646](http://arxiv.org/abs/2507.10646) | None | 2025-07-17 |
-| ParaStudent: Generating and Evaluating Realistic Student Code by   Teaching LLMs to Struggle | [2507.12674](http://arxiv.org/abs/2507.12674) | None | 2025-07-16 |
 | SWE-Perf: Can Language Models Optimize Code Performance on Real-World   Repositories? | [2507.12415](http://arxiv.org/abs/2507.12415) | None | 2025-07-16 |
 | GitChameleon: Evaluating AI Code Generation Against Python Library   Version Incompatibilities | [2507.12367](http://arxiv.org/abs/2507.12367) | None | 2025-07-16 |
 | Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and   Summarization | [2507.12308](http://arxiv.org/abs/2507.12308) | None | 2025-07-16 |
@@ -223,12 +223,12 @@
 | Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling   Law in Large Language Model Pretraining | [2503.04715](http://arxiv.org/abs/2503.04715) | None | 2025-07-16 |
 | Simplifications are Absolutists: How Simplified Language Reduces Word   Sense Awareness in LLM-Generated Definitions | [2507.11981](http://arxiv.org/abs/2507.11981) | None | 2025-07-16 |
 | HueManity: Probing Fine-Grained Visual Perception in MLLMs | [2506.03194](http://arxiv.org/abs/2506.03194) | None | 2025-07-16 |
-| DRISHTIKON: Visual Grounding at Multiple Granularities in Documents | [2506.21316](http://arxiv.org/abs/2506.21316) | None | 2025-07-16 |
-| Towards Geo-Culturally Grounded LLM Generations | [2502.13497](http://arxiv.org/abs/2502.13497) | None | 2025-07-16 |
-| Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale   Data Restoration | [2505.04457](http://arxiv.org/abs/2505.04457) | https://github.com/yukara-ikemiya/wavefit-pytorch | 2025-07-16 |
 | ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer   Space | [2506.10323](http://arxiv.org/abs/2506.10323) | None | 2025-07-15 |
-| ScaleRTL: Scaling LLMs with Reasoning Data and Test-Time Compute for   Accurate RTL Code Generation | [2506.05566](http://arxiv.org/abs/2506.05566) | None | 2025-07-15 |
-| You Can REST Now: Automated REST API Documentation and Testing via   LLM-Assisted Request Mutations | [2402.05102](http://arxiv.org/abs/2402.05102) | None | 2025-07-15 |
+| Advancing Code Coverage: Incorporating Program Analysis with Large   Language Models | [2404.04966](http://arxiv.org/abs/2404.04966) | None | 2025-07-15 |
+| CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks | [2507.10535](http://arxiv.org/abs/2507.10535) | None | 2025-07-14 |
+| Leveraging LLMs for Semantic Conflict Detection via Unit Test Generation | [2507.06762](http://arxiv.org/abs/2507.06762) | None | 2025-07-09 |
+| FuzzFeed: An Automatic Approach to Weakest Precondition Generation using   LLMs and Fuzzing | [2507.05272](http://arxiv.org/abs/2507.05272) | None | 2025-07-03 |
+| Medical Data Pecking: A Context-Aware Approach for Automated Quality   Evaluation of Structured Medical Data | [2507.02628](http://arxiv.org/abs/2507.02628) | None | 2025-07-03 |
 
 <h2 id="Clone-Detection"> Clone Detection </h2>
 
